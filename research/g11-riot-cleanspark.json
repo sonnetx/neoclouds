@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "riot-platforms",
+    "name": "Riot Platforms",
+    "aka": "Riot Blockchain (2017 to 2022)",
+    "category": "developer",
+    "region": "North America",
+    "hq": "Castle Rock, Colorado, US",
+    "founded": "2000",
+    "ownership": "Public (Nasdaq: RIOT)",
+    "website": "https://www.riotplatforms.com",
+    "accelerators": [],
+    "products": [
+      "Data center development",
+      "Colocation"
+    ],
+    "snippet": "Texas Bitcoin miner that now builds and leases AI data centers. It has signed 241 MW at its Rockdale campus with AMD and an unnamed frontier AI lab, worth about $9.8B in contracted revenue.",
+    "facts": [
+      {
+        "label": "Contracted IT capacity",
+        "value": "241 MW (August 2026)"
+      },
+      {
+        "label": "Contracted revenue",
+        "value": "About $9.8B"
+      },
+      {
+        "label": "Frontier AI lab lease",
+        "value": "191 MW, 20 years, about $9.1B (August 2026)"
+      },
+      {
+        "label": "AMD lease",
+        "value": "50 MW at Rockdale, first 25 MW delivered May 2026"
+      },
+      {
+        "label": "Approved power",
+        "value": "About 2.0 GW in Texas and Kentucky"
+      },
+      {
+        "label": "Q2 2026",
+        "value": "Revenue $174.2M, net loss $237.2M"
+      }
+    ],
+    "customers": [
+      "AMD",
+      "Anthropic (reported by Bloomberg)"
+    ],
+    "origin": "Riot was incorporated in Colorado in July 2000 as AspenBio and later traded as Venaxis and then Bioptix. It renamed itself Riot Blockchain in October 2017 and turned to blockchain and Bitcoin mining. In 2021 it bought Whinstone US and its Rockdale, Texas site, which Riot describes as the largest Bitcoin mining facility in North America by developed capacity. It began building a second Texas campus at Corsicana in 2022, took the name Riot Platforms in December 2022, bought Block Mining in Kentucky in 2024 and started marketing its power for data center leases in 2025.",
+    "today": "Riot has signed 241 MW of data center leases at its Rockdale, Texas campus, which it puts at about $9.8B of long-term contracted revenue. AMD signed the first lease in January 2026, a 10-year deal for 25 MW worth $311M over its initial term. AMD later expanded the lease to 50 MW, and Riot delivered the first 25 MW in May 2026, with 10 MW more due in November 2026 and the last 15 MW in May 2027. In August 2026 Riot announced a 20-year lease with an unnamed frontier AI lab for 191 MW of critical IT capacity, worth about $9.1B over the base term and up to $16.1B with two five-year extensions. Riot has not named the tenant, and Bloomberg reported that it is Anthropic. The lab takes 96 MW in December 2027 and the full 191 MW by June 2028, and a $573M Morgan Stanley facility funds initial development costs. In Q2 2026 Riot reported revenue of $174.2M, with $113.7M from mining and $23.2M from data centers, and a net loss of $237.2M.",
+    "platform": "Riot builds powered data center shells for tenants and does not run its own GPU cloud. Rockdale has a 700 MW grid interconnection on a 200-acre parcel that Riot bought outright in January 2026 for $96.0M. Corsicana in Navarro County has 400 MW of developed mining capacity, and Riot expects about 1 GW there when the campus is complete. Riot also mines Bitcoin in Texas and at two Kentucky sites, with 44.4 EH/s of deployed hash rate in Q2 2026.",
+    "outlook": "Riot has a non-binding letter of intent with a single tenant for the whole Corsicana campus, which has 1 GW of approved power and room for about 756 MW of critical IT. CEO Jason Les said a full-campus lease could bring more than $1B a year in rent once fully deployed, and he cautioned that the deal is a multi-year development. The Morgan Stanley loan, which funds long-lead equipment for the Rockdale lab build, matures on December 31, 2026, so long-term project financing is the item to watch. Riot held $548.9M of cash and 11,380 bitcoin at the end of June 2026, and it repaid and ended its Coinbase credit facility in September.",
+    "sources": [
+      {
+        "title": "SEC: Riot Blockchain Form 10-K for 2020",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000107997321000221/riot10k1220.htm",
+        "date": "2021-03"
+      },
+      {
+        "title": "SEC: Riot Platforms Form 10-K for 2024",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000155837025001888/riot-20241231x10k.htm",
+        "date": "2025-02-28"
+      },
+      {
+        "title": "SEC: Riot Announces Fee Simple Acquisition of Land and First Data Center Lease with AMD at the Rockdale Site (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "SEC: Riot Platforms Form 10-K for 2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm",
+        "date": "2026-03-02"
+      },
+      {
+        "title": "SEC: Riot Platforms Reports First Quarter 2026 Financial Results and Strategic Highlights (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926052943/riot-20260430xex99d1.htm",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Riot Platforms: Riot Platforms Reports Second Quarter 2026 Financial Results and Strategic Highlights",
+        "url": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "SEC: Riot Platforms Q2 2026 investor presentation (Form 8-K exhibit 99.2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926093406/riot-20260810xex99d2.htm",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "SEC: Riot Platforms Form 10-Q for the quarter ended June 30, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926093448/riot-20260630x10q.htm",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Yahoo Finance (Quartz): Anthropic signs $9.1 billion data center deal with Riot Platforms",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-9-1-billion-113731732.html",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Yahoo Finance (Benzinga): Riot Says Massive AI Data Center Deal Could Top $1 Billion In Annual Rent",
+        "url": "https://finance.yahoo.com/technology/ai/articles/riot-says-massive-ai-data-103058842.html",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "SEC: Riot Platforms Form 8-K on the $573.0 million Morgan Stanley delayed-draw term loan",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926097330/riot-20260810x8k.htm",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "SEC: Riot Platforms Form 8-K on termination of the Coinbase Credit agreement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926111003/riot-20260921x8k.htm",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Riot Platforms: Corsicana Data Center",
+        "url": "https://www.riotplatforms.com/locations/corsicana/",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "All seed facts check out against Riot's Q2 2026 release of August 10, 2026, which gives 241 MW contracted, about $9.8B of contracted revenue and about $9.1B for the lab lease over its base term. The AMD lease started at 25 MW in January 2026 and reached 50 MW when AMD exercised an option in April 2026. Riot's filings never name the lab. Bloomberg reported it as Anthropic, which I read through the Quartz piece on Yahoo Finance, so I listed it as Anthropic (reported by Bloomberg), the same form the Volta profile uses, which background.js maps to the Anthropic node. DCD reported the same tenant, but its page returned 403, so I did not cite it. Riot gives $16.1B with extensions, while DCD and US Data Center Projects say $16.5B, and I used Riot's figure. Corsicana has 1 GW of approved power, and the Q2 deck says the full site is under a non-binding LOI with a single tenant. The same deck labels Corsicana 1.3 GW+ on a timeline without explaining the figure, so I left that number out. The 756 MW of critical IT and the $1B of annual rent come from the earnings call as reported by Benzinga and BigGo, not from a filing. The Kentucky figure is about 192 MW of developed capacity in the June 2026 10-Q, against 137 MW in the 2025 10-K. The founding year 2000 is the incorporation date of AspenBio, the shell that became Riot in 2017. A $400M Corsicana building permit (Project Ditto) appeared only in search snippets from sites I could not read, so I left it out. I found no Q3 2026 production update as of October 14, 2026."
+  },
+  {
+    "slug": "cleanspark",
+    "name": "CleanSpark",
+    "aka": "Stratean (until 2016)",
+    "category": "developer",
+    "region": "North America",
+    "hq": "Henderson, Nevada, US",
+    "founded": "1987",
+    "ownership": "Public (Nasdaq: CLSK)",
+    "website": "https://www.cleanspark.com",
+    "accelerators": [],
+    "products": [
+      "Data center development",
+      "Colocation"
+    ],
+    "snippet": "Nevada Bitcoin miner turning its power sites into AI data centers. A Meta subsidiary signed its first lease in July 2026, for 175 MW at Sandersville, Georgia over 20 years, worth about $6.6B.",
+    "facts": [
+      {
+        "label": "Sandersville lease",
+        "value": "175 MW IT, 20 years, about $6.6B (July 2026)"
+      },
+      {
+        "label": "Value with extensions",
+        "value": "Up to $11.6B"
+      },
+      {
+        "label": "Project notes",
+        "value": "$2.276B at 7.875%, due 2031 (September 2026)"
+      },
+      {
+        "label": "Texas letter of intent",
+        "value": "Up to 885 MW on 718 acres"
+      },
+      {
+        "label": "Controlled power",
+        "value": "More than 1.8 GW"
+      },
+      {
+        "label": "Operational hashrate",
+        "value": "50 EH/s (September 2026)"
+      }
+    ],
+    "customers": [
+      "Meta"
+    ],
+    "origin": "CleanSpark traces back to a Nevada company incorporated in 1987, which took the CleanSpark name in November 2016 and ran an energy business. It began mining Bitcoin in December 2020 and in 2022 classified its energy operations as discontinued to focus on mining. It expanded through site purchases, including the acquisition of GRIID Infrastructure in Tennessee in October 2024, and held 1,027 MW of contracted power across Georgia, Tennessee, Mississippi and Wyoming by September 2025. Chairman Matt Schultz became CEO in August 2025 after Zach Bradford resigned, and the company then began buying land and power in Texas for AI data centers.",
+    "today": "CleanSpark signed its first AI lease on July 10, 2026, a 20-year triple-net lease for 175 MW of critical IT load at its Sandersville, Georgia campus. The lease is worth about $6.6B over the base term and up to $11.6B with two five-year extensions. CleanSpark described the tenant only as a high-investment-grade global technology company until a September 2026 investor presentation filed with the SEC named it as Anviran, LLC, a Meta subsidiary, with Meta guaranteeing rent and operating expenses. The same presentation gives a 3.0% annual rent escalator. A CleanSpark subsidiary closed $2.276B of 7.875% senior secured notes due 2031 on September 25, 2026, and Schultz said the notes fund the project through completion. The same tenant signed a letter of intent and exclusivity over CleanSpark's Texas portfolio of 718 acres with up to 885 MW of secured and planned power. In the quarter to June 30, 2026, Bitcoin mining provided all $138.0M of revenue, and CleanSpark reported a net loss of $239.8M.",
+    "platform": "CleanSpark controls more than 1.8 GW of power, land and data centers across the US and leases finished data halls to tenants rather than running GPUs itself. Its mining sites are in Georgia, Tennessee, Mississippi and Wyoming, and its 199,745 miners reached 50 EH/s of operational hashrate in September 2026 while drawing up to 808 MW. In Texas it bought about 271 acres in Austin County with 285 MW of power agreements in October 2025. In January 2026 it agreed to buy up to 447 acres in Brazoria County near Houston, with 300 MW of initial load and room for 600 MW.",
+    "outlook": "CleanSpark targets rent on the first Sandersville phase from Q4 2027 and puts the build at about $11.9M per MW of IT. The lease ties rent to financing, construction and delivery milestones, and missing them can lead to rent abatement or termination. The Texas letter of intent is not yet a lease, and CleanSpark has published no terms or timeline for one. CleanSpark ended its monthly mining reports after September 2026 and now reports quarterly, and its hashrate averaged 36.0 EH/s that month against 50 EH/s of operational capacity.",
+    "sources": [
+      {
+        "title": "SEC: CleanSpark Form 10-K for the fiscal year ended September 30, 2024",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000095017024132565/clsk-20240930.htm",
+        "date": "2024-12-03"
+      },
+      {
+        "title": "SEC: CleanSpark, Inc. Announces Proposed Private Offering of $1 Billion of Convertible Notes (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312525274179/clsk-ex99_1.htm",
+        "date": "2025-11-10"
+      },
+      {
+        "title": "SEC: CleanSpark Form 10-K for the fiscal year ended September 30, 2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+        "date": "2025-11-25"
+      },
+      {
+        "title": "CleanSpark: CleanSpark Expands Texas Footprint with Major Power Acquisition Near Houston to Support Scaled AI and HPC Development",
+        "url": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Expands-Texas-Footprint-with-Major-Power-Acquisition-Near-Houston-to-Support-Scaled-AI-and-HPC-Development/default.aspx",
+        "date": "2026-01-14"
+      },
+      {
+        "title": "SEC: CleanSpark Form 8-K on the Sandersville data center lease",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000827876/000119312526302448/clsk-20260710.htm",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "CleanSpark: CleanSpark Secures Twenty-Year Lease with High-Investment Grade Global Technology Company for Data Center in Sandersville, Georgia",
+        "url": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "SEC: CleanSpark Reports Third Fiscal Quarter 2026 Results (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526337999/clsk-ex99_1.htm",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "SEC: CleanSpark Sandersville investor presentation (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "SEC: CleanSpark, Inc. Announces Proposed Offering of $2.227 Billion of Senior Secured Notes (Form 8-K exhibit 99.2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_2.htm",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Yahoo Finance: CleanSpark reveals Meta as tenant behind $6.6B Sandersville lease",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cleanspark-reveals-meta-tenant-behind-233508601.html",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "SEC: CleanSpark, Inc. Announces Closing of $2.276 Billion of Senior Secured Notes (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526402944/clsk-ex99_1.htm",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "PR Newswire: CleanSpark Releases September 2026 Operational Update",
+        "url": "https://www.prnewswire.com/news-releases/cleanspark-releases-september-2026-operational-update-302903249.html",
+        "date": "2026-10-09"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "The July 14, 2026 8-K and press release confirm the seed facts. They give a 175 MW, 20-year lease signed July 10, 2026, about $6.6B over the base term, and an LOI with exclusivity over 718 acres and up to 885 MW in Texas. The Bloomberg article from the seed returned 403, so the $6.6B rests on CleanSpark's own release. The lease 8-K does not name the tenant. The September 17, 2026 investor presentation, which CleanSpark furnished with an 8-K, names the tenant as Anviran, LLC, a wholly owned Meta subsidiary, with Meta as guarantor. Yahoo Finance reported the same, so I listed Meta in customers. CleanSpark's July release says the Texas LOI was signed by the same tenant, which makes it a Meta LOI as well, but no filing names Meta for Texas. The notes were proposed at $2.227B and closed at $2.276B. CleanSpark estimated the build at $10M to $12M per MW in July and at about $11.9M per IT MW in the September deck, and I used the later figure. Yahoo Finance's reading of the deck also gives rent from November 2027, full build-out in March 2028 and pending Texas power approvals. One secondary site says mining at Sandersville stops in fiscal 2028. I could not confirm these items in a primary source and left them out. The founding year 1987 is the incorporation year of the Nevada shell, which EDGAR lists as SmartData Corp until 2014 and Stratean Inc. until 2016. CleanSpark's fiscal year ends September 30, so its quarter to June 30, 2026 is fiscal Q3. The mining site states come from the 10-K for fiscal 2025 and may have changed since."
+  }
+]

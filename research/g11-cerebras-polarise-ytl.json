@@ -1,0 +1,411 @@
+[
+  {
+    "slug": "cerebras",
+    "name": "Cerebras Systems",
+    "aka": "Cerebras",
+    "category": "platform",
+    "region": "North America",
+    "hq": "Sunnyvale, CA, US",
+    "founded": "2015",
+    "ownership": "Public (Nasdaq: CBRS)",
+    "website": "https://www.cerebras.ai",
+    "accelerators": [
+      "Cerebras CS-4 (WSE-3 Turbo)",
+      "Cerebras CS-3 (WSE-3)"
+    ],
+    "products": [
+      "Inference API",
+      "Training and fine-tuning",
+      "Own silicon"
+    ],
+    "snippet": "Sunnyvale chipmaker that sells fast AI inference on its own wafer-scale systems. It listed on Nasdaq in May 2026 and holds a 750 MW inference contract with OpenAI and a $25.4B backlog.",
+    "facts": [
+      {
+        "label": "IPO",
+        "value": "$5.5B at $185 a share on Nasdaq (May 2026)"
+      },
+      {
+        "label": "Q2 2026 cloud revenue",
+        "value": "$127.7M core, up 287%"
+      },
+      {
+        "label": "Backlog (RPO)",
+        "value": "$25.4B (June 30, 2026)"
+      },
+      {
+        "label": "Data center capacity",
+        "value": "Over 600 MW live or contracted through 2027"
+      },
+      {
+        "label": "OpenAI contract",
+        "value": "750 MW through 2028, over $20B per Cerebras"
+      },
+      {
+        "label": "2026 core revenue guidance",
+        "value": "$880M to $890M"
+      }
+    ],
+    "customers": [
+      "OpenAI",
+      "Amazon Web Services",
+      "G42",
+      "Mohamed bin Zayed University of Artificial Intelligence",
+      "Meta",
+      "Cognition",
+      "Notion",
+      "GSK",
+      "Mayo Clinic",
+      "Lovable",
+      "General Compute"
+    ],
+    "origin": "Andrew Feldman, Gary Lauterbach, Michael James, Sean Lie and Jean-Philippe Fricker founded Cerebras in 2015 after working together at SeaMicro, a server startup that AMD bought in 2012. They set out to build a single processor from a whole silicon wafer instead of cutting the wafer into small chips. G42 of Abu Dhabi began buying its Condor Galaxy supercomputers in July 2023, and a US national security review of G42's investment delayed the IPO that Cerebras first filed for in 2024. The company moved into selling inference through its own cloud, and in March 2025 it announced six new inference data centers in North America and Europe, including Oklahoma City and Montreal.",
+    "today": "Cerebras raised $5.5B in its Nasdaq IPO on May 14, 2026, selling 30 million shares at $185. Its largest contract, signed with OpenAI in December 2025, commits OpenAI to buy 750 MW of inference capacity deployed in tranches through 2028, and Cerebras values the deal at more than $20B. In the second quarter of 2026 core revenue doubled to $209.9M and cloud and services core revenue nearly quadrupled to $127.7M, while the GAAP net loss reached $450.5M. At June 30, 2026 it reported $25.4B of remaining performance obligations and more than 600 MW of data center capacity live or under contract for delivery by the end of 2027. Digi Power X is building a 40 MW colocation campus for Cerebras in Columbiana, Alabama, with a first 15 MW phase due in December 2026. In September 2026 Cerebras and Compute Nordic announced a 165 MW campus in Mikkeli, Finland, starting with 50 MW already under construction. Cerebras is also a tenant, alongside CoreWeave, of the 300 MW Bell AI Fabric data centre in Saskatchewan, which Bell plans to open in stages from the first half of 2027. AWS is installing CS-3 systems in its own data centers and expects to offer Cerebras inference paired with Trainium in Amazon Bedrock in the first quarter of 2027.",
+    "platform": "Cerebras builds each Wafer-Scale Engine from a whole silicon wafer and sells access through a public inference API, dedicated capacity and on-premise systems. The CS-4 rack, unveiled in August 2026, joins three WSE-3 Turbo wafers, each with 900,000 cores and 44GB of on-chip SRAM on TSMC's 5nm process, for 750 PFLOPS per rack. Its cloud serves OpenAI's GPT-5.6 Sol at 750 tokens per second along with open models such as Qwen and Kimi. With AMD, Cerebras plans a disaggregated inference product that pairs AMD Helios racks with its wafers, offered first on Cerebras Cloud.",
+    "outlook": "Two related customers, which Cerebras names only as Customer A and Customer B, accounted for 74% of its revenue in the first quarter of 2026. Reports in late September 2026 said OpenAI runs the Ultrafast tier of GPT-6.1 Sol on NVIDIA GPUs rather than Cerebras hardware, which neither company confirmed. The shares closed at $146.62 on October 13, 2026, below the $185 IPO price, after 19.4 million insider shares came out of lock-up. Cerebras guides to 2026 core revenue of $880M to $890M and expects its manufacturing capacity to grow more than tenfold in 2026.",
+    "sources": [
+      {
+        "title": "Cerebras: Company",
+        "url": "https://www.cerebras.ai/company",
+        "date": "2026-10"
+      },
+      {
+        "title": "Wikipedia: Cerebras",
+        "url": "https://en.wikipedia.org/wiki/Cerebras",
+        "date": "2026-10"
+      },
+      {
+        "title": "Cerebras: Cerebras Announces Six New AI Datacenters Across North America and Europe to Deliver Industry's Largest Dedicated AI Inference Cloud",
+        "url": "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s",
+        "date": "2025-03-11"
+      },
+      {
+        "title": "CNBC: Cerebras scores OpenAI deal worth over $10 billion ahead of AI chipmaker's IPO",
+        "url": "https://www.cnbc.com/2026/01/14/cerebras-scores-openai-deal-worth-over-10-billion.html",
+        "date": "2026-01-14"
+      },
+      {
+        "title": "Cerebras: Cerebras is coming to AWS",
+        "url": "https://www.cerebras.ai/blog/cerebras-is-coming-to-aws",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "PR Newswire: Bell AI Fabric Expands National Network with 300 MW Data Centre in Saskatchewan",
+        "url": "https://www.prnewswire.com/news-releases/bell-ai-fabric-expands-national-network-with-300-mw-data-centre-in-saskatchewan-892263812.html",
+        "date": "2026-03-16"
+      },
+      {
+        "title": "Digi Power X: Material change report on Cerebras colocation and master services agreement (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001854368/000121390026053566/ea028958501ex99-1.htm",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "TechCrunch: Cerebras raises $5.5B, then stock pops 108%, in the first huge tech IPO of 2026",
+        "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Cerebras: Cerebras Systems Announces Strong First Quarter 2026 Results (Form 8-K exhibit)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026044941/cbrsannouncesfinancialresu.htm",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Cerebras: Form 10-Q for the quarter ended March 31, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026044981/cbrs-20260331.htm",
+        "date": "2026-06"
+      },
+      {
+        "title": "Cerebras: Cerebras Systems Fast Inference Cloud Business Nearly Quadruples in Second Quarter 2026 (Form 8-K exhibit)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "ServeTheHome: Cerebras Intros Faster WSE-3 Turbo Processor and First Rack-Scale CS-4 System",
+        "url": "https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "W.Media: Cerebras and Compute Nordic Finland announce new 165 MW AI data center in Mikkeli",
+        "url": "https://w.media/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data-center-in-mikkeli/",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Cerebras: General Compute Selects Cerebras to Bring Ultra-Fast Inference to Agentic Coding",
+        "url": "https://www.cerebras.ai/press-release/general-compute-selects-cerebras-to-bring-ultra-fast-inference-to-agentic-coding",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "FinanceFeeds: Why Cerebras Stock Is Falling Below Its $185 IPO Price in 2026",
+        "url": "https://financefeeds.com/cerebras-cbrs-stock-falling-below-185-ipo-price/",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "24/7 Wall St.: Cerebras Systems Cratered by 20% This Year. It's Going to Double in Price According to This Respected Wall Street Analyst",
+        "url": "https://247wallst.com/investing/2026/10/13/cerebras-systems-cratered-by-20-this-year-its-going-to-double-in-price-according-to-this-respected-wall-street-analyst/",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Cerebras: Home page",
+        "url": "https://www.cerebras.ai",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "The OpenAI deal value differs by source. CNBC and other January 2026 reports said over $10B, while Cerebras's own first quarter 2026 release in June says more than $20B, so I used the company figure in the text and kept the January report as a source. The 10-Q confirms the 750 MW commitment, deployment in tranches during 2026 through 2028, an option for another 1.25 GW by the end of 2030, an approximately $1.0B working capital loan to OpenAI and a warrant for about 33.4 million shares, which I left out for length. The seed figure of $127.7M is core (non-GAAP) cloud and services revenue, and GAAP cloud revenue was $126.0M. The 600 MW figure is capacity live and under contract for delivery by the end of 2027. An automated reading of the 10-Q first suggested Customer A (63% of first quarter 2026 revenue) was OpenAI, but the filing does not name either customer and says A and B are related parties to each other, which fits G42 and MBZUAI better than OpenAI, so I described them without names. The report that GPT-6.1 Sol Ultrafast runs on NVIDIA GPUs appears as fact in 24/7 Wall St. but as unconfirmed in FinanceFeeds, so I wrote it as unconfirmed. The first-day opening price differs between TechCrunch ($385) and Wikipedia ($350), and I used neither. The Bell AI Fabric tenancy is confirmed by Bell's March 2026 release for the Saskatchewan site. I did not confirm whether Cerebras also uses a Bell site in Montreal, where its 2025 site was an Enovum data center. I left Bell out of customers because Bell is the landlord. The Digi Power X second phase of 25 MW depends on Digi Power X securing financing, and the initial 10-year term is worth about $1.1B. I could not read the Reuters report on Gimlet Labs (September 28, 2026) and left that deal out. Cerebras gives 2015 as its founding year, while some older sources say 2016."
+  },
+  {
+    "slug": "polarise",
+    "name": "Polarise",
+    "aka": "",
+    "category": "neocloud",
+    "region": "Europe",
+    "hq": "Düsseldorf, Germany",
+    "founded": "",
+    "ownership": "Private",
+    "website": "https://polarise.eu",
+    "accelerators": [
+      "NVIDIA GB300 NVL72",
+      "NVIDIA HGX B300",
+      "NVIDIA GB200 NVL72",
+      "NVIDIA B200"
+    ],
+    "products": [
+      "Bare metal",
+      "Managed Kubernetes",
+      "Inference API",
+      "Colocation",
+      "Data center development"
+    ],
+    "snippet": "German NVIDIA Cloud Partner that builds and runs AI factories in Munich, Frankfurt and Oslo. It built the Munich site behind Deutsche Telekom's Industrial AI Cloud, which holds up to 10,000 NVIDIA GPUs.",
+    "facts": [
+      {
+        "label": "Munich AI factory",
+        "value": "Up to 10,000 NVIDIA Blackwell GPUs in 15 MW"
+      },
+      {
+        "label": "Macquarie financing",
+        "value": "Up to €117M (January 2026)"
+      },
+      {
+        "label": "Amberg site",
+        "value": "65 MW at launch, scalable to 120 MW (mid-2027)"
+      },
+      {
+        "label": "Prague reservation",
+        "value": "15 MW at CRA Prague Gateway (mid-2027)"
+      },
+      {
+        "label": "SWI deal valuation",
+        "value": "€500M (February 2026, later turned into debt)"
+      }
+    ],
+    "customers": [
+      "Deutsche Telekom",
+      "NayaOne"
+    ],
+    "origin": "Michel Boutouil, the CEO, came from finance and had founded and invested in HPC companies and built data centers across Europe before he led Polarise. Polarise announced its first AI factory, AI Hub ONE at Oslo Airport City in Norway, at NVIDIA GTC in March 2024, with waste heat going to Statkraft Varme's district heating network. In June 2025 it launched the Sovereign AI Factory Frankfurt for banks and financial firms and announced a DGX SuperPOD of eight NVIDIA DGX GB200 systems for Oslo. It then took on the Munich project for Deutsche Telekom, converting an existing bank data center in Tucherpark into an AI factory.",
+    "today": "Polarise built the Munich AI factory that Deutsche Telekom opened in February 2026 as its Industrial AI Cloud, fitting the Tucherpark building with modular AI Pods in about six months. The site holds up to 10,000 NVIDIA Blackwell GPUs in 15 MW and delivers up to 0.5 exaflops. Macquarie agreed in January 2026 to provide up to €117M to fit out the Munich site and fund further projects in Germany and Europe. SWI Stoneweg Icona Group, listed on Euronext Amsterdam, agreed in February 2026 to take a majority stake at a €500M valuation, and in August the two companies converted that agreement into a debt facility of an undisclosed double-digit million euro amount. Polarise plans an AI factory in Amberg in the Unterallgäu district of Bavaria, with 65 MW at launch in mid-2027 and room for 120 MW. In September 2026 it reserved 15 MW at CRA's Prague Gateway data centre near Prague, also due in mid-2027, with exclusive rights to expand. It moved its headquarters from Paderborn to Düsseldorf in July 2026, and in August it said it would join a consortium for the EU tender for AI gigafactories.",
+    "platform": "Polarise sells GPU capacity as bare metal, as dedicated clusters on its Virtual AI Cloud Core, as fully managed private clouds and as colocation in German data centers. Its Token Studio Drive service offers API access to open models for text, vision and image generation, and a March 2026 partnership with vCluster Labs adds isolated managed Kubernetes clusters on shared GPUs. It lists NVIDIA HGX B300 and GB300 NVL72 systems for new capacity. NVIDIA's GTC 2026 announcements named Polarise as the NVIDIA Cloud Partner behind the Sovereign AI Factory Frankfurt, where NayaOne runs a sandbox platform for fintech firms.",
+    "outlook": "Polarise plans to open Amberg and Prague in mid-2027 and says it has two more sites available in Bavaria and a possible site in North Rhine-Westphalia. Its CEO argues that Europe should build a connected network of sites instead of a few large campuses, and the company frames its gigafactory bid around that idea. Polarise says it is advancing its sites and platform independently of the tender and treats the EU programme as an accelerator, not a prerequisite.",
+    "sources": [
+      {
+        "title": "Polarise: Polarise officially announces AI Hub ONE AI Factory on NVIDIA GTC in San Jose",
+        "url": "https://polarise.eu/newsroom/polarise-officially-announces-ai-hub-one-ai-factory-on-nvidia-gtc-in-san-jose",
+        "date": "2024-03-19"
+      },
+      {
+        "title": "Polarise: Sovereign AI Factory Frankfurt Sets New Standard for Building and Deploying AI in Europe",
+        "url": "https://polarise.eu/newsroom/sovereign-ai-factory-frankfurt-announcement-2025",
+        "date": "2025-06-11"
+      },
+      {
+        "title": "Polarise: Polarise Among First AI Infrastructure Providers in Europe to Deploy NVIDIA DGX SuperPOD with NVIDIA DGX GB200 Systems",
+        "url": "https://polarise.eu/newsroom/polarise-announces-dgx-superpod-deployment-at-gtc-paris",
+        "date": "2025-06-12"
+      },
+      {
+        "title": "Macquarie: Polarise and Macquarie announce up to €117 million financing deal for European AI ambitions",
+        "url": "https://www.macquarie.com/au/en/about/news/2026/polarise-and-macquarie-announce-up-to-117-million-euros-financing-deal-for-european-ai-ambitions.html",
+        "date": "2026-01-12"
+      },
+      {
+        "title": "Deutsche Telekom: Germany's first AI factory for industry officially goes into operation in Munich",
+        "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/germany-s-first-ai-factory-for-industry",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Polarise: A Speedboat Partnership for Germany (case study)",
+        "url": "https://polarise.eu/case-studies/a-speedboat-partnership-for-germany/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Polarise: Euronext Amsterdam listed SWI Stoneweg Icona Group moves into AI compute with majority investment in Polarise",
+        "url": "https://polarise.eu/newsroom/swi-group-acquires-majority-stake-in-polarise-february-2026",
+        "date": "2026-02-24"
+      },
+      {
+        "title": "Polarise: Polarise Builds Artificial Intelligence Data Center in Amberg - Unterallgäu (Greater Augsburg Area)",
+        "url": "https://polarise.eu/newsroom/polarise-builds-ai-data-center-amberg-unterallgaeu-march-2026",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "NVIDIA: NVIDIA GTC 2026 - Live Updates on What's Next in AI",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+        "date": "2026-03"
+      },
+      {
+        "title": "Polarise: Polarise and vCluster Labs Announce Strategic Partnership to Accelerate Sovereign AI Infrastructure in Germany & Beyond",
+        "url": "https://polarise.eu/newsroom/polarise-vcluster-labs-strategic-partnership-sovereign-ai-march-2026",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "Polarise: Polarise becomes an official sponsor of Fortuna Düsseldorf",
+        "url": "https://polarise.eu/newsroom/polarise-becomes-official-sponsor-of-fortuna-duesseldorf",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "Polarise: Polarise Plans to Participate in EU Tender for AI Gigafactories",
+        "url": "https://polarise.eu/newsroom/polarise-plans-to-participate-in-eu-tender-for-ai-gigafactories",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Polarise: Polarise secures further debt financing to expand its European AI cloud platform",
+        "url": "https://polarise.eu/newsroom/polarise-secures-debt-financing-from-swi-group-for-european-ai-cloud-expansion",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Polarise: Polarise Expands into Central Europe, Reserving Capacity at CRA's Prague Gateway Data Centre",
+        "url": "https://polarise.eu/newsroom/polarise-expands-into-central-europe-reserving-capacity-at-cras-prague-gateway-data-centre",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Polarise: Home page",
+        "url": "https://polarise.eu",
+        "date": "2026-10"
+      },
+      {
+        "title": "Real Asset Live: Michel Boutouil (speaker profile)",
+        "url": "https://realassetlive.com/speakers/michel-boutouil/",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "Polarise is involved in Deutsche Telekom's Munich AI factory. Telekom's February 4, 2026 release says it built the factory together with NVIDIA and data center partner Polarise, and Polarise's case study quotes Telekom's Andreas Falkner on the project. The 15 MW figure comes only from that case study. The same case study mentions more than 1,000 DGX B200 systems, which does not match up to 10,000 GPUs at 8 GPUs per system, so I used the GPU count that Telekom also gives. The Amberg seed of 30 MW scaling to 120 MW matches the March 2026 release, but the August and September 2026 releases give 65 MW at launch, so I used 65 MW. SWI agreed in February 2026 to a majority stake at a €500M valuation with €100M of equity and a €1B site commitment, and in August 2026 the parties turned that into debt financing, so I list Polarise as private rather than as an SWI subsidiary. I found no founding year. The brand was active by March 2024, and North Data shows that a Paderborn company registered as Polarise. GmbH in April 2025 and later renamed Polarise MUC DC GmbH. I left founded empty. The headquarters moved from Paderborn to Düsseldorf in July 2026. Telekom names Agile Robots and PhysicsX as users of the Munich cloud, but they are Telekom's customers, so I did not list them. Secondary reports also mention Siemens and Perplexity there, which I did not verify. The Macquarie figure is in euros and the source gives no USD value. NVIDIA's GTC 2026 blog names Polarise as the NCP behind Sovereign AI Factory Frankfurt, where NayaOne runs, which I treated as evidence that NayaOne is a customer."
+  },
+  {
+    "slug": "ytl-ai-cloud",
+    "name": "YTL AI Cloud",
+    "aka": "",
+    "category": "neocloud",
+    "region": "Asia-Pacific",
+    "hq": "Kulai, Malaysia",
+    "founded": "2024",
+    "ownership": "Subsidiary of YTL Power International (Bursa Malaysia: YTLPOWR)",
+    "website": "https://www.ytlaicloud.com",
+    "accelerators": [
+      "NVIDIA GB200 NVL72"
+    ],
+    "products": [
+      "Bare metal",
+      "Training and fine-tuning"
+    ],
+    "snippet": "Malaysian GPU cloud of YTL Power that rents NVIDIA GB200 NVL72 clusters from a solar-powered campus in Johor. It became one of NVIDIA's six Exemplar Clouds in May 2026.",
+    "facts": [
+      {
+        "label": "YTL and NVIDIA program",
+        "value": "RM10B, about $2.36B (July 2025)"
+      },
+      {
+        "label": "NVIDIA Exemplar Cloud",
+        "value": "May 2026, tested on 512 Blackwell GPUs"
+      },
+      {
+        "label": "Campus",
+        "value": "1,640 acres in Kulai, Johor"
+      },
+      {
+        "label": "YTL Power data center capacity contracted",
+        "value": "298 MW (March 2026)"
+      },
+      {
+        "label": "Kulai park target",
+        "value": "1,000 MW, up from 600 MW"
+      }
+    ],
+    "customers": [
+      "YTL AI Labs"
+    ],
+    "origin": "YTL Power International, the multi-utility company of Malaysia's YTL group, agreed with NVIDIA in December 2023 to build AI infrastructure in Malaysia, initially around NVIDIA H100 GPUs. It formed YTL AI Cloud in March 2024 and announced at NVIDIA GTC an NVIDIA GB200 NVL72 supercomputer on DGX Cloud with more than 300 exaflops of AI compute. The cloud sits in YTL's 1,640-acre Green Data Center Park in Kulai, Johor, within 50 km of Singapore's main network interconnection points and next to an on-site solar plant.",
+    "today": "YTL AI Cloud's first NVIDIA GB200 NVL72 data centre in Kulai went into operation in October 2025, under a RM10B (about $2.36B) program that YTL Power signed with NVIDIA in July 2025. YTL splits that program between data centre infrastructure and AI solutions, including ILMU, the Malaysian language model family built by sister company YTL AI Labs. YTL says the cloud will host government and citizen-facing AI services and that global hyperscalers count among the data centre's customers, without naming them. On May 31, 2026, YTL AI Cloud announced NVIDIA Exemplar Cloud status after a benchmark of a 512-GPU Blackwell environment. YTL Power had 298 MW of data centre capacity contracted as of March 2026 and plans to raise the Kulai park from 600 MW to 1,000 MW. In August 2026 it announced a new gigawatt campus at Sedenak Tech Park West in Johor through its 70%-owned unit SIPP Power. YTL AI Labs launched ILMUcode, a coding assistant built with Z.ai, in October 2026, with inference on Malaysian infrastructure.",
+    "platform": "YTL AI Cloud rents liquid-cooled NVIDIA GB200 NVL72 racks built to NVIDIA's cloud partner reference architecture, and it offers business models from bare metal up to application-layer services. Storage runs on WEKA NeuralMesh on Wiwynn hardware, which WEKA says delivers about 1 GB/s of read throughput per GPU. The company says its first buildings are designed for more than 80 MW of IT load. NVIDIA's GTC 2026 announcements describe YTL as an NVIDIA Cloud Partner and AI lab that uses Nemotron 3 data in its ILMU models.",
+    "outlook": "NVIDIA listed YTL in March 2025 among the first GPU clouds to offer Blackwell Ultra, and WEKA describes GB300 as YTL AI Cloud's next phase without giving a date. YTL Power's managing director said in late 2025 that the pace of further AI expansion depends on how fast the Malaysian government adopts AI. YTL has not said how much of the planned Kulai and Sedenak capacity will serve its own GPU cloud rather than colocation tenants.",
+    "sources": [
+      {
+        "title": "YTL AI Cloud: YTL Creates One of the World's Most Advanced Supercomputers, Powered by NVIDIA Grace Blackwell-based DGX Cloud",
+        "url": "https://www.ytlaicloud.com/press-releases/ytl-creates-one-of-the-worlds-most-advanced-supercomputers-powered-by-nvidia-grace-blackwell-based-dgx-cloud",
+        "date": "2024-03-19"
+      },
+      {
+        "title": "NVIDIA: NVIDIA Blackwell Ultra AI Factory Platform Paves Way for Age of AI Reasoning",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-ultra-ai-factory-platform-paves-way-for-age-of-ai-reasoning",
+        "date": "2025-03-18"
+      },
+      {
+        "title": "W.Media: YTL inks US$ 2.36 billion deal with Nvidia, Malaysia to create own LLM",
+        "url": "https://w.media/ytl-inks-us-2-36-billion-deal-with-nvidia-malaysia-to-create-own-llm/",
+        "date": "2025-07-29"
+      },
+      {
+        "title": "Free Malaysia Today: Malaysia completes first Nvidia-powered data centre in Johor",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2025/10/31/malaysia-completes-first-nvidia-powered-data-centre-in-johor",
+        "date": "2025-10-31"
+      },
+      {
+        "title": "The Edge Malaysia: YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational",
+        "url": "https://theedgemalaysia.com/node/776142",
+        "date": "2025-10-31"
+      },
+      {
+        "title": "W.Media: YTL Power completes Nvidia-powered AI data centre in Johor",
+        "url": "https://w.media/ytl-power-completes-nvidia-powered-ai-data-centre-in-johor/",
+        "date": "2025-11-03"
+      },
+      {
+        "title": "NVIDIA: NVIDIA GTC 2026 - Live Updates on What's Next in AI",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+        "date": "2026-03"
+      },
+      {
+        "title": "YTL AI Cloud: YTL AI Cloud Among Asia's First Cloud Providers to Achieve NVIDIA Exemplar Cloud Status",
+        "url": "https://www.ytlaicloud.com/press-releases/ytl-ai-cloud-among-asias-first-cloud-providers-to-achieve-nvidia-exemplar-cloud-status",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "The Star: YTL AI Cloud achieves Nvidia Exemplar Cloud status",
+        "url": "https://www.thestar.com.my/business/business-news/2026/06/02/ytl-ai-cloud-achieves-nvidia-exemplar-cloud-status",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "The Edge Malaysia: YTL Power to develop new gigawatt data centre campus in Johor",
+        "url": "https://theedgemalaysia.com/node/815134",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Bigdomain: ILMUcode - YTL's Sovereign AI Coding Platform Launched",
+        "url": "https://media.bigdomain.my/news/ilmucode-ytl-ai-labs/",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "WEKA: YTL AI Cloud Builds Malaysia's Sovereign AI with WEKA",
+        "url": "https://www.weka.io/customers/ytl-ai-cloud/",
+        "date": "2026-10"
+      },
+      {
+        "title": "YTL AI Cloud: Scalable and Flexible Solutions",
+        "url": "https://www.ytlaicloud.com/scalable-and-flexible-solutions/",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The seed figure of $2.3B for the July 2025 program is RM10B in the sources, which W.Media converts to $2.36B in July 2025 and $2.38B in November 2025. I used $2.36B. The Exemplar announcement is dated May 31, 2026 on YTL AI Cloud's site and June 2, 2026 in The Star. Only GB200 NVL72 is confirmed in service. H100 was the plan in December 2023, and NVIDIA's March 2025 Blackwell Ultra list and WEKA's case study describe Blackwell Ultra and GB300 as plans, with no deployment found, so I listed only GB200 NVL72. YTL AI Cloud's own capacity is not disclosed consistently. Its site says the initial buildings are designed for more than 80 MW of IT load, a March 2025 DCD article, which I saw only in search results, described a 50 MW solar-powered data center, and an August 2026 analyst blog (Dragon Leong) describes a 20 MW AI data centre that is only partly leased. I kept AI cloud megawatts out of the facts. The 298 MW and the 1,000 MW Kulai target are YTL Power figures that mostly cover colocation, including a Sea Ltd hall according to analyst coverage, and they are not GPU cloud capacity. The 2024 release calls the solar plant 500 MW, and W.Media quotes YTL in November 2025 as saying 300 MW was being built and commissioned on the site without saying whether that figure is solar or data centre capacity, so I left it out. The only named user is YTL AI Labs, an affiliate, and YTL does not name the hyperscalers it cites. The Edge page for the October 2025 launch displayed a 2026 date when fetched, but Free Malaysia Today and W.Media date the launch to October 31, 2025. Forbes (August 2026) and DCD articles returned errors and I did not use them."
+  }
+]

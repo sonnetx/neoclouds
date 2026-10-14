@@ -2187,7 +2187,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "core42",
   "name": "Core42",
   "aka": "G42 Cloud",
-  "category": "sovereign",
+  "category": "neocloud",
   "region": "Middle East and Africa",
   "hq": "Abu Dhabi, UAE",
   "founded": "2023",
@@ -2335,7 +2335,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "humain",
   "name": "Humain",
   "aka": "HUMAIN",
-  "category": "sovereign",
+  "category": "neocloud",
   "region": "Middle East and Africa",
   "hq": "Riyadh, Saudi Arabia",
   "founded": "2025",
@@ -2507,7 +2507,7 @@ window.NEOCLOUD_PROVIDERS = [
   "region": "North America",
   "hq": "Starbase, Texas, US",
   "founded": "2023",
-  "ownership": "Private (SpaceX filed an S-1 in May 2026)",
+  "ownership": "Public (Nasdaq: SPCX)",
   "website": "https://x.ai",
   "accelerators": [
    "NVIDIA H100",
@@ -2549,7 +2549,7 @@ window.NEOCLOUD_PROVIDERS = [
    "Cursor"
   ],
   "origin": "Elon Musk founded xAI in 2023 to build the Grok models. It built its first Colossus cluster in a former Electrolux factory in South Memphis, Tennessee, with about 100,000 NVIDIA H100 GPUs finished in 122 days in 2024. SpaceX acquired xAI in an all-stock deal announced in February 2026 that valued xAI at $250B and SpaceX at $1T. xAI later rebranded as SpaceXAI.",
-  "today": "Colossus 2 in Memphis had 110,000 NVIDIA GB200 and 440,000 GB300 GPUs running in late September 2026, and Musk said the chip count may more than double by year end. Epoch AI estimates the site at about 946 MW as of June 2026, with gas turbines across the state line in Southaven, Mississippi. In May 2026 Anthropic agreed to rent all of Colossus 1, which holds more than 220,000 NVIDIA GPUs and over 300 MW of compute. In June 2026 Google agreed to pay SpaceX about $920M a month for compute at xAI data centers, and Reflection AI signed its own compute deal the same month. SpaceX filed an S-1 registration statement with the SEC in May 2026.",
+  "today": "Colossus 2 in Memphis had 110,000 NVIDIA GB200 and 440,000 GB300 GPUs running in late September 2026, and Musk said the chip count may more than double by year end. Epoch AI estimates the site at about 946 MW as of June 2026, with gas turbines across the state line in Southaven, Mississippi. In May 2026 Anthropic agreed to rent all of Colossus 1, which holds more than 220,000 NVIDIA GPUs and over 300 MW of compute. In June 2026 Google agreed to pay SpaceX about $920M a month for compute at xAI data centers, and Reflection AI signed its own compute deal the same month. SpaceX priced its initial public offering at $135 a share on June 11, 2026, and its shares began trading on Nasdaq under the ticker SPCX the next day.",
   "platform": "xAI runs its clusters for Grok training and inference and leases whole sites or large GPU blocks to other labs. It sells Grok models through an API. Its Memphis sites draw on on-site gas turbines and Tesla Megapack batteries alongside grid power.",
   "outlook": "Musk has said he wants about 1 million GPUs in Memphis, and xAI bought a third building in late 2025 to expand toward nearly 2 GW. Its use of gas turbines without federal air permits drew a lawsuit and regulatory scrutiny, and an agreement with state regulators schedules removal of the temporary turbines by mid-2027. The Anthropic and Google leases make SpaceX a seller of AI capacity, which is why it appears in this guide.",
   "sources": [
@@ -2601,6 +2601,16 @@ window.NEOCLOUD_PROVIDERS = [
    {
     "title": "Wikipedia: Colossus (supercomputer)",
     "url": "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
+    "date": "2026-10"
+   },
+   {
+    "title": "SpaceX: Space Exploration Technologies Corp. Announces Pricing of Initial Public Offering",
+    "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+    "date": "2026-06-11"
+   },
+   {
+    "title": "Wikipedia: Initial public offering of SpaceX",
+    "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX",
     "date": "2026-10"
    },
    {
@@ -3377,7 +3387,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "vultr",
   "name": "Vultr",
   "aka": "The Constant Company",
-  "category": "devcloud",
+  "category": "othercloud",
   "region": "North America",
   "hq": "West Palm Beach, Florida, US",
   "founded": "2014",
@@ -3473,7 +3483,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "digitalocean",
   "name": "DigitalOcean",
   "aka": "",
-  "category": "devcloud",
+  "category": "othercloud",
   "region": "North America",
   "hq": "Broomfield, Colorado, US",
   "founded": "2011",
@@ -4333,7 +4343,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "sk-telecom",
   "name": "SK Telecom",
   "aka": "SKT",
-  "category": "sovereign",
+  "category": "othercloud",
   "region": "Asia-Pacific",
   "hq": "Seoul, South Korea",
   "founded": "1984",
@@ -4496,7 +4506,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "naver-cloud",
   "name": "Naver Cloud",
   "aka": "NAVER Cloud, Naver Business Platform (NBP)",
-  "category": "sovereign",
+  "category": "othercloud",
   "region": "Asia-Pacific",
   "hq": "Seongnam, South Korea",
   "founded": "2009",
@@ -4638,7 +4648,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "softbank-corp",
   "name": "SoftBank Corp.",
   "aka": "SoftBank AI Data Center GPU Cloud, SB Neo (US)",
-  "category": "sovereign",
+  "category": "othercloud",
   "region": "Asia-Pacific",
   "hq": "Tokyo, Japan",
   "founded": "",
@@ -4750,7 +4760,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "deutsche-telekom-industrial-ai-cloud",
   "name": "Deutsche Telekom Industrial AI Cloud",
   "aka": "Telekom AI Factory, Industrial AI Cloud with NVIDIA",
-  "category": "sovereign",
+  "category": "neocloud",
   "region": "Europe",
   "hq": "Bonn, Germany",
   "founded": "2026",
@@ -5296,7 +5306,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "scaleway",
   "name": "Scaleway",
   "aka": "Online SAS",
-  "category": "devcloud",
+  "category": "othercloud",
   "region": "Europe",
   "hq": "Paris, France",
   "founded": "1999",
@@ -5407,7 +5417,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "ovhcloud",
   "name": "OVHcloud",
   "aka": "OVH",
-  "category": "devcloud",
+  "category": "othercloud",
   "region": "Europe",
   "hq": "Roubaix, France",
   "founded": "1999",
@@ -5521,7 +5531,7 @@ window.NEOCLOUD_PROVIDERS = [
   "slug": "gcore",
   "name": "Gcore",
   "aka": "G-Core Labs",
-  "category": "devcloud",
+  "category": "othercloud",
   "region": "Europe",
   "hq": "Contern, Luxembourg",
   "founded": "2014",
@@ -6739,7 +6749,6 @@ window.NEOCLOUD_PROVIDERS = [
   ],
   "products": [
    "Bare metal",
-   "Virtual machines",
    "Data center development",
    "Storage"
   ],
@@ -6766,7 +6775,7 @@ window.NEOCLOUD_PROVIDERS = [
    "Singularity Compute (SingularityNET)"
   ],
   "origin": "Cudo launched Cudo Compute in November 2022 as a distributed cloud marketplace where data centers rented out idle CPU and GPU hardware as virtual machines. Its sister company Cudos ran a Layer 1 blockchain that the marketplace planned to integrate with. Founder and CEO Matt Hawkins previously founded C4L and has more than 20 years in data centers, connectivity and hosting.",
-  "today": "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference. It is an NVIDIA Cloud Partner, and it says its team has delivered and operated more than 40,000 GPUs. It has clusters in Canada, the US, Australia, the UK, Finland, Sweden, Denmark, South Africa and Nigeria. In September 2025 it signed a multi-year lease with Conapto in Stockholm for NVIDIA H200 and L40S GPUs. Singularity Compute, the commercial arm of SingularityNET, launched a GPU cluster built with Cudo at Conapto in December 2025. Cudo says it will have more than 250 MW contracted by the end of 2026 and targets more than 750 MW by the end of 2027.",
+  "today": "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference. It closed its public on-demand platform on March 31, 2026. It is an NVIDIA Cloud Partner, and it says its team has delivered and operated more than 40,000 GPUs. It has clusters in Canada, the US, Australia, the UK, Finland, Sweden, Denmark, South Africa and Nigeria. In September 2025 it signed a multi-year lease with Conapto in Stockholm for NVIDIA H200 and L40S GPUs. Singularity Compute, the commercial arm of SingularityNET, launched a GPU cluster built with Cudo at Conapto in December 2025. Cudo says it will have more than 250 MW contracted by the end of 2026 and targets more than 750 MW by the end of 2027.",
   "platform": "Cudo sells dedicated GPU clusters, managed services with 24/7 monitoring and lifecycle management, InfiniBand or Ethernet networking, and storage built on VAST, WEKA, DDN or NetApp. Its site lists NVIDIA H100, H200, B200, B300, GB200 and GB300 systems. It holds ISO 27001 and SOC 2 Type II certifications.",
   "outlook": "Its April 2026 survey of 700 AI decision-makers found that one in five UK firms had moved AI workloads abroad because of energy costs.",
   "sources": [
@@ -6816,8 +6825,139 @@ window.NEOCLOUD_PROVIDERS = [
     "date": "2026-10"
    },
    {
+    "title": "Cudo Compute: Documentation, notice that the public on-demand platform closed",
+    "url": "https://docs.cudocompute.com/",
+    "date": "2026-10"
+   },
+   {
     "title": "Cudo Compute: Company website, read October 2026",
     "url": "https://www.cudocompute.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "datasection",
+  "name": "Datasection",
+  "aka": "DataSection",
+  "category": "neocloud",
+  "region": "Asia-Pacific",
+  "hq": "Tokyo, Japan",
+  "founded": "2000",
+  "ownership": "Public (TSE: 3905)",
+  "website": "https://www.datasection.co.jp/en/",
+  "accelerators": [
+   "NVIDIA B300",
+   "NVIDIA B200"
+  ],
+  "products": [
+   "Bare metal",
+   "Inference API"
+  ],
+  "snippet": "Tokyo-listed data company that now rents NVIDIA GPU clusters. In August 2026 it ended the resale contract behind most of its revenue, then signed a $175.2M-a-year order with a US AI company.",
+  "facts": [
+   {
+    "label": "Net sales, year to March 2026",
+    "value": "JPY 33.6B (about $217M)"
+   },
+   {
+    "label": "Forecast, year to March 2027",
+    "value": "JPY 162.2B net sales, unchanged in August 2026"
+   },
+   {
+    "label": "GPUs run on TAIZA",
+    "value": "20,180 including partner capacity (May 18, 2026)"
+   },
+   {
+    "label": "Contract ended",
+    "value": "About $33.2M a month, terminated August 2026"
+   },
+   {
+    "label": "US order",
+    "value": "$175.2M a year for 3 years, up to $876M over 5 (September 2026)"
+   },
+   {
+    "label": "First own sites",
+    "value": "About 20,000 GPUs and 40 MW in Japan, Australia and Thailand"
+   }
+  ],
+  "customers": [
+   "Tencent"
+  ],
+  "origin": "Datasection was founded in Tokyo in July 2000 and built a business in data science, marketing tools such as the FollowUP retail camera service, and system integration. It launched an AI data centre business in 2024 and made it the core of the group, buying complete NVIDIA GPU server sets from Taiwanese manufacturers. Its first GPU revenue came in September 2025 from a customer it describes as one of the world's largest cloud service providers, contracted through its agent NowNaw Japan.",
+  "today": "Datasection reported net sales of JPY 33.6B (about $217M) for the year to March 2026, up from JPY 2.9B, after its GPU service began in September 2025. That GPU service ran on capacity owned by an undisclosed overseas partner, which Datasection resold through its agent NowNaw Japan. The Financial Times reported in December 2025 that Tencent was the end customer, with rental contracts worth more than $1.2B, and Datasection has not named the customer. On August 14, 2026, Datasection ended the partner contract retroactive to April 1 and booked a JPY 5.6B ($35M) fee in place of the JPY 79.9B the deal had added to its forecast for the year to March 2027. The same filing delayed full operation of its own sites in Inzai in Chiba, in Sydney and near Bangkok, which plan about 20,000 B300 and B200 GPUs and 40 MW in total. In September 2026 it signed a three-year order worth $175.2M a year with an unnamed US AI infrastructure company, extendable to five years and $876M, and it received $98.55M of a $131.4M deposit on September 24. Datasection credits NVIDIA with helping arrange the deal.",
+  "platform": "Datasection runs its clusters on TAIZA, its own software for operating large GPU clusters, and rents them by the hour to cloud providers and model developers. In August 2026 it extended TAIZA with a model API that routes requests to major models including OpenAI's, an agent service and TAIZA MATE, a workspace for enterprise AI workflows. It buys complete server sets from Taiwanese manufacturers, including 10,000 B300 GPUs from Inventec for Sydney, 5,080 B300 GPUs from Compal for Inzai and 4,696 B200 GPUs from ASRock Rack for Thailand. Compal servers began arriving at the Inzai site in July 2026.",
+  "outlook": "As of its August 2026 results, Datasection kept its forecast of JPY 162.2B in net sales for the year to March 2027 and said new pipeline orders would replace the cancelled contract. In September it said this year's sales from the new US order would fall short of plan because service starts later than the July 2026 assumption, though profit would exceed it. It plans to borrow $124M toward $255.4M of GPU servers it has yet to pay for and is still in talks with lenders. Wolfpack Research alleged in 2025 that Datasection's GPU procurement breached US export controls, and Datasection, which denies the claim, sued Wolfpack in a US federal court in July 2026.",
+  "sources": [
+   {
+    "title": "Datasection: Consolidated Financial Results for the Fiscal Year Ended March 31, 2026",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260515002.pdf",
+    "date": "2026-05-15"
+   },
+   {
+    "title": "Datasection: Financial Results Presentation, Fiscal Year Ended March 2026",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260518001.pdf",
+    "date": "2026-05-18"
+   },
+   {
+    "title": "W.Media: Japan's Datasection bets on dominance with GPU supercluster ambitions",
+    "url": "https://w.media/japans-datasection-bets-on-dominance-with-gpu-supercluster-ambitions/",
+    "date": "2026-05-20"
+   },
+   {
+    "title": "Datasection: Notice Regarding Progress of Previously Disclosed Matter, Large-Scale Order",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf",
+    "date": "2026-08-14"
+   },
+   {
+    "title": "Datasection: Consolidated Financial Results for the First Quarter of the Fiscal Year Ending 31 March 2027",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814002.pdf",
+    "date": "2026-08-14"
+   },
+   {
+    "title": "Datasection: First Quarter Financial Results Presentation for the Fiscal Year Ending March 2027",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260818001.pdf",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "Datasection: Notice Regarding a Major Order Expected to Become Effective",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260918002.pdf",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "Datasection: Notice Regarding the Signing of a Major Contract",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260918001.pdf",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "Datasection: (Update on Previously Disclosed Matter) Notice Regarding a Major Order Expected to Become Effective",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260924001.pdf",
+    "date": "2026-09-24"
+   },
+   {
+    "title": "Datasection: Notice Regarding Change in Specified Subsidiary",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20261001001.pdf",
+    "date": "2026-10-01"
+   },
+   {
+    "title": "Datasection: MOU on long-term use of GPU computing resources at an AI data centre in Thailand (in Japanese)",
+    "url": "https://www.datasection.co.jp/news/pressrelease-20260828001",
+    "date": "2026-08-28"
+   },
+   {
+    "title": "Datasection: Notice Regarding the Acquisition of Fixed Assets (GPU Servers Equipped with NVIDIA B300)",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20251211002.pdf",
+    "date": "2025-12-11"
+   },
+   {
+    "title": "Chip Briefing: Daily - Tencent rents top Nvidia chips from Japanese firm, skirting US export controls",
+    "url": "https://chipbriefing.substack.com/p/daily-tencent-rents-top-nvidia-chips",
+    "date": "2025-12-22"
+   },
+   {
+    "title": "Datasection: Company website, read October 2026",
+    "url": "https://www.datasection.co.jp/en/",
     "date": "2026-10"
    }
   ],
@@ -7433,6 +7573,145 @@ window.NEOCLOUD_PROVIDERS = [
   "confidence": "medium"
  },
  {
+  "slug": "gmo-gpu-cloud",
+  "name": "GMO GPU Cloud",
+  "aka": "GMO GPUクラウド",
+  "category": "neocloud",
+  "region": "Asia-Pacific",
+  "hq": "Tokyo, Japan",
+  "founded": "2024",
+  "ownership": "Public (TSE: 4784), part of GMO Internet Group (TSE: 9449)",
+  "website": "https://gpucloud.gmo/",
+  "accelerators": [
+   "NVIDIA H200",
+   "NVIDIA B300"
+  ],
+  "products": [
+   "Bare metal",
+   "Managed Slurm",
+   "Storage"
+  ],
+  "snippet": "Japanese GPU cloud run by Tokyo-listed GMO Internet with METI subsidy backing. It added NVIDIA B300 servers in December 2025 and plans a second site at a 15 MW renewable data center in Hokkaido.",
+  "facts": [
+   {
+    "label": "Launch",
+    "value": "November 22, 2024"
+   },
+   {
+    "label": "H200 at launch",
+    "value": "768 GPUs in 96 nodes"
+   },
+   {
+    "label": "METI subsidy",
+    "value": "Up to ¥1.925B toward a ¥10B plan"
+   },
+   {
+    "label": "B300 order",
+    "value": "200 GPUs in 25 servers"
+   },
+   {
+    "label": "Ishikari site",
+    "value": "15 MW, 100% renewable power"
+   }
+  ],
+  "customers": [
+   "Sakana AI",
+   "Turing",
+   "AIST",
+   "NEC",
+   "AI Robot Association (AIRoA)",
+   "OLM Digital",
+   "Omron Sinic X"
+  ],
+  "origin": "Masatoshi Kumagai founded GMO Internet Group in Tokyo in 1991, and the group built its business on domains, hosting and internet access. It first rented GPUs in March 2019 through GPU Cloud byGMO, a small NVIDIA V100 service. In April 2024 Japan's Ministry of Economy, Trade and Industry certified the group's plan to supply H200 cloud capacity under its economic security cloud program, with a subsidy of up to ¥1.925B toward a build of about ¥10B. GMO GPU Cloud launched on November 22, 2024 with 768 H200 GPUs and placed 37th on the TOP500 list that month.",
+  "today": "GMO Internet, Inc., the Tokyo-listed group company that took over the infrastructure business in January 2025, runs the service. In August 2025 it dropped a planned purchase of 256 more H200 GPUs and ordered 200 NVIDIA B300 GPUs in 25 servers instead. B300 bare metal servers went on sale on December 16, 2025, and a managed Slurm plan on B300 followed in March 2026. In February 2026 GMO invested ¥3.2B in the autonomous driving startup Turing and signed a four-year contract to supply it about 0.37 EFLOPS of H200 and B300 capacity. Sakana AI trained the alpha version of its Japanese Namazu models on the service, and AIST bought about ¥68.5M of GPU cloud capacity and support for February and March 2026. In October 2026 GMO announced a second site at a 15 MW data center in Ishikari, Hokkaido, which runs on 100% renewable power and links to Tokyo over NTT East's IOWN network.",
+  "platform": "The service runs NVIDIA HGX H200 and HGX B300 servers on NVIDIA Spectrum-X Ethernet with BlueField-3 DPUs and DDN shared storage, and GMO was the first Japanese cloud to adopt Spectrum-X. Customers choose a managed HPC cluster with Slurm preinstalled or a dedicated bare metal server, and GMO quotes GPU prices individually. During 2025 and 2026 it added MIG partitioning, a private container registry, Grafana dashboards, Enroot and Pyxis container support, and EDR security monitoring. GMO's own tests show the B300 finishing a Llama 2 70B LoRA fine-tuning run about twice as fast as the H200.",
+  "outlook": "GMO, TOKYU LAND and BroadBand Tower aim to start GPU service in Ishikari within 2026, which moves capacity beyond the Tokyo area where new grid connections are hard to secure. Long-term deals such as the four-year Turing contract and the AIST work give the service committed demand while it adds Blackwell capacity.",
+  "sources": [
+   {
+    "title": "GMO Internet Group: GPU cloud service for generative AI using NVIDIA H200 to launch first in Japan (Japanese)",
+    "url": "https://group.gmo/news/article/8933/",
+    "date": "2024-04-19"
+   },
+   {
+    "title": "GMO Internet Group: GMO Internet Group Launches GMO GPU Cloud, Ranked in the TOP500 Supercomputer List",
+    "url": "https://group.gmo/en/news/article/835/",
+    "date": "2024-11-22"
+   },
+   {
+    "title": "TOP500: November 2024 list",
+    "url": "https://www.top500.org/lists/top500/list/2024/11/",
+    "date": "2024-11"
+   },
+   {
+    "title": "GMO Internet Group: Notice Regarding Completion of Transition to Holding Company Structure",
+    "url": "https://group.gmo/en/ir_news/article/587/",
+    "date": "2024-12-25"
+   },
+   {
+    "title": "GMO Internet Group: GMO Internet decides on additional investment in GMO GPU Cloud (Japanese)",
+    "url": "https://group.gmo/news/article/9503/",
+    "date": "2025-05-14"
+   },
+   {
+    "title": "GMO Internet: GMO GPU Cloud adopts NVIDIA Blackwell Ultra GPU",
+    "url": "https://internet.gmo/en/news/article/71/",
+    "date": "2025-08-04"
+   },
+   {
+    "title": "GMO Internet: GMO GPU Cloud adopted as next-generation AI development infrastructure by Sakana AI",
+    "url": "https://internet.gmo/en/news/article/107/",
+    "date": "2025-11-13"
+   },
+   {
+    "title": "GMO GPU Cloud: NVIDIA HGX B300 GPU cloud now available (Japanese)",
+    "url": "https://gpucloud.gmo/news/757/",
+    "date": "2025-12-16"
+   },
+   {
+    "title": "GMO Internet: Performance verification of NVIDIA B300 environment (Japanese)",
+    "url": "https://internet.gmo/news/article/139/",
+    "date": "2026-01-23"
+   },
+   {
+    "title": "GMO GPU Cloud: GPU cloud resources and technical support for AIST (Japanese)",
+    "url": "https://gpucloud.gmo/news/811/",
+    "date": "2026-02-03"
+   },
+   {
+    "title": "GMO Internet: GMO Internet invests ¥3.2 billion in Turing and signs strategic partnership (Japanese)",
+    "url": "https://internet.gmo/news/article/147/",
+    "date": "2026-02-12"
+   },
+   {
+    "title": "GMO Internet: GMO GPU Cloud launches NVIDIA HGX B300 under the Slurm Service Dedicated Plan",
+    "url": "https://internet.gmo/en/news/article/169/",
+    "date": "2026-03-25"
+   },
+   {
+    "title": "GMO GPU Cloud: GMO GPU Cloud resources used to train Sakana AI's Namazu (Japanese)",
+    "url": "https://gpucloud.gmo/news/954/",
+    "date": "2026-03-24"
+   },
+   {
+    "title": "GMO Internet: GMO Internet Opens New GMO GPU Cloud Site at 100% Renewable Energy Data Center in Ishikari, Hokkaido",
+    "url": "https://internet.gmo/en/news/article/240/",
+    "date": "2026-10-07"
+   },
+   {
+    "title": "GMO Internet Group: GMO Internet Launches GPU Cloud byGMO",
+    "url": "https://group.gmo/en/news/article/797/",
+    "date": "2019-03-28"
+   },
+   {
+    "title": "GMO GPU Cloud: Company website, read October 2026",
+    "url": "https://gpucloud.gmo/",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
   "slug": "megaspeed",
   "name": "Megaspeed",
   "aka": "Megaspeed International, MegaSpeed.Ai",
@@ -7477,7 +7756,7 @@ window.NEOCLOUD_PROVIDERS = [
   ],
   "customers": [],
   "origin": "Implicator.ai reported in October 2025 that Megaspeed was carved out of 7Road, a Chinese gaming and cloud company with state-backed investors. Bloomberg reported in December 2025 that the company is said to have spun off from 7Road. Megaspeed describes itself as a specialized GPU cloud and an NVIDIA Cloud Partner in Asia-Pacific. It lists an office at Ocean Financial Centre in Singapore and an Indonesian entity, PT Megaspeed International Indonesia, with an office in Jakarta.",
-  "today": "The New York Times reported in October 2025 that US Commerce Department officials were investigating whether Megaspeed was helping companies in China sidestep US export controls, and that it was positioned to buy about $2B of NVIDIA technology over the following year. In December 2025 Bloomberg reported a wider US probe and said Malaysian and Indonesian customs records showed Megaspeed importing at least $4.6B of NVIDIA hardware, or more than 136,000 GPUs. Bloomberg also reported that an NVIDIA inspection found only a few thousand Blackwell chips at Megaspeed's data centers and that NVIDIA confirmed more inventory at separate warehouses, according to a summary by The Economy. Megaspeed said in a December 2025 statement that inspections by the US Bureau of Industry and Security, Malaysia's Ministry of Investment, Trade and Industry and NVIDIA found no evidence of violations, and that it reserves the right to take legal action.",
+  "today": "The New York Times reported in October 2025 that US Commerce Department officials were investigating whether Megaspeed was helping companies in China sidestep US export controls, and that it was positioned to buy about $2B of NVIDIA technology over the following year. In December 2025 Bloomberg reported a wider US probe and said Malaysian and Indonesian customs records showed Megaspeed importing at least $4.6B of NVIDIA hardware, or more than 136,000 GPUs. Bloomberg also reported that an NVIDIA inspection found only a few thousand Blackwell chips at Megaspeed's data centers and that NVIDIA confirmed more inventory at separate warehouses, according to a summary by The Economy. Megaspeed said in a December 2025 statement that inspections by the US Bureau of Industry and Security, Malaysia's Ministry of Investment, Trade and Industry and NVIDIA found no evidence of violations, and that it reserves the right to take legal action. Bloomberg reported in April 2026 that Bain Capital's Bridge Data Centres had dropped Megaspeed as a tenant at a Malaysian campus and given its 68.4 MW allocation to another cloud provider.",
   "platform": "Megaspeed's website lists GPU compute on NVIDIA GB200 NVL72 and HGX H100 systems, along with CPU instances, managed Kubernetes, virtual servers, distributed storage and an inference service. It describes two data centers in Asia and direct-to-chip liquid cooling for its GB200 deployments.",
   "outlook": "The Singapore and US investigations reported in 2025 are the main item to watch. Implicator.ai reported that Megaspeed's NVIDIA orders stopped by late July 2025, the same month Malaysia tightened permits for NVIDIA chip exports and transfers.",
   "sources": [
@@ -7525,6 +7804,16 @@ window.NEOCLOUD_PROVIDERS = [
     "title": "MegaSpeed.Ai: Company",
     "url": "https://www.megaspeed.ai/company.html",
     "date": "2026-10"
+   },
+   {
+    "title": "Bloomberg: Bain Data Center Unit Cuts Ties With Nvidia Buyer After US Probe",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-08/bain-data-center-unit-cuts-ties-with-nvidia-buyer-after-us-probe",
+    "date": "2026-04-08"
+   },
+   {
+    "title": "Tom's Hardware via Yahoo Finance: Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/bain-capitals-data-center-unit-144754276.html",
+    "date": "2026-04-08"
    },
    {
     "title": "Megaspeed: Company website, read October 2026",
@@ -7859,6 +8148,144 @@ window.NEOCLOUD_PROVIDERS = [
   "confidence": "high"
  },
  {
+  "slug": "polarise",
+  "name": "Polarise",
+  "aka": "",
+  "category": "neocloud",
+  "region": "Europe",
+  "hq": "Düsseldorf, Germany",
+  "founded": "",
+  "ownership": "Private",
+  "website": "https://polarise.eu",
+  "accelerators": [
+   "NVIDIA GB300 NVL72",
+   "NVIDIA HGX B300",
+   "NVIDIA GB200 NVL72",
+   "NVIDIA B200"
+  ],
+  "products": [
+   "Bare metal",
+   "Managed Kubernetes",
+   "Inference API",
+   "Colocation",
+   "Data center development"
+  ],
+  "snippet": "German NVIDIA Cloud Partner that builds and runs AI factories in Munich, Frankfurt and Oslo. It built the Munich site behind Deutsche Telekom's Industrial AI Cloud, which holds up to 10,000 NVIDIA GPUs.",
+  "facts": [
+   {
+    "label": "Munich AI factory",
+    "value": "Up to 10,000 NVIDIA Blackwell GPUs in 15 MW"
+   },
+   {
+    "label": "Macquarie financing",
+    "value": "Up to €117M (January 2026)"
+   },
+   {
+    "label": "Amberg site",
+    "value": "65 MW at launch, scalable to 120 MW (mid-2027)"
+   },
+   {
+    "label": "Prague reservation",
+    "value": "15 MW at CRA Prague Gateway (mid-2027)"
+   },
+   {
+    "label": "SWI deal valuation",
+    "value": "€500M (February 2026, later turned into debt)"
+   }
+  ],
+  "customers": [
+   "Deutsche Telekom",
+   "NayaOne"
+  ],
+  "origin": "Michel Boutouil, the CEO, came from finance and had founded and invested in HPC companies and built data centers across Europe before he led Polarise. Polarise announced its first AI factory, AI Hub ONE at Oslo Airport City in Norway, at NVIDIA GTC in March 2024, with waste heat going to Statkraft Varme's district heating network. In June 2025 it launched the Sovereign AI Factory Frankfurt for banks and financial firms and announced a DGX SuperPOD of eight NVIDIA DGX GB200 systems for Oslo. It then took on the Munich project for Deutsche Telekom, converting an existing bank data center in Tucherpark into an AI factory.",
+  "today": "Polarise built the Munich AI factory that Deutsche Telekom opened in February 2026 as its Industrial AI Cloud, fitting the Tucherpark building with modular AI Pods in about six months. The site holds up to 10,000 NVIDIA Blackwell GPUs in 15 MW and delivers up to 0.5 exaflops. Macquarie agreed in January 2026 to provide up to €117M to fit out the Munich site and fund further projects in Germany and Europe. SWI Stoneweg Icona Group, listed on Euronext Amsterdam, agreed in February 2026 to take a majority stake at a €500M valuation, and in August the two companies converted that agreement into a debt facility of an undisclosed double-digit million euro amount. Polarise plans an AI factory in Amberg in the Unterallgäu district of Bavaria, with 65 MW at launch in mid-2027 and room for 120 MW. In September 2026 it reserved 15 MW at CRA's Prague Gateway data centre near Prague, also due in mid-2027, with exclusive rights to expand. It moved its headquarters from Paderborn to Düsseldorf in July 2026, and in August it said it would join a consortium for the EU tender for AI gigafactories.",
+  "platform": "Polarise sells GPU capacity as bare metal, as dedicated clusters on its Virtual AI Cloud Core, as fully managed private clouds and as colocation in German data centers. Its Token Studio Drive service offers API access to open models for text, vision and image generation, and a March 2026 partnership with vCluster Labs adds isolated managed Kubernetes clusters on shared GPUs. It lists NVIDIA HGX B300 and GB300 NVL72 systems for new capacity. NVIDIA's GTC 2026 announcements named Polarise as the NVIDIA Cloud Partner behind the Sovereign AI Factory Frankfurt, where NayaOne runs a sandbox platform for fintech firms.",
+  "outlook": "Polarise plans to open Amberg and Prague in mid-2027 and says it has two more sites available in Bavaria and a possible site in North Rhine-Westphalia. Its CEO argues that Europe should build a connected network of sites instead of a few large campuses, and the company frames its gigafactory bid around that idea. Polarise says it is advancing its sites and platform independently of the tender and treats the EU programme as an accelerator, not a prerequisite.",
+  "sources": [
+   {
+    "title": "Polarise: Polarise officially announces AI Hub ONE AI Factory on NVIDIA GTC in San Jose",
+    "url": "https://polarise.eu/newsroom/polarise-officially-announces-ai-hub-one-ai-factory-on-nvidia-gtc-in-san-jose",
+    "date": "2024-03-19"
+   },
+   {
+    "title": "Polarise: Sovereign AI Factory Frankfurt Sets New Standard for Building and Deploying AI in Europe",
+    "url": "https://polarise.eu/newsroom/sovereign-ai-factory-frankfurt-announcement-2025",
+    "date": "2025-06-11"
+   },
+   {
+    "title": "Polarise: Polarise Among First AI Infrastructure Providers in Europe to Deploy NVIDIA DGX SuperPOD with NVIDIA DGX GB200 Systems",
+    "url": "https://polarise.eu/newsroom/polarise-announces-dgx-superpod-deployment-at-gtc-paris",
+    "date": "2025-06-12"
+   },
+   {
+    "title": "Macquarie: Polarise and Macquarie announce up to €117 million financing deal for European AI ambitions",
+    "url": "https://www.macquarie.com/au/en/about/news/2026/polarise-and-macquarie-announce-up-to-117-million-euros-financing-deal-for-european-ai-ambitions.html",
+    "date": "2026-01-12"
+   },
+   {
+    "title": "Deutsche Telekom: Germany's first AI factory for industry officially goes into operation in Munich",
+    "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/germany-s-first-ai-factory-for-industry",
+    "date": "2026-02-04"
+   },
+   {
+    "title": "Polarise: A Speedboat Partnership for Germany (case study)",
+    "url": "https://polarise.eu/case-studies/a-speedboat-partnership-for-germany/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Polarise: Euronext Amsterdam listed SWI Stoneweg Icona Group moves into AI compute with majority investment in Polarise",
+    "url": "https://polarise.eu/newsroom/swi-group-acquires-majority-stake-in-polarise-february-2026",
+    "date": "2026-02-24"
+   },
+   {
+    "title": "Polarise: Polarise Builds Artificial Intelligence Data Center in Amberg - Unterallgäu (Greater Augsburg Area)",
+    "url": "https://polarise.eu/newsroom/polarise-builds-ai-data-center-amberg-unterallgaeu-march-2026",
+    "date": "2026-03-10"
+   },
+   {
+    "title": "NVIDIA: NVIDIA GTC 2026 - Live Updates on What's Next in AI",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "date": "2026-03"
+   },
+   {
+    "title": "Polarise: Polarise and vCluster Labs Announce Strategic Partnership to Accelerate Sovereign AI Infrastructure in Germany & Beyond",
+    "url": "https://polarise.eu/newsroom/polarise-vcluster-labs-strategic-partnership-sovereign-ai-march-2026",
+    "date": "2026-03-18"
+   },
+   {
+    "title": "Polarise: Polarise becomes an official sponsor of Fortuna Düsseldorf",
+    "url": "https://polarise.eu/newsroom/polarise-becomes-official-sponsor-of-fortuna-duesseldorf",
+    "date": "2026-07-27"
+   },
+   {
+    "title": "Polarise: Polarise Plans to Participate in EU Tender for AI Gigafactories",
+    "url": "https://polarise.eu/newsroom/polarise-plans-to-participate-in-eu-tender-for-ai-gigafactories",
+    "date": "2026-08-05"
+   },
+   {
+    "title": "Polarise: Polarise secures further debt financing to expand its European AI cloud platform",
+    "url": "https://polarise.eu/newsroom/polarise-secures-debt-financing-from-swi-group-for-european-ai-cloud-expansion",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "Polarise: Polarise Expands into Central Europe, Reserving Capacity at CRA's Prague Gateway Data Centre",
+    "url": "https://polarise.eu/newsroom/polarise-expands-into-central-europe-reserving-capacity-at-cras-prague-gateway-data-centre",
+    "date": "2026-09-09"
+   },
+   {
+    "title": "Polarise: Home page",
+    "url": "https://polarise.eu",
+    "date": "2026-10"
+   },
+   {
+    "title": "Real Asset Live: Michel Boutouil (speaker profile)",
+    "url": "https://realassetlive.com/speakers/michel-boutouil/",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
   "slug": "qumulusai",
   "name": "QumulusAI",
   "aka": "Global Digital Holdings, The Cloud Minders",
@@ -7905,8 +8332,6 @@ window.NEOCLOUD_PROVIDERS = [
   ],
   "customers": [
    "DRW",
-   "Baseten",
-   "fal",
    "RunPod",
    "Hyperbolic"
   ],
@@ -8192,1260 +8617,10 @@ window.NEOCLOUD_PROVIDERS = [
   "confidence": "low"
  },
  {
-  "slug": "whitefiber",
-  "name": "WhiteFiber",
-  "aka": "",
-  "category": "neocloud",
-  "region": "North America",
-  "hq": "New York, New York, US",
-  "founded": "",
-  "ownership": "Public (Nasdaq: WYFI), majority held by Bit Digital",
-  "website": "https://www.whitefiber.com",
-  "accelerators": [
-   "NVIDIA H200",
-   "NVIDIA B200",
-   "NVIDIA B300"
-  ],
-  "products": [
-   "Bare metal",
-   "Colocation",
-   "Data center development"
-  ],
-  "snippet": "GPU cloud and AI colocation company spun out of Bit Digital. Its NC-1 campus in North Carolina began billing Nscale for 40 MW in 2026, and it signed more than $540M of new cloud contracts.",
-  "facts": [
-   {
-    "label": "NC-1 colocation",
-    "value": "40 MW for Nscale, 10 years, about $865M"
-   },
-   {
-    "label": "New cloud contracts",
-    "value": "More than $540M since May 2026"
-   },
-   {
-    "label": "Q2 2026 revenue",
-    "value": "$28.8M, net loss $15.0M"
-   },
-   {
-    "label": "Remaining performance obligations",
-    "value": "About $932.9M (June 2026)"
-   },
-   {
-    "label": "NC-1 potential",
-    "value": "About 300 MW gross"
-   }
-  ],
-  "customers": [
-   "Nscale",
-   "Prime Intellect"
-  ],
-  "origin": "Bit Digital, a Bitcoin and Ethereum miner, started renting NVIDIA GPUs in 2023 and grouped that business with its Montreal data centers under the WhiteFiber name. WhiteFiber listed on Nasdaq in August 2025, with Bit Digital keeping a controlling stake.",
-  "today": "WhiteFiber reported Q2 2026 revenue of $28.8M, with $23.8M from cloud services (including $12.3M from a customer termination) and $4.7M from colocation. Its NC-1 campus in Madison, North Carolina delivered initial capacity to Nscale under a 10-year, 40 MW colocation agreement worth about $865M. Since May 2026 it has signed more than $540M of multi-year cloud contracts, including a GPU deployment in the Paris region worth more than $160M, a Vera Rubin cluster in Canada for Prime Intellect worth $108M and a B300 deployment in Iceland worth $87.5M.",
-  "platform": "WhiteFiber rents dedicated NVIDIA GPU clusters as bare metal and also leases powered data center space for other clouds to fill. NC-1 can grow to about 300 MW of gross power over time, and the company also runs sites in Montreal.",
-  "outlook": "WhiteFiber held $60.4M of cash and restricted cash at the end of June 2026 and is negotiating secured financing for NC-1. In June it took a $100M delayed-draw loan from Bit Digital and B. Riley at 9.5%. Funding the next NC-1 phase and delivering the Paris and Prime Intellect clusters on time are the items to watch.",
-  "sources": [
-   {
-    "title": "PR Newswire: WhiteFiber and Nscale Announce 10-Year, 40 MW Colocation Agreement Representing Approximately $865 Million in Total Contract Value at NC-1 AI Data Center Campus",
-    "url": "https://www.prnewswire.com/news-releases/whitefiber-and-nscale-announce-10-year-40-mw-colocation-agreement-representing-approximately-865-million-in-total-contract-value-at-nc-1-ai-data-center-campus-302646399.html",
-    "date": "2025-12-18"
-   },
-   {
-    "title": "The Business Journals: Madison data center reaches milestone as WhiteFiber lands major AI infrastructure client",
-    "url": "https://www.bizjournals.com/triad/news/2026/01/22/whitefiber-madison-nc-data-center-financing-deals.html",
-    "date": "2026-01-22"
-   },
-   {
-    "title": "Yahoo Finance: WhiteFiber Lines Up $100 Million Debt And $160 Million AI Contract",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-lines-100-million-debt-050747329.html",
-    "date": "2026-06-04"
-   },
-   {
-    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
-    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html",
-    "date": "2026-08-12"
-   },
-   {
-    "title": "Blockspace Media: WhiteFiber revenue rises 54% as NC-1 starts billing contracted capacity",
-    "url": "https://blockspace.media/insight/whitefiber-revenue-rises-nc1-billing-cloud-contracts/",
-    "date": "2026-08-12"
-   },
-   {
-    "title": "WhiteFiber: Company website, read October 2026",
-    "url": "https://www.whitefiber.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "alibaba-cloud",
-  "name": "Alibaba Cloud",
-  "aka": "Aliyun",
-  "category": "hyperscaler",
-  "region": "Asia-Pacific",
-  "hq": "Hangzhou, China",
-  "founded": "2009",
-  "ownership": "Subsidiary of Alibaba Group (NYSE: BABA, HKEX: 9988)",
-  "website": "https://www.alibabacloud.com",
-  "accelerators": [
-   "T-Head Zhenwu",
-   "NVIDIA GPUs"
-  ],
-  "products": [
-   "Bare metal",
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Inference API",
-   "Training and fine-tuning",
-   "Storage",
-   "Own silicon"
-  ],
-  "snippet": "China's largest cloud provider builds its own AI chips through T-Head and serves its Qwen models. Cloud revenue grew 45% in the June 2026 quarter, and Alibaba raised HK$80B in August 2026 for AI infrastructure.",
-  "facts": [
-   {
-    "label": "Cloud revenue, June 2026 quarter",
-    "value": "RMB 48.4B ($7.1B), up 45%"
-   },
-   {
-    "label": "AI-related product revenue, June 2026 quarter",
-    "value": "RMB 12.4B ($1.8B)"
-   },
-   {
-    "label": "Capex, June 2026 quarter",
-    "value": "RMB 67.7B ($10.0B), up 75%"
-   },
-   {
-    "label": "Share placement, August 2026",
-    "value": "HK$80B (about $10.2B)"
-   },
-   {
-    "label": "Zhenwu chip external customers",
-    "value": "650+"
-   }
-  ],
-  "customers": [],
-  "origin": "Alibaba founded Alibaba Cloud in 2009 to run its own e-commerce systems and to sell computing to outside customers. It grew into the largest cloud provider in China and opened regions abroad. Alibaba also designs AI chips through its T-Head unit and trains the Qwen family of open-weight models, which it serves on its cloud.",
-  "today": "Alibaba's cloud revenue rose 45% to RMB 48.4B ($7.1B) in the quarter that ended June 2026, and AI-related product revenue reached RMB 12.4B ($1.8B). Quarterly capex rose 75% to RMB 67.7B ($10.0B), which Alibaba attributes to procurement timing, added compute capacity and higher chip component prices. In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.2B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers. T-Head's Zhenwu AI chips now serve more than 650 external customers through Alibaba Cloud. Alibaba announced in February 2025 a plan to spend more than RMB 380B on cloud and AI infrastructure over three years.",
-  "platform": "Alibaba Cloud sells GPU and in-house accelerator instances, a machine learning platform for training and serving, and API access to Qwen and other models. It operates 29 regions and 87 availability zones worldwide.",
-  "outlook": "US export controls limit Alibaba's access to NVIDIA's most advanced GPUs, which makes the T-Head chip line central to its capacity growth. Alibaba plans to use the August 2026 placement proceeds to expand computing infrastructure in China and abroad. Higher chip component prices already push up its capex.",
-  "sources": [
-   {
-    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
-    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
-    "date": "2026-08-20"
-   },
-   {
-    "title": "SEC: Alibaba Group Form 6-K, pricing of HK$80 billion placing of new shares",
-    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361715/baba-ex99_4.htm",
-    "date": "2026-08-24"
-   },
-   {
-    "title": "SEC: Alibaba Group Form 6-K, completion of placing of new shares",
-    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/baba-ex99_1.htm",
-    "date": "2026-08-26"
-   },
-   {
-    "title": "Wikipedia: Alibaba Cloud",
-    "url": "https://en.wikipedia.org/wiki/Alibaba_Cloud",
-    "date": "2026-09"
-   },
-   {
-    "title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-    "date": "2026-08-24"
-   },
-   {
-    "title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop",
-    "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763",
-    "date": "2026-08-22"
-   },
-   {
-    "title": "Fortune: Alibaba pledges over $50 billion in new AI and cloud investment as investors send shares to 3-year highs",
-    "url": "https://fortune.com/asia/2025/02/24/alibaba-pledges-more-ai-cloud-investment-shares/",
-    "date": "2025-02-24"
-   },
-   {
-    "title": "Alibaba Cloud: Company website, read October 2026",
-    "url": "https://www.alibabacloud.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "ibm-cloud",
-  "name": "IBM Cloud",
-  "aka": "",
-  "category": "hyperscaler",
-  "region": "North America",
-  "hq": "Armonk, New York, US",
-  "founded": "",
-  "ownership": "Division of IBM (NYSE: IBM)",
-  "website": "https://www.ibm.com/cloud",
-  "accelerators": [
-   "NVIDIA B300",
-   "NVIDIA H200",
-   "NVIDIA H100",
-   "NVIDIA L40S",
-   "NVIDIA L4",
-   "NVIDIA A100",
-   "AMD MI300X",
-   "Intel Gaudi 3"
-  ],
-  "products": [
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Inference API",
-   "Storage"
-  ],
-  "snippet": "IBM's public cloud targets enterprise and regulated workloads. It rents NVIDIA GPUs up to Blackwell Ultra, AMD Instinct MI300X and Intel Gaudi 3, with up to eight accelerators per virtual server.",
-  "facts": [
-   {
-    "label": "Newest NVIDIA GPU offered",
-    "value": "Blackwell Ultra (B300)"
-   },
-   {
-    "label": "Largest NVIDIA instance",
-    "value": "8x H200 (141 GB each)"
-   },
-   {
-    "label": "Intel instance",
-    "value": "8x Gaudi 3 (128 GB each)"
-   },
-   {
-    "label": "AMD option",
-    "value": "Instinct MI300X"
-   }
-  ],
-  "customers": [],
-  "origin": "IBM Cloud is the public cloud arm of IBM's hybrid cloud strategy, which pairs it with Red Hat OpenShift and the watsonx AI platform. Its GPU business serves enterprises that want to run AI next to IBM software and inside IBM's security and compliance controls.",
-  "today": "IBM Cloud lists NVIDIA Blackwell Ultra GPUs as available, alongside AMD Instinct MI300X and Intel Gaudi 3 accelerators. Its VPC virtual server profiles run up to eight NVIDIA H100, H200 or Gaudi 3 accelerators per instance, with smaller L4, L40S and A100 options.",
-  "platform": "Customers deploy GPU instances in IBM Cloud VPC or through Red Hat OpenShift, and use IBM watsonx for model development and serving.",
-  "outlook": "",
-  "sources": [
-   {
-    "title": "IBM: GPUs and AI accelerators on IBM Cloud",
-    "url": "https://www.ibm.com/cloud/gpu",
-    "date": "2026-10"
-   },
-   {
-    "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
-    "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family",
-    "date": "2026-10"
-   },
-   {
-    "title": "IBM Cloud: Company website, read October 2026",
-    "url": "https://www.ibm.com/cloud",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "bitdeer",
-  "name": "Bitdeer",
-  "aka": "Bitdeer AI (cloud unit)",
-  "category": "developer",
-  "region": "Asia-Pacific",
-  "hq": "Singapore",
-  "founded": "2021",
-  "ownership": "Public (Nasdaq: BTDR)",
-  "website": "https://www.bitdeer.com",
-  "accelerators": [
-   "NVIDIA H100",
-   "NVIDIA H200",
-   "NVIDIA B200",
-   "NVIDIA GB200 NVL72",
-   "NVIDIA GB300 NVL72"
-  ],
-  "products": [
-   "Bare metal",
-   "Data center development",
-   "Colocation",
-   "Own silicon"
-  ],
-  "snippet": "Singapore Bitcoin miner that designs its own mining chips and runs an AI cloud, Bitdeer AI. It signed a $4.7B, 16-year AI lease for 121 MW at its Tydal, Norway campus in August 2026.",
-  "facts": [
-   {
-    "label": "Tydal, Norway lease",
-    "value": "121 MW IT, 16 years, $4.7B base (August 2026)"
-   },
-   {
-    "label": "Secured AI cloud capacity",
-    "value": "About 333.5 MW IT (October 2026)"
-   },
-   {
-    "label": "Capacity target",
-    "value": "Up to 350 MW by Q1 2028"
-   },
-   {
-    "label": "AI cloud ARR",
-    "value": "About $76M (July 2026)"
-   },
-   {
-    "label": "GPUs deployed",
-    "value": "4,248 at 95% utilization (July 2026)"
-   },
-   {
-    "label": "Self-mining hashrate",
-    "value": "76.7 EH/s (July 2026)"
-   }
-  ],
-  "customers": [],
-  "origin": "Bitmain co-founder Jihan Wu set up Bitdeer as a separate Bitcoin mining and hosting company, and it listed on Nasdaq in 2023. It runs mining sites in the United States, Norway and Bhutan and designs its own SEALMINER mining chips and machines. Bitdeer AI, its GPU cloud unit, now rents NVIDIA capacity while the company converts some mining sites to AI data centers.",
-  "today": "In August 2026 Bitdeer signed a 16-year lease for 121 MW of IT load at Tydal, Norway, worth $4.7B in base rent and up to $8.0B with an 8-year extension, backed by about $1.3B of letters of credit, with a leading AI lab as end customer. Its AI cloud ran 4,248 GPUs at 95% utilization in July 2026, for about $76M of ARR. By October 2026 it had secured about 333.5 MW of AI cloud capacity across Malaysia, Norway and the United States, about 95% of its target of up to 350 MW by Q1 2028.",
-  "platform": "Bitdeer AI is an NVIDIA Cloud Partner that rents H100, H200, B200, GB200 and GB300 systems. Its Malaysian sites include the Cyberjaya and Johor campuses and a new 67 MW A901 campus, and the 60 MW A103 hall at Cyberjaya is designed for liquid-cooled Vera Rubin racks. Bitdeer also bought 200 acres near its Rockdale, Texas site for $100M in 2026 to expand AI capacity.",
-  "outlook": "Bitdeer reports an AI cloud pipeline above $10B, though it had no offtake contract for A103 when it announced the hall. On October 8, 2026 it withdrew and reissued a release on its Malaysia capacity, so figures from that week need care. The company still earns most of its revenue from mining and chip sales, which keeps it exposed to the Bitcoin price.",
-  "sources": [
-   {
-    "title": "Data Center Dynamics: Bitdeer taps contractor to begin conversion of Norwegian crypto mine to HPC",
-    "url": "https://www.datacenterdynamics.com/en/news/bitdeer-taps-contractor-to-begin-conversion-of-norwegian-crypto-mine-to-hpc/",
-    "date": "2026-04-01"
-   },
-   {
-    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
-    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
-    "date": "2026-08-26"
-   },
-   {
-    "title": "Blockspace Media: Bitdeer pays $100 million for 200 acres near Rockdale AI/HPC site",
-    "url": "https://blockspace.media/insight/bitdeer-buys-rockdale-land-ai-hpc-expansion/",
-    "date": "2026-09-02"
-   },
-   {
-    "title": "Stock Titan: Notice to Disregard, Bitdeer Technologies",
-    "url": "https://www.stocktitan.net/news/BTDR/notice-to-disregard-bitdeer-technologies-d6hppmzq6ina.html",
-    "date": "2026-10-08"
-   },
-   {
-    "title": "TheEnergyMag: Bitdeer Secures 67MW AI Data Center Campus in Malaysia, Bringing Total to 273.5MW",
-    "url": "https://www.theenergymag.com/news/market-news/bitdeer-secures-60-mw-malaysia-ai-data-center-95-of-350-mw-target",
-    "date": "2026-10-08"
-   },
-   {
-    "title": "GlobeNewswire: Bitdeer AI Expands Malaysia Campus with New 60MW A103 Facility, Closing in on Up-to-350MW Global Capacity Target",
-    "url": "https://www.globenewswire.com/news-release/2026/10/12/3379255/0/en/bitdeer-ai-expands-malaysia-campus-with-new-60mw-a103-facility-closing-in-on-up-to-350mw-global-capacity-target.html",
-    "date": "2026-10-12"
-   },
-   {
-    "title": "Securities.io: Bitdeer AI Secures 60MW A103 Facility Under 8-Year Agreement",
-    "url": "https://www.securities.io/bitdeer-ai-secures-60mw-a103-facility-under-8-year-agreement/",
-    "date": "2026-10-12"
-   },
-   {
-    "title": "ForkLog: Bitdeer's Jihan Wu Takes Bitdeer to Nasdaq via SPAC Deal",
-    "url": "https://forklog.com/en/bitdeers-jihan-wu-takes-bitdeer-to-nasdaq-via-spac-deal/",
-    "date": "2023-04-14"
-   },
-   {
-    "title": "TheEnergyMag: Bitdeer Acquires 200 Acres in Texas for $100 Million to Expand AI/HPC Infrastructure",
-    "url": "https://www.theenergymag.com/news/market-news/bitdeer-acquires-200-acres-in-texas-for-100-million-to-expand-ai-hpc-infrastructure",
-    "date": "2026-09-01"
-   },
-   {
-    "title": "Bitdeer: Company website, read October 2026",
-    "url": "https://www.bitdeer.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "evroc",
-  "name": "Evroc",
-  "aka": "evroc AB",
-  "category": "sovereign",
-  "region": "Europe",
-  "hq": "Stockholm, Sweden",
-  "founded": "2022",
-  "ownership": "Private",
-  "website": "https://www.evroc.com",
-  "accelerators": [
-   "NVIDIA Blackwell (planned cluster)"
-  ],
-  "products": [
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Storage",
-   "Inference API",
-   "Data center development"
-  ],
-  "snippet": "Swedish sovereign cloud that is building its own AI data centers near Stockholm and Cannes. In July 2026 the Swedish Armed Forces picked it to host their combat cloud platform.",
-  "facts": [
-   {
-    "label": "Mougins AI factory plan",
-    "value": "Up to 96 MW and 50,000 GPUs"
-   },
-   {
-    "label": "Arlandastad site plan",
-    "value": "€600M, up to 16,000 GPUs"
-   },
-   {
-    "label": "Defense contract",
-    "value": "Swedish Armed Forces SINCC, July 2026"
-   },
-   {
-    "label": "Long-term plan",
-    "value": "Eight data centers in the EU"
-   }
-  ],
-  "customers": [
-   "Swedish Armed Forces and FMV (SINCC)",
-   "Vilja"
-  ],
-  "origin": "Mattias Åström founded Evroc in Stockholm in 2022 to build a European-owned hyperscale cloud as an alternative to US providers. The company published its plan in June 2023 and started service from colocation sites in Stockholm and Paris, adding Frankfurt in 2025. It designs its own liquid-cooled facilities for dense AI racks.",
-  "today": "Evroc raised €50.6M ($55M) in a Series A in March 2025 from blisce/, EQT Ventures, Norrsken VC and Giant Ventures. It launched its cloud platform in July 2025 and sells compute, storage, networking and AI services to defense, government, finance and healthcare customers. In July 2026 the Swedish Armed Forces and the Swedish Defence Materiel Administration selected Evroc to build the cloud platform for the Swedish Interoperable Combat Cloud, which handles NATO Restricted information. Evroc began offering SUSE Linux and certified SUSE Rancher Prime Kubernetes in early 2026. In September 2026 it partnered with Vilja to bring agentic AI to European banks.",
-  "platform": "Evroc runs its own cloud software on its own hardware and keeps data, control planes and support inside Europe. Its AI products include roc, an enterprise AI service, along with AI services for coding agents and banking that keep data in Europe.",
-  "outlook": "Evroc plans an AI factory in Mougins near Cannes of up to 96 MW and 50,000 GPUs, and a €600M site at Arlandastad north of Stockholm for up to 16,000 GPUs from the second half of 2026. It aims for eight data centers across the EU. The company said in 2025 that it planned to raise more capital to fund these builds.",
-  "sources": [
-   {
-    "title": "TechCrunch: Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe",
-    "url": "https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/",
-    "date": "2025-03-20"
-   },
-   {
-    "title": "SiliconANGLE: Cloud infrastructure startup Evroc raises €50.6M to build new data centers",
-    "url": "https://siliconangle.com/2025/03/20/cloud-infrastructure-startup-evroc-raises-e50-6m-build-new-data-centers/",
-    "date": "2025-03-20"
-   },
-   {
-    "title": "DCD: Evroc plans 96MW data center outside Cannes, France",
-    "url": "https://www.datacenterdynamics.com/en/news/evroc-plans-96mw-data-center-outside-cannes-france/",
-    "date": "2025-02-10"
-   },
-   {
-    "title": "DCD: Sovereign European cloud Evroc launches",
-    "url": "https://www.datacenterdynamics.com/en/news/sovereign-european-cloud-evroc-launches/",
-    "date": "2025-07-08"
-   },
-   {
-    "title": "PR Newswire: evroc reveals plans to build Europe's first sovereign hyperscale cloud",
-    "url": "https://www.prnewswire.co.uk/news-releases/evroc-reveals-plans-to-build-europes-first-sovereign-hyperscale-cloud-301841271.html",
-    "date": "2023-06-06"
-   },
-   {
-    "title": "Nordic Defence Sector: Evroc Develops Cloud Platform for the Swedish Armed Forces' New Command and Control System",
-    "url": "https://nordicdefencesector.com/en/article/evroc-builds-cloud-platform-for-the-swedish-armed-forces-sincc",
-    "date": "2026-07-02"
-   },
-   {
-    "title": "DCD: Swedish military teams up with Evroc for Combat Cloud",
-    "url": "https://www.datacenterdynamics.com/en/news/swedish-military-teams-up-with-evroc-for-combat-cloud/",
-    "date": "2026-06-22"
-   },
-   {
-    "title": "DataCentreNews UK: SUSE and evroc forge sovereign European cloud stack deal",
-    "url": "https://datacentrenews.uk/story/suse-evroc-forge-sovereign-european-cloud-stack-deal",
-    "date": "2026-01-08"
-   },
-   {
-    "title": "Konsulteer: Vilja Partners With Evroc On Sovereign AI Banking",
-    "url": "https://www.konsulteer.com/article/vilja-partners-with-evroc-to-bring-sovereign-ai-into-european-banking",
-    "date": "2026-09-18"
-   },
-   {
-    "title": "evroc: Homepage",
-    "url": "https://www.evroc.com/",
-    "date": "2026-10"
-   },
-   {
-    "title": "Evroc: Company website, read October 2026",
-    "url": "https://www.evroc.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "indosat",
-  "name": "Indosat Ooredoo Hutchison",
-  "aka": "IOH, Indosat, Lintasarta, Zankore",
-  "category": "sovereign",
-  "region": "Asia-Pacific",
-  "hq": "Jakarta, Indonesia",
-  "founded": "2022",
-  "ownership": "Public (IDX: ISAT), controlled by Ooredoo and CK Hutchison",
-  "website": "https://ioh.co.id",
-  "accelerators": [
-   "NVIDIA H100",
-   "NVIDIA GB300 NVL72"
-  ],
-  "products": [
-   "Bare metal",
-   "Inference API",
-   "Data center development"
-  ],
-  "snippet": "Indonesian telco whose Lintasarta unit rents H100s as GPU Merdeka. Its new Zankore platform with Ooredoo and NVIDIA targets 1 GW, starting with 200 MW in the first half of 2027.",
-  "facts": [
-   {
-    "label": "GPU Merdeka launch",
-    "value": "August 2024, NVIDIA H100"
-   },
-   {
-    "label": "Zankore capacity target",
-    "value": "1 GW within three years"
-   },
-   {
-    "label": "Zankore first phase",
-    "value": "200 MW in H1 2027"
-   },
-   {
-    "label": "Ooredoo commitment",
-    "value": "$800M over five years for 49%"
-   },
-   {
-    "label": "Zankore debt financing",
-    "value": "$3.1B (September 2026)"
-   }
-  ],
-  "customers": [
-   "GoTo",
-   "NVIDIA",
-   "Nokia",
-   "Ooredoo",
-   "BDx Indonesia",
-   "F5"
-  ],
-  "origin": "Indosat's ICT arm Lintasarta launched GPU Merdeka in August 2024, a GPU cloud of NVIDIA H100 servers that Indosat calls a sovereign AI factory. It runs at a BDx Indonesia data center, and NVIDIA says Lintasarta built it in less than three months. Indosat also backs Sahabat-AI, an Indonesian language model that GoTo uses in its Dira voice assistant.",
-  "today": "In August 2026 Indosat launched Zankore with Ooredoo, NVIDIA and Nokia, an AI factory platform that targets 1 GW of NVIDIA capacity within three years and starts with about 200 MW of GB300 NVL72 systems in the first half of 2027. Ooredoo commits $800M over five years for a 49% stake, and Zankore raised a $3.1B term loan in September 2026. In October 2026 Indosat and F5 launched an AI services suite that sells model inference by the token.",
-  "platform": "GPU Merdeka sells servers with eight NVIDIA H100 SXM GPUs, 3.2 Tbps of InfiniBand per server and racks of up to 20 kW. Zankore uses NVIDIA's DSX AI factory design with Nokia networking.",
-  "outlook": "Zankore forecasts $13B of revenue over five years, and its first 200 MW must arrive in 2027 to start that plan. CoreWeave announced its own three data centers in Indonesia in August 2026, with 360 MW due online in 2028, and it named no Indonesian partner.",
-  "sources": [
-   {
-    "title": "Developing Telecoms: Indosat's Lintasarta launches Nvidia-powered AI cloud",
-    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/17197-indosat-s-lintasarta-launches-nvidia-powered-ai-cloud.html",
-    "date": "2024-08-22"
-   },
-   {
-    "title": "NVIDIA Blog: Indonesia Tech Leaders Team With NVIDIA and Partners to Launch Nation's AI",
-    "url": "https://blogs.nvidia.com/blog/indonesia-tech-leaders-sovereign-ai/",
-    "date": "2024-11-13"
-   },
-   {
-    "title": "TNGlobal: Indonesia's Indosat jointly launches 1GW AI factory platform Zankore with Qatar's Ooredoo, Finland's Nokia, US' NVIDIA",
-    "url": "https://technode.global/2026/08/07/indonesias-indosat-jointly-launches-1gw-ai-factory-platform-zankore-with-qatars-ooredoo-finlands-nokia-us-nvidia/",
-    "date": "2026-08-07"
-   },
-   {
-    "title": "The Next Web: Cherry-picking our tenants, Ooredoo bets $800m on Indonesia's first AI cloud",
-    "url": "https://thenextweb.com/news/zankore-ooredoo-800m-indonesia-ai-cloud-neocloud-nvidia",
-    "date": "2026-08-07"
-   },
-   {
-    "title": "Reuters: Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform",
-    "url": "https://www.reuters.com/business/media-telecom/ooredoo-backed-zankore-secures-31-billion-financing-nvidia-ai-cloud-platform-2026-09-09/",
-    "date": "2026-09-09"
-   },
-   {
-    "title": "Developing Telecoms: Indosat and F5 launch AI services suite for Southeast Asian enterprises",
-    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20948-indosat-and-f5-launch-ai-services-suite-for-southeast-asian-enterprises.html",
-    "date": "2026-10-11"
-   },
-   {
-    "title": "CoreWeave: CoreWeave Expands AI Cloud Platform Into Indonesia",
-    "url": "https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region",
-    "date": "2026-08-04"
-   },
-   {
-    "title": "Developing Telecoms: Zankore lands US$3.1b loan facility to finance Nvidia-powered AI platform",
-    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20802-zankore-lands-us-3-1b-loan-facility-to-finance-nvidia-powered-ai-platform.html",
-    "date": "2026-09-10"
-   },
-   {
-    "title": "Indosat Ooredoo Hutchison: Company website, read October 2026",
-    "url": "https://ioh.co.id",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "akamai",
-  "name": "Akamai Cloud",
-  "aka": "Akamai Technologies, Linode",
-  "category": "devcloud",
-  "region": "North America",
-  "hq": "Cambridge, Massachusetts, US",
-  "founded": "1998",
-  "ownership": "Public (Nasdaq: AKAM)",
-  "website": "https://www.akamai.com",
-  "accelerators": [
-   "NVIDIA RTX PRO 6000 Blackwell Server Edition"
-  ],
-  "products": [
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Inference API",
-   "Storage"
-  ],
-  "snippet": "Akamai turned its CDN and the Linode cloud it bought in 2022 into a distributed AI inference cloud. It signed over $2.8B of multi-year cloud contracts in 2026, including $1.8B from a frontier model provider.",
-  "facts": [
-   {
-    "label": "Cloud Infrastructure Services revenue, Q2 2026",
-    "value": "$99M, up 39%"
-   },
-   {
-    "label": "Multi-year cloud contracts signed in 2026",
-    "value": "Over $2.8B"
-   },
-   {
-    "label": "Frontier model provider commitment",
-    "value": "$1.8B over seven years"
-   },
-   {
-    "label": "Robotics customer contract",
-    "value": "$600M+ over four years"
-   },
-   {
-    "label": "Edge points of presence",
-    "value": "4,400+"
-   },
-   {
-    "label": "Linode purchase price",
-    "value": "About $900M (2022)"
-   }
-  ],
-  "customers": [],
-  "origin": "Akamai, a content delivery network company, bought the developer cloud Linode for about $900M in March 2022 to add general compute to its edge network. In October 2025 it launched Akamai Inference Cloud with NVIDIA, starting in 20 locations with NVIDIA RTX PRO 6000 Blackwell servers and BlueField-3 DPUs.",
-  "today": "Akamai's Cloud Infrastructure Services revenue grew 39% to $99M in the second quarter of 2026, out of $1.1B in total revenue. In May 2026 Akamai said a leading US frontier model provider committed $1.8B over seven years to its cloud infrastructure. By August it had signed multi-year cloud contracts worth more than $2.8B in 2026, including more than $600M over four years from a new US technology customer for robotics development.",
-  "platform": "Akamai Inference Cloud runs NVIDIA RTX PRO 6000 Blackwell GPUs with NVIDIA AI Enterprise software and NIM microservices, aimed at low-latency inference close to users. A Kubernetes-based developer platform, App Platform for LKE, ships with KServe for model serving, and Akamai markets some of the lowest data-transfer costs in the market rather than free egress. The service sits on an edge network that Akamai says spans more than 4,400 locations across 134 countries.",
-  "outlook": "Akamai said at launch that an expanded rollout beyond the first 20 Inference Cloud locations was underway. Cloud infrastructure revenue grows much faster than Akamai's total revenue, which it guides to $4.445B to $4.530B for 2026, but still makes up less than 10% of it.",
-  "sources": [
-   {
-    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
-    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
-    "date": "2026-08-06"
-   },
-   {
-    "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
-    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results",
-    "date": "2026-05-07"
-   },
-   {
-    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
-    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
-    "date": "2025-10-28"
-   },
-   {
-    "title": "Akamai: Akamai Inference Cloud platform",
-    "url": "https://www.akamai.com/products/akamai-inference-cloud-platform",
-    "date": "2026-10"
-   },
-   {
-    "title": "Akamai: Akamai Completes Acquisition of Linode",
-    "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode",
-    "date": "2022-03-21"
-   },
-   {
-    "title": "Akamai: AI Inference at the Edge: How Akamai's Evolution Made It Possible",
-    "url": "https://www.akamai.com/blog/cloud/full-circle-akamais-evolution-set-stage-ai-inference-era",
-    "date": "2025-11-26"
-   },
-   {
-    "title": "Akamai: AI Inference with App Platform for LKE",
-    "url": "https://www.akamai.com/cloud/guides/deploy-llm-for-ai-inferencing-on-apl",
-    "date": "2025-12"
-   },
-   {
-    "title": "Akamai Cloud: Company website, read October 2026",
-    "url": "https://www.akamai.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "high"
- },
- {
-  "slug": "gmo-gpu-cloud",
-  "name": "GMO GPU Cloud",
-  "aka": "GMO GPUクラウド",
-  "category": "devcloud",
-  "region": "Asia-Pacific",
-  "hq": "Tokyo, Japan",
-  "founded": "2024",
-  "ownership": "Public (TSE: 4784), part of GMO Internet Group (TSE: 9449)",
-  "website": "https://gpucloud.gmo/",
-  "accelerators": [
-   "NVIDIA H200",
-   "NVIDIA B300"
-  ],
-  "products": [
-   "Bare metal",
-   "Managed Slurm",
-   "Storage"
-  ],
-  "snippet": "Japanese GPU cloud run by Tokyo-listed GMO Internet with METI subsidy backing. It added NVIDIA B300 servers in December 2025 and plans a second site at a 15 MW renewable data center in Hokkaido.",
-  "facts": [
-   {
-    "label": "Launch",
-    "value": "November 22, 2024"
-   },
-   {
-    "label": "H200 at launch",
-    "value": "768 GPUs in 96 nodes"
-   },
-   {
-    "label": "METI subsidy",
-    "value": "Up to ¥1.925B toward a ¥10B plan"
-   },
-   {
-    "label": "B300 order",
-    "value": "200 GPUs in 25 servers"
-   },
-   {
-    "label": "Ishikari site",
-    "value": "15 MW, 100% renewable power"
-   }
-  ],
-  "customers": [
-   "Sakana AI",
-   "Turing",
-   "AIST",
-   "NEC",
-   "AI Robot Association (AIRoA)",
-   "OLM Digital",
-   "Omron Sinic X"
-  ],
-  "origin": "Masatoshi Kumagai founded GMO Internet Group in Tokyo in 1991, and the group built its business on domains, hosting and internet access. It first rented GPUs in March 2019 through GPU Cloud byGMO, a small NVIDIA V100 service. In April 2024 Japan's Ministry of Economy, Trade and Industry certified the group's plan to supply H200 cloud capacity under its economic security cloud program, with a subsidy of up to ¥1.925B toward a build of about ¥10B. GMO GPU Cloud launched on November 22, 2024 with 768 H200 GPUs and placed 37th on the TOP500 list that month.",
-  "today": "GMO Internet, Inc., the Tokyo-listed group company that took over the infrastructure business in January 2025, runs the service. In August 2025 it dropped a planned purchase of 256 more H200 GPUs and ordered 200 NVIDIA B300 GPUs in 25 servers instead. B300 bare metal servers went on sale on December 16, 2025, and a managed Slurm plan on B300 followed in March 2026. In February 2026 GMO invested ¥3.2B in the autonomous driving startup Turing and signed a four-year contract to supply it about 0.37 EFLOPS of H200 and B300 capacity. Sakana AI trained the alpha version of its Japanese Namazu models on the service, and AIST bought about ¥68.5M of GPU cloud capacity and support for February and March 2026. In October 2026 GMO announced a second site at a 15 MW data center in Ishikari, Hokkaido, which runs on 100% renewable power and links to Tokyo over NTT East's IOWN network.",
-  "platform": "The service runs NVIDIA HGX H200 and HGX B300 servers on NVIDIA Spectrum-X Ethernet with BlueField-3 DPUs and DDN shared storage, and GMO was the first Japanese cloud to adopt Spectrum-X. Customers choose a managed HPC cluster with Slurm preinstalled or a dedicated bare metal server, and GMO quotes GPU prices individually. During 2025 and 2026 it added MIG partitioning, a private container registry, Grafana dashboards, Enroot and Pyxis container support, and EDR security monitoring. GMO's own tests show the B300 finishing a Llama 2 70B LoRA fine-tuning run about twice as fast as the H200.",
-  "outlook": "GMO, TOKYU LAND and BroadBand Tower aim to start GPU service in Ishikari within 2026, which moves capacity beyond the Tokyo area where new grid connections are hard to secure. Long-term deals such as the four-year Turing contract and the AIST work give the service committed demand while it adds Blackwell capacity.",
-  "sources": [
-   {
-    "title": "GMO Internet Group: GPU cloud service for generative AI using NVIDIA H200 to launch first in Japan (Japanese)",
-    "url": "https://group.gmo/news/article/8933/",
-    "date": "2024-04-19"
-   },
-   {
-    "title": "GMO Internet Group: GMO Internet Group Launches GMO GPU Cloud, Ranked in the TOP500 Supercomputer List",
-    "url": "https://group.gmo/en/news/article/835/",
-    "date": "2024-11-22"
-   },
-   {
-    "title": "TOP500: November 2024 list",
-    "url": "https://www.top500.org/lists/top500/list/2024/11/",
-    "date": "2024-11"
-   },
-   {
-    "title": "GMO Internet Group: Notice Regarding Completion of Transition to Holding Company Structure",
-    "url": "https://group.gmo/en/ir_news/article/587/",
-    "date": "2024-12-25"
-   },
-   {
-    "title": "GMO Internet Group: GMO Internet decides on additional investment in GMO GPU Cloud (Japanese)",
-    "url": "https://group.gmo/news/article/9503/",
-    "date": "2025-05-14"
-   },
-   {
-    "title": "GMO Internet: GMO GPU Cloud adopts NVIDIA Blackwell Ultra GPU",
-    "url": "https://internet.gmo/en/news/article/71/",
-    "date": "2025-08-04"
-   },
-   {
-    "title": "GMO Internet: GMO GPU Cloud adopted as next-generation AI development infrastructure by Sakana AI",
-    "url": "https://internet.gmo/en/news/article/107/",
-    "date": "2025-11-13"
-   },
-   {
-    "title": "GMO GPU Cloud: NVIDIA HGX B300 GPU cloud now available (Japanese)",
-    "url": "https://gpucloud.gmo/news/757/",
-    "date": "2025-12-16"
-   },
-   {
-    "title": "GMO Internet: Performance verification of NVIDIA B300 environment (Japanese)",
-    "url": "https://internet.gmo/news/article/139/",
-    "date": "2026-01-23"
-   },
-   {
-    "title": "GMO GPU Cloud: GPU cloud resources and technical support for AIST (Japanese)",
-    "url": "https://gpucloud.gmo/news/811/",
-    "date": "2026-02-03"
-   },
-   {
-    "title": "GMO Internet: GMO Internet invests ¥3.2 billion in Turing and signs strategic partnership (Japanese)",
-    "url": "https://internet.gmo/news/article/147/",
-    "date": "2026-02-12"
-   },
-   {
-    "title": "GMO Internet: GMO GPU Cloud launches NVIDIA HGX B300 under the Slurm Service Dedicated Plan",
-    "url": "https://internet.gmo/en/news/article/169/",
-    "date": "2026-03-25"
-   },
-   {
-    "title": "GMO GPU Cloud: GMO GPU Cloud resources used to train Sakana AI's Namazu (Japanese)",
-    "url": "https://gpucloud.gmo/news/954/",
-    "date": "2026-03-24"
-   },
-   {
-    "title": "GMO Internet: GMO Internet Opens New GMO GPU Cloud Site at 100% Renewable Energy Data Center in Ishikari, Hokkaido",
-    "url": "https://internet.gmo/en/news/article/240/",
-    "date": "2026-10-07"
-   },
-   {
-    "title": "GMO Internet Group: GMO Internet Launches GPU Cloud byGMO",
-    "url": "https://group.gmo/en/news/article/797/",
-    "date": "2019-03-28"
-   },
-   {
-    "title": "GMO GPU Cloud: Company website, read October 2026",
-    "url": "https://gpucloud.gmo/",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "high"
- },
- {
-  "slug": "hetzner",
-  "name": "Hetzner",
-  "aka": "Hetzner Online",
-  "category": "devcloud",
-  "region": "Europe",
-  "hq": "Gunzenhausen, Germany",
-  "founded": "1997",
-  "ownership": "Private",
-  "website": "https://www.hetzner.com",
-  "accelerators": [
-   "NVIDIA RTX PRO 6000 Blackwell Max-Q",
-   "NVIDIA RTX PRO 4000 Blackwell SFF"
-  ],
-  "products": [
-   "Bare metal"
-  ],
-  "snippet": "German hosting company known for low-cost dedicated servers. It rents single-GPU dedicated servers with NVIDIA RTX PRO Blackwell cards from €214 a month.",
-  "facts": [
-   {
-    "label": "GEX45 monthly price",
-    "value": "€214"
-   },
-   {
-    "label": "GEX131 monthly price",
-    "value": "€889"
-   },
-   {
-    "label": "GEX63 monthly price",
-    "value": "€999"
-   },
-   {
-    "label": "Founded",
-    "value": "1997"
-   }
-  ],
-  "customers": [],
-  "origin": "Martin Hetzner founded the company in 1997 in Gunzenhausen, Bavaria. It became one of Europe's largest datacenter operators by providing low-cost infrastructure as a service to developers and corporate customers. It runs sites in Nuremberg and Falkenstein in Germany and Helsinki in Finland, plus Ashburn, Hillsboro and Singapore.",
-  "today": "Hetzner rents dedicated servers with one NVIDIA professional GPU each and does not list multi-GPU training clusters. The GEX131, launched in December 2025, pairs an RTX PRO 6000 Blackwell Max-Q with 96 GB of memory for €889 a month or about €1.42 an hour. It added the GEX45 with an RTX PRO 4000 Blackwell SFF for €214 a month in September 2026 and the GEX63 with an RTX PRO 6000 Blackwell Max-Q for €999 a month in October 2026. The GPU servers run in its German and Finnish data centers. Hetzner announced a price adjustment effective April 2026 and changed setup fees twice in 2026.",
-  "platform": "Hetzner's GPU servers are dedicated bare-metal machines ordered through its server configurator, with monthly or hourly billing and one-time setup fees. The GEX131 uses an Intel Xeon Gold 5412U with 256 GB of DDR5 ECC memory, and the GEX63 uses an Intel Core Ultra 7 265 with 128 GB. The company markets the GEX45 for inference and the larger models for training.",
-  "outlook": "Hetzner adds GPU models one card generation at a time and broke ground on a new headquarters in Gunzenhausen in October 2026. It has not announced multi-GPU nodes or data center scale AI clusters.",
-  "sources": [
-   {
-    "title": "Hetzner: Hetzner unveils the GEX131 with NVIDIA RTX PRO 6000 Blackwell Max-Q",
-    "url": "https://www.hetzner.com/pressroom/new-gex131/",
-    "date": "2025-12-11"
-   },
-   {
-    "title": "Hetzner: Hetzner expands its GPU portfolio with the GEX45",
-    "url": "https://www.hetzner.com/pressroom/hetzner-expands-its-gpu-portfolio-with-the-gex45/",
-    "date": "2026-09-01"
-   },
-   {
-    "title": "Hetzner: Hetzner expands GPU portfolio with new GEX63 featuring NVIDIA RTX PRO 6000 Blackwell Max-Q",
-    "url": "https://www.hetzner.com/pressroom/hetzner-expands-gpu-portfolio-with-new-gex63-featuring-nvidia-rtx-pro-6000-blackwell-max-q/",
-    "date": "2026-10-06"
-   },
-   {
-    "title": "Hetzner: GPU dedicated servers",
-    "url": "https://www.hetzner.com/dedicated-rootserver/matrix-gpu/",
-    "date": "2026-10"
-   },
-   {
-    "title": "Hetzner: Pressroom",
-    "url": "https://www.hetzner.com/pressroom/",
-    "date": "2026-10"
-   },
-   {
-    "title": "Wikipedia: Hetzner",
-    "url": "https://en.wikipedia.org/wiki/Hetzner",
-    "date": "2026-10"
-   },
-   {
-    "title": "The Register: Hetzner: 50% price hike, no fooling, from April 1st",
-    "url": "https://www.theregister.com/on-prem/2026/02/24/hetzner-50-price-hike-no-fooling-from-april-1st/4547119",
-    "date": "2026-02-24"
-   },
-   {
-    "title": "Hetzner: Company website, read October 2026",
-    "url": "https://www.hetzner.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "high"
- },
- {
-  "slug": "latitude-sh",
-  "name": "Latitude.sh",
-  "aka": "Maxihost",
-  "category": "devcloud",
-  "region": "Latin America",
-  "hq": "São Paulo, Brazil",
-  "founded": "",
-  "ownership": "Subsidiary of Megaport (ASX: MP1)",
-  "website": "https://www.latitude.sh",
-  "accelerators": [
-   "NVIDIA B300",
-   "NVIDIA H100",
-   "NVIDIA RTX PRO 6000"
-  ],
-  "products": [
-   "Bare metal",
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Storage"
-  ],
-  "snippet": "Bare metal cloud, formerly Maxihost, with 26 locations and NVIDIA GPU clusters, now owned by Megaport. Its parent raised about $594M in July 2026 to build a global AI inference cloud on it.",
-  "facts": [
-   {
-    "label": "Locations",
-    "value": "26"
-   },
-   {
-    "label": "Megaport capital raise (July 2026)",
-    "value": "A$827.3M (about $594M)"
-   },
-   {
-    "label": "Planned on-demand B300 GPUs",
-    "value": "2,048"
-   }
-  ],
-  "customers": [
-   "Hashgraph",
-   "Boundless"
-  ],
-  "origin": "Latitude.sh built a developer-first platform that provisions dedicated servers through an API in seconds, serving blockchain nodes, SaaS, gaming, adtech and streaming customers. It later added dedicated NVIDIA GPU clusters for inference, fine-tuning and training.",
-  "today": "Megaport, the Brisbane-based network-as-a-service provider listed on the ASX, agreed in November 2025 to acquire Latitude.sh and expected to close by the end of that year. At the time Latitude had more than 7,700 servers and 1,150 customers in 20 markets across 10 countries, and it now lists 26 locations. In July 2026 Megaport announced a capital raise of A$827.3M, about $594M, to build a globally distributed AI inference cloud on Latitude. About A$369.5M goes to four AI infrastructure contracts with US technology companies. The rest funds 2,048 NVIDIA B300 GPUs for on-demand use from autumn 2026.",
-  "platform": "Latitude.sh rents bare metal servers that deploy in as little as five seconds, plus Metal GPU clusters with NVIDIA RTX PRO 6000 and H100 GPUs. It also sells virtual machines, managed Kubernetes, block, file and object storage and managed PostgreSQL. Megaport's network connects its compute to public clouds and more than 1,000 data centers.",
-  "outlook": "Latitude plans to turn its bare metal platform into an on-demand inference cloud built on B300 GPUs and Megaport's private network. About A$369.5M of the A$827.3M raised goes to delivering four US AI contracts, with the remainder funding a new on-demand GPU pool that includes 2,048 NVIDIA B300 GPUs. Gui Soubihe remains CEO under Megaport.",
-  "sources": [
-   {
-    "title": "Megaport: Megaport to acquire Latitude.sh, creating an industry-leading Compute and Network-as-a-Service platform",
-    "url": "https://www.megaport.com/media-releases/2025-11-11.pdf",
-    "date": "2025-11-11"
-   },
-   {
-    "title": "Latitude.sh: We've secured $594M to build the global AI Inference Cloud",
-    "url": "https://www.latitude.sh/blog/weve-secured-594m-to-build-the-global-ai-inference-cloud",
-    "date": "2026-07-02"
-   },
-   {
-    "title": "Latitude.sh: The global AI enabler cloud",
-    "url": "https://www.latitude.sh/",
-    "date": "2026-10"
-   },
-   {
-    "title": "Latitude.sh: Locations",
-    "url": "https://www.latitude.sh/locations",
-    "date": "2026-10"
-   },
-   {
-    "title": "Latitude.sh: Metal GPU clusters",
-    "url": "https://www.latitude.sh/accelerate",
-    "date": "2026-10"
-   },
-   {
-    "title": "Latitude.sh: Company website, read October 2026",
-    "url": "https://www.latitude.sh",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
-  "slug": "sakura-internet",
-  "name": "Sakura Internet",
-  "aka": "SAKURA internet Inc., Koukaryoku GPU cloud, SAKURAONE",
-  "category": "devcloud",
-  "region": "Asia-Pacific",
-  "hq": "Osaka, Japan",
-  "founded": "1996",
-  "ownership": "Public (TSE: 3778)",
-  "website": "https://www.sakura.ad.jp",
-  "accelerators": [
-   "NVIDIA H100",
-   "NVIDIA H200",
-   "NVIDIA HGX B200"
-  ],
-  "products": [
-   "Bare metal",
-   "Virtual machines",
-   "Inference API",
-   "Colocation"
-  ],
-  "snippet": "Osaka cloud and hosting provider that runs Japan's state-subsidized Koukaryoku GPU cloud, with a plan for about 10,000 GPUs and Government Cloud status.",
-  "facts": [
-   {
-    "label": "State subsidy",
-    "value": "Up to ¥50.1B (April 2024)"
-   },
-   {
-    "label": "GPU plan",
-    "value": "About 10,000 GPUs by March 2028"
-   },
-   {
-    "label": "GPU revenue, FY to March 2026",
-    "value": "¥8.14B, up 20.3%"
-   },
-   {
-    "label": "Total revenue, FY to March 2026",
-    "value": "¥35.3B"
-   },
-   {
-    "label": "SAKURAONE",
-    "value": "37.79 PFLOPS LINPACK, 63rd on TOP500"
-   },
-   {
-    "label": "Government Cloud",
-    "value": "Selected for FY2023 and FY2026"
-   }
-  ],
-  "customers": [],
-  "origin": "Kunihiro Tanaka founded Sakura Internet in 1996, and it grew into a domestic provider of rental servers, VPS, public cloud and data centers, including a campus in Ishikari, Hokkaido. In June 2023 it committed ¥13B to a first GPU cluster of about 2,000 GPUs for its Koukaryoku cloud. In April 2024 Japan's government granted it a subsidy of up to ¥50.1B, and Sakura raised its plan to about 10,000 GPUs and about ¥100B of investment by March 2028.",
-  "today": "Sakura reported revenue of ¥35.3B for the year to March 2026, with GPU infrastructure services at ¥8.14B. It posted an operating loss of ¥403.7M after a ¥4.15B profit the year before. It forecasts ¥45B in sales for the year to March 2027 and is expanding Koukaryoku from about 2,000 to nearly 4,000 Hopper GPUs while adding Blackwell systems in Ishikari. A national institution ordered about ¥3.8B of generative AI compute on its SAKURAONE managed H100 and H200 clusters through March 2027. In March 2026 Sakura met all 305 technical requirements and was confirmed as a Government Cloud provider. In April 2026 Microsoft named Sakura and SoftBank as partners to offer domestic GPU compute through Azure.",
-  "platform": "Koukaryoku rents NVIDIA GPU servers as bare metal and virtual machines. SAKURAONE is a managed supercomputer built on HGX B200 systems with direct liquid cooling, and in June 2026 it reached 37.79 PFLOPS on LINPACK, ranking 63rd on the TOP500 and 22nd on HPCG. Sakura also runs the SAKURA Gen AI Platform, a managed service for generative AI applications launched in August 2025.",
-  "outlook": "Sakura plans to reach about 10,800 GPUs in its high-performance AI computing service and has told investors it expects more data center spending. In August 2025 it signed a basic agreement with KDDI and Highreso to meet GPU demand. In August 2026 it disclosed a breach of its sales management system that may affect up to 1.36 million member accounts. The breach hit customer contract records, not its infrastructure services.",
-  "sources": [
-   {
-    "title": "SAKURA internet: Selected as a Provider of Government Cloud Services for Fiscal Years 2023 and 2026",
-    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/03/27/1968224094/",
-    "date": "2026-03-27"
-   },
-   {
-    "title": "SAKURA internet: SAKURAONE Ranks 22nd Worldwide in HPCG Benchmark",
-    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/06/25/1968225150/",
-    "date": "2026-06-25"
-   },
-   {
-    "title": "SAKURA internet: News releases (Gen AI Platform launch, KDDI and Highreso agreement)",
-    "url": "https://www.sakura.ad.jp/corporate/en/information/",
-    "date": "2025-08"
-   },
-   {
-    "title": "TrendForce: Japan's Sakura AI GPU Procurement Reportedly Increases Fivefold, Including Purchase of NVIDIA B200",
-    "url": "https://www.trendforce.com/news/2024/04/22/news-japans-sakura-ai-gpu-procurement-reportedly-increases-fivefold-including-purchase-of-nvidia-b200/",
-    "date": "2024-04-22"
-   },
-   {
-    "title": "Nikkei Asia: Japan to fund KDDI, four others to build AI supercomputer",
-    "url": "https://asia.nikkei.com/business/technology/japan-to-fund-kddi-four-others-to-build-ai-supercomputer",
-    "date": "2024-04-18"
-   },
-   {
-    "title": "Startup Fortune: Sakura Internet plans more AI data center spending in Japan",
-    "url": "https://startupfortune.com/sakura-internet-plans-more-ai-data-center-spending-in-japan/",
-    "date": "2026-05-24"
-   },
-   {
-    "title": "Bloomberg: Sakura Internet Eyes More Spending to Meet AI Data Center Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
-    "date": "2026-05-25"
-   },
-   {
-    "title": "Microsoft Source: Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure",
-    "url": "https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/",
-    "date": "2026-04-03"
-   },
-   {
-    "title": "BleepingComputer: Sakura Internet hack exposes data of up to 1.36 million accounts",
-    "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-    "date": "2026-08-19"
-   },
-   {
-    "title": "Sakura Internet: Company website, read October 2026",
-    "url": "https://www.sakura.ad.jp",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "high"
- },
- {
-  "slug": "byteplus",
-  "name": "BytePlus",
-  "aka": "International sister of Volcano Engine (ByteDance)",
-  "category": "platform",
-  "region": "Asia-Pacific",
-  "hq": "Singapore, Singapore",
-  "founded": "2021",
-  "ownership": "Subsidiary of ByteDance",
-  "website": "https://www.byteplus.com",
-  "accelerators": [],
-  "products": [
-   "Virtual machines",
-   "Managed Kubernetes",
-   "Inference API",
-   "Training and fine-tuning",
-   "Storage"
-  ],
-  "snippet": "ByteDance's international enterprise cloud sells GPU compute, Kubernetes and API access to ByteDance's Seed models through its ModelArk platform.",
-  "facts": [
-   {
-    "label": "Founded",
-    "value": "2021"
-   },
-   {
-    "label": "Headquarters",
-    "value": "Singapore"
-   },
-   {
-    "label": "Model platform",
-    "value": "ModelArk (Seed, Seedance, Seedream)"
-   }
-  ],
-  "customers": [
-   "OpenRice",
-   "Yamada Denki",
-   "PressLogic",
-   "FlexTV"
-  ],
-  "origin": "ByteDance set up BytePlus in 2021 as the international counterpart to Volcano Engine, its enterprise technology brand in China. Its early products included the recommendation technology that ByteDance uses in its own apps. BytePlus now packages ByteDance's AI models and cloud infrastructure for enterprise customers outside China.",
-  "today": "BytePlus sells a GPU Compute Service, elastic compute, Kubernetes, storage and database services. Its ModelArk platform gives API access to ByteDance's Seed models, including Seedance for video and Seedream for images. Its website lists a Southeast Asia region, and BytePlus does not publish GPU counts or capacity figures.",
-  "platform": "ModelArk serves several model families through one API, while AgentKit, ServingKit and TrainingKit cover agent building, inference optimization and model development. BytePlus keeps enterprise data separate from ByteDance's consumer apps such as TikTok and holds ISO 27001, SOC 2 and PCI DSS certifications.",
-  "outlook": "",
-  "sources": [
-   {
-    "title": "BytePlus: AI-Native Cloud for Enterprise Growth",
-    "url": "https://www.byteplus.com/en",
-    "date": "2026-10"
-   },
-   {
-    "title": "Wikipedia: BytePlus",
-    "url": "https://en.wikipedia.org/wiki/BytePlus",
-    "date": "2026-10"
-   },
-   {
-    "title": "BytePlus: Company website, read October 2026",
-    "url": "https://www.byteplus.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "low"
- },
- {
-  "slug": "groq",
-  "name": "Groq",
-  "aka": "GroqCloud",
-  "category": "platform",
-  "region": "North America",
-  "hq": "Mountain View, California, US",
-  "founded": "2016",
-  "ownership": "Private",
-  "website": "https://groq.com",
-  "accelerators": [
-   "Groq LPU",
-   "NVIDIA Groq 3 LPX",
-   "NVIDIA Vera Rubin NVL72"
-  ],
-  "products": [
-   "Inference API",
-   "Own silicon"
-  ],
-  "snippet": "Groq runs GroqCloud, an inference API on its own LPU chips. After licensing its technology to NVIDIA in December 2025, it raised $1B in 2026 and plans to grow from 54 MW to over 200 MW in 2027.",
-  "facts": [
-   {
-    "label": "NVIDIA licensing deal",
-    "value": "December 24, 2025, non-exclusive"
-   },
-   {
-    "label": "2026 funding",
-    "value": "$650M (June) and $350M (August)"
-   },
-   {
-    "label": "Valuation (Aug 2026)",
-    "value": "$3.5B"
-   },
-   {
-    "label": "Capacity",
-    "value": "54 MW, targeting 200+ MW in 2027"
-   },
-   {
-    "label": "Data centers",
-    "value": "13"
-   },
-   {
-    "label": "Developers",
-    "value": "About 6 million"
-   }
-  ],
-  "customers": [
-   "HUMAIN"
-  ],
-  "origin": "Jonathan Ross founded Groq in 2016 to build the Language Processing Unit, a chip designed for fast inference. Groq sold access to LPUs through the GroqCloud API and built clusters in the US, Saudi Arabia, Finland and Australia. In February 2025 Saudi Arabia announced a $1.5B commitment to expand Groq inference capacity, building on a Dammam cluster brought online in December 2024.",
-  "today": "In December 2025 Groq signed a non-exclusive licensing agreement with NVIDIA for its inference technology, and founder Jonathan Ross, president Sunny Madra and other staff joined NVIDIA. GroqCloud kept operating as an independent company. Groq raised $650M in June 2026 and a $350M Series A in August 2026 at a $3.5B valuation, led by Disruptive with planned NVIDIA participation. It runs 13 data centers across North America, Europe, the Middle East and Asia-Pacific with 54 MW of capacity and plans more than 200 MW in 2027. Groq became an NVIDIA Cloud Partner in August 2026.",
-  "platform": "GroqCloud sells token-based API access to open models running on Groq LPUs, and Groq says about 6 million developers use it. In August 2026 Groq said it is among the first to deploy NVIDIA Groq 3 LPX, an inference accelerator that extends Vera Rubin NVL72 systems, working with Dell. Groq also powers HUMAIN One, an enterprise AI operating system from Saudi Arabia's HUMAIN.",
-  "outlook": "Groq now deploys NVIDIA systems alongside its own LPUs, and its 2027 target of more than 200 MW needs new sites and power. Groq has changed chief executives since the NVIDIA deal, from Simon Edwards in December 2025 to Adam Winter by June 2026.",
-  "sources": [
-   {
-    "title": "Groq: Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale",
-    "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
-    "date": "2025-12-24"
-   },
-   {
-    "title": "Groq: Groq Raises $650M to Scale Its AI Inference Cloud Business",
-    "url": "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business",
-    "date": "2026-06-22"
-   },
-   {
-    "title": "Groq: Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud",
-    "url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
-    "date": "2026-08-17"
-   },
-   {
-    "title": "Groq: Groq Becomes an NVIDIA Cloud Partner",
-    "url": "https://groq.com/newsroom/groq-becomes-an-nvidia-cloud-partner",
-    "date": "2026-08-12"
-   },
-   {
-    "title": "Groq: Groq Among the First to Bring NVIDIA Groq 3 LPX and Vera Rubin NVL72 to Market",
-    "url": "https://groq.com/blog/groq-among-the-first-to-bring-nvidia-groq-3-lpx-and-vera-rubin-nvl72-to-market",
-    "date": "2026-08-24"
-   },
-   {
-    "title": "Groq: GroqCloud: Expanding to Meet Demand",
-    "url": "https://groq.com/blog/groqcloud-expanding-to-meet-demand",
-    "date": "2026-02-16"
-   },
-   {
-    "title": "Groq: Saudi Arabia Announces $1.5 Billion Expansion to Fuel AI-powered Economy with AI Tech Leader Groq",
-    "url": "https://groq.com/newsroom/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-ai-tech-leader-groq",
-    "date": "2025-02-10"
-   },
-   {
-    "title": "Groq: Groq Powers HUMAIN One, a Real-Time AI Operating System for Enterprise",
-    "url": "https://groq.com/newsroom/groq-powers-humain-one--real-time-ai-operating-system-for-enterprise",
-    "date": "2025-10-28"
-   },
-   {
-    "title": "Groq: Groq Launches European Data Center Footprint in Helsinki, Finland",
-    "url": "https://groq.com/newsroom/groq-launches-european-data-center-footprint-in-helsinki-finland",
-    "date": "2025-07-06"
-   },
-   {
-    "title": "Groq: Groq Expands to Asia-Pacific with Sydney Data Center",
-    "url": "https://groq.com/newsroom/groq-expands-to-asia-pacific-with-sydney-data-center-to-power-the-next-generation-of-ai-inference",
-    "date": "2025-11-17"
-   },
-   {
-    "title": "EdTech Innovation Hub: Groq raises $350 million at $3.5 billion valuation to scale AI inference cloud",
-    "url": "https://www.edtechinnovationhub.com/news/groq-raises-350-million-at-35-billion-valuation-to-scale-ai-inference-cloud",
-    "date": "2026-08-19"
-   },
-   {
-    "title": "Groq: Company website, read October 2026",
-    "url": "https://groq.com",
-    "date": "2026-10"
-   }
-  ],
-  "confidence": "medium"
- },
- {
   "slug": "vessl-ai",
   "name": "VESSL AI",
   "aka": "VESSL Cloud",
-  "category": "platform",
+  "category": "neocloud",
   "region": "Asia-Pacific",
   "hq": "Seoul, South Korea",
   "founded": "2020",
@@ -9562,6 +8737,1684 @@ window.NEOCLOUD_PROVIDERS = [
    {
     "title": "VESSL AI: VESSL Cloud, The AI Cloud for All Models",
     "url": "https://vessl.ai/",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "whitefiber",
+  "name": "WhiteFiber",
+  "aka": "",
+  "category": "neocloud",
+  "region": "North America",
+  "hq": "New York, New York, US",
+  "founded": "",
+  "ownership": "Public (Nasdaq: WYFI), majority held by Bit Digital",
+  "website": "https://www.whitefiber.com",
+  "accelerators": [
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA B300"
+  ],
+  "products": [
+   "Bare metal",
+   "Colocation",
+   "Data center development"
+  ],
+  "snippet": "GPU cloud and AI colocation company spun out of Bit Digital. Its NC-1 campus in North Carolina began billing Nscale for 40 MW in 2026, and it signed more than $540M of new cloud contracts.",
+  "facts": [
+   {
+    "label": "NC-1 colocation",
+    "value": "40 MW for Nscale, 10 years, about $865M"
+   },
+   {
+    "label": "New cloud contracts",
+    "value": "More than $540M since May 2026"
+   },
+   {
+    "label": "Q2 2026 revenue",
+    "value": "$28.8M, net loss $15.0M"
+   },
+   {
+    "label": "Remaining performance obligations",
+    "value": "About $932.9M (June 2026)"
+   },
+   {
+    "label": "NC-1 potential",
+    "value": "About 300 MW gross"
+   }
+  ],
+  "customers": [
+   "Nscale",
+   "Prime Intellect"
+  ],
+  "origin": "Bit Digital, a Bitcoin and Ethereum miner, started renting NVIDIA GPUs in 2023 and grouped that business with its Montreal data centers under the WhiteFiber name. WhiteFiber listed on Nasdaq in August 2025, with Bit Digital keeping a controlling stake.",
+  "today": "WhiteFiber reported Q2 2026 revenue of $28.8M, with $23.8M from cloud services (including $12.3M from a customer termination) and $4.7M from colocation. Its NC-1 campus in Madison, North Carolina delivered initial capacity to Nscale under a 10-year, 40 MW colocation agreement worth about $865M. Since May 2026 it has signed more than $540M of multi-year cloud contracts, including a GPU deployment in the Paris region worth more than $160M, a Vera Rubin cluster in Canada for Prime Intellect worth $108M and a B300 deployment in Iceland worth $87.5M.",
+  "platform": "WhiteFiber rents dedicated NVIDIA GPU clusters as bare metal and also leases powered data center space for other clouds to fill. NC-1 can grow to about 300 MW of gross power over time, and the company also runs sites in Montreal.",
+  "outlook": "WhiteFiber held $60.4M of cash and restricted cash at the end of June 2026 and is negotiating secured financing for NC-1. In June it took a $100M delayed-draw loan from Bit Digital and B. Riley at 9.5%. Funding the next NC-1 phase and delivering the Paris and Prime Intellect clusters on time are the items to watch.",
+  "sources": [
+   {
+    "title": "PR Newswire: WhiteFiber and Nscale Announce 10-Year, 40 MW Colocation Agreement Representing Approximately $865 Million in Total Contract Value at NC-1 AI Data Center Campus",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-and-nscale-announce-10-year-40-mw-colocation-agreement-representing-approximately-865-million-in-total-contract-value-at-nc-1-ai-data-center-campus-302646399.html",
+    "date": "2025-12-18"
+   },
+   {
+    "title": "The Business Journals: Madison data center reaches milestone as WhiteFiber lands major AI infrastructure client",
+    "url": "https://www.bizjournals.com/triad/news/2026/01/22/whitefiber-madison-nc-data-center-financing-deals.html",
+    "date": "2026-01-22"
+   },
+   {
+    "title": "Yahoo Finance: WhiteFiber Lines Up $100 Million Debt And $160 Million AI Contract",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-lines-100-million-debt-050747329.html",
+    "date": "2026-06-04"
+   },
+   {
+    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Blockspace Media: WhiteFiber revenue rises 54% as NC-1 starts billing contracted capacity",
+    "url": "https://blockspace.media/insight/whitefiber-revenue-rises-nc1-billing-cloud-contracts/",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "WhiteFiber: Company website, read October 2026",
+    "url": "https://www.whitefiber.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "ytl-ai-cloud",
+  "name": "YTL AI Cloud",
+  "aka": "",
+  "category": "neocloud",
+  "region": "Asia-Pacific",
+  "hq": "Kulai, Malaysia",
+  "founded": "2024",
+  "ownership": "Subsidiary of YTL Power International (Bursa Malaysia: YTLPOWR)",
+  "website": "https://www.ytlaicloud.com",
+  "accelerators": [
+   "NVIDIA GB200 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Training and fine-tuning"
+  ],
+  "snippet": "Malaysian GPU cloud of YTL Power that rents NVIDIA GB200 NVL72 clusters from a solar-powered campus in Johor. It became one of NVIDIA's six Exemplar Clouds in May 2026.",
+  "facts": [
+   {
+    "label": "YTL and NVIDIA program",
+    "value": "RM10B, about $2.36B (July 2025)"
+   },
+   {
+    "label": "NVIDIA Exemplar Cloud",
+    "value": "May 2026, tested on 512 Blackwell GPUs"
+   },
+   {
+    "label": "Campus",
+    "value": "1,640 acres in Kulai, Johor"
+   },
+   {
+    "label": "YTL Power data center capacity contracted",
+    "value": "298 MW (March 2026)"
+   },
+   {
+    "label": "Kulai park target",
+    "value": "1,000 MW, up from 600 MW"
+   }
+  ],
+  "customers": [
+   "YTL AI Labs"
+  ],
+  "origin": "YTL Power International, the multi-utility company of Malaysia's YTL group, agreed with NVIDIA in December 2023 to build AI infrastructure in Malaysia, initially around NVIDIA H100 GPUs. It formed YTL AI Cloud in March 2024 and announced at NVIDIA GTC an NVIDIA GB200 NVL72 supercomputer on DGX Cloud with more than 300 exaflops of AI compute. The cloud sits in YTL's 1,640-acre Green Data Center Park in Kulai, Johor, within 50 km of Singapore's main network interconnection points and next to an on-site solar plant.",
+  "today": "YTL AI Cloud's first NVIDIA GB200 NVL72 data centre in Kulai went into operation in October 2025, under a RM10B (about $2.36B) program that YTL Power signed with NVIDIA in July 2025. YTL splits that program between data centre infrastructure and AI solutions, including ILMU, the Malaysian language model family built by sister company YTL AI Labs. YTL says the cloud will host government and citizen-facing AI services and that global hyperscalers count among the data centre's customers, without naming them. On May 31, 2026, YTL AI Cloud announced NVIDIA Exemplar Cloud status after a benchmark of a 512-GPU Blackwell environment. YTL Power had 298 MW of data centre capacity contracted as of March 2026 and plans to raise the Kulai park from 600 MW to 1,000 MW. In August 2026 it announced a new gigawatt campus at Sedenak Tech Park West in Johor through its 70%-owned unit SIPP Power. YTL AI Labs launched ILMUcode, a coding assistant built with Z.ai, in October 2026, with inference on Malaysian infrastructure.",
+  "platform": "YTL AI Cloud rents liquid-cooled NVIDIA GB200 NVL72 racks built to NVIDIA's cloud partner reference architecture, and it offers business models from bare metal up to application-layer services. Storage runs on WEKA NeuralMesh on Wiwynn hardware, which WEKA says delivers about 1 GB/s of read throughput per GPU. The company says its first buildings are designed for more than 80 MW of IT load. NVIDIA's GTC 2026 announcements describe YTL as an NVIDIA Cloud Partner and AI lab that uses Nemotron 3 data in its ILMU models.",
+  "outlook": "NVIDIA listed YTL in March 2025 among the first GPU clouds to offer Blackwell Ultra, and WEKA describes GB300 as YTL AI Cloud's next phase without giving a date. YTL Power's managing director said in late 2025 that the pace of further AI expansion depends on how fast the Malaysian government adopts AI. YTL has not said how much of the planned Kulai and Sedenak capacity will serve its own GPU cloud rather than colocation tenants.",
+  "sources": [
+   {
+    "title": "YTL AI Cloud: YTL Creates One of the World's Most Advanced Supercomputers, Powered by NVIDIA Grace Blackwell-based DGX Cloud",
+    "url": "https://www.ytlaicloud.com/press-releases/ytl-creates-one-of-the-worlds-most-advanced-supercomputers-powered-by-nvidia-grace-blackwell-based-dgx-cloud",
+    "date": "2024-03-19"
+   },
+   {
+    "title": "NVIDIA: NVIDIA Blackwell Ultra AI Factory Platform Paves Way for Age of AI Reasoning",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-ultra-ai-factory-platform-paves-way-for-age-of-ai-reasoning",
+    "date": "2025-03-18"
+   },
+   {
+    "title": "W.Media: YTL inks US$ 2.36 billion deal with Nvidia, Malaysia to create own LLM",
+    "url": "https://w.media/ytl-inks-us-2-36-billion-deal-with-nvidia-malaysia-to-create-own-llm/",
+    "date": "2025-07-29"
+   },
+   {
+    "title": "Free Malaysia Today: Malaysia completes first Nvidia-powered data centre in Johor",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2025/10/31/malaysia-completes-first-nvidia-powered-data-centre-in-johor",
+    "date": "2025-10-31"
+   },
+   {
+    "title": "The Edge Malaysia: YTL Power completes first Nvidia-powered AI data centre in Johor, YTL AI Cloud now operational",
+    "url": "https://theedgemalaysia.com/node/776142",
+    "date": "2025-10-31"
+   },
+   {
+    "title": "W.Media: YTL Power completes Nvidia-powered AI data centre in Johor",
+    "url": "https://w.media/ytl-power-completes-nvidia-powered-ai-data-centre-in-johor/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "NVIDIA: NVIDIA GTC 2026 - Live Updates on What's Next in AI",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "date": "2026-03"
+   },
+   {
+    "title": "YTL AI Cloud: YTL AI Cloud Among Asia's First Cloud Providers to Achieve NVIDIA Exemplar Cloud Status",
+    "url": "https://www.ytlaicloud.com/press-releases/ytl-ai-cloud-among-asias-first-cloud-providers-to-achieve-nvidia-exemplar-cloud-status",
+    "date": "2026-05-31"
+   },
+   {
+    "title": "The Star: YTL AI Cloud achieves Nvidia Exemplar Cloud status",
+    "url": "https://www.thestar.com.my/business/business-news/2026/06/02/ytl-ai-cloud-achieves-nvidia-exemplar-cloud-status",
+    "date": "2026-06-02"
+   },
+   {
+    "title": "The Edge Malaysia: YTL Power to develop new gigawatt data centre campus in Johor",
+    "url": "https://theedgemalaysia.com/node/815134",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "Bigdomain: ILMUcode - YTL's Sovereign AI Coding Platform Launched",
+    "url": "https://media.bigdomain.my/news/ilmucode-ytl-ai-labs/",
+    "date": "2026-10-03"
+   },
+   {
+    "title": "WEKA: YTL AI Cloud Builds Malaysia's Sovereign AI with WEKA",
+    "url": "https://www.weka.io/customers/ytl-ai-cloud/",
+    "date": "2026-10"
+   },
+   {
+    "title": "YTL AI Cloud: Scalable and Flexible Solutions",
+    "url": "https://www.ytlaicloud.com/scalable-and-flexible-solutions/",
+    "date": "2026-10"
+   },
+   {
+    "title": "YTL AI Cloud: Company website, read October 2026",
+    "url": "https://www.ytlaicloud.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "name": "Alibaba Cloud",
+  "aka": "Aliyun",
+  "category": "hyperscaler",
+  "region": "Asia-Pacific",
+  "hq": "Hangzhou, China",
+  "founded": "2009",
+  "ownership": "Subsidiary of Alibaba Group (NYSE: BABA, HKEX: 9988)",
+  "website": "https://www.alibabacloud.com",
+  "accelerators": [
+   "T-Head Zhenwu",
+   "NVIDIA GPUs"
+  ],
+  "products": [
+   "Bare metal",
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Inference API",
+   "Training and fine-tuning",
+   "Storage",
+   "Own silicon"
+  ],
+  "snippet": "China's largest cloud provider builds its own AI chips through T-Head and serves its Qwen models. Cloud revenue grew 45% in the June 2026 quarter, and Alibaba raised HK$80B in August 2026 for AI infrastructure.",
+  "facts": [
+   {
+    "label": "Cloud revenue, June 2026 quarter",
+    "value": "RMB 48.4B ($7.1B), up 45%"
+   },
+   {
+    "label": "AI-related product revenue, June 2026 quarter",
+    "value": "RMB 12.4B ($1.8B)"
+   },
+   {
+    "label": "Capex, June 2026 quarter",
+    "value": "RMB 67.7B ($10.0B), up 75%"
+   },
+   {
+    "label": "Share placement, August 2026",
+    "value": "HK$80B (about $10.2B)"
+   },
+   {
+    "label": "Zhenwu chip external customers",
+    "value": "650+"
+   }
+  ],
+  "customers": [],
+  "origin": "Alibaba founded Alibaba Cloud in 2009 to run its own e-commerce systems and to sell computing to outside customers. It grew into the largest cloud provider in China and opened regions abroad. Alibaba also designs AI chips through its T-Head unit and trains the Qwen family of open-weight models, which it serves on its cloud.",
+  "today": "Alibaba's cloud revenue rose 45% to RMB 48.4B ($7.1B) in the quarter that ended June 2026, and AI-related product revenue reached RMB 12.4B ($1.8B). Quarterly capex rose 75% to RMB 67.7B ($10.0B), which Alibaba attributes to procurement timing, added compute capacity and higher chip component prices. In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.2B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers. T-Head's Zhenwu AI chips now serve more than 650 external customers through Alibaba Cloud. Alibaba announced in February 2025 a plan to spend more than RMB 380B on cloud and AI infrastructure over three years.",
+  "platform": "Alibaba Cloud sells GPU and in-house accelerator instances, a machine learning platform for training and serving, and API access to Qwen and other models. It operates 29 regions and 87 availability zones worldwide.",
+  "outlook": "US export controls limit Alibaba's access to NVIDIA's most advanced GPUs, which makes the T-Head chip line central to its capacity growth. Alibaba plans to use the August 2026 placement proceeds to expand computing infrastructure in China and abroad. Higher chip component prices already push up its capex.",
+  "sources": [
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08-20"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, pricing of HK$80 billion placing of new shares",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361715/baba-ex99_4.htm",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, completion of placing of new shares",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/baba-ex99_1.htm",
+    "date": "2026-08-26"
+   },
+   {
+    "title": "Wikipedia: Alibaba Cloud",
+    "url": "https://en.wikipedia.org/wiki/Alibaba_Cloud",
+    "date": "2026-09"
+   },
+   {
+    "title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop",
+    "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763",
+    "date": "2026-08-22"
+   },
+   {
+    "title": "Fortune: Alibaba pledges over $50 billion in new AI and cloud investment as investors send shares to 3-year highs",
+    "url": "https://fortune.com/asia/2025/02/24/alibaba-pledges-more-ai-cloud-investment-shares/",
+    "date": "2025-02-24"
+   },
+   {
+    "title": "Alibaba Cloud: Company website, read October 2026",
+    "url": "https://www.alibabacloud.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "baidu-ai-cloud",
+  "name": "Baidu AI Cloud",
+  "aka": "Baidu Intelligent Cloud, Baidu Cloud",
+  "category": "hyperscaler",
+  "region": "Asia-Pacific",
+  "hq": "Beijing, China",
+  "founded": "2015",
+  "ownership": "Division of Baidu (NASDAQ: BIDU, HKEX: 9888)",
+  "website": "https://intl.cloud.baidu.com",
+  "accelerators": [
+   "Kunlunxin P800",
+   "NVIDIA L20",
+   "NVIDIA A10",
+   "NVIDIA T4"
+  ],
+  "products": [
+   "Virtual machines",
+   "Inference API",
+   "Training and fine-tuning",
+   "Storage",
+   "Own silicon"
+  ],
+  "snippet": "Baidu's cloud arm rents NVIDIA GPUs and Baidu's own Kunlun AI chips. GPU Cloud revenue rose 283% year over year in the June 2026 quarter, and AI Cloud Infra revenue reached RMB 7.3B, up 50%.",
+  "facts": [
+   {
+    "label": "AI Cloud Infra revenue, June 2026 quarter",
+    "value": "RMB 7.3B, up 50%"
+   },
+   {
+    "label": "GPU Cloud revenue growth, June 2026 quarter",
+    "value": "283% year over year"
+   },
+   {
+    "label": "AI Cloud Infra revenue, first half 2026",
+    "value": "RMB 16.1B, up 65%"
+   },
+   {
+    "label": "Capex, June 2026 quarter",
+    "value": "RMB 11.4B ($1.68B), up from RMB 3.8B"
+   },
+   {
+    "label": "Kunlun P800 cluster",
+    "value": "30,000 chips (April 2025)"
+   }
+  ],
+  "customers": [],
+  "origin": "Baidu, the Beijing search company, opened Baidu Cloud to the public in 2015 and renamed it Baidu AI Cloud in April 2019. Baidu released its first Kunlun AI chip in 2018 and spun the chip unit off as Kunlunxin in April 2021, staying its largest shareholder. Baidu also trains the ERNIE family of models and sells them through its Qianfan platform.",
+  "today": "Baidu's AI Cloud Infra revenue rose 50% year over year to RMB 7.3B in the quarter that ended June 2026, down from RMB 8.8B in the March quarter. Revenue from GPU Cloud, which Baidu earlier called subscription revenue from AI accelerator infrastructure, rose 283% after 184% growth in the March quarter. Baidu executives said on the August 2026 call that AI computing demand in China remains very strong and that computing supply remains constrained. Baidu's capex rose to RMB 11.4B ($1.68B) in the June 2026 quarter from RMB 3.8B a year earlier. Kunlunxin confidentially filed for a Hong Kong listing on January 1, 2026 and began preparing for a Shanghai STAR Market listing in May 2026. Baidu's September 2026 interim report says the spin-off still awaits regulatory approvals and final decisions by Baidu and Kunlunxin. Kunlunxin launched its Tianchi 256 supernode in June 2026, and its M100 inference chip began small shipments to customers the same month.",
+  "platform": "Baidu AI Cloud rents NVIDIA L20, A10 and T4 GPU servers and capacity on its own Kunlun chips. In April 2025 it switched on a cluster of 30,000 Kunlun P800 chips, which Baidu says can train models with hundreds of billions of parameters. Its Qianfan platform sells API access to ERNIE and other models, and revenue from external customers' token usage on Qianfan grew more than ninefold year over year in the June 2026 quarter. Baidu runs data centers across China and in Hong Kong and Singapore.",
+  "outlook": "Baidu said in August 2026 that AI Cloud Infra can keep growing strongly in the second half of 2026, with potential for further acceleration. Kunlunxin plans the M300 training chip for 2027 and supernodes of a thousand chips for 2028, and Baidu aims to run a single cluster of one million Kunlun chips by 2030. The Kunlunxin listing still needs Hong Kong exchange approval and a filing with the China Securities Regulatory Commission, and Kunlunxin would remain a Baidu subsidiary after it.",
+  "sources": [
+   {
+    "title": "PR Newswire: Baidu Announces Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/baidu-announces-second-quarter-2026-results-302853860.html",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "SEC: Baidu Form 6-K, Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "SEC: Baidu Form 6-K, Exhibit 99.1, 2026 Interim Report",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526394299/d152888dex991.pdf",
+    "date": "2026-09"
+   },
+   {
+    "title": "Yahoo Finance: Baidu (BIDU) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/baidu-bidu-q2-2026-earnings-002835072.html",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "SEC: Baidu Form 6-K, Exhibit 99.1, proposed spin-off and separate listing of Kunlunxin",
+    "url": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526000097/d63607dex991.htm",
+    "date": "2026-01-02"
+   },
+   {
+    "title": "TrendForce: Baidu Chip Unit Kunlunxin Reportedly Launches STAR Market IPO Process, HK Listing Valuation Seen Near HK$100B",
+    "url": "https://www.trendforce.com/news/2026/05/08/news-baidu-chip-unit-kunlunxin-reportedly-launches-star-market-ipo-process-hk-listing-valuation-seen-near-hk100b/",
+    "date": "2026-05-08"
+   },
+   {
+    "title": "TrendForce: Baidu Rolls Out Kunlun Roadmap, M100 & M300 AI Chips Arrive 2026-2027",
+    "url": "https://www.trendforce.com/news/2025/11/13/news-baidu-rolls-out-kunlun-roadmap-m100-m300-ai-chips-arrive-2026-2027/",
+    "date": "2025-11-13"
+   },
+   {
+    "title": "Investing.com: China's Baidu says its Kunlun chip cluster can train DeepSeek-like models (Reuters)",
+    "url": "https://www.investing.com/news/stock-market-news/baidu-launches-new-ai-model-amid-mounting-competition-4003765",
+    "date": "2025-04-25"
+   },
+   {
+    "title": "Baidu AI Cloud: GPU cloud server",
+    "url": "https://cloud.baidu.com/product/gpu.html",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu AI Cloud: International website",
+    "url": "https://intl.cloud.baidu.com/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu Baike: Baidu AI Cloud",
+    "url": "https://baike.baidu.com/en/item/Baidu%20AI%20Cloud/978818",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu Baike: Kunlunxin",
+    "url": "https://baike.baidu.com/en/item/Kunlunxin/6414699",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu Baike: Kunlun Core M100",
+    "url": "https://baike.baidu.com/en/item/Kunlun%20Core%20M100/3584330",
+    "date": "2026-10"
+   },
+   {
+    "title": "Wikipedia: Kunlunxin",
+    "url": "https://en.wikipedia.org/wiki/Kunlunxin",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu AI Cloud: Company website, read October 2026",
+    "url": "https://intl.cloud.baidu.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "huawei-cloud",
+  "name": "Huawei Cloud",
+  "aka": "HUAWEI CLOUD",
+  "category": "hyperscaler",
+  "region": "Asia-Pacific",
+  "hq": "Gui'an, China",
+  "founded": "2005",
+  "ownership": "Subsidiary of Huawei Investment & Holding (private, employee-owned)",
+  "website": "https://www.huaweicloud.com/intl/en-us/",
+  "accelerators": [
+   "Huawei Ascend 910C",
+   "Huawei Ascend 950"
+  ],
+  "products": [
+   "Virtual machines",
+   "Inference API",
+   "Training and fine-tuning",
+   "Own silicon"
+  ],
+  "snippet": "Huawei's public cloud rents its own Ascend AI chips through CloudMatrix supernodes. It set September 30, 2026 for commercial service of a 1,024-chip Ascend 950 cluster in China and November 30 for a global launch.",
+  "facts": [
+   {
+    "label": "Cloud computing revenue, 2025",
+    "value": "RMB 32.2B (about $4.6B) from external customers, down 3.5%"
+   },
+   {
+    "label": "Cloud revenue including internal sales, 2025",
+    "value": "RMB 72.1B"
+   },
+   {
+    "label": "AI Cluster Service customers",
+    "value": "More than 1,800 (end of 2025)"
+   },
+   {
+    "label": "Ascend 950 cluster",
+    "value": "1,024 chips, up to 1 EFLOPS FP8"
+   },
+   {
+    "label": "Ascend 910C supernodes deployed",
+    "value": "More than 1,000 (September 2026)"
+   },
+   {
+    "label": "Cloud footprint",
+    "value": "34 regions, 103 availability zones"
+   }
+  ],
+  "customers": [
+   "Qihoo 360",
+   "SiliconFlow"
+  ],
+  "origin": "Huawei, the Shenzhen maker of telecom equipment and smartphones, runs Huawei Cloud as its public cloud business, which Baidu Baike dates to 2005 and places in Gui'an New Area in Guizhou province. Huawei designs its own Ascend AI chips. In 2025 Huawei Cloud began renting CloudMatrix384, a system that links 384 Ascend 910C chips and 192 Kunpeng CPUs into one supernode over Huawei's UnifiedBus network. Rotating chairman Xu Zhijun said in September 2025 that the Chinese mainland will lag in chip manufacturing nodes for a long time, and Huawei's plan relies on linking very large numbers of chips instead.",
+  "today": "Huawei Cloud CEO Zhou Yuefeng said at Huawei Connect in September 2026 that commercial service of an Ascend 950 cluster would start in China on September 30 and in global markets on November 30. The cluster links 1,024 Ascend 950 chips over Huawei's UnifiedBus interconnect and delivers up to 1 EFLOPS of FP8 and 2 EFLOPS of FP4 compute with 256 TB of shared memory. Huawei said at the same event that more than 1,000 Ascend 910C supernodes are deployed and that Ascend 950 supernodes are in commercial use. In October 2026 Xu Zhijun said Ascend 950 supernode output cannot yet meet demand in China, so Huawei will not sell the hardware globally for now and has shipped only a few units abroad for testing. At its INSPIRE conference in June 2026 Huawei Cloud described an AI cluster service that scales to 100,000 cards and 200 EFLOPS. Huawei's 2025 cloud computing revenue from external customers fell 3.5% to RMB 32.2B, and revenue including sales through other Huawei segments reached RMB 72.1B. More than 1,800 customers used its AI Cluster Service by the end of 2025, up from 321 in 2024.",
+  "platform": "Huawei Cloud runs 34 regions and 103 availability zones and serves customers in more than 170 countries and regions. Its CloudMatrix AI Infra pools Ascend supernodes into the AI Cluster Service for training, and its AI Token Service sells inference on CloudMatrix384, which Huawei says gives 3 to 4 times the per-card inference performance of an NVIDIA H20. ModelArts handles model training and deployment, and Huawei Cloud offers its own Pangu models along with models from more than 20 partners such as Zhipu, DeepSeek and Kimi. GPU Accelerated Cloud Servers provide GPU and Ascend virtual machines.",
+  "outlook": "Huawei plans the Ascend 950DT chip and an 8,192-chip Atlas 950 SuperPoD for the fourth quarter of 2026, and it moved the Ascend 960DT forward to the first quarter of 2027. TrendForce reported in April 2026 that Huawei aims to ship about 750,000 Ascend 950PR chips in 2026. Huawei has not said how much Ascend 950 capacity the November 30 global cloud launch will offer while supply falls short in China. In May 2025 the US Commerce Department said that using Huawei's Ascend 910B, 910C and 910D chips can violate US export controls, including for users outside the United States.",
+  "sources": [
+   {
+    "title": "TechNode: Huawei sets commercial launch dates for Ascend 950 AI cluster cloud service",
+    "url": "https://technode.com/2026/09/18/huawei-sets-commercial-launch-dates-for-ascend-950-ai-cluster-cloud-service/",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "Huawei Central: Huawei Ascend 950 AI cluster to debut globally on November 30",
+    "url": "https://www.huaweicentral.com/huawei-ascend-950-ai-cluster-to-debut-globally-on-november-30/",
+    "date": "2026-09-19"
+   },
+   {
+    "title": "TechNode: Huawei unveils what it calls the industry's first NPO-based Ascend 960 supernode",
+    "url": "https://technode.com/2026/09/17/huawei-npo-based-ascend-960-supernode/",
+    "date": "2026-09-17"
+   },
+   {
+    "title": "Huawei Central: Huawei details Ascend 950 supernode global expansion plans",
+    "url": "https://www.huaweicentral.com/huawei-details-ascend-950-supernode-global-expansion-plans/",
+    "date": "2026-10-07"
+   },
+   {
+    "title": "Huawei: 2025 Annual Report",
+    "url": "https://www.huawei.com/en/annual-report/2025",
+    "date": "2026-03-31"
+   },
+   {
+    "title": "TrendForce: Huawei 2025 R&D Spending Reaches Record 192.3B Yuan, 22% of Revenue, Cloud Revenue Slips",
+    "url": "https://www.trendforce.com/news/2026/04/01/news-huawei-2025-r-cloud-revenue-slips/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "Huawei: Groundbreaking SuperPoD Interconnect - Leading a New Paradigm for AI Infrastructure",
+    "url": "https://www.huawei.com/en/news/2025/9/hc-xu-keynote-speech",
+    "date": "2025-09-18"
+   },
+   {
+    "title": "Huawei Cloud: Fostering the Fertile Ground for Compute, Empowering AI Pioneers for Industries",
+    "url": "https://www.huaweicloud.com/intl/en-us/news/20250919133255709.html",
+    "date": "2025-09-19"
+   },
+   {
+    "title": "36Kr: Huawei Cloud Chooses a Third Path in the Fierce Token Battle",
+    "url": "https://eu.36kr.com/en/p/3840016255126016",
+    "date": "2026-06-05"
+   },
+   {
+    "title": "arXiv: Serving Large Language Models on Huawei CloudMatrix384",
+    "url": "https://arxiv.org/abs/2506.12708",
+    "date": "2025-06-15"
+   },
+   {
+    "title": "Crowell & Moring: U.S. Department of Commerce Rescinds Biden Administration's AI Diffusion Export Control Rule and Issues New Guidance on Huawei, Chips for AI Purposes, and Diligence Expectations",
+    "url": "https://www.crowell.com/en/insights/client-alerts/us-department-of-commerce-rescinds-biden-administrations-ai-diffusion-export-control-rule-and-issues-new-guidance-on-huawei-chips-for-ai-purposes-and-diligence-expectations",
+    "date": "2025-05-19"
+   },
+   {
+    "title": "Huawei Cloud: International website",
+    "url": "https://www.huaweicloud.com/intl/en-us/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Huawei Cloud: GPU Accelerated Cloud Server",
+    "url": "https://www.huaweicloud.com/intl/en-us/product/gpu.html",
+    "date": "2026-10"
+   },
+   {
+    "title": "Baidu Baike: Huawei Cloud",
+    "url": "https://baike.baidu.com/en/item/Huawei%20Cloud/1447537",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "ibm-cloud",
+  "name": "IBM Cloud",
+  "aka": "",
+  "category": "hyperscaler",
+  "region": "North America",
+  "hq": "Armonk, New York, US",
+  "founded": "",
+  "ownership": "Division of IBM (NYSE: IBM)",
+  "website": "https://www.ibm.com/cloud",
+  "accelerators": [
+   "NVIDIA B300",
+   "NVIDIA H200",
+   "NVIDIA H100",
+   "NVIDIA L40S",
+   "NVIDIA L4",
+   "NVIDIA A100",
+   "AMD MI300X",
+   "Intel Gaudi 3"
+  ],
+  "products": [
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Inference API",
+   "Storage"
+  ],
+  "snippet": "IBM's public cloud targets enterprise and regulated workloads. It rents NVIDIA GPUs up to Blackwell Ultra, AMD Instinct MI300X and Intel Gaudi 3, with up to eight accelerators per virtual server.",
+  "facts": [
+   {
+    "label": "Newest NVIDIA GPU offered",
+    "value": "Blackwell Ultra (B300)"
+   },
+   {
+    "label": "Largest NVIDIA instance",
+    "value": "8x H200 (141 GB each)"
+   },
+   {
+    "label": "Intel instance",
+    "value": "8x Gaudi 3 (128 GB each)"
+   },
+   {
+    "label": "AMD option",
+    "value": "Instinct MI300X"
+   }
+  ],
+  "customers": [],
+  "origin": "IBM Cloud is the public cloud arm of IBM's hybrid cloud strategy, which pairs it with Red Hat OpenShift and the watsonx AI platform. Its GPU business serves enterprises that want to run AI next to IBM software and inside IBM's security and compliance controls.",
+  "today": "IBM Cloud lists NVIDIA Blackwell Ultra GPUs as available, alongside AMD Instinct MI300X and Intel Gaudi 3 accelerators. Its VPC virtual server profiles run up to eight NVIDIA H100, H200 or Gaudi 3 accelerators per instance, with smaller L4, L40S and A100 options.",
+  "platform": "Customers deploy GPU instances in IBM Cloud VPC or through Red Hat OpenShift, and use IBM watsonx for model development and serving.",
+  "outlook": "",
+  "sources": [
+   {
+    "title": "IBM: GPUs and AI accelerators on IBM Cloud",
+    "url": "https://www.ibm.com/cloud/gpu",
+    "date": "2026-10"
+   },
+   {
+    "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
+    "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family",
+    "date": "2026-10"
+   },
+   {
+    "title": "IBM Cloud: Company website, read October 2026",
+    "url": "https://www.ibm.com/cloud",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "tencent-cloud",
+  "name": "Tencent Cloud",
+  "aka": "Tencent Cloud International",
+  "category": "hyperscaler",
+  "region": "Asia-Pacific",
+  "hq": "Shenzhen, China",
+  "founded": "2013",
+  "ownership": "Subsidiary of Tencent Holdings (HKEX: 0700)",
+  "website": "https://www.tencentcloud.com",
+  "accelerators": [
+   "NVIDIA A100",
+   "NVIDIA A10",
+   "NVIDIA V100",
+   "NVIDIA T4"
+  ],
+  "products": [
+   "Bare metal",
+   "Virtual machines",
+   "Inference API",
+   "Training and fine-tuning",
+   "Storage"
+  ],
+  "snippet": "Tencent's cloud arm rents NVIDIA GPU capacity and serves its Hy models. Tencent's operating capex rose 190% to RMB 51.8B in the June 2026 quarter, and it says it is still compute constrained.",
+  "facts": [
+   {
+    "label": "Operating capex, June 2026 quarter",
+    "value": "RMB 51.8B, up 190%"
+   },
+   {
+    "label": "Total capex, June 2026 quarter",
+    "value": "RMB 52.8B, up 176%"
+   },
+   {
+    "label": "Cloud revenue growth, June 2026 quarter",
+    "value": "Low twenties percent, year over year"
+   },
+   {
+    "label": "Reported Oracle lease (FT, September 2026)",
+    "value": "About 100,000 chips, about $7B over five years"
+   },
+   {
+    "label": "Bond offering, October 2026",
+    "value": "About $5B, mainly for AI capex"
+   },
+   {
+    "label": "Cloud footprint",
+    "value": "25 regions, 70 availability zones"
+   }
+  ],
+  "customers": [],
+  "origin": "Tencent, the Shenzhen company behind WeChat and QQ, launched Tencent Cloud in September 2013. Dowson Tong leads it as CEO of Tencent's Cloud and Smart Industries Group, and the cloud now offers more than 700 services across compute, storage, networking and databases. Tencent also trains the Hy family of language models, earlier branded Hunyuan, and sells access to them and to GPU capacity through Tencent Cloud.",
+  "today": "Tencent's operating capex rose 190% year over year to RMB 51.8B in the quarter that ended June 2026, and total capex reached RMB 52.8B. Cloud revenue growth accelerated to the low twenties percent year over year. Tencent said AI demand lifted revenue from GPU rental and model-as-a-service, and that it is still compute constrained. President Martin Lau said Tencent could resell recently ordered compute at more than 30% above what it paid a few months earlier. The Financial Times reported in December 2025 that Tencent is the end customer of Datasection, a Tokyo-listed GPU cloud, with contracts worth more than $1.2B, and Datasection has not named its customer. In August 2026 Datasection ended the part of that service that ran on a partner's GPUs, retroactive to April 1, and kept its agreements for its own sites in Japan and Australia. On September 30, 2026 the FT reported a five-year lease worth about $7B that gives Tencent access to about 100,000 advanced AI chips in Oracle data centers in Southeast Asia, and neither company has confirmed it.",
+  "platform": "Tencent Cloud lists 25 regions and 70 availability zones, including Riyadh, its first region in the Middle East. Its GPU instances run on NVIDIA A100, A10, V100 and T4 GPUs, and newer instance families with 96 GB and 141 GB NVIDIA GPUs are in allowlist beta. Hyper Computing Clusters link GPU servers over a RoCEv2 RDMA network for distributed training, and the qGPU tool splits one GPU between containers. Tencent also rents bare metal GPU servers and sells API access to its Hy models.",
+  "outlook": "In October 2026 Tencent told bond investors that a planned offering of about $5B will mainly fund AI capex, most of it chip purchases, and that capex is likely to stay elevated into 2027. Executives said new compute goes first to training larger Hy models and to inference, and that renting it out as bare metal GPUs or model services will grow toward the end of 2026 and into 2027. US export rules bar direct sales of the most advanced AI chips to Chinese firms but do not ban leasing compute abroad, and the reported Datasection and Oracle deals use that route. Tencent Cloud CEO Dowson Tong said in January 2026 that Tencent plans more availability zones in Asia-Pacific, Europe and the Middle East over the next 12 to 18 months.",
+  "sources": [
+   {
+    "title": "Tencent: Tencent Announces 2026 Second Quarter Results",
+    "url": "https://www.tencent.com/wp-content/uploads/2026/08/Tencent-Announces-2026-Second-Quarter-Results.pdf",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Tencent: 2026 Second Quarter Results Presentation",
+    "url": "https://static.www.tencent.com/website-2026-upload/2Q26-earnings-PPT_20260812_1800-88b183.pdf",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Investing.com: Earnings call transcript - Tencent posts solid Q2 2026 growth as AI spending surges",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tencent-posts-solid-q2-2026-growth-as-ai-spending-surges-93CH-4855197",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Investing.com: Tencent Q2 2026 slides - AI spending surge amid solid revenue growth",
+    "url": "https://www.investing.com/news/company-news/tencent-q2-2026-slides-ai-spending-surge-amid-solid-revenue-growth-93CH-4855261",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Chip Briefing: Daily - Tencent rents top Nvidia chips from Japanese firm, skirting US export controls",
+    "url": "https://chipbriefing.substack.com/p/daily-tencent-rents-top-nvidia-chips",
+    "date": "2025-12"
+   },
+   {
+    "title": "Datasection: Notice Regarding Progress of Previously Disclosed Matter, Large-Scale Order",
+    "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf",
+    "date": "2026-08-14"
+   },
+   {
+    "title": "W.Media: Japan's Datasection bets on dominance with GPU supercluster ambitions",
+    "url": "https://w.media/japans-datasection-bets-on-dominance-with-gpu-supercluster-ambitions/",
+    "date": "2026-05-20"
+   },
+   {
+    "title": "Financial News: Tencent's $7bn Oracle chip lease - unconfirmed, but fits the numbers",
+    "url": "https://www.financial-news.co.uk/tencents-7bn-oracle-chip-lease-unconfirmed-but-fits-the-numbers/",
+    "date": "2026-10-01"
+   },
+   {
+    "title": "DCD: Tencent signs on for 100000 GPUs via Oracle - report",
+    "url": "https://www.datacenterdynamics.com/en/news/tencent-signs-on-for-100000-gpus-via-oracle-report/",
+    "date": "2026-10"
+   },
+   {
+    "title": "The Edge Malaysia: Tencent tells investors its US$5 bil bond mainly for AI capex (Bloomberg)",
+    "url": "https://theedgemalaysia.com/node/821501",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Capacity: Tencent Cloud eyes new data centres across the Middle East",
+    "url": "https://capacityglobal.com/news/tencent-cloud-data-centre/",
+    "date": "2026-01-28"
+   },
+   {
+    "title": "Arab News: Tencent Cloud accelerates Saudi expansion with new data region, AI services",
+    "url": "https://www.arabnews.com/business/tencent-cloud-accelerates-saudi-expansion-with-new-data-region-ai-services-2616094",
+    "date": "2025-09-20"
+   },
+   {
+    "title": "Tencent Cloud: Global Infrastructure",
+    "url": "https://www.tencentcloud.com/global-infrastructure",
+    "date": "2026-10"
+   },
+   {
+    "title": "Tencent Cloud: Computing Instance (GPU instance types)",
+    "url": "https://www.tencentcloud.com/document/product/560/19701",
+    "date": "2026-02-26"
+   },
+   {
+    "title": "Tencent Cloud: GPU Cloud Computing",
+    "url": "https://www.tencentcloud.com/products/gpu",
+    "date": "2026-10"
+   },
+   {
+    "title": "Wikipedia: Tencent Cloud",
+    "url": "https://en.wikipedia.org/wiki/Tencent_Cloud",
+    "date": "2026-10"
+   },
+   {
+    "title": "Tencent Cloud: Company website, read October 2026",
+    "url": "https://www.tencentcloud.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "akamai",
+  "name": "Akamai Cloud",
+  "aka": "Akamai Technologies, Linode",
+  "category": "othercloud",
+  "region": "North America",
+  "hq": "Cambridge, Massachusetts, US",
+  "founded": "1998",
+  "ownership": "Public (Nasdaq: AKAM)",
+  "website": "https://www.akamai.com",
+  "accelerators": [
+   "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+  ],
+  "products": [
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Inference API",
+   "Storage"
+  ],
+  "snippet": "Akamai turned its CDN and the Linode cloud it bought in 2022 into a distributed AI inference cloud. It signed over $2.8B of multi-year cloud contracts in 2026, including $1.8B from a frontier model provider.",
+  "facts": [
+   {
+    "label": "Cloud Infrastructure Services revenue, Q2 2026",
+    "value": "$99M, up 39%"
+   },
+   {
+    "label": "Multi-year cloud contracts signed in 2026",
+    "value": "Over $2.8B"
+   },
+   {
+    "label": "Frontier model provider commitment",
+    "value": "$1.8B over seven years"
+   },
+   {
+    "label": "Robotics customer contract",
+    "value": "$600M+ over four years"
+   },
+   {
+    "label": "Edge points of presence",
+    "value": "4,400+"
+   },
+   {
+    "label": "Linode purchase price",
+    "value": "About $900M (2022)"
+   }
+  ],
+  "customers": [],
+  "origin": "Akamai, a content delivery network company, bought the developer cloud Linode for about $900M in March 2022 to add general compute to its edge network. In October 2025 it launched Akamai Inference Cloud with NVIDIA, starting in 20 locations with NVIDIA RTX PRO 6000 Blackwell servers and BlueField-3 DPUs.",
+  "today": "Akamai's Cloud Infrastructure Services revenue grew 39% to $99M in the second quarter of 2026, out of $1.1B in total revenue. In May 2026 Akamai said a leading US frontier model provider committed $1.8B over seven years to its cloud infrastructure. By August it had signed multi-year cloud contracts worth more than $2.8B in 2026, including more than $600M over four years from a new US technology customer for robotics development.",
+  "platform": "Akamai Inference Cloud runs NVIDIA RTX PRO 6000 Blackwell GPUs with NVIDIA AI Enterprise software and NIM microservices, aimed at low-latency inference close to users. A Kubernetes-based developer platform, App Platform for LKE, ships with KServe for model serving, and Akamai markets some of the lowest data-transfer costs in the market rather than free egress. The service sits on an edge network that Akamai says spans more than 4,400 locations across 134 countries.",
+  "outlook": "Akamai said at launch that an expanded rollout beyond the first 20 Inference Cloud locations was underway. Cloud infrastructure revenue grows much faster than Akamai's total revenue, which it guides to $4.445B to $4.530B for 2026, but still makes up less than 10% of it.",
+  "sources": [
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08-06"
+   },
+   {
+    "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Akamai: Akamai Inference Cloud platform",
+    "url": "https://www.akamai.com/products/akamai-inference-cloud-platform",
+    "date": "2026-10"
+   },
+   {
+    "title": "Akamai: Akamai Completes Acquisition of Linode",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode",
+    "date": "2022-03-21"
+   },
+   {
+    "title": "Akamai: AI Inference at the Edge: How Akamai's Evolution Made It Possible",
+    "url": "https://www.akamai.com/blog/cloud/full-circle-akamais-evolution-set-stage-ai-inference-era",
+    "date": "2025-11-26"
+   },
+   {
+    "title": "Akamai: AI Inference with App Platform for LKE",
+    "url": "https://www.akamai.com/cloud/guides/deploy-llm-for-ai-inferencing-on-apl",
+    "date": "2025-12"
+   },
+   {
+    "title": "Akamai Cloud: Company website, read October 2026",
+    "url": "https://www.akamai.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "byteplus",
+  "name": "BytePlus",
+  "aka": "International sister of Volcano Engine (ByteDance)",
+  "category": "othercloud",
+  "region": "Asia-Pacific",
+  "hq": "Singapore, Singapore",
+  "founded": "2021",
+  "ownership": "Subsidiary of ByteDance",
+  "website": "https://www.byteplus.com",
+  "accelerators": [],
+  "products": [
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Inference API",
+   "Training and fine-tuning",
+   "Storage"
+  ],
+  "snippet": "ByteDance's international enterprise cloud sells GPU compute, Kubernetes and API access to ByteDance's Seed models through its ModelArk platform.",
+  "facts": [
+   {
+    "label": "Founded",
+    "value": "2021"
+   },
+   {
+    "label": "Headquarters",
+    "value": "Singapore"
+   },
+   {
+    "label": "Model platform",
+    "value": "ModelArk (Seed, Seedance, Seedream)"
+   }
+  ],
+  "customers": [
+   "OpenRice",
+   "Yamada Denki",
+   "PressLogic",
+   "FlexTV"
+  ],
+  "origin": "ByteDance set up BytePlus in 2021 as the international counterpart to Volcano Engine, its enterprise technology brand in China. Its early products included the recommendation technology that ByteDance uses in its own apps. BytePlus now packages ByteDance's AI models and cloud infrastructure for enterprise customers outside China.",
+  "today": "BytePlus sells a GPU Compute Service, elastic compute, Kubernetes, storage and database services. Its ModelArk platform gives API access to ByteDance's Seed models, including Seedance for video and Seedream for images. Its website lists a Southeast Asia region, and BytePlus does not publish GPU counts or capacity figures.",
+  "platform": "ModelArk serves several model families through one API, while AgentKit, ServingKit and TrainingKit cover agent building, inference optimization and model development. BytePlus keeps enterprise data separate from ByteDance's consumer apps such as TikTok and holds ISO 27001, SOC 2 and PCI DSS certifications.",
+  "outlook": "",
+  "sources": [
+   {
+    "title": "BytePlus: AI-Native Cloud for Enterprise Growth",
+    "url": "https://www.byteplus.com/en",
+    "date": "2026-10"
+   },
+   {
+    "title": "Wikipedia: BytePlus",
+    "url": "https://en.wikipedia.org/wiki/BytePlus",
+    "date": "2026-10"
+   },
+   {
+    "title": "BytePlus: Company website, read October 2026",
+    "url": "https://www.byteplus.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "evroc",
+  "name": "Evroc",
+  "aka": "evroc AB",
+  "category": "othercloud",
+  "region": "Europe",
+  "hq": "Stockholm, Sweden",
+  "founded": "2022",
+  "ownership": "Private",
+  "website": "https://www.evroc.com",
+  "accelerators": [
+   "NVIDIA Blackwell (planned cluster)"
+  ],
+  "products": [
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Storage",
+   "Inference API",
+   "Data center development"
+  ],
+  "snippet": "Swedish sovereign cloud that is building its own AI data centers near Stockholm and Cannes. In July 2026 the Swedish Armed Forces picked it to host their combat cloud platform.",
+  "facts": [
+   {
+    "label": "Mougins AI factory plan",
+    "value": "Up to 96 MW and 50,000 GPUs"
+   },
+   {
+    "label": "Arlandastad site plan",
+    "value": "€600M, up to 16,000 GPUs"
+   },
+   {
+    "label": "Defense contract",
+    "value": "Swedish Armed Forces SINCC, July 2026"
+   },
+   {
+    "label": "Long-term plan",
+    "value": "Eight data centers in the EU"
+   }
+  ],
+  "customers": [
+   "Swedish Armed Forces and FMV (SINCC)",
+   "Vilja"
+  ],
+  "origin": "Mattias Åström founded Evroc in Stockholm in 2022 to build a European-owned hyperscale cloud as an alternative to US providers. The company published its plan in June 2023 and started service from colocation sites in Stockholm and Paris, adding Frankfurt in 2025. It designs its own liquid-cooled facilities for dense AI racks.",
+  "today": "Evroc raised €50.6M ($55M) in a Series A in March 2025 from blisce/, EQT Ventures, Norrsken VC and Giant Ventures. It launched its cloud platform in July 2025 and sells compute, storage, networking and AI services to defense, government, finance and healthcare customers. In July 2026 the Swedish Armed Forces and the Swedish Defence Materiel Administration selected Evroc to build the cloud platform for the Swedish Interoperable Combat Cloud, which handles NATO Restricted information. Evroc began offering SUSE Linux and certified SUSE Rancher Prime Kubernetes in early 2026. In September 2026 it partnered with Vilja to bring agentic AI to European banks.",
+  "platform": "Evroc runs its own cloud software on its own hardware and keeps data, control planes and support inside Europe. Its AI products include roc, an enterprise AI service, along with AI services for coding agents and banking that keep data in Europe.",
+  "outlook": "Evroc plans an AI factory in Mougins near Cannes of up to 96 MW and 50,000 GPUs, and a €600M site at Arlandastad north of Stockholm for up to 16,000 GPUs from the second half of 2026. It aims for eight data centers across the EU. The company said in 2025 that it planned to raise more capital to fund these builds.",
+  "sources": [
+   {
+    "title": "TechCrunch: Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe",
+    "url": "https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/",
+    "date": "2025-03-20"
+   },
+   {
+    "title": "SiliconANGLE: Cloud infrastructure startup Evroc raises €50.6M to build new data centers",
+    "url": "https://siliconangle.com/2025/03/20/cloud-infrastructure-startup-evroc-raises-e50-6m-build-new-data-centers/",
+    "date": "2025-03-20"
+   },
+   {
+    "title": "DCD: Evroc plans 96MW data center outside Cannes, France",
+    "url": "https://www.datacenterdynamics.com/en/news/evroc-plans-96mw-data-center-outside-cannes-france/",
+    "date": "2025-02-10"
+   },
+   {
+    "title": "DCD: Sovereign European cloud Evroc launches",
+    "url": "https://www.datacenterdynamics.com/en/news/sovereign-european-cloud-evroc-launches/",
+    "date": "2025-07-08"
+   },
+   {
+    "title": "PR Newswire: evroc reveals plans to build Europe's first sovereign hyperscale cloud",
+    "url": "https://www.prnewswire.co.uk/news-releases/evroc-reveals-plans-to-build-europes-first-sovereign-hyperscale-cloud-301841271.html",
+    "date": "2023-06-06"
+   },
+   {
+    "title": "Nordic Defence Sector: Evroc Develops Cloud Platform for the Swedish Armed Forces' New Command and Control System",
+    "url": "https://nordicdefencesector.com/en/article/evroc-builds-cloud-platform-for-the-swedish-armed-forces-sincc",
+    "date": "2026-07-02"
+   },
+   {
+    "title": "DCD: Swedish military teams up with Evroc for Combat Cloud",
+    "url": "https://www.datacenterdynamics.com/en/news/swedish-military-teams-up-with-evroc-for-combat-cloud/",
+    "date": "2026-06-22"
+   },
+   {
+    "title": "DataCentreNews UK: SUSE and evroc forge sovereign European cloud stack deal",
+    "url": "https://datacentrenews.uk/story/suse-evroc-forge-sovereign-european-cloud-stack-deal",
+    "date": "2026-01-08"
+   },
+   {
+    "title": "Konsulteer: Vilja Partners With Evroc On Sovereign AI Banking",
+    "url": "https://www.konsulteer.com/article/vilja-partners-with-evroc-to-bring-sovereign-ai-into-european-banking",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "evroc: Homepage",
+    "url": "https://www.evroc.com/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Evroc: Company website, read October 2026",
+    "url": "https://www.evroc.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "hetzner",
+  "name": "Hetzner",
+  "aka": "Hetzner Online",
+  "category": "othercloud",
+  "region": "Europe",
+  "hq": "Gunzenhausen, Germany",
+  "founded": "1997",
+  "ownership": "Private",
+  "website": "https://www.hetzner.com",
+  "accelerators": [
+   "NVIDIA RTX PRO 6000 Blackwell Max-Q",
+   "NVIDIA RTX PRO 4000 Blackwell SFF"
+  ],
+  "products": [
+   "Bare metal"
+  ],
+  "snippet": "German hosting company known for low-cost dedicated servers. It rents single-GPU dedicated servers with NVIDIA RTX PRO Blackwell cards from €214 a month.",
+  "facts": [
+   {
+    "label": "GEX45 monthly price",
+    "value": "€214"
+   },
+   {
+    "label": "GEX131 monthly price",
+    "value": "€889"
+   },
+   {
+    "label": "GEX63 monthly price",
+    "value": "€999"
+   },
+   {
+    "label": "Founded",
+    "value": "1997"
+   }
+  ],
+  "customers": [],
+  "origin": "Martin Hetzner founded the company in 1997 in Gunzenhausen, Bavaria. It became one of Europe's largest datacenter operators by providing low-cost infrastructure as a service to developers and corporate customers. It runs sites in Nuremberg and Falkenstein in Germany and Helsinki in Finland, plus Ashburn, Hillsboro and Singapore.",
+  "today": "Hetzner rents dedicated servers with one NVIDIA professional GPU each and does not list multi-GPU training clusters. The GEX131, launched in December 2025, pairs an RTX PRO 6000 Blackwell Max-Q with 96 GB of memory for €889 a month or about €1.42 an hour. It added the GEX45 with an RTX PRO 4000 Blackwell SFF for €214 a month in September 2026 and the GEX63 with an RTX PRO 6000 Blackwell Max-Q for €999 a month in October 2026. The GPU servers run in its German and Finnish data centers. Hetzner announced a price adjustment effective April 2026 and changed setup fees twice in 2026.",
+  "platform": "Hetzner's GPU servers are dedicated bare-metal machines ordered through its server configurator, with monthly or hourly billing and one-time setup fees. The GEX131 uses an Intel Xeon Gold 5412U with 256 GB of DDR5 ECC memory, and the GEX63 uses an Intel Core Ultra 7 265 with 128 GB. The company markets the GEX45 for inference and the larger models for training.",
+  "outlook": "Hetzner adds GPU models one card generation at a time and broke ground on a new headquarters in Gunzenhausen in October 2026. It has not announced multi-GPU nodes or data center scale AI clusters.",
+  "sources": [
+   {
+    "title": "Hetzner: Hetzner unveils the GEX131 with NVIDIA RTX PRO 6000 Blackwell Max-Q",
+    "url": "https://www.hetzner.com/pressroom/new-gex131/",
+    "date": "2025-12-11"
+   },
+   {
+    "title": "Hetzner: Hetzner expands its GPU portfolio with the GEX45",
+    "url": "https://www.hetzner.com/pressroom/hetzner-expands-its-gpu-portfolio-with-the-gex45/",
+    "date": "2026-09-01"
+   },
+   {
+    "title": "Hetzner: Hetzner expands GPU portfolio with new GEX63 featuring NVIDIA RTX PRO 6000 Blackwell Max-Q",
+    "url": "https://www.hetzner.com/pressroom/hetzner-expands-gpu-portfolio-with-new-gex63-featuring-nvidia-rtx-pro-6000-blackwell-max-q/",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Hetzner: GPU dedicated servers",
+    "url": "https://www.hetzner.com/dedicated-rootserver/matrix-gpu/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Hetzner: Pressroom",
+    "url": "https://www.hetzner.com/pressroom/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Wikipedia: Hetzner",
+    "url": "https://en.wikipedia.org/wiki/Hetzner",
+    "date": "2026-10"
+   },
+   {
+    "title": "The Register: Hetzner: 50% price hike, no fooling, from April 1st",
+    "url": "https://www.theregister.com/on-prem/2026/02/24/hetzner-50-price-hike-no-fooling-from-april-1st/4547119",
+    "date": "2026-02-24"
+   },
+   {
+    "title": "Hetzner: Company website, read October 2026",
+    "url": "https://www.hetzner.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "indosat",
+  "name": "Indosat Ooredoo Hutchison",
+  "aka": "IOH, Indosat, Lintasarta, Zankore",
+  "category": "othercloud",
+  "region": "Asia-Pacific",
+  "hq": "Jakarta, Indonesia",
+  "founded": "2022",
+  "ownership": "Public (IDX: ISAT), controlled by Ooredoo and CK Hutchison",
+  "website": "https://ioh.co.id",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Inference API",
+   "Data center development"
+  ],
+  "snippet": "Indonesian telco whose Lintasarta unit rents H100s as GPU Merdeka. Its new Zankore platform with Ooredoo and NVIDIA targets 1 GW, starting with 200 MW in the first half of 2027.",
+  "facts": [
+   {
+    "label": "GPU Merdeka launch",
+    "value": "August 2024, NVIDIA H100"
+   },
+   {
+    "label": "Zankore capacity target",
+    "value": "1 GW within three years"
+   },
+   {
+    "label": "Zankore first phase",
+    "value": "200 MW in H1 2027"
+   },
+   {
+    "label": "Ooredoo commitment",
+    "value": "$800M over five years for 49%"
+   },
+   {
+    "label": "Zankore debt financing",
+    "value": "$3.1B (September 2026)"
+   }
+  ],
+  "customers": [
+   "GoTo",
+   "NVIDIA",
+   "Nokia",
+   "Ooredoo",
+   "BDx Indonesia",
+   "F5"
+  ],
+  "origin": "Indosat's ICT arm Lintasarta launched GPU Merdeka in August 2024, a GPU cloud of NVIDIA H100 servers that Indosat calls a sovereign AI factory. It runs at a BDx Indonesia data center, and NVIDIA says Lintasarta built it in less than three months. Indosat also backs Sahabat-AI, an Indonesian language model that GoTo uses in its Dira voice assistant.",
+  "today": "In August 2026 Indosat launched Zankore with Ooredoo, NVIDIA and Nokia, an AI factory platform that targets 1 GW of NVIDIA capacity within three years and starts with about 200 MW of GB300 NVL72 systems in the first half of 2027. Ooredoo commits $800M over five years for a 49% stake, and Zankore raised a $3.1B term loan in September 2026. In October 2026 Indosat and F5 launched an AI services suite that sells model inference by the token.",
+  "platform": "GPU Merdeka sells servers with eight NVIDIA H100 SXM GPUs, 3.2 Tbps of InfiniBand per server and racks of up to 20 kW. Zankore uses NVIDIA's DSX AI factory design with Nokia networking.",
+  "outlook": "Zankore forecasts $13B of revenue over five years, and its first 200 MW must arrive in 2027 to start that plan. CoreWeave announced its own three data centers in Indonesia in August 2026, with 360 MW due online in 2028, and it named no Indonesian partner.",
+  "sources": [
+   {
+    "title": "Developing Telecoms: Indosat's Lintasarta launches Nvidia-powered AI cloud",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/17197-indosat-s-lintasarta-launches-nvidia-powered-ai-cloud.html",
+    "date": "2024-08-22"
+   },
+   {
+    "title": "NVIDIA Blog: Indonesia Tech Leaders Team With NVIDIA and Partners to Launch Nation's AI",
+    "url": "https://blogs.nvidia.com/blog/indonesia-tech-leaders-sovereign-ai/",
+    "date": "2024-11-13"
+   },
+   {
+    "title": "TNGlobal: Indonesia's Indosat jointly launches 1GW AI factory platform Zankore with Qatar's Ooredoo, Finland's Nokia, US' NVIDIA",
+    "url": "https://technode.global/2026/08/07/indonesias-indosat-jointly-launches-1gw-ai-factory-platform-zankore-with-qatars-ooredoo-finlands-nokia-us-nvidia/",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "The Next Web: Cherry-picking our tenants, Ooredoo bets $800m on Indonesia's first AI cloud",
+    "url": "https://thenextweb.com/news/zankore-ooredoo-800m-indonesia-ai-cloud-neocloud-nvidia",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "Reuters: Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform",
+    "url": "https://www.reuters.com/business/media-telecom/ooredoo-backed-zankore-secures-31-billion-financing-nvidia-ai-cloud-platform-2026-09-09/",
+    "date": "2026-09-09"
+   },
+   {
+    "title": "Developing Telecoms: Indosat and F5 launch AI services suite for Southeast Asian enterprises",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20948-indosat-and-f5-launch-ai-services-suite-for-southeast-asian-enterprises.html",
+    "date": "2026-10-11"
+   },
+   {
+    "title": "CoreWeave: CoreWeave Expands AI Cloud Platform Into Indonesia",
+    "url": "https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Developing Telecoms: Zankore lands US$3.1b loan facility to finance Nvidia-powered AI platform",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20802-zankore-lands-us-3-1b-loan-facility-to-finance-nvidia-powered-ai-platform.html",
+    "date": "2026-09-10"
+   },
+   {
+    "title": "Indosat Ooredoo Hutchison: Company website, read October 2026",
+    "url": "https://ioh.co.id",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "latitude-sh",
+  "name": "Latitude.sh",
+  "aka": "Maxihost",
+  "category": "othercloud",
+  "region": "Latin America",
+  "hq": "São Paulo, Brazil",
+  "founded": "",
+  "ownership": "Subsidiary of Megaport (ASX: MP1)",
+  "website": "https://www.latitude.sh",
+  "accelerators": [
+   "NVIDIA B300",
+   "NVIDIA H100",
+   "NVIDIA RTX PRO 6000"
+  ],
+  "products": [
+   "Bare metal",
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Storage"
+  ],
+  "snippet": "Bare metal cloud, formerly Maxihost, with 26 locations and NVIDIA GPU clusters, now owned by Megaport. Its parent raised about $594M in July 2026 to build a global AI inference cloud on it.",
+  "facts": [
+   {
+    "label": "Locations",
+    "value": "26"
+   },
+   {
+    "label": "Megaport capital raise (July 2026)",
+    "value": "A$827.3M (about $594M)"
+   },
+   {
+    "label": "Planned on-demand B300 GPUs",
+    "value": "2,048"
+   }
+  ],
+  "customers": [
+   "Hashgraph",
+   "Boundless"
+  ],
+  "origin": "Latitude.sh built a developer-first platform that provisions dedicated servers through an API in seconds, serving blockchain nodes, SaaS, gaming, adtech and streaming customers. It later added dedicated NVIDIA GPU clusters for inference, fine-tuning and training.",
+  "today": "Megaport, the Brisbane-based network-as-a-service provider listed on the ASX, agreed in November 2025 to acquire Latitude.sh and expected to close by the end of that year. At the time Latitude had more than 7,700 servers and 1,150 customers in 20 markets across 10 countries, and it now lists 26 locations. In July 2026 Megaport announced a capital raise of A$827.3M, about $594M, to build a globally distributed AI inference cloud on Latitude. About A$369.5M goes to four AI infrastructure contracts with US technology companies. The rest funds 2,048 NVIDIA B300 GPUs for on-demand use from autumn 2026.",
+  "platform": "Latitude.sh rents bare metal servers that deploy in as little as five seconds, plus Metal GPU clusters with NVIDIA RTX PRO 6000 and H100 GPUs. It also sells virtual machines, managed Kubernetes, block, file and object storage and managed PostgreSQL. Megaport's network connects its compute to public clouds and more than 1,000 data centers.",
+  "outlook": "Latitude plans to turn its bare metal platform into an on-demand inference cloud built on B300 GPUs and Megaport's private network. About A$369.5M of the A$827.3M raised goes to delivering four US AI contracts, with the remainder funding a new on-demand GPU pool that includes 2,048 NVIDIA B300 GPUs. Gui Soubihe remains CEO under Megaport.",
+  "sources": [
+   {
+    "title": "Megaport: Megaport to acquire Latitude.sh, creating an industry-leading Compute and Network-as-a-Service platform",
+    "url": "https://www.megaport.com/media-releases/2025-11-11.pdf",
+    "date": "2025-11-11"
+   },
+   {
+    "title": "Latitude.sh: We've secured $594M to build the global AI Inference Cloud",
+    "url": "https://www.latitude.sh/blog/weve-secured-594m-to-build-the-global-ai-inference-cloud",
+    "date": "2026-07-02"
+   },
+   {
+    "title": "Latitude.sh: The global AI enabler cloud",
+    "url": "https://www.latitude.sh/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Latitude.sh: Locations",
+    "url": "https://www.latitude.sh/locations",
+    "date": "2026-10"
+   },
+   {
+    "title": "Latitude.sh: Metal GPU clusters",
+    "url": "https://www.latitude.sh/accelerate",
+    "date": "2026-10"
+   },
+   {
+    "title": "Latitude.sh: Company website, read October 2026",
+    "url": "https://www.latitude.sh",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "sakura-internet",
+  "name": "Sakura Internet",
+  "aka": "SAKURA internet Inc., Koukaryoku GPU cloud, SAKURAONE",
+  "category": "othercloud",
+  "region": "Asia-Pacific",
+  "hq": "Osaka, Japan",
+  "founded": "1996",
+  "ownership": "Public (TSE: 3778)",
+  "website": "https://www.sakura.ad.jp",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA H200",
+   "NVIDIA HGX B200"
+  ],
+  "products": [
+   "Bare metal",
+   "Virtual machines",
+   "Inference API",
+   "Colocation"
+  ],
+  "snippet": "Osaka cloud and hosting provider that runs Japan's state-subsidized Koukaryoku GPU cloud, with a plan for about 10,000 GPUs and Government Cloud status.",
+  "facts": [
+   {
+    "label": "State subsidy",
+    "value": "Up to ¥50.1B (April 2024)"
+   },
+   {
+    "label": "GPU plan",
+    "value": "About 10,000 GPUs by March 2028"
+   },
+   {
+    "label": "GPU revenue, FY to March 2026",
+    "value": "¥8.14B, up 20.3%"
+   },
+   {
+    "label": "Total revenue, FY to March 2026",
+    "value": "¥35.3B"
+   },
+   {
+    "label": "SAKURAONE",
+    "value": "37.79 PFLOPS LINPACK, 63rd on TOP500"
+   },
+   {
+    "label": "Government Cloud",
+    "value": "Selected for FY2023 and FY2026"
+   }
+  ],
+  "customers": [],
+  "origin": "Kunihiro Tanaka founded Sakura Internet in 1996, and it grew into a domestic provider of rental servers, VPS, public cloud and data centers, including a campus in Ishikari, Hokkaido. In June 2023 it committed ¥13B to a first GPU cluster of about 2,000 GPUs for its Koukaryoku cloud. In April 2024 Japan's government granted it a subsidy of up to ¥50.1B, and Sakura raised its plan to about 10,000 GPUs and about ¥100B of investment by March 2028.",
+  "today": "Sakura reported revenue of ¥35.3B for the year to March 2026, with GPU infrastructure services at ¥8.14B. It posted an operating loss of ¥403.7M after a ¥4.15B profit the year before. It forecasts ¥45B in sales for the year to March 2027 and is expanding Koukaryoku from about 2,000 to nearly 4,000 Hopper GPUs while adding Blackwell systems in Ishikari. A national institution ordered about ¥3.8B of generative AI compute on its SAKURAONE managed H100 and H200 clusters through March 2027. In March 2026 Sakura met all 305 technical requirements and was confirmed as a Government Cloud provider. In April 2026 Microsoft named Sakura and SoftBank as partners to offer domestic GPU compute through Azure.",
+  "platform": "Koukaryoku rents NVIDIA GPU servers as bare metal and virtual machines. SAKURAONE is a managed supercomputer built on HGX B200 systems with direct liquid cooling, and in June 2026 it reached 37.79 PFLOPS on LINPACK, ranking 63rd on the TOP500 and 22nd on HPCG. Sakura also runs the SAKURA Gen AI Platform, a managed service for generative AI applications launched in August 2025.",
+  "outlook": "Sakura plans to reach about 10,800 GPUs in its high-performance AI computing service and has told investors it expects more data center spending. In August 2025 it signed a basic agreement with KDDI and Highreso to meet GPU demand. In August 2026 it disclosed a breach of its sales management system that may affect up to 1.36 million member accounts. The breach hit customer contract records, not its infrastructure services.",
+  "sources": [
+   {
+    "title": "SAKURA internet: Selected as a Provider of Government Cloud Services for Fiscal Years 2023 and 2026",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/03/27/1968224094/",
+    "date": "2026-03-27"
+   },
+   {
+    "title": "SAKURA internet: SAKURAONE Ranks 22nd Worldwide in HPCG Benchmark",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/06/25/1968225150/",
+    "date": "2026-06-25"
+   },
+   {
+    "title": "SAKURA internet: News releases (Gen AI Platform launch, KDDI and Highreso agreement)",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/",
+    "date": "2025-08"
+   },
+   {
+    "title": "TrendForce: Japan's Sakura AI GPU Procurement Reportedly Increases Fivefold, Including Purchase of NVIDIA B200",
+    "url": "https://www.trendforce.com/news/2024/04/22/news-japans-sakura-ai-gpu-procurement-reportedly-increases-fivefold-including-purchase-of-nvidia-b200/",
+    "date": "2024-04-22"
+   },
+   {
+    "title": "Nikkei Asia: Japan to fund KDDI, four others to build AI supercomputer",
+    "url": "https://asia.nikkei.com/business/technology/japan-to-fund-kddi-four-others-to-build-ai-supercomputer",
+    "date": "2024-04-18"
+   },
+   {
+    "title": "Startup Fortune: Sakura Internet plans more AI data center spending in Japan",
+    "url": "https://startupfortune.com/sakura-internet-plans-more-ai-data-center-spending-in-japan/",
+    "date": "2026-05-24"
+   },
+   {
+    "title": "Bloomberg: Sakura Internet Eyes More Spending to Meet AI Data Center Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
+    "date": "2026-05-25"
+   },
+   {
+    "title": "Microsoft Source: Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure",
+    "url": "https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/",
+    "date": "2026-04-03"
+   },
+   {
+    "title": "BleepingComputer: Sakura Internet hack exposes data of up to 1.36 million accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "Sakura Internet: Company website, read October 2026",
+    "url": "https://www.sakura.ad.jp",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "cerebras",
+  "name": "Cerebras Systems",
+  "aka": "Cerebras",
+  "category": "platform",
+  "region": "North America",
+  "hq": "Sunnyvale, California, US",
+  "founded": "2015",
+  "ownership": "Public (Nasdaq: CBRS)",
+  "website": "https://www.cerebras.ai",
+  "accelerators": [
+   "Cerebras CS-4 (WSE-3 Turbo)",
+   "Cerebras CS-3 (WSE-3)"
+  ],
+  "products": [
+   "Inference API",
+   "Training and fine-tuning",
+   "Own silicon"
+  ],
+  "snippet": "Sunnyvale chipmaker that sells fast AI inference on its own wafer-scale systems. It listed on Nasdaq in May 2026 and holds a 750 MW inference contract with OpenAI and a $25.4B backlog.",
+  "facts": [
+   {
+    "label": "IPO",
+    "value": "$5.5B at $185 a share on Nasdaq (May 2026)"
+   },
+   {
+    "label": "Q2 2026 cloud revenue",
+    "value": "$127.7M core, up 287%"
+   },
+   {
+    "label": "Backlog (RPO)",
+    "value": "$25.4B (June 30, 2026)"
+   },
+   {
+    "label": "Data center capacity",
+    "value": "Over 600 MW live or contracted through 2027"
+   },
+   {
+    "label": "OpenAI contract",
+    "value": "750 MW through 2028, over $20B per Cerebras"
+   },
+   {
+    "label": "2026 core revenue guidance",
+    "value": "$880M to $890M"
+   }
+  ],
+  "customers": [
+   "OpenAI",
+   "Amazon Web Services",
+   "G42",
+   "Mohamed bin Zayed University of Artificial Intelligence",
+   "Meta",
+   "Cognition",
+   "Notion",
+   "GSK",
+   "Mayo Clinic",
+   "Lovable",
+   "General Compute"
+  ],
+  "origin": "Andrew Feldman, Gary Lauterbach, Michael James, Sean Lie and Jean-Philippe Fricker founded Cerebras in 2015 after working together at SeaMicro, a server startup that AMD bought in 2012. They set out to build a single processor from a whole silicon wafer instead of cutting the wafer into small chips. G42 of Abu Dhabi began buying its Condor Galaxy supercomputers in July 2023, and a US national security review of G42's investment delayed the IPO that Cerebras first filed for in 2024. The company moved into selling inference through its own cloud, and in March 2025 it announced six new inference data centers in North America and Europe, including Oklahoma City and Montreal.",
+  "today": "Cerebras raised $5.5B in its Nasdaq IPO on May 14, 2026, selling 30 million shares at $185. Its largest contract, signed with OpenAI in December 2025, commits OpenAI to buy 750 MW of inference capacity deployed in tranches through 2028, and Cerebras values the deal at more than $20B. In the second quarter of 2026 core revenue doubled to $209.9M and cloud and services core revenue nearly quadrupled to $127.7M, while the GAAP net loss reached $450.5M. At June 30, 2026 it reported $25.4B of remaining performance obligations and more than 600 MW of data center capacity live or under contract for delivery by the end of 2027. Digi Power X is building a 40 MW colocation campus for Cerebras in Columbiana, Alabama, with a first 15 MW phase due in December 2026. In September 2026 Cerebras and Compute Nordic announced a 165 MW campus in Mikkeli, Finland, starting with 50 MW already under construction. AWS is installing CS-3 systems in its own data centers and expects to offer Cerebras inference paired with Trainium in Amazon Bedrock in the first quarter of 2027.",
+  "platform": "Cerebras builds each Wafer-Scale Engine from a whole silicon wafer and sells access through a public inference API, dedicated capacity and on-premise systems. The CS-4 rack, unveiled in August 2026, joins three WSE-3 Turbo wafers, each with 900,000 cores and 44GB of on-chip SRAM on TSMC's 5nm process, for 750 PFLOPS per rack. Its cloud serves OpenAI's GPT-5.6 Sol at 750 tokens per second along with open models such as Qwen and Kimi. With AMD, Cerebras plans a disaggregated inference product that pairs AMD Helios racks with its wafers, offered first on Cerebras Cloud.",
+  "outlook": "Two related customers, which Cerebras names only as Customer A and Customer B, accounted for 74% of its revenue in the first quarter of 2026. Cerebras guides to 2026 core revenue of $880M to $890M and expects its manufacturing capacity to grow more than tenfold in 2026.",
+  "sources": [
+   {
+    "title": "Cerebras: Company",
+    "url": "https://www.cerebras.ai/company",
+    "date": "2026-10"
+   },
+   {
+    "title": "Wikipedia: Cerebras",
+    "url": "https://en.wikipedia.org/wiki/Cerebras",
+    "date": "2026-10"
+   },
+   {
+    "title": "Cerebras: Cerebras Announces Six New AI Datacenters Across North America and Europe to Deliver Industry's Largest Dedicated AI Inference Cloud",
+    "url": "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s",
+    "date": "2025-03-11"
+   },
+   {
+    "title": "CNBC: Cerebras scores OpenAI deal worth over $10 billion ahead of AI chipmaker's IPO",
+    "url": "https://www.cnbc.com/2026/01/14/cerebras-scores-openai-deal-worth-over-10-billion.html",
+    "date": "2026-01-14"
+   },
+   {
+    "title": "Cerebras: Cerebras is coming to AWS",
+    "url": "https://www.cerebras.ai/blog/cerebras-is-coming-to-aws",
+    "date": "2026-03-13"
+   },
+   {
+    "title": "PR Newswire: Bell AI Fabric Expands National Network with 300 MW Data Centre in Saskatchewan",
+    "url": "https://www.prnewswire.com/news-releases/bell-ai-fabric-expands-national-network-with-300-mw-data-centre-in-saskatchewan-892263812.html",
+    "date": "2026-03-16"
+   },
+   {
+    "title": "Digi Power X: Material change report on Cerebras colocation and master services agreement (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001854368/000121390026053566/ea028958501ex99-1.htm",
+    "date": "2026-05-08"
+   },
+   {
+    "title": "TechCrunch: Cerebras raises $5.5B, then stock pops 108%, in the first huge tech IPO of 2026",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "date": "2026-05-14"
+   },
+   {
+    "title": "Cerebras: Cerebras Systems Announces Strong First Quarter 2026 Results (Form 8-K exhibit)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026044941/cbrsannouncesfinancialresu.htm",
+    "date": "2026-06-23"
+   },
+   {
+    "title": "Cerebras: Form 10-Q for the quarter ended March 31, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026044981/cbrs-20260331.htm",
+    "date": "2026-06"
+   },
+   {
+    "title": "Cerebras: Cerebras Systems Fast Inference Cloud Business Nearly Quadruples in Second Quarter 2026 (Form 8-K exhibit)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "ServeTheHome: Cerebras Intros Faster WSE-3 Turbo Processor and First Rack-Scale CS-4 System",
+    "url": "https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "W.Media: Cerebras and Compute Nordic Finland announce new 165 MW AI data center in Mikkeli",
+    "url": "https://w.media/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data-center-in-mikkeli/",
+    "date": "2026-09-02"
+   },
+   {
+    "title": "Cerebras: General Compute Selects Cerebras to Bring Ultra-Fast Inference to Agentic Coding",
+    "url": "https://www.cerebras.ai/press-release/general-compute-selects-cerebras-to-bring-ultra-fast-inference-to-agentic-coding",
+    "date": "2026-09-29"
+   },
+   {
+    "title": "FinanceFeeds: Why Cerebras Stock Is Falling Below Its $185 IPO Price in 2026",
+    "url": "https://financefeeds.com/cerebras-cbrs-stock-falling-below-185-ipo-price/",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "24/7 Wall St.: Cerebras Systems Cratered by 20% This Year. It's Going to Double in Price According to This Respected Wall Street Analyst",
+    "url": "https://247wallst.com/investing/2026/10/13/cerebras-systems-cratered-by-20-this-year-its-going-to-double-in-price-according-to-this-respected-wall-street-analyst/",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Cerebras: Home page",
+    "url": "https://www.cerebras.ai",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "groq",
+  "name": "Groq",
+  "aka": "GroqCloud",
+  "category": "platform",
+  "region": "North America",
+  "hq": "Mountain View, California, US",
+  "founded": "2016",
+  "ownership": "Private",
+  "website": "https://groq.com",
+  "accelerators": [
+   "Groq LPU",
+   "NVIDIA Groq 3 LPX",
+   "NVIDIA Vera Rubin NVL72"
+  ],
+  "products": [
+   "Inference API",
+   "Own silicon"
+  ],
+  "snippet": "Groq runs GroqCloud, an inference API on its own LPU chips. After licensing its technology to NVIDIA in December 2025, it raised $1B in 2026 and plans to grow from 54 MW to over 200 MW in 2027.",
+  "facts": [
+   {
+    "label": "NVIDIA licensing deal",
+    "value": "December 24, 2025, non-exclusive"
+   },
+   {
+    "label": "2026 funding",
+    "value": "$650M (June) and $350M (August)"
+   },
+   {
+    "label": "Valuation (Aug 2026)",
+    "value": "$3.5B"
+   },
+   {
+    "label": "Capacity",
+    "value": "54 MW, targeting 200+ MW in 2027"
+   },
+   {
+    "label": "Data centers",
+    "value": "13"
+   },
+   {
+    "label": "Developers",
+    "value": "About 6 million"
+   }
+  ],
+  "customers": [
+   "HUMAIN"
+  ],
+  "origin": "Jonathan Ross founded Groq in 2016 to build the Language Processing Unit, a chip designed for fast inference. Groq sold access to LPUs through the GroqCloud API and built clusters in the US, Saudi Arabia, Finland and Australia. In February 2025 Saudi Arabia announced a $1.5B commitment to expand Groq inference capacity, building on a Dammam cluster brought online in December 2024.",
+  "today": "In December 2025 Groq signed a non-exclusive licensing agreement with NVIDIA for its inference technology, and founder Jonathan Ross, president Sunny Madra and other staff joined NVIDIA. GroqCloud kept operating as an independent company. Groq raised $650M in June 2026 and a $350M Series A in August 2026 at a $3.5B valuation, led by Disruptive with planned NVIDIA participation. It runs 13 data centers across North America, Europe, the Middle East and Asia-Pacific with 54 MW of capacity and plans more than 200 MW in 2027. Groq became an NVIDIA Cloud Partner in August 2026.",
+  "platform": "GroqCloud sells token-based API access to open models running on Groq LPUs, and Groq says about 6 million developers use it. In August 2026 Groq said it is among the first to deploy NVIDIA Groq 3 LPX, an inference accelerator that extends Vera Rubin NVL72 systems, working with Dell. Groq also powers HUMAIN One, an enterprise AI operating system from Saudi Arabia's HUMAIN.",
+  "outlook": "Groq now deploys NVIDIA systems alongside its own LPUs, and its 2027 target of more than 200 MW needs new sites and power. Groq has changed chief executives since the NVIDIA deal, from Simon Edwards in December 2025 to Adam Winter by June 2026.",
+  "sources": [
+   {
+    "title": "Groq: Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale",
+    "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+    "date": "2025-12-24"
+   },
+   {
+    "title": "Groq: Groq Raises $650M to Scale Its AI Inference Cloud Business",
+    "url": "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business",
+    "date": "2026-06-22"
+   },
+   {
+    "title": "Groq: Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud",
+    "url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+    "date": "2026-08-17"
+   },
+   {
+    "title": "Groq: Groq Becomes an NVIDIA Cloud Partner",
+    "url": "https://groq.com/newsroom/groq-becomes-an-nvidia-cloud-partner",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Groq: Groq Among the First to Bring NVIDIA Groq 3 LPX and Vera Rubin NVL72 to Market",
+    "url": "https://groq.com/blog/groq-among-the-first-to-bring-nvidia-groq-3-lpx-and-vera-rubin-nvl72-to-market",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "Groq: GroqCloud: Expanding to Meet Demand",
+    "url": "https://groq.com/blog/groqcloud-expanding-to-meet-demand",
+    "date": "2026-02-16"
+   },
+   {
+    "title": "Groq: Saudi Arabia Announces $1.5 Billion Expansion to Fuel AI-powered Economy with AI Tech Leader Groq",
+    "url": "https://groq.com/newsroom/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-ai-tech-leader-groq",
+    "date": "2025-02-10"
+   },
+   {
+    "title": "Groq: Groq Powers HUMAIN One, a Real-Time AI Operating System for Enterprise",
+    "url": "https://groq.com/newsroom/groq-powers-humain-one--real-time-ai-operating-system-for-enterprise",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Groq: Groq Launches European Data Center Footprint in Helsinki, Finland",
+    "url": "https://groq.com/newsroom/groq-launches-european-data-center-footprint-in-helsinki-finland",
+    "date": "2025-07-06"
+   },
+   {
+    "title": "Groq: Groq Expands to Asia-Pacific with Sydney Data Center",
+    "url": "https://groq.com/newsroom/groq-expands-to-asia-pacific-with-sydney-data-center-to-power-the-next-generation-of-ai-inference",
+    "date": "2025-11-17"
+   },
+   {
+    "title": "EdTech Innovation Hub: Groq raises $350 million at $3.5 billion valuation to scale AI inference cloud",
+    "url": "https://www.edtechinnovationhub.com/news/groq-raises-350-million-at-35-billion-valuation-to-scale-ai-inference-cloud",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "Groq: Company website, read October 2026",
+    "url": "https://groq.com",
     "date": "2026-10"
    }
   ],
@@ -9749,6 +10602,517 @@ window.NEOCLOUD_PROVIDERS = [
    {
     "title": "Hydra Host: Company website, read October 2026",
     "url": "https://hydrahost.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "io-net",
+  "name": "io.net",
+  "aka": "IO Research",
+  "category": "marketplace",
+  "region": "North America",
+  "hq": "New York, New York, US",
+  "founded": "2022",
+  "ownership": "Private",
+  "website": "https://io.net",
+  "accelerators": [
+   "NVIDIA H200",
+   "NVIDIA H100",
+   "NVIDIA A100",
+   "NVIDIA L40S",
+   "NVIDIA RTX 4090"
+  ],
+  "products": [
+   "GPU marketplace",
+   "Virtual machines",
+   "Inference API",
+   "Training and fine-tuning"
+  ],
+  "snippet": "Decentralized GPU marketplace that rents out capacity from independent data centers, crypto miners and other operators in 138 countries. In June 2026 it closed an $8M enterprise contract, its largest to date.",
+  "facts": [
+   {
+    "label": "Countries",
+    "value": "138 (company, June 2026)"
+   },
+   {
+    "label": "Largest contract",
+    "value": "$8M, about $650K a month (June 2026)"
+   },
+   {
+    "label": "Inference volume",
+    "value": "Over 4B tokens a day (company, June 2026)"
+   },
+   {
+    "label": "Verified hardware",
+    "value": "2,752 GPUs and 80,000 CPUs (company, January 2026)"
+   },
+   {
+    "label": "Explorer devices",
+    "value": "1,253 active of 2,976 (September 23, 2026, Own Your Mind)"
+   },
+   {
+    "label": "Series A",
+    "value": "$30M led by Hack VC (March 2024)"
+   }
+  ],
+  "customers": [
+   "Leonardo.Ai",
+   "Wondera",
+   "FrodoBots",
+   "Vistara Labs",
+   "KayOS"
+  ],
+  "origin": "io.net grew out of a team led by Ahmad Shadid that built trading systems and turned to pooling GPU compute in 2022. The company dates the network's launch to June 11, 2023, as a marketplace for H100, A100 and consumer GPUs. Its developer, IO Research, raised $30M in a Series A led by Hack VC in March 2024 at a $1B fully diluted token valuation, and the IO token launched on Solana in June 2024. Former CTO Gaurav Sharma, who previously worked at Binance, Agoda and Amazon, became CEO in April 2025.",
+  "today": "io.net aggregates GPU capacity from independent data centers, crypto miners and partner networks in 138 countries and rents it to AI developers, according to its June 2026 release. In June 2026 it said it had closed an $8M enterprise contract with an undisclosed customer, its largest to date, which adds about $650K a month in on-chain network earnings. On June 11, 2026, it switched to the Incentive Dynamic Engine, a token model that sets supplier pay in US dollars and burns at least half of the IO revenue the network keeps after payouts. The company reports more than 4B AI tokens a day through its inference service. On OpenRouter it serves open models including Google's Gemma 4, Z.ai's GLM 5.3 and Mistral Nemo. Its January 2026 year in review counted 2,752 verified GPUs and 80,000 CPUs and listed Leonardo.Ai, Wondera and FrodoBots among its case-study customers. A CoinDesk Research report that io.net commissioned put average daily network earnings at about $35,000 to $36,000 and said they had trended upward since March 2026.",
+  "platform": "IO Cloud lets buyers book virtual machines, containers or Ray clusters on NVIDIA H100, H200, A100 and other GPUs, with each listing showing the supplier, location and price. Buyers pay as they go from prepaid IO credits, topped up by card through Stripe, in USDC or in IO, and the documentation charges a 5% fee only on card top-ups. Suppliers earn IO for completed jobs plus block rewards, and the Incentive Dynamic Engine sizes that pay to a dollar target drawn first from emitted tokens and then from client fees. IO Intelligence sells API access to open-source models, and an October 2026 company post priced H100 PCIe time at about $1.49 an hour.",
+  "outlook": "io.net says further enterprise agreements are in advanced stages, and it has not named the customer behind the $8M contract. It expects the new token model to burn at least 12M IO in the first year, and an on-chain check by the research site Own Your Mind counted about 2.15M burned by September 23, 2026. The same review found that client purchases in io.net's explorer equaled about 2.6% of supplier payouts from June 1 to 16, 2026. Most network figures, including countries, token volume and GPU counts, come from io.net itself.",
+  "sources": [
+   {
+    "title": "CoinDesk (press release): io.net to Burn Up to 12M Tokens as Network Closes $8M Deal and Hits 4 Billion Daily AI Tokens",
+    "url": "https://www.coindesk.com/press-release/2026/06/11/io-net-to-burn-up-to-12m-tokens-as-network-closes-usd8m-deal-and-hits-4-billion-daily-ai-tokens",
+    "date": "2026-06-11"
+   },
+   {
+    "title": "io.net: A new tokenomics for a new era, The IDE is now live",
+    "url": "https://io.net/blog/a-new-tokenomics-for-a-new-era-the-ide-is-now-live",
+    "date": "2026-06-11"
+   },
+   {
+    "title": "io.net: Three years of building the future of AI compute",
+    "url": "https://io.net/blog/three-years-of-building-the-future-of-ai-compute",
+    "date": "2026-06-12"
+   },
+   {
+    "title": "io.net: 2025, io.net Year in Review",
+    "url": "https://io.net/blog/2025-io-net-year-in-review",
+    "date": "2026-01-09"
+   },
+   {
+    "title": "The Block Research: The Incentive Dynamic Engine, io.net's Shift to Sustainable Tokenomics",
+    "url": "https://www.theblock.co/research/blockchains/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics-402943",
+    "date": "2026-06-11"
+   },
+   {
+    "title": "CoinDesk Research: The Incentive Dynamic Engine, A New Era for io.net Tokenomics (commissioned by io.net)",
+    "url": "https://www.coindesk.com/research/the-incentive-dynamic-engine-a-new-era-for-io-net-tokenomics",
+    "date": "2026-06-12"
+   },
+   {
+    "title": "io.net Docs: IO Cloud Payments",
+    "url": "https://io.net/docs/guides/payment/io-cloud-payments.md",
+    "date": "2026-10"
+   },
+   {
+    "title": "io.net Docs: Deploy VM on Demand",
+    "url": "https://io.net/docs/guides/clouds/deploy-vm-on-demand.md",
+    "date": "2026-10"
+   },
+   {
+    "title": "io.net Docs: Earnings and Rewards",
+    "url": "https://io.net/docs/guides/workers/earnings-rewards.md",
+    "date": "2026-10"
+   },
+   {
+    "title": "io.net: GPU Orchestration vs. GPU Rental, Why Most Decentralized Networks Are Just Marketplaces",
+    "url": "https://io.net/blog/gpu-orchestration-vs-gpu-rental-why-most-decentralized-networks-are-just-marketplaces",
+    "date": "2026-09-01"
+   },
+   {
+    "title": "io.net: Who Gets Compute When GPUs Become Collateral?",
+    "url": "https://io.net/blog/who-gets-compute-when-gpus-become-collateral",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "io.net: GPU Cloud Pricing Guide 2026, Every Provider Compared",
+    "url": "https://io.net/p/gpu-cloud-pricing-guide-2026-every-provider-compared",
+    "date": "2026"
+   },
+   {
+    "title": "OpenRouter: io.net provider page",
+    "url": "https://openrouter.ai/provider/io-net",
+    "date": "2026-10"
+   },
+   {
+    "title": "Own Your Mind: io.net Review, IO Tokenomics, Revenue & GPU Metrics 2026",
+    "url": "https://ownyourmind.ai/projects/io-net/",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "The Block: Solana-based DePIN io.net hits $1 billion token valuation in latest funding round batch",
+    "url": "https://www.theblock.co/post/280665/solana-depin-io-net-1-billion-token-valuation-funding",
+    "date": "2024-03-05"
+   },
+   {
+    "title": "Chainwire: io.net Co-founder Tory Green Appointed as Chair of io.net Foundation, Gaurav Sharma Appointed CEO to Drive Next Phase of Growth",
+    "url": "https://chainwire.org/2025/04/23/io-net-co-founder-tory-green-appointed-as-chair-of-io-net-foundation-gaurav-sharma-appointed-ceo-to-drive-next-phase-of-growth/",
+    "date": "2025-04-23"
+   },
+   {
+    "title": "Solana Compass: io.net on Solana, Project Review, Programs, Token, Metrics",
+    "url": "https://solanacompass.com/projects/ionet",
+    "date": "2026-10"
+   },
+   {
+    "title": "CryptoAIAnalysis: io.net (IO) Analysis 2026, Adoption, IDE Tokenomics, and Key Risks",
+    "url": "https://cryptoaianalysis.com/io-net-io-analysis-2026/",
+    "date": "2026-09-14"
+   },
+   {
+    "title": "io.net: Company website, read October 2026",
+    "url": "https://io.net",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "bitdeer",
+  "name": "Bitdeer",
+  "aka": "Bitdeer AI (cloud unit)",
+  "category": "developer",
+  "region": "Asia-Pacific",
+  "hq": "Singapore",
+  "founded": "2021",
+  "ownership": "Public (Nasdaq: BTDR)",
+  "website": "https://www.bitdeer.com",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA GB200 NVL72",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Data center development",
+   "Colocation",
+   "Own silicon"
+  ],
+  "snippet": "Singapore Bitcoin miner that designs its own mining chips and runs an AI cloud, Bitdeer AI. It signed a $4.7B, 16-year AI lease for 121 MW at its Tydal, Norway campus in August 2026.",
+  "facts": [
+   {
+    "label": "Tydal, Norway lease",
+    "value": "121 MW IT, 16 years, $4.7B base (August 2026)"
+   },
+   {
+    "label": "Secured AI cloud capacity",
+    "value": "About 333.5 MW IT (October 2026)"
+   },
+   {
+    "label": "Capacity target",
+    "value": "Up to 350 MW by Q1 2028"
+   },
+   {
+    "label": "AI cloud ARR",
+    "value": "About $76M (July 2026)"
+   },
+   {
+    "label": "GPUs deployed",
+    "value": "4,248 at 95% utilization (July 2026)"
+   },
+   {
+    "label": "Self-mining hashrate",
+    "value": "76.7 EH/s (July 2026)"
+   }
+  ],
+  "customers": [],
+  "origin": "Bitmain co-founder Jihan Wu set up Bitdeer as a separate Bitcoin mining and hosting company, and it listed on Nasdaq in 2023. It runs mining sites in the United States, Norway and Bhutan and designs its own SEALMINER mining chips and machines. Bitdeer AI, its GPU cloud unit, now rents NVIDIA capacity while the company converts some mining sites to AI data centers.",
+  "today": "In August 2026 Bitdeer signed a 16-year lease for 121 MW of IT load at Tydal, Norway, worth $4.7B in base rent and up to $8.0B with an 8-year extension, backed by about $1.3B of letters of credit, with a leading AI lab as end customer. Its AI cloud ran 4,248 GPUs at 95% utilization in July 2026, for about $76M of ARR. By October 2026 it had secured about 333.5 MW of AI cloud capacity across Malaysia, Norway and the United States, about 95% of its target of up to 350 MW by Q1 2028.",
+  "platform": "Bitdeer AI is an NVIDIA Cloud Partner that rents H100, H200, B200, GB200 and GB300 systems. Its Malaysian sites include the Cyberjaya and Johor campuses and a new 67 MW A901 campus, and the 60 MW A103 hall at Cyberjaya is designed for liquid-cooled Vera Rubin racks. Bitdeer also bought 200 acres near its Rockdale, Texas site for $100M in 2026 to expand AI capacity.",
+  "outlook": "Bitdeer reports an AI cloud pipeline above $10B, though it had no offtake contract for A103 when it announced the hall. On October 8, 2026 it withdrew and reissued a release on its Malaysia capacity, so figures from that week need care. The company still earns most of its revenue from mining and chip sales, which keeps it exposed to the Bitcoin price.",
+  "sources": [
+   {
+    "title": "Data Center Dynamics: Bitdeer taps contractor to begin conversion of Norwegian crypto mine to HPC",
+    "url": "https://www.datacenterdynamics.com/en/news/bitdeer-taps-contractor-to-begin-conversion-of-norwegian-crypto-mine-to-hpc/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08-26"
+   },
+   {
+    "title": "Blockspace Media: Bitdeer pays $100 million for 200 acres near Rockdale AI/HPC site",
+    "url": "https://blockspace.media/insight/bitdeer-buys-rockdale-land-ai-hpc-expansion/",
+    "date": "2026-09-02"
+   },
+   {
+    "title": "Stock Titan: Notice to Disregard, Bitdeer Technologies",
+    "url": "https://www.stocktitan.net/news/BTDR/notice-to-disregard-bitdeer-technologies-d6hppmzq6ina.html",
+    "date": "2026-10-08"
+   },
+   {
+    "title": "TheEnergyMag: Bitdeer Secures 67MW AI Data Center Campus in Malaysia, Bringing Total to 273.5MW",
+    "url": "https://www.theenergymag.com/news/market-news/bitdeer-secures-60-mw-malaysia-ai-data-center-95-of-350-mw-target",
+    "date": "2026-10-08"
+   },
+   {
+    "title": "GlobeNewswire: Bitdeer AI Expands Malaysia Campus with New 60MW A103 Facility, Closing in on Up-to-350MW Global Capacity Target",
+    "url": "https://www.globenewswire.com/news-release/2026/10/12/3379255/0/en/bitdeer-ai-expands-malaysia-campus-with-new-60mw-a103-facility-closing-in-on-up-to-350mw-global-capacity-target.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Securities.io: Bitdeer AI Secures 60MW A103 Facility Under 8-Year Agreement",
+    "url": "https://www.securities.io/bitdeer-ai-secures-60mw-a103-facility-under-8-year-agreement/",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "ForkLog: Bitdeer's Jihan Wu Takes Bitdeer to Nasdaq via SPAC Deal",
+    "url": "https://forklog.com/en/bitdeers-jihan-wu-takes-bitdeer-to-nasdaq-via-spac-deal/",
+    "date": "2023-04-14"
+   },
+   {
+    "title": "TheEnergyMag: Bitdeer Acquires 200 Acres in Texas for $100 Million to Expand AI/HPC Infrastructure",
+    "url": "https://www.theenergymag.com/news/market-news/bitdeer-acquires-200-acres-in-texas-for-100-million-to-expand-ai-hpc-infrastructure",
+    "date": "2026-09-01"
+   },
+   {
+    "title": "Bitdeer: Company website, read October 2026",
+    "url": "https://www.bitdeer.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "cleanspark",
+  "name": "CleanSpark",
+  "aka": "Stratean (until 2016)",
+  "category": "developer",
+  "region": "North America",
+  "hq": "Henderson, Nevada, US",
+  "founded": "1987",
+  "ownership": "Public (Nasdaq: CLSK)",
+  "website": "https://www.cleanspark.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Nevada Bitcoin miner turning its power sites into AI data centers. A Meta subsidiary signed its first lease in July 2026, for 175 MW at Sandersville, Georgia over 20 years, worth about $6.6B.",
+  "facts": [
+   {
+    "label": "Sandersville lease",
+    "value": "175 MW IT, 20 years, about $6.6B (July 2026)"
+   },
+   {
+    "label": "Value with extensions",
+    "value": "Up to $11.6B"
+   },
+   {
+    "label": "Project notes",
+    "value": "$2.276B at 7.875%, due 2031 (September 2026)"
+   },
+   {
+    "label": "Texas letter of intent",
+    "value": "Up to 885 MW on 718 acres"
+   },
+   {
+    "label": "Controlled power",
+    "value": "More than 1.8 GW"
+   },
+   {
+    "label": "Operational hashrate",
+    "value": "50 EH/s (September 2026)"
+   }
+  ],
+  "customers": [
+   "Meta"
+  ],
+  "origin": "CleanSpark traces back to a Nevada company incorporated in 1987, which took the CleanSpark name in November 2016 and ran an energy business. It began mining Bitcoin in December 2020 and in 2022 classified its energy operations as discontinued to focus on mining. It expanded through site purchases, including the acquisition of GRIID Infrastructure in Tennessee in October 2024, and held 1,027 MW of contracted power across Georgia, Tennessee, Mississippi and Wyoming by September 2025. Chairman Matt Schultz became CEO in August 2025 after Zach Bradford resigned, and the company then began buying land and power in Texas for AI data centers.",
+  "today": "CleanSpark signed its first AI lease on July 10, 2026, a 20-year triple-net lease for 175 MW of critical IT load at its Sandersville, Georgia campus. The lease is worth about $6.6B over the base term and up to $11.6B with two five-year extensions. CleanSpark described the tenant only as a high-investment-grade global technology company until a September 2026 investor presentation filed with the SEC named it as Anviran, LLC, a Meta subsidiary, with Meta guaranteeing rent and operating expenses. The same presentation gives a 3.0% annual rent escalator. A CleanSpark subsidiary closed $2.276B of 7.875% senior secured notes due 2031 on September 25, 2026, and Schultz said the notes fund the project through completion. The same tenant signed a letter of intent and exclusivity over CleanSpark's Texas portfolio of 718 acres with up to 885 MW of secured and planned power. In the quarter to June 30, 2026, Bitcoin mining provided all $138.0M of revenue, and CleanSpark reported a net loss of $239.8M.",
+  "platform": "CleanSpark controls more than 1.8 GW of power, land and data centers across the US and leases finished data halls to tenants rather than running GPUs itself. Its mining sites are in Georgia, Tennessee, Mississippi and Wyoming, and its 199,745 miners reached 50 EH/s of operational hashrate in September 2026 while drawing up to 808 MW. In Texas it bought about 271 acres in Austin County with 285 MW of power agreements in October 2025. In January 2026 it agreed to buy up to 447 acres in Brazoria County near Houston, with 300 MW of initial load and room for 600 MW.",
+  "outlook": "CleanSpark targets rent on the first Sandersville phase from Q4 2027 and puts the build at about $11.9M per MW of IT. The lease requires CleanSpark to meet financing, construction and delivery milestones, and missing them can lead to rent abatements or termination. The Texas letter of intent is not yet a lease, and CleanSpark has published no terms or timeline for one. CleanSpark ended its monthly mining reports after September 2026 and now reports quarterly, and its hashrate averaged 36.0 EH/s that month against 50 EH/s of operational capacity.",
+  "sources": [
+   {
+    "title": "SEC: CleanSpark Form 10-K for the fiscal year ended September 30, 2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000095017024132565/clsk-20240930.htm",
+    "date": "2024-12-03"
+   },
+   {
+    "title": "SEC: CleanSpark, Inc. Announces Proposed Private Offering of $1 Billion of Convertible Notes (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312525274179/clsk-ex99_1.htm",
+    "date": "2025-11-10"
+   },
+   {
+    "title": "SEC: CleanSpark Form 10-K for the fiscal year ended September 30, 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+    "date": "2025-11-25"
+   },
+   {
+    "title": "CleanSpark: CleanSpark Expands Texas Footprint with Major Power Acquisition Near Houston to Support Scaled AI and HPC Development",
+    "url": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Expands-Texas-Footprint-with-Major-Power-Acquisition-Near-Houston-to-Support-Scaled-AI-and-HPC-Development/default.aspx",
+    "date": "2026-01-14"
+   },
+   {
+    "title": "SEC: CleanSpark Form 8-K on the Sandersville data center lease",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000827876/000119312526302448/clsk-20260710.htm",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "CleanSpark: CleanSpark Secures Twenty-Year Lease with High-Investment Grade Global Technology Company for Data Center in Sandersville, Georgia",
+    "url": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "SEC: CleanSpark Reports Third Fiscal Quarter 2026 Results (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526337999/clsk-ex99_1.htm",
+    "date": "2026-08-06"
+   },
+   {
+    "title": "SEC: CleanSpark Sandersville investor presentation (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm",
+    "date": "2026-09-17"
+   },
+   {
+    "title": "SEC: CleanSpark, Inc. Announces Proposed Offering of $2.227 Billion of Senior Secured Notes (Form 8-K exhibit 99.2)",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_2.htm",
+    "date": "2026-09-17"
+   },
+   {
+    "title": "Yahoo Finance: CleanSpark reveals Meta as tenant behind $6.6B Sandersville lease",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cleanspark-reveals-meta-tenant-behind-233508601.html",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: CleanSpark, Inc. Announces Closing of $2.276 Billion of Senior Secured Notes (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526402944/clsk-ex99_1.htm",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "PR Newswire: CleanSpark Releases September 2026 Operational Update",
+    "url": "https://www.prnewswire.com/news-releases/cleanspark-releases-september-2026-operational-update-302903249.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "CleanSpark: Company website, read October 2026",
+    "url": "https://www.cleanspark.com",
+    "date": "2026-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "riot-platforms",
+  "name": "Riot Platforms",
+  "aka": "Riot Blockchain (2017 to 2022)",
+  "category": "developer",
+  "region": "North America",
+  "hq": "Castle Rock, Colorado, US",
+  "founded": "2000",
+  "ownership": "Public (Nasdaq: RIOT)",
+  "website": "https://www.riotplatforms.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Texas Bitcoin miner that now builds and leases AI data centers. It has signed 241 MW at its Rockdale campus with AMD and an unnamed frontier AI lab, worth about $9.8B in contracted revenue.",
+  "facts": [
+   {
+    "label": "Contracted IT capacity",
+    "value": "241 MW (August 2026)"
+   },
+   {
+    "label": "Contracted revenue",
+    "value": "About $9.8B"
+   },
+   {
+    "label": "Frontier AI lab lease",
+    "value": "191 MW, 20 years, about $9.1B (August 2026)"
+   },
+   {
+    "label": "AMD lease",
+    "value": "50 MW at Rockdale, first 25 MW delivered May 2026"
+   },
+   {
+    "label": "Approved power",
+    "value": "About 2.0 GW in Texas and Kentucky"
+   },
+   {
+    "label": "Q2 2026",
+    "value": "Revenue $174.2M, net loss $237.2M"
+   }
+  ],
+  "customers": [
+   "AMD",
+   "Anthropic (reported by Bloomberg)"
+  ],
+  "origin": "Riot was incorporated in Colorado in July 2000 as AspenBio and later traded as Venaxis and then Bioptix. It renamed itself Riot Blockchain in October 2017 and turned to blockchain and Bitcoin mining. In 2021 it bought Whinstone US and its Rockdale, Texas site, which Riot describes as the largest Bitcoin mining facility in North America by developed capacity. It began building a second Texas campus at Corsicana in 2022, took the name Riot Platforms in December 2022, bought Block Mining in Kentucky in 2024 and started marketing its power for data center leases in 2025.",
+  "today": "Riot has signed 241 MW of data center leases at its Rockdale, Texas campus, which it puts at about $9.8B of long-term contracted revenue. AMD signed the first lease in January 2026, a 10-year deal for 25 MW worth $311M over its initial term. AMD later expanded the lease to 50 MW, and Riot delivered the first 25 MW in May 2026, with 10 MW more due in November 2026 and the last 15 MW in May 2027. In August 2026 Riot announced a 20-year lease with an unnamed frontier AI lab for 191 MW of critical IT capacity, worth about $9.1B over the base term and up to $16.1B with two five-year extensions. Riot has not named the tenant, and Bloomberg reported that it is Anthropic. The lab takes 96 MW in December 2027 and the full 191 MW by June 2028, and a $573M Morgan Stanley facility funds initial development costs. In Q2 2026 Riot reported revenue of $174.2M, with $113.7M from mining and $23.2M from data centers, and a net loss of $237.2M.",
+  "platform": "Riot builds powered data center shells for tenants and does not run its own GPU cloud. Rockdale has a 700 MW grid interconnection on a 200-acre parcel that Riot bought outright in January 2026 for $96.0M. Corsicana in Navarro County has 400 MW of developed mining capacity, and Riot expects about 1 GW there when the campus is complete. Riot also mines Bitcoin in Texas and at two Kentucky sites, with 44.4 EH/s of deployed hash rate in Q2 2026.",
+  "outlook": "Riot has a non-binding letter of intent with a single tenant for the whole Corsicana campus, which has 1 GW of approved power and room for about 756 MW of critical IT. CEO Jason Les said a full-campus lease could bring more than $1B a year in rent once fully deployed, and he cautioned that the deal is a multi-year development. The Morgan Stanley loan, which funds long-lead equipment for the Rockdale lab build, matures on December 31, 2026, so long-term project financing is the item to watch. Riot held $548.9M of cash and 11,380 bitcoin at the end of June 2026, and it repaid and ended its Coinbase credit facility in September.",
+  "sources": [
+   {
+    "title": "SEC: Riot Blockchain Form 10-K for 2020",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000107997321000221/riot10k1220.htm",
+    "date": "2021-03"
+   },
+   {
+    "title": "SEC: Riot Platforms Form 10-K for 2024",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000155837025001888/riot-20241231x10k.htm",
+    "date": "2025-02-28"
+   },
+   {
+    "title": "SEC: Riot Announces Fee Simple Acquisition of Land and First Data Center Lease with AMD at the Rockdale Site (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm",
+    "date": "2026-01-16"
+   },
+   {
+    "title": "SEC: Riot Platforms Form 10-K for 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm",
+    "date": "2026-03-02"
+   },
+   {
+    "title": "SEC: Riot Platforms Reports First Quarter 2026 Financial Results and Strategic Highlights (Form 8-K exhibit 99.1)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926052943/riot-20260430xex99d1.htm",
+    "date": "2026-04-30"
+   },
+   {
+    "title": "Riot Platforms: Riot Platforms Reports Second Quarter 2026 Financial Results and Strategic Highlights",
+    "url": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "SEC: Riot Platforms Q2 2026 investor presentation (Form 8-K exhibit 99.2)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926093406/riot-20260810xex99d2.htm",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "SEC: Riot Platforms Form 10-Q for the quarter ended June 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926093448/riot-20260630x10q.htm",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "Yahoo Finance (Quartz): Anthropic signs $9.1 billion data center deal with Riot Platforms",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-9-1-billion-113731732.html",
+    "date": "2026-08-11"
+   },
+   {
+    "title": "Yahoo Finance (Benzinga): Riot Says Massive AI Data Center Deal Could Top $1 Billion In Annual Rent",
+    "url": "https://finance.yahoo.com/technology/ai/articles/riot-says-massive-ai-data-103058842.html",
+    "date": "2026-08-11"
+   },
+   {
+    "title": "SEC: Riot Platforms Form 8-K on the $573.0 million Morgan Stanley delayed-draw term loan",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926097330/riot-20260810x8k.htm",
+    "date": "2026-08-14"
+   },
+   {
+    "title": "SEC: Riot Platforms Form 8-K on termination of the Coinbase Credit agreement",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926111003/riot-20260921x8k.htm",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Riot Platforms: Corsicana Data Center",
+    "url": "https://www.riotplatforms.com/locations/corsicana/",
+    "date": "2026-10"
+   },
+   {
+    "title": "Riot Platforms: Company website, read October 2026",
+    "url": "https://www.riotplatforms.com",
     "date": "2026-10"
    }
   ],

@@ -1,6 +1,6 @@
 # The Neocloud Guide
 
-A field guide to the companies that rent GPUs and other AI accelerators, with a supply network of who sells compute to whom, a timeline, H100 rental prices and sourced profiles of 87 providers. [Live site](https://sonnetx.github.io/neoclouds/).
+A field guide to the companies that rent GPUs and other AI accelerators, with a supply network of who sells compute to whom, a timeline, H100 rental prices and sourced profiles of 97 providers. [Live site](https://sonnetx.github.io/neoclouds/).
 
 Every profile sentence and key figure links to the source that supports it. Profiles reflect public information through October 2026.
 

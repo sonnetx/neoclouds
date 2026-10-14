@@ -1,0 +1,36 @@
+{
+  "cleanspark": {
+    "sentences": {
+      "Nevada Bitcoin miner turning its power sites into AI data centers.": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+      "A Meta subsidiary signed its first lease in July 2026, for 175 MW at Sandersville, Georgia over 20 years, worth about $6.6B.": "https://finance.yahoo.com/technology/ai/articles/cleanspark-reveals-meta-tenant-behind-233508601.html",
+      "CleanSpark traces back to a Nevada company incorporated in 1987, which took the CleanSpark name in November 2016 and ran an energy business.": "https://www.sec.gov/Archives/edgar/data/827876/000095017024132565/clsk-20240930.htm",
+      "It expanded through site purchases, including the acquisition of GRIID Infrastructure in Tennessee in October 2024, and held 1,027 MW of contracted power across Georgia, Tennessee, Mississippi and Wyoming by September 2025.": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+      "CleanSpark signed its first AI lease on July 10, 2026, a 20-year triple-net lease for 175 MW of critical IT load at its Sandersville, Georgia campus.": "https://www.sec.gov/Archives/edgar/data/0000827876/000119312526302448/clsk-20260710.htm",
+      "The lease is worth about $6.6B over the base term and up to $11.6B with two five-year extensions.": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+      "The same presentation gives a 3.0% annual rent escalator.": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm",
+      "The same tenant signed a letter of intent and exclusivity over CleanSpark's Texas portfolio of 718 acres with up to 885 MW of secured and planned power.": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+      "In the quarter to June 30, 2026, Bitcoin mining provided all $138.0M of revenue, and CleanSpark reported a net loss of $239.8M.": "https://www.sec.gov/Archives/edgar/data/827876/000119312526337999/clsk-ex99_1.htm",
+      "In Texas it bought about 271 acres in Austin County with 285 MW of power agreements in October 2025.": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+      "In January 2026 it agreed to buy up to 447 acres in Brazoria County near Houston, with 300 MW of initial load and room for 600 MW.": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Expands-Texas-Footprint-with-Major-Power-Acquisition-Near-Houston-to-Support-Scaled-AI-and-HPC-Development/default.aspx",
+      "CleanSpark targets rent on the first Sandersville phase from Q4 2027 and puts the build at about $11.9M per MW of IT.": "https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/clsk-ex99_1.htm",
+      "CleanSpark ended its monthly mining reports after September 2026 and now reports quarterly, and its hashrate averaged 36.0 EH/s that month against 50 EH/s of operational capacity.": "https://www.prnewswire.com/news-releases/cleanspark-releases-september-2026-operational-update-302903249.html"
+    },
+    "facts": {
+      "Sandersville lease": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+      "Value with extensions": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx",
+      "Texas letter of intent": "https://investors.cleanspark.com/news/news-details/2026/CleanSpark-Secures-Twenty-Year-Lease-with-High-Investment-Grade-Global-Technology-Company-for-Data-Center-in-Sandersville-Georgia/default.aspx"
+    }
+  },
+  "riot-platforms": {
+    "sentences": {
+      "Riot was incorporated in Colorado in July 2000 as AspenBio and later traded as Venaxis and then Bioptix.": "https://www.sec.gov/Archives/edgar/data/1167419/000107997321000221/riot10k1220.htm",
+      "AMD signed the first lease in January 2026, a 10-year deal for 25 MW worth $311M over its initial term.": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm",
+      "AMD later expanded the lease to 50 MW, and Riot delivered the first 25 MW in May 2026, with 10 MW more due in November 2026 and the last 15 MW in May 2027.": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+      "The lab takes 96 MW in December 2027 and the full 191 MW by June 2028, and a $573M Morgan Stanley facility funds initial development costs.": "https://www.riotplatforms.com/riot-platforms-reports-second-quarter-2026-financial-results-and-strategic-highlights/",
+      "Rockdale has a 700 MW grid interconnection on a 200-acre parcel that Riot bought outright in January 2026 for $96.0M.": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm",
+      "Corsicana in Navarro County has 400 MW of developed mining capacity, and Riot expects about 1 GW there when the campus is complete.": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm",
+      "The Morgan Stanley loan, which funds long-lead equipment for the Rockdale lab build, matures on December 31, 2026, so long-term project financing is the item to watch.": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926097330/riot-20260810x8k.htm"
+    },
+    "facts": {}
+  }
+}

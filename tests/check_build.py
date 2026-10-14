@@ -34,3 +34,12 @@ wrong = sorted(set(n for n in stated if int(n) != count))
 if wrong:
     sys.exit('index.html states %s providers but the data has %d. Update the counts.' % (', '.join(wrong), count))
 print('index.html counts match %d providers' % count)
+
+# Prices come from providers' own rate cards, never from price aggregators.
+AGGREGATORS = ('getdeploying.com', 'vantage.sh', 'uvik.net', 'intuitionlabs.ai', 'computeprices.com')
+for name in ('index.html', 'guide.js', 'background.js', 'providers.js'):
+    text = open(os.path.join(ROOT, name), encoding='utf-8').read().lower()
+    found = [a for a in AGGREGATORS if a in text]
+    if found:
+        sys.exit('%s cites a price aggregator (%s). Use the provider\'s own rate card instead.' % (name, ', '.join(found)))
+print('no price aggregators cited')

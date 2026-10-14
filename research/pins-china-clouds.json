@@ -1,0 +1,32 @@
+{
+  "baidu-ai-cloud": {
+    "sentences": {
+      "Baidu's AI Cloud Infra revenue rose 50% year over year to RMB 7.3B in the quarter that ended June 2026, down from RMB 8.8B in the March quarter.": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
+      "Baidu's capex rose to RMB 11.4B ($1.68B) in the June 2026 quarter from RMB 3.8B a year earlier.": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm"
+    },
+    "facts": {
+      "AI Cloud Infra revenue, first half 2026": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526394299/d152888dex991.pdf",
+      "Capex, June 2026 quarter": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm"
+    }
+  },
+  "huawei-cloud": {
+    "sentences": {
+      "Huawei's 2025 cloud computing revenue from external customers fell 3.5% to RMB 32.2B, and revenue including sales through other Huawei segments reached RMB 72.1B.": "https://www.huawei.com/en/annual-report/2025"
+    },
+    "facts": {
+      "Cloud computing revenue, 2025": "https://www.trendforce.com/news/2026/04/01/news-huawei-2025-r-cloud-revenue-slips/",
+      "Cloud revenue including internal sales, 2025": "https://www.huawei.com/en/annual-report/2025"
+    }
+  },
+  "tencent-cloud": {
+    "sentences": {
+      "Tencent's operating capex rose 190% to RMB 51.8B in the June 2026 quarter, and it says it is still compute constrained.": "https://static.www.tencent.com/website-2026-upload/2Q26-earnings-PPT_20260812_1800-88b183.pdf",
+      "Tencent's operating capex rose 190% year over year to RMB 51.8B in the quarter that ended June 2026, and total capex reached RMB 52.8B.": "https://static.www.tencent.com/website-2026-upload/2Q26-earnings-PPT_20260812_1800-88b183.pdf",
+      "Tencent also rents bare metal GPU servers and sells API access to its Hy models.": "https://www.investing.com/news/transcripts/earnings-call-transcript-tencent-posts-solid-q2-2026-growth-as-ai-spending-surges-93CH-4855197",
+      "Executives said new compute goes first to training larger Hy models and to inference, and that renting it out as bare metal GPUs or model services will grow toward the end of 2026 and into 2027.": "https://www.investing.com/news/transcripts/earnings-call-transcript-tencent-posts-solid-q2-2026-growth-as-ai-spending-surges-93CH-4855197"
+    },
+    "facts": {
+      "Operating capex, June 2026 quarter": "https://static.www.tencent.com/website-2026-upload/2Q26-earnings-PPT_20260812_1800-88b183.pdf"
+    }
+  }
+}

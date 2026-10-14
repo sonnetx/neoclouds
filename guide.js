@@ -11,14 +11,14 @@
   var NETCFG = window.NEOCLOUD_NETWORK || { aliases: {}, skip: [], labels: {}, minBuyerLinks: 2 };
 
   var CATEGORIES = [
-    { id: 'neocloud', plural: 'Neoclouds', single: 'Neocloud', blurb: 'Companies whose main business is renting AI accelerator capacity, as bare metal or managed clusters.' },
-    { id: 'hyperscaler', plural: 'Hyperscalers', single: 'Hyperscaler', blurb: 'Large general-purpose public clouds. These profiles cover only their AI accelerator business.' },
-    { id: 'developer', plural: 'Data center developers', single: 'Data center developer', blurb: 'Companies that build powered campuses and lease them to clouds and labs. Most began as Bitcoin miners.' },
-    { id: 'sovereign', plural: 'Sovereign and telco', single: 'Sovereign or telco', blurb: 'National, telco and state-linked AI clouds, often built under government programs.' },
-    { id: 'devcloud', plural: 'Developer clouds', single: 'Developer cloud', blurb: 'General-purpose developer, hosting and CDN clouds that also rent GPUs.' },
+    // Broad company types, judged by each company's main business today. Products change too often to sort by.
+    { id: 'neocloud', plural: 'Neoclouds', single: 'Neocloud', blurb: 'Companies whose main business is renting AI accelerator capacity. This includes AI compute units of larger groups and state-backed compute companies.' },
+    { id: 'hyperscaler', plural: 'Hyperscalers', single: 'Hyperscaler', blurb: 'The largest general-purpose public clouds. These profiles cover only their AI accelerator business.' },
+    { id: 'othercloud', plural: 'Other clouds', single: 'Cloud provider', blurb: 'General-purpose cloud, hosting, CDN and telecom companies that rent GPUs alongside their main business.' },
     { id: 'platform', plural: 'AI platforms', single: 'AI platform', blurb: 'Inference, serverless and AI software platforms that sell compute through their own software.' },
-    { id: 'marketplace', plural: 'Marketplaces', single: 'Marketplace', blurb: 'Aggregators and marketplaces that sell capacity owned by other operators.' },
-    { id: 'lab', plural: 'AI labs', single: 'AI lab', blurb: 'AI labs that run their own large compute fleets and in some cases sell capacity.' }
+    { id: 'marketplace', plural: 'Marketplaces', single: 'Marketplace', blurb: 'Companies that sell GPU capacity owned by other operators.' },
+    { id: 'developer', plural: 'Data center developers', single: 'Data center developer', blurb: 'Companies that build powered campuses and lease them to clouds and labs. Most began as Bitcoin miners.' },
+    { id: 'lab', plural: 'AI labs', single: 'AI lab', blurb: 'AI labs that run their own large compute fleets and sell some of that capacity.' }
   ];
   var CAT = {};
   CATEGORIES.forEach(function (c) { CAT[c.id] = c; });
@@ -166,7 +166,6 @@
   document.querySelectorAll('[data-count]').forEach(function (el) {
     el.textContent = PROVIDERS.length || '';
   });
-  if ($('tl-count')) $('tl-count').textContent = TIMELINE.length;
 
   // =====================================================================
   // Supply network
@@ -176,7 +175,7 @@
     var TIER_W = [0.2, 0.36, 0.2, 0.24];
     var TIER_L = [0, 0.2, 0.56, 0.76];
     var TIER_X = TIER_L.map(function (l, i) { return l + TIER_W[i] / 2; });
-    var TIER_LABEL = ['Power and data centers', 'Neoclouds and platforms', 'Hyperscalers and labs', 'Buyers'];
+    var TIER_LABEL = ['Power and data centers', 'Clouds and platforms', 'Hyperscalers and labs', 'Buyers'];
     var GROUPS = [
       { id: 'power', label: 'Power and data centers', color: 'var(--series-2)' },
       { id: 'cloud', label: 'Clouds and platforms', color: 'var(--series-1)' },
@@ -729,9 +728,9 @@
     region: saved.region || '',
     accel: saved.accel || '',
     sort: saved.sort || 'featured',
-    layout: saved.layout || 'logos'
+    // The Cards layout was retired, so a saved 'cards' choice falls back to the logo wall.
+    layout: ['logos', 'table', 'map'].indexOf(saved.layout) > -1 ? saved.layout : 'logos'
   };
-  var CARD_LIMIT = 16, showAll = false;
 
   var qEl = $('q'), regionEl = $('region'), accelEl = $('accel'), sortEl = $('sort');
   REGIONS.forEach(function (r) {
@@ -818,8 +817,11 @@
     store('state', state);
     renderPills();
     var list = sorted(PROVIDERS.filter(function (p) { return matches(p); }));
-    $('result-count').textContent = list.length + ' of ' + PROVIDERS.length + ' providers';
+    var filtered = list.length < PROVIDERS.length;
+    $('result-count').textContent = filtered ? list.length + ' of ' + PROVIDERS.length + ' providers' : PROVIDERS.length + ' providers';
     $('clear-filters').hidden = !(state.q || state.cat || state.region || state.accel);
+    var active = (state.region ? 1 : 0) + (state.accel ? 1 : 0);
+    $('filter-count').textContent = active ? String(active) : '';
     layoutButtons.forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-layout') === state.layout); });
     var dir = $('dir'), stage = $('map-stage');
     var onMap = state.layout === 'map';
@@ -843,25 +845,23 @@
         }).join('') + '</tbody></table></div>';
       return;
     }
-    if (state.layout === 'logos') {
-      dir.innerHTML = logoWallHTML(list);
-      return;
-    }
-    var shown = showAll ? list : list.slice(0, CARD_LIMIT);
-    dir.innerHTML = '<div class="card-grid">' + shown.map(cardHTML).join('') + '</div>' +
-      (list.length > shown.length
-        ? '<div class="more-row"><button type="button" class="btn" id="show-all">Show all ' + list.length + ' providers</button></div>'
-        : '');
-    var btn = $('show-all');
-    if (btn) btn.addEventListener('click', function () { showAll = true; renderDirectory(); });
+    dir.innerHTML = logoWallHTML(list);
   }
 
   $('clear-filters').addEventListener('click', function () {
     state.q = state.cat = state.region = state.accel = '';
     qEl.value = regionEl.value = accelEl.value = '';
-    showAll = false;
     renderDirectory();
     qEl.focus();
+  });
+
+  // The Filters menu closes on an outside click or Escape, like a native menu.
+  var filtersEl = $('filters');
+  document.addEventListener('click', function (e) {
+    if (filtersEl.open && !filtersEl.contains(e.target)) filtersEl.open = false;
+  });
+  filtersEl.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && filtersEl.open) { filtersEl.open = false; filtersEl.querySelector('summary').focus(); }
   });
 
   qEl.addEventListener('input', function () { state.q = qEl.value.trim(); renderDirectory(); });
@@ -1048,28 +1048,29 @@
   // =====================================================================
   // Price chart
   // =====================================================================
-  var GD = 'https://getdeploying.com/reference/cloud-gpu/nvidia-h100';
+  // On-demand H100 SXM prices from each provider's own rate card, read October 14, 2026.
+  // research/rate-cards-2026-10.json records the quoted text and the arithmetic for each one.
   var PRICE_GROUPS = [
-    { id: 'market', label: 'Market lows and medians', color: 'var(--series-1)' },
-    { id: 'neo', label: 'Neocloud list price', color: 'var(--series-2)' },
-    { id: 'hyper', label: 'Hyperscaler price', color: 'var(--series-3)' }
+    { id: 'neo', label: 'Neoclouds and AI platforms', color: 'var(--series-2)' },
+    { id: 'other', label: 'Other clouds', color: 'var(--series-1)' },
+    { id: 'hyper', label: 'Hyperscalers', color: 'var(--series-3)' }
   ];
   var PRICE_POINTS = [
-    { label: 'Cheapest spot listing', value: 1.29, group: 'market', src: 'GetDeploying', url: GD },
-    { label: 'Cheapest in-stock on-demand', value: 1.30, group: 'market', src: 'GetDeploying', note: 'Lium, one GPU', url: GD },
-    { label: 'Median spot price', value: 2.46, group: 'market', src: 'GetDeploying', url: GD },
-    { label: 'Silicon Data rental index', value: 2.85, group: 'market', src: 'Uvik', when: 'Oct 12', url: 'https://uvik.net/blog/gpu-price-index/' },
-    { label: 'AWS p5, three-year reserved', value: 2.97, group: 'hyper', src: 'GetDeploying', note: '$23.78 per 8-GPU instance', url: GD },
-    { label: 'Median reserved price', value: 3.26, group: 'market', src: 'GetDeploying', url: GD },
-    { label: 'Median on-demand price', value: 3.57, group: 'market', src: 'GetDeploying', note: '38 providers with a priced on-demand offer', url: GD },
-    { label: 'Crusoe', value: 3.90, group: 'neo', src: 'Rate card', note: 'sold out on October 13', url: 'https://www.crusoe.ai/cloud/pricing' },
-    { label: 'Lambda', value: 3.99, group: 'neo', src: 'Rate card', note: '8x H100 SXM', url: 'https://lambda.ai/pricing' },
+    { label: 'Hyperstack', value: 3.20, group: 'neo', src: 'Rate card', note: 'billed per minute', url: 'https://www.hyperstack.cloud/gpu-pricing' },
+    { label: 'Crusoe', value: 3.90, group: 'neo', src: 'Rate card', url: 'https://www.crusoe.ai/cloud/pricing' },
+    { label: 'Lambda', value: 3.99, group: 'neo', src: 'Rate card', note: '8x H100 SXM instance', url: 'https://lambda.ai/pricing' },
+    { label: 'Runpod', value: 3.99, group: 'neo', src: 'Rate card', note: 'Secure Cloud, one GPU', url: 'https://www.runpod.io/pricing' },
+    { label: 'Together AI', value: 3.99, group: 'neo', src: 'Rate card', note: 'GPU clusters', url: 'https://www.together.ai/pricing' },
+    { label: 'Verda', value: 4.09, group: 'neo', src: 'Rate card', note: 'single H100 SXM5 instance', url: 'https://verda.com/pricing' },
+    { label: 'DigitalOcean', value: 4.41, group: 'other', src: 'Rate card', note: 'HGX H100 GPU Droplet', url: 'https://www.digitalocean.com/pricing/gpu-droplets' },
     { label: 'Nebius', value: 4.50, group: 'neo', src: 'Rate card', url: 'https://nebius.com/prices' },
     { label: 'CoreWeave', value: 6.16, group: 'neo', src: 'Rate card', note: '$49.24 per 8-GPU node', url: 'https://www.coreweave.com/pricing' },
-    { label: 'AWS p5, on-demand', value: 6.88, group: 'hyper', src: 'Vantage', note: '$55.04 per 8-GPU instance, us-east-1', url: 'https://instances.vantage.sh/aws/ec2/p5.48xlarge' },
-    { label: 'Google Cloud, on-demand', value: 11.07, group: 'hyper', src: 'GetDeploying', url: GD }
+    { label: 'AWS p5', value: 6.88, group: 'hyper', src: 'Rate card', note: '$55.04 per 8-GPU instance, US East', url: 'https://aws.amazon.com/ec2/pricing/on-demand/' },
+    { label: 'Oracle', value: 10.00, group: 'hyper', src: 'Rate card', note: 'BM.GPU.H100.8', url: 'https://www.oracle.com/cloud/compute/pricing/' },
+    { label: 'Google Cloud', value: 11.06, group: 'hyper', src: 'Rate card', note: 'a3-highgpu-8g, $88.49 per 8-GPU instance, us-central1', url: 'https://cloud.google.com/products/compute/pricing/accelerator-optimized' },
+    { label: 'Microsoft Azure', value: 12.29, group: 'hyper', src: 'Rate card', note: 'ND H100 v5, $98.32 per 8-GPU VM, East US', url: 'https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/' }
   ];
-  var PRICE_MAX = 12;
+  var PRICE_MAX = 14;
 
   function renderPriceChart() {
     var rows = $('pv-rows');
@@ -1079,7 +1080,7 @@
     $('pv-legend').innerHTML = PRICE_GROUPS.map(function (g) {
       return '<span><i style="background:' + g.color + '"></i>' + esc(g.label) + '</span>';
     }).join('');
-    var ticks = [0, 2, 4, 6, 8, 10, 12];
+    var ticks = [0, 2, 4, 6, 8, 10, 12, 14];
     var grid = ticks.map(function (t) {
       return '<span class="g' + (t === 0 ? ' zero' : '') + '" style="left:' + (t / PRICE_MAX * 100) + '%"></span>';
     }).join('');
@@ -1088,7 +1089,7 @@
       var right = x > 80;
       var label = '$' + d.value.toFixed(2);
       return '<div class="pp-row" role="listitem">' +
-        '<div class="pp-label">' + esc(d.label) + '<small>' + esc(d.src) + '</small></div>' +
+        '<div class="pp-label">' + esc(d.label) + '</div>' +
         '<div class="pp-track">' + grid +
           '<span class="pp-dot" tabindex="0" data-i="' + i + '" style="left:' + x + '%;background:' + groupOf[d.group].color + '" aria-label="' + esc(d.label + ', ' + label + ' per GPU-hour') + '"></span>' +
           '<span class="pp-val" style="' + (right ? 'right:' + (100 - x) + '%;margin-right:14px' : 'left:' + x + '%;margin-left:14px') + '">' + label + '</span>' +
@@ -1159,7 +1160,7 @@
     if (prev === 'directory' && r.view === 'provider') dirScroll = window.scrollY;
     current = r.view;
     document.querySelectorAll('.view').forEach(function (v) { v.hidden = v.id !== 'view-' + r.view; });
-    $('hero').hidden = r.view === 'provider';
+    $('hero').hidden = r.view !== 'network';
     tabs.forEach(function (a) {
       var on = a.getAttribute('data-view') === r.view || (r.view === 'provider' && a.getAttribute('data-view') === 'directory');
       a.classList.toggle('active', on);
@@ -1172,7 +1173,7 @@
       var p = BY_SLUG[r.slug];
       $('view-provider').innerHTML = profileHTML(p);
       document.title = p.name + ' · The Neocloud Guide';
-      window.scrollTo(0, $('tabs').offsetTop);
+      window.scrollTo(0, $('topbar').offsetTop);
       return;
     }
     if (r.view === 'network') {
@@ -1181,7 +1182,7 @@
     }
     if (r.view === 'timeline') Timeline.init();
 
-    var tabsTop = $('tabs').offsetTop;
+    var tabsTop = $('topbar').offsetTop;
     if (r.anchor) {
       var el = document.getElementById(r.anchor);
       if (el) el.scrollIntoView();

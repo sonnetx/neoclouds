@@ -1,0 +1,34 @@
+{
+  "cerebras": {
+    "sentences": {
+      "In the second quarter of 2026 core revenue doubled to $209.9M and cloud and services core revenue nearly quadrupled to $127.7M, while the GAAP net loss reached $450.5M.": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+      "At June 30, 2026 it reported $25.4B of remaining performance obligations and more than 600 MW of data center capacity live or under contract for delivery by the end of 2027.": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+      "Digi Power X is building a 40 MW colocation campus for Cerebras in Columbiana, Alabama, with a first 15 MW phase due in December 2026.": "https://www.sec.gov/Archives/edgar/data/0001854368/000121390026053566/ea028958501ex99-1.htm",
+      "In September 2026 Cerebras and Compute Nordic announced a 165 MW campus in Mikkeli, Finland, starting with 50 MW already under construction.": "https://w.media/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data-center-in-mikkeli/",
+      "Cerebras guides to 2026 core revenue of $880M to $890M and expects its manufacturing capacity to grow more than tenfold in 2026.": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm"
+    },
+    "facts": {
+      "Q2 2026 cloud revenue": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+      "Data center capacity": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm",
+      "2026 core revenue guidance": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026056186/cbrsannouncesfinancialresu.htm"
+    }
+  },
+  "polarise": {
+    "sentences": {
+      "Polarise says it is advancing its sites and platform independently of the tender and treats the EU programme as an accelerator, not a prerequisite.": "https://polarise.eu/newsroom/polarise-plans-to-participate-in-eu-tender-for-ai-gigafactories"
+    },
+    "facts": {}
+  },
+  "ytl-ai-cloud": {
+    "sentences": {
+      "On May 31, 2026, YTL AI Cloud announced NVIDIA Exemplar Cloud status after a benchmark of a 512-GPU Blackwell environment.": "https://www.ytlaicloud.com/press-releases/ytl-ai-cloud-among-asias-first-cloud-providers-to-achieve-nvidia-exemplar-cloud-status",
+      "YTL Power had 298 MW of data centre capacity contracted as of March 2026 and plans to raise the Kulai park from 600 MW to 1,000 MW.": "https://theedgemalaysia.com/node/815134",
+      "The company says its first buildings are designed for more than 80 MW of IT load.": "https://www.ytlaicloud.com/scalable-and-flexible-solutions/",
+      "YTL Power's managing director said in late 2025 that the pace of further AI expansion depends on how fast the Malaysian government adopts AI.": "https://w.media/ytl-power-completes-nvidia-powered-ai-data-centre-in-johor/"
+    },
+    "facts": {
+      "NVIDIA Exemplar Cloud": "https://www.ytlaicloud.com/press-releases/ytl-ai-cloud-among-asias-first-cloud-providers-to-achieve-nvidia-exemplar-cloud-status",
+      "Kulai park target": "https://theedgemalaysia.com/node/815134"
+    }
+  }
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "datasection",
+    "name": "Datasection",
+    "aka": "DataSection",
+    "category": "neocloud",
+    "region": "Asia-Pacific",
+    "hq": "Tokyo, Japan",
+    "founded": "2000",
+    "ownership": "Public (TSE: 3905)",
+    "website": "https://www.datasection.co.jp/en/",
+    "accelerators": [
+      "NVIDIA B300",
+      "NVIDIA B200"
+    ],
+    "products": [
+      "Bare metal",
+      "Inference API"
+    ],
+    "snippet": "Tokyo-listed data company that now rents NVIDIA GPU clusters. In August 2026 it ended the resale contract behind most of its revenue, then signed a $175.2M-a-year order with a US AI company.",
+    "facts": [
+      {
+        "label": "Net sales, year to March 2026",
+        "value": "JPY 33.6B (about $217M)"
+      },
+      {
+        "label": "Forecast, year to March 2027",
+        "value": "JPY 162.2B net sales, unchanged in August 2026"
+      },
+      {
+        "label": "GPUs run on TAIZA",
+        "value": "20,180 including partner capacity (May 18, 2026)"
+      },
+      {
+        "label": "Contract ended",
+        "value": "About $33.2M a month, terminated August 2026"
+      },
+      {
+        "label": "US order",
+        "value": "$175.2M a year for 3 years, up to $876M over 5 (September 2026)"
+      },
+      {
+        "label": "First own sites",
+        "value": "About 20,000 GPUs and 40 MW in Japan, Australia and Thailand"
+      }
+    ],
+    "customers": [
+      "Tencent"
+    ],
+    "origin": "Datasection was founded in Tokyo in July 2000 and built a business in data science, marketing tools such as the FollowUP retail camera service, and system integration. It launched an AI data centre business in 2024 and made it the core of the group, buying complete NVIDIA GPU server sets from Taiwanese manufacturers. Its first GPU revenue came in September 2025 from a customer it describes as one of the world's largest cloud service providers, contracted through its agent NowNaw Japan.",
+    "today": "Datasection reported net sales of JPY 33.6B (about $217M) for the year to March 2026, up from JPY 2.9B, after its GPU service began in September 2025. That GPU service ran on capacity owned by an undisclosed overseas partner, which Datasection resold through its agent NowNaw Japan. The Financial Times reported in December 2025 that Tencent was the end customer, with rental contracts worth more than $1.2B, and Datasection has not named the customer. On August 14, 2026, Datasection ended the partner contract retroactive to April 1 and booked a JPY 5.6B ($35M) fee in place of the JPY 79.9B the deal had added to its forecast for the year to March 2027. The same filing delayed full operation of its own sites in Inzai in Chiba, in Sydney and near Bangkok, which plan about 20,000 B300 and B200 GPUs and 40 MW in total. In September 2026 it signed a three-year order worth $175.2M a year with an unnamed US AI infrastructure company, extendable to five years and $876M, and it received $98.55M of a $131.4M deposit on September 24. Datasection credits NVIDIA with helping arrange the deal.",
+    "platform": "Datasection runs its clusters on TAIZA, its own software for operating large GPU clusters, and rents them by the hour to cloud providers and model developers. In August 2026 it extended TAIZA with a model API that routes requests to major models including OpenAI's, an agent service and TAIZA MATE, a workspace for enterprise AI workflows. It buys complete server sets from Taiwanese manufacturers, including 10,000 B300 GPUs from Inventec for Sydney, 5,080 B300 GPUs from Compal for Inzai and 4,696 B200 GPUs from ASRock Rack for Thailand. Compal servers began arriving at the Inzai site in July 2026.",
+    "outlook": "As of its August 2026 results, Datasection kept its forecast of JPY 162.2B in net sales for the year to March 2027 and said new pipeline orders would replace the cancelled contract. In September it said this year's sales from the new US order would fall short of plan because service starts later than the July 2026 assumption, though profit would exceed it. It plans to borrow $124M toward $255.4M of GPU servers it has yet to pay for and is still in talks with lenders. Wolfpack Research alleged in 2025 that Datasection's GPU procurement breached US export controls, and Datasection, which denies the claim, sued Wolfpack in a US federal court in July 2026.",
+    "sources": [
+      {
+        "title": "Datasection: Consolidated Financial Results for the Fiscal Year Ended March 31, 2026",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260515002.pdf",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Datasection: Financial Results Presentation, Fiscal Year Ended March 2026",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260518001.pdf",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "W.Media: Japan's Datasection bets on dominance with GPU supercluster ambitions",
+        "url": "https://w.media/japans-datasection-bets-on-dominance-with-gpu-supercluster-ambitions/",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Datasection: Notice Regarding Progress of Previously Disclosed Matter, Large-Scale Order",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Datasection: Consolidated Financial Results for the First Quarter of the Fiscal Year Ending 31 March 2027",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814002.pdf",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Datasection: First Quarter Financial Results Presentation for the Fiscal Year Ending March 2027",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260818001.pdf",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Datasection: Notice Regarding a Major Order Expected to Become Effective",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260918002.pdf",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Datasection: Notice Regarding the Signing of a Major Contract",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260918001.pdf",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Datasection: (Update on Previously Disclosed Matter) Notice Regarding a Major Order Expected to Become Effective",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260924001.pdf",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Datasection: Notice Regarding Change in Specified Subsidiary",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20261001001.pdf",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Datasection: MOU on long-term use of GPU computing resources at an AI data centre in Thailand (in Japanese)",
+        "url": "https://www.datasection.co.jp/news/pressrelease-20260828001",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Datasection: Notice Regarding the Acquisition of Fixed Assets (GPU Servers Equipped with NVIDIA B300)",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20251211002.pdf",
+        "date": "2025-12-11"
+      },
+      {
+        "title": "Chip Briefing: Daily - Tencent rents top Nvidia chips from Japanese firm, skirting US export controls",
+        "url": "https://chipbriefing.substack.com/p/daily-tencent-rents-top-nvidia-chips",
+        "date": "2025-12-22"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The seed count of 20,180 GPUs is correct but needs context. Datasection's May 18, 2026 results deck says TAIZA operates 20,180 GPUs, and its chart splits the count into Japan, Australia, Thailand and Partner. W.Media reported the figure as GPUs operating across Japan, Australia and Thailand, but the company's own sites in those countries had not started full operation, and the August 14 filing then ended the partner-capacity contract. Datasection has published no updated count since then, so I describe 20,180 as a May figure that included partner capacity. The revenue of JPY 33,605M for the year to March 2026 is verified, and the USD figure comes from W.Media. The full-year results show server usage fees of JPY 25,154M within a cost of sales of JPY 27,208M, which fits a resale of rented capacity, and I moved that detail here from the today text so each sentence there rests on one source. The forecast of JPY 162,193M for the year to March 2027 is verified and stayed unchanged in the August 14 and September 18 filings, but JPY 79,864M of it came from the cancelled contract. Datasection never names its cloud customer and books those contracts through the agent NowNaw Japan, which W.Media says accounted for JPY 30.5B of sales in the year to March 2026. The filings spell the agent NauNau Japan, NowNow Japan and NowNaw Japan, and I used NowNaw Japan from the August 14 counterparty table. Tencent comes only from the Financial Times report of December 21, 2025, which I could not open and read through the Chip Briefing summary and W.Media. That report described Datasection-owned B200 chips at a data centre outside Osaka, while the August 2026 filing says the cancelled order ran on partner-owned GPUs, and I did not reconcile the two. The September 2026 order does not disclose its site or GPU model. Its value of $175.2M a year equals 5,000 GPUs at $4.00 an hour for a full year, which matches the August 2026 Thai MOU with a US platform company for up to 5,000 B200 GPUs over 36 months, but Datasection has not said they are the same project. On September 30, 2026, Datasection added JPY 3,166M of capital to Datasection (Thailand), the operator of the planned Thai data centre. I mapped the hourly GPU cluster service to Bare metal because the company does not describe the access layer. The pipeline of Projects D to I, with up to 100,000 GB200 and GB300 GPUs per project and a 150 to 180 MW UAE site explored with National Pulse Group, sits outside guidance, so I left it out. I also left out the 23rd series of stock acquisition rights (44M shares at JPY 1,250, exercisable until October 19, 2026), the sale of the South American FollowUP business in August 2026, and a planned CUDO Compute alliance that Datasection postponed in January 2026. I found no forecast revision or new operating GPU count published between October 1 and October 14, 2026."
+  },
+  {
+    "slug": "io-net",
+    "name": "io.net",
+    "aka": "IO Research",
+    "category": "marketplace",
+    "region": "North America",
+    "hq": "New York, NY, US",
+    "founded": "2022",
+    "ownership": "Private",
+    "website": "https://io.net",
+    "accelerators": [
+      "NVIDIA H200",
+      "NVIDIA H100",
+      "NVIDIA A100",
+      "NVIDIA L40S",
+      "NVIDIA RTX 4090"
+    ],
+    "products": [
+      "GPU marketplace",
+      "Virtual machines",
+      "Inference API",
+      "Training and fine-tuning"
+    ],
+    "snippet": "Decentralized GPU marketplace that rents out capacity from independent data centers, crypto miners and other operators in 138 countries. In June 2026 it closed an $8M enterprise contract, its largest to date.",
+    "facts": [
+      {
+        "label": "Countries",
+        "value": "138 (company, June 2026)"
+      },
+      {
+        "label": "Largest contract",
+        "value": "$8M, about $650K a month (June 2026)"
+      },
+      {
+        "label": "Inference volume",
+        "value": "Over 4B tokens a day (company, June 2026)"
+      },
+      {
+        "label": "Verified hardware",
+        "value": "2,752 GPUs and 80,000 CPUs (company, January 2026)"
+      },
+      {
+        "label": "Explorer devices",
+        "value": "1,253 active of 2,976 (September 23, 2026, Own Your Mind)"
+      },
+      {
+        "label": "Series A",
+        "value": "$30M led by Hack VC (March 2024)"
+      }
+    ],
+    "customers": [
+      "Leonardo.Ai",
+      "Wondera",
+      "FrodoBots",
+      "Vistara Labs",
+      "KayOS"
+    ],
+    "origin": "io.net grew out of a team led by Ahmad Shadid that built trading systems and turned to pooling GPU compute in 2022. The company dates the network's launch to June 11, 2023, as a marketplace for H100, A100 and consumer GPUs. Its developer, IO Research, raised $30M in a Series A led by Hack VC in March 2024 at a $1B fully diluted token valuation, and the IO token launched on Solana in June 2024. Former CTO Gaurav Sharma, who previously worked at Binance, Agoda and Amazon, became CEO in April 2025.",
+    "today": "io.net aggregates GPU capacity from independent data centers, crypto miners and partner networks in 138 countries and rents it to AI developers, according to its June 2026 release. In June 2026 it said it had closed an $8M enterprise contract with an undisclosed customer, its largest to date, which adds about $650K a month in on-chain network earnings. On June 11, 2026, it switched to the Incentive Dynamic Engine, a token model that sets supplier pay in US dollars and burns at least half of the IO revenue the network keeps after payouts. The company reports more than 4B AI tokens a day through its inference service. On OpenRouter it serves open models including Google's Gemma 4, Z.ai's GLM 5.3 and Mistral Nemo. Its January 2026 year in review counted 2,752 verified GPUs and 80,000 CPUs and listed Leonardo.Ai, Wondera and FrodoBots among its case-study customers. A CoinDesk Research report that io.net commissioned put average daily network earnings at about $35,000 to $36,000 and said they had trended upward since March 2026.",
+    "platform": "IO Cloud lets buyers book virtual machines, containers or Ray clusters on NVIDIA H100, H200, A100 and other GPUs, with each listing showing the supplier, location and price. Buyers pay as they go from prepaid IO credits, topped up by card through Stripe, in USDC or in IO, and the documentation charges a 5% fee only on card top-ups. Suppliers earn IO for completed jobs plus block rewards, and the Incentive Dynamic Engine sizes that pay to a dollar target drawn first from emitted tokens and then from client fees. IO Intelligence sells API access to open-source models, and an October 2026 company post priced H100 PCIe time at about $1.49 an hour.",
+    "outlook": "io.net says further enterprise agreements are in advanced stages, and it has not named the customer behind the $8M contract. It expects the new token model to burn at least 12M IO in the first year, and an on-chain check by the research site Own Your Mind counted about 2.15M burned by September 23, 2026. The same review found that client purchases in io.net's explorer equaled about 2.6% of supplier payouts from June 1 to 16, 2026. Most network figures, including countries, token volume and GPU counts, come from io.net itself.",
+    "sources": [
+      {
+        "title": "CoinDesk (press release): io.net to Burn Up to 12M Tokens as Network Closes $8M Deal and Hits 4 Billion Daily AI Tokens",
+        "url": "https://www.coindesk.com/press-release/2026/06/11/io-net-to-burn-up-to-12m-tokens-as-network-closes-usd8m-deal-and-hits-4-billion-daily-ai-tokens",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "io.net: A new tokenomics for a new era, The IDE is now live",
+        "url": "https://io.net/blog/a-new-tokenomics-for-a-new-era-the-ide-is-now-live",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "io.net: Three years of building the future of AI compute",
+        "url": "https://io.net/blog/three-years-of-building-the-future-of-ai-compute",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "io.net: 2025, io.net Year in Review",
+        "url": "https://io.net/blog/2025-io-net-year-in-review",
+        "date": "2026-01-09"
+      },
+      {
+        "title": "The Block Research: The Incentive Dynamic Engine, io.net's Shift to Sustainable Tokenomics",
+        "url": "https://www.theblock.co/research/blockchains/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics-402943",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "CoinDesk Research: The Incentive Dynamic Engine, A New Era for io.net Tokenomics (commissioned by io.net)",
+        "url": "https://www.coindesk.com/research/the-incentive-dynamic-engine-a-new-era-for-io-net-tokenomics",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "io.net Docs: IO Cloud Payments",
+        "url": "https://io.net/docs/guides/payment/io-cloud-payments.md",
+        "date": "2026-10"
+      },
+      {
+        "title": "io.net Docs: Deploy VM on Demand",
+        "url": "https://io.net/docs/guides/clouds/deploy-vm-on-demand.md",
+        "date": "2026-10"
+      },
+      {
+        "title": "io.net Docs: Earnings and Rewards",
+        "url": "https://io.net/docs/guides/workers/earnings-rewards.md",
+        "date": "2026-10"
+      },
+      {
+        "title": "io.net: GPU Orchestration vs. GPU Rental, Why Most Decentralized Networks Are Just Marketplaces",
+        "url": "https://io.net/blog/gpu-orchestration-vs-gpu-rental-why-most-decentralized-networks-are-just-marketplaces",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "io.net: Who Gets Compute When GPUs Become Collateral?",
+        "url": "https://io.net/blog/who-gets-compute-when-gpus-become-collateral",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "io.net: GPU Cloud Pricing Guide 2026, Every Provider Compared",
+        "url": "https://io.net/p/gpu-cloud-pricing-guide-2026-every-provider-compared",
+        "date": "2026"
+      },
+      {
+        "title": "OpenRouter: io.net provider page",
+        "url": "https://openrouter.ai/provider/io-net",
+        "date": "2026-10"
+      },
+      {
+        "title": "Own Your Mind: io.net Review, IO Tokenomics, Revenue & GPU Metrics 2026",
+        "url": "https://ownyourmind.ai/projects/io-net/",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "The Block: Solana-based DePIN io.net hits $1 billion token valuation in latest funding round batch",
+        "url": "https://www.theblock.co/post/280665/solana-depin-io-net-1-billion-token-valuation-funding",
+        "date": "2024-03-05"
+      },
+      {
+        "title": "Chainwire: io.net Co-founder Tory Green Appointed as Chair of io.net Foundation, Gaurav Sharma Appointed CEO to Drive Next Phase of Growth",
+        "url": "https://chainwire.org/2025/04/23/io-net-co-founder-tory-green-appointed-as-chair-of-io-net-foundation-gaurav-sharma-appointed-ceo-to-drive-next-phase-of-growth/",
+        "date": "2025-04-23"
+      },
+      {
+        "title": "Solana Compass: io.net on Solana, Project Review, Programs, Token, Metrics",
+        "url": "https://solanacompass.com/projects/ionet",
+        "date": "2026-10"
+      },
+      {
+        "title": "CryptoAIAnalysis: io.net (IO) Analysis 2026, Adoption, IDE Tokenomics, and Key Risks",
+        "url": "https://cryptoaianalysis.com/io-net-io-analysis-2026/",
+        "date": "2026-09-14"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The seed figure of about $650K a month is the contribution of the single $8M contract, not total network earnings, and the release, the io.net blog and CoinDesk Research all describe it that way. For a total I used the CoinDesk Research estimate of $35,000 to $36,000 a day, which io.net commissioned. The CoinDesk headline says up to 12M tokens, while the release body and the io.net blog say at least 12M in the first year, so I used at least. io.net's own three-year post says it closed $8M in enterprise deals in the first quarter of 2026, while the June release describes one $8M contract, and neither names the customer. The fee rules conflict across sources. The io.net payment docs charge 5% on card top-ups through Stripe and nothing for IO or USDC, CoinDesk Research cites a 3% fee for fiat payers, and CryptoAIAnalysis cites a 2% fee on USDC, so I used the docs. GPU counts vary widely. Own Your Mind reports 30,000 or more GPUs on the io.net homepage, 320,000 or more in its structured data and 327,000 registered devices in a March 2025 Nansen report, and secondary summaries cite a Messari estimate of about 6,720 verified daily active GPUs in the first quarter of 2025. I used io.net's own January 2026 count of 2,752 verified GPUs and the Own Your Mind reading of the io.net explorer on September 23, 2026. Own Your Mind is a small research site with no disclosed tie to io.net, and Solana Compass rounds its 2.6% finding to about 3%. io.net states no headquarters. Its June 2026 release carries a New York dateline, the April 2025 Chainwire release says it is based in Dubai, and Own Your Mind lists New York, San Francisco and Dubai, so I chose New York. The founding year of 2022 and the trading-systems origin come from Solana Compass, while io.net dates its launch to June 11, 2023 and The Block in 2024 described a November 2023 launch. Solana Compass says io.net posted on X that its OpenRouter volume reached 15B tokens a day in late September 2026 and more than 20B in early October, and I could not verify those posts. The customers come from case studies in the io.net 2025 year in review, where the FrodoBots study is shared with the UC Berkeley RAIL Lab. Vistara Labs and KayOS appear there as case studies too, and I treated OpenRouter as a sales channel rather than a customer. The accelerator list comes from the io.net pricing guide (H100, A100, L40S, RTX 4090) and a blog banner offering H200, and I found no Blackwell listings. I left out token prices and investment framing as instructed, and I left out the June 2024 resignation of founder Ahmad Shadid and the interim CEO term of Tory Green."
+  }
+]

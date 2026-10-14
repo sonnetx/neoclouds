@@ -1,0 +1,91 @@
+{
+ "overrides": {
+  "patch": {
+   "spacex-xai": {
+    "ownership": "Public (Nasdaq: SPCX)"
+   },
+   "cudo-compute": {
+    "products": ["Bare metal", "Data center development", "Storage"]
+   }
+  },
+  "replace": {
+   "spacex-xai": [
+    ["today",
+     "SpaceX filed an S-1 registration statement with the SEC in May 2026.",
+     "SpaceX priced its initial public offering at $135 a share on June 11, 2026, and its shares began trading on Nasdaq under the ticker SPCX the next day."]
+   ],
+   "cudo-compute": [
+    ["today",
+     "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference.",
+     "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference. It closed its public on-demand platform on March 31, 2026."]
+   ],
+   "megaspeed": [
+    ["today",
+     "and that it reserves the right to take legal action.",
+     "and that it reserves the right to take legal action. Bloomberg reported in April 2026 that Bain Capital's Bridge Data Centres had dropped Megaspeed as a tenant at a Malaysian campus and given its 68.4 MW allocation to another cloud provider."]
+   ]
+  },
+  "add_sources": {
+   "spacex-xai": [
+    {"title": "SpaceX: Space Exploration Technologies Corp. Announces Pricing of Initial Public Offering", "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx", "date": "2026-06-11"},
+    {"title": "Wikipedia: Initial public offering of SpaceX", "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX", "date": "2026-10"}
+   ],
+   "cudo-compute": [
+    {"title": "Cudo Compute: Documentation, notice that the public on-demand platform closed", "url": "https://docs.cudocompute.com/", "date": "2026-10"}
+   ],
+   "megaspeed": [
+    {"title": "Bloomberg: Bain Data Center Unit Cuts Ties With Nvidia Buyer After US Probe", "url": "https://www.bloomberg.com/news/articles/2026-04-08/bain-data-center-unit-cuts-ties-with-nvidia-buyer-after-us-probe", "date": "2026-04-08"},
+    {"title": "Tom's Hardware via Yahoo Finance: Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China", "url": "https://finance.yahoo.com/sectors/technology/articles/bain-capitals-data-center-unit-144754276.html", "date": "2026-04-08"}
+   ]
+  }
+ },
+ "forced_cites": {
+  "spacex-xai": {
+   "sentences": {
+    "SpaceX priced its initial public offering at $135 a share on June 11, 2026, and its shares began trading on Nasdaq under the ticker SPCX the next day.": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+   }
+  },
+  "cudo-compute": {
+   "sentences": {
+    "It closed its public on-demand platform on March 31, 2026.": "https://docs.cudocompute.com/"
+   }
+  },
+  "megaspeed": {
+   "sentences": {
+    "Bloomberg reported in April 2026 that Bain Capital's Bridge Data Centres had dropped Megaspeed as a tenant at a Malaysian campus and given its 68.4 MW allocation to another cloud provider.": "https://finance.yahoo.com/sectors/technology/articles/bain-capitals-data-center-unit-144754276.html"
+   }
+  }
+ },
+ "decisions": {
+  "spacex-xai": {
+   "status": "confirmed",
+   "evidence": "The SpaceX release of June 11, 2026 prices the IPO at $135 a share and says trading on the Nasdaq Global Select Market and Nasdaq Texas under SPCX begins June 12 (https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx). Wikipedia's IPO article confirms trading began June 12 (https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX).",
+   "change": "Patches ownership from Private (SpaceX filed an S-1 in May 2026) to Public (Nasdaq: SPCX). Replaces the last today sentence about the S-1 with one sentence on the IPO pricing and first trading day, and adds the two sources. The existing forced_cites.json entry for the old S-1 sentence becomes unused and can be removed when this is merged."
+  },
+  "applied-digital": {
+   "status": "already correct",
+   "evidence": "The May 5, 2026 release says Applied Digital owned about 97% of ChronoScale at closing (https://ir.applieddigital.com/news-events/press-releases/detail/151/applied-digital-completes-separation-of-cloud-business), and the October 7, 2026 results release says it owns approximately 96% of ChronoScale Holdings Corporation (Nasdaq: CHRN) (https://ir.applieddigital.com/news-events/press-releases/detail/163/applied-digital-reports-fiscal-first-quarter-2027-results).",
+   "change": "None. The platform field already says Applied Digital moved its GPU cloud business into ChronoScale in May 2026, names the CHRN ticker and gives about 96%, which matches the newest release, and the citation matcher already ties that sentence to the October release. The profile stays about data center leasing, and ChronoScale is a separate company, so it does not belong in aka."
+  },
+  "cudo-compute": {
+   "status": "confirmed",
+   "evidence": "Cudo's documentation site says the public on-demand platform was closed on March 31, 2026 (https://docs.cudocompute.com/), and the homepage now describes only dedicated, managed GPU clusters with no on-demand or virtual machine offer (https://www.cudocompute.com/).",
+   "change": "Patches products to drop Virtual machines. Inserts one sentence on the March 31, 2026 closure after the first today sentence, and adds the docs page as a source. The origin field describes the 2022 marketplace in the past tense and the platform field already says Cudo sells dedicated GPU clusters, so both stay as they are."
+  },
+  "groq": {
+   "status": "already correct",
+   "evidence": "The August 12, 2026 release quotes Adam Winter as CEO of Groq (https://groq.com/newsroom/groq-becomes-an-nvidia-cloud-partner), and the August 17 Series A release names Groq LLC and Alex Davis as Groq Executive Chairman and CEO of Disruptive (https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud).",
+   "change": "None. The profile names Jonathan Ross only as the founder who joined NVIDIA in December 2025, and its outlook already says the CEO changed from Simon Edwards in December 2025 to Adam Winter by June 2026, which the December 24, 2025 and June 22, 2026 releases support. Ownership Private still holds for Groq LLC. The profile does not mention the executive chairman, which is an omission rather than an error."
+  },
+  "denvr-dataworks": {
+   "status": "not confirmed",
+   "evidence": "The denvr.com page title, site name, logo and 2026 blog posts use Denvr (https://www.denvr.com/), but the same homepage's schema.org markup still names the corporation Denvr Dataworks, its blog posts carry a Denvr Dataworks byline, its social handles are denvrdataworks, and its header image is labelled Website Updates 2024. The short brand therefore predates 2026, and we found no announced rename.",
+   "change": "None. The company uses Denvr as a short brand alongside the Denvr Dataworks corporate name rather than clearly rebranding in 2026. The profile already lists Denvr in aka and uses Denvr in its prose."
+  },
+  "megaspeed": {
+   "status": "confirmed",
+   "evidence": "Tom's Hardware, citing Bloomberg, reported on April 8, 2026 that Bain Capital's Bridge Data Centres terminated its contract with Megaspeed International at its Malaysian site and reallocated 68.4 MW of power capacity to another cloud provider (https://finance.yahoo.com/sectors/technology/articles/bain-capitals-data-center-unit-144754276.html). The Bloomberg original is https://www.bloomberg.com/news/articles/2026-04-08/bain-data-center-unit-cuts-ties-with-nvidia-buyer-after-us-probe, which blocks automated fetching.",
+   "change": "Appends one neutral sentence to the end of today and adds the Bloomberg and Tom's Hardware sources. The sentence leaves out the replacement tenant because Tom's Hardware spells it Zenplayer while GuruFocus spells it Zenlayer, and neither article carries a response from Megaspeed."
+  }
+ }
+}

@@ -3,7 +3,7 @@
 Serves the repository root on a free local port. Set CHROME_PATH to use a
 system Chrome instead of the Playwright download.
 """
-import asyncio, functools, http.server, os, socketserver, sys, threading
+import asyncio, functools, http.server, os, re, socketserver, sys, threading
 from playwright.async_api import async_playwright
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -101,7 +101,26 @@ async def main():
 
         await page.goto(base + '#providers')
         pills = await page.evaluate("[...document.querySelectorAll('#cats button')].map(b => b.textContent)")
-        check(len(pills) > 1 and not any('miner' in p.lower() for p in pills), 'directory categories describe current business')
+        names = [re.sub(r'\d+$', '', p).strip() for p in pills]
+        expected = ['All', 'Neoclouds', 'Hyperscalers', 'Other clouds', 'AI platforms', 'Marketplaces', 'Data center developers', 'AI labs']
+        check(names == expected, 'directory shows the broad company types (got %s)' % names)
+        # The introduction shows on the first view only.
+        check(await page.evaluate("document.getElementById('hero').hidden"), 'the introduction is hidden off the Network view')
+        layouts = await page.evaluate("[...document.querySelectorAll('[data-layout]')].map(b => b.dataset.layout)")
+        check(layouts == ['logos', 'table', 'map'], 'Providers offers three layouts (got %s)' % layouts)
+
+        # Region, accelerator and sort sit in a Filters menu that counts active filters and closes on an outside click.
+        await page.click('#filters summary')
+        await page.select_option('#region', 'Europe')
+        await page.wait_for_timeout(200)
+        count = await page.evaluate("document.getElementById('filter-count').textContent")
+        check(count == '1', 'Filters shows one active filter (got %r)' % count)
+        await page.mouse.click(5, 5)
+        check(not await page.evaluate("document.getElementById('filters').open"), 'Filters closes on an outside click')
+        await page.click('#clear-filters')
+
+        await page.goto(base + '#network')
+        check(not await page.evaluate("document.getElementById('hero').hidden"), 'the introduction shows on the Network view')
         check(not errors, 'interactions run without script errors %s' % (errors or ''))
         await browser.close()
     httpd.shutdown()

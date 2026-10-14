@@ -1,0 +1,21 @@
+{
+  "datasection": {
+    "sentences": {
+      "Tokyo-listed data company that now rents NVIDIA GPU clusters.": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814002.pdf",
+      "That GPU service ran on capacity owned by an undisclosed overseas partner, which Datasection resold through its agent NowNaw Japan.": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf",
+      "On August 14, 2026, Datasection ended the partner contract retroactive to April 1 and booked a JPY 5.6B ($35M) fee in place of the JPY 79.9B the deal had added to its forecast for the year to March 2027.": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf"
+    },
+    "facts": {
+      "Contract ended": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf"
+    }
+  },
+  "io-net": {
+    "sentences": {
+      "Its January 2026 year in review counted 2,752 verified GPUs and 80,000 CPUs and listed Leonardo.Ai, Wondera and FrodoBots among its case-study customers.": "https://io.net/blog/2025-io-net-year-in-review",
+      "A CoinDesk Research report that io.net commissioned put average daily network earnings at about $35,000 to $36,000 and said they had trended upward since March 2026.": "https://www.coindesk.com/research/the-incentive-dynamic-engine-a-new-era-for-io-net-tokenomics"
+    },
+    "facts": {
+      "Verified hardware": "https://io.net/blog/2025-io-net-year-in-review"
+    }
+  }
+}

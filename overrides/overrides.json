@@ -37,6 +37,83 @@
    "name": "Quake AI",
    "aka": "Northern Data Group (until June 2026), Taiga Cloud, Ardent Data Centers",
    "snippet": "German GPU cloud with about 22,000 NVIDIA H100 and H200 GPUs, formerly Northern Data Group. Rumble bought it in June 2026 and renamed it Quake AI inside RUM Group."
+  },
+  "core42": {
+   "category": "neocloud"
+  },
+  "humain": {
+   "category": "neocloud"
+  },
+  "deutsche-telekom-industrial-ai-cloud": {
+   "category": "neocloud"
+  },
+  "gmo-gpu-cloud": {
+   "category": "neocloud"
+  },
+  "vessl-ai": {
+   "category": "neocloud"
+  },
+  "vultr": {
+   "category": "othercloud"
+  },
+  "digitalocean": {
+   "category": "othercloud"
+  },
+  "scaleway": {
+   "category": "othercloud"
+  },
+  "ovhcloud": {
+   "category": "othercloud"
+  },
+  "gcore": {
+   "category": "othercloud"
+  },
+  "akamai": {
+   "category": "othercloud"
+  },
+  "hetzner": {
+   "category": "othercloud"
+  },
+  "latitude-sh": {
+   "category": "othercloud"
+  },
+  "sakura-internet": {
+   "category": "othercloud"
+  },
+  "sk-telecom": {
+   "category": "othercloud"
+  },
+  "naver-cloud": {
+   "category": "othercloud"
+  },
+  "softbank-corp": {
+   "category": "othercloud"
+  },
+  "evroc": {
+   "category": "othercloud"
+  },
+  "indosat": {
+   "category": "othercloud"
+  },
+  "byteplus": {
+   "category": "othercloud"
+  },
+  "qumulusai": {
+   "customers": [
+    "DRW",
+    "RunPod",
+    "Hyperbolic"
+   ]
+  },
+  "spacex-xai": {
+   "ownership": "Public (Nasdaq: SPCX)"
+  },
+  "cudo-compute": {
+   "products": [
+    "Bare metal",
+    "Data center development",
+    "Storage"
+   ]
   }
  },
  "strip": {
@@ -140,6 +217,15 @@
   "gmo-gpu-cloud": {
    "outlook": [
     "GMO has not disclosed how many GPUs"
+   ]
+  },
+  "cerebras": {
+   "outlook": [
+    "GPT-6.1 Sol",
+    "$146.62"
+   ],
+   "today": [
+    "Bell AI Fabric"
    ]
   }
  },
@@ -262,6 +348,34 @@
     " J.J. Kardwell is CEO.",
     ""
    ]
+  ],
+  "spacex-xai": [
+   [
+    "today",
+    "SpaceX filed an S-1 registration statement with the SEC in May 2026.",
+    "SpaceX priced its initial public offering at $135 a share on June 11, 2026, and its shares began trading on Nasdaq under the ticker SPCX the next day."
+   ]
+  ],
+  "cudo-compute": [
+   [
+    "today",
+    "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference.",
+    "Cudo now presents itself as an AI infrastructure company that designs, builds and manages large GPU clusters for training and inference. It closed its public on-demand platform on March 31, 2026."
+   ]
+  ],
+  "megaspeed": [
+   [
+    "today",
+    "and that it reserves the right to take legal action.",
+    "and that it reserves the right to take legal action. Bloomberg reported in April 2026 that Bain Capital's Bridge Data Centres had dropped Megaspeed as a tenant at a Malaysian campus and given its 68.4 MW allocation to another cloud provider."
+   ]
+  ],
+  "cleanspark": [
+   [
+    "outlook",
+    "The lease ties rent to financing, construction and delivery milestones, and missing them can lead to rent abatement or termination.",
+    "The lease requires CleanSpark to meet financing, construction and delivery milestones, and missing them can lead to rent abatements or termination."
+   ]
   ]
  },
  "add_sources": {
@@ -270,6 +384,37 @@
     "title": "SEC: Sharon AI announces Nasdaq listing and pricing of $125 million US IPO",
     "url": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626001479/sharonai_ex99-1.htm",
     "date": "2026-02-18"
+   }
+  ],
+  "spacex-xai": [
+   {
+    "title": "SpaceX: Space Exploration Technologies Corp. Announces Pricing of Initial Public Offering",
+    "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx",
+    "date": "2026-06-11"
+   },
+   {
+    "title": "Wikipedia: Initial public offering of SpaceX",
+    "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX",
+    "date": "2026-10"
+   }
+  ],
+  "cudo-compute": [
+   {
+    "title": "Cudo Compute: Documentation, notice that the public on-demand platform closed",
+    "url": "https://docs.cudocompute.com/",
+    "date": "2026-10"
+   }
+  ],
+  "megaspeed": [
+   {
+    "title": "Bloomberg: Bain Data Center Unit Cuts Ties With Nvidia Buyer After US Probe",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-08/bain-data-center-unit-cuts-ties-with-nvidia-buyer-after-us-probe",
+    "date": "2026-04-08"
+   },
+   {
+    "title": "Tom's Hardware via Yahoo Finance: Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/bain-capitals-data-center-unit-144754276.html",
+    "date": "2026-04-08"
    }
   ]
  }

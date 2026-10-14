@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "tencent-cloud",
+    "name": "Tencent Cloud",
+    "aka": "Tencent Cloud International",
+    "category": "hyperscaler",
+    "region": "Asia-Pacific",
+    "hq": "Shenzhen, China",
+    "founded": "2013",
+    "ownership": "Subsidiary of Tencent Holdings (HKEX: 0700)",
+    "website": "https://www.tencentcloud.com",
+    "accelerators": [
+      "NVIDIA A100",
+      "NVIDIA A10",
+      "NVIDIA V100",
+      "NVIDIA T4"
+    ],
+    "products": [
+      "Bare metal",
+      "Virtual machines",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage"
+    ],
+    "snippet": "Tencent's cloud arm rents NVIDIA GPU capacity and serves its Hy models. Tencent's operating capex rose 190% to RMB 51.8B in the June 2026 quarter, and it says it is still compute constrained.",
+    "facts": [
+      {
+        "label": "Operating capex, June 2026 quarter",
+        "value": "RMB 51.8B, up 190%"
+      },
+      {
+        "label": "Total capex, June 2026 quarter",
+        "value": "RMB 52.8B, up 176%"
+      },
+      {
+        "label": "Cloud revenue growth, June 2026 quarter",
+        "value": "Low twenties percent, year over year"
+      },
+      {
+        "label": "Reported Oracle lease (FT, September 2026)",
+        "value": "About 100,000 chips, about $7B over five years"
+      },
+      {
+        "label": "Bond offering, October 2026",
+        "value": "About $5B, mainly for AI capex"
+      },
+      {
+        "label": "Cloud footprint",
+        "value": "25 regions, 70 availability zones"
+      }
+    ],
+    "customers": [],
+    "origin": "Tencent, the Shenzhen company behind WeChat and QQ, launched Tencent Cloud in September 2013. Dowson Tong leads it as CEO of Tencent's Cloud and Smart Industries Group, and the cloud now offers more than 700 services across compute, storage, networking and databases. Tencent also trains the Hy family of language models, earlier branded Hunyuan, and sells access to them and to GPU capacity through Tencent Cloud.",
+    "today": "Tencent's operating capex rose 190% year over year to RMB 51.8B in the quarter that ended June 2026, and total capex reached RMB 52.8B. Cloud revenue growth accelerated to the low twenties percent year over year. Tencent said AI demand lifted revenue from GPU rental and model-as-a-service, and that it is still compute constrained. President Martin Lau said Tencent could resell recently ordered compute at more than 30% above what it paid a few months earlier. The Financial Times reported in December 2025 that Tencent is the end customer of Datasection, a Tokyo-listed GPU cloud, with contracts worth more than $1.2B, and Datasection has not named its customer. In August 2026 Datasection ended the part of that service that ran on a partner's GPUs, retroactive to April 1, and kept its agreements for its own sites in Japan and Australia. On September 30, 2026 the FT reported a five-year lease worth about $7B that gives Tencent access to about 100,000 advanced AI chips in Oracle data centers in Southeast Asia, and neither company has confirmed it.",
+    "platform": "Tencent Cloud lists 25 regions and 70 availability zones, including Riyadh, its first region in the Middle East. Its GPU instances run on NVIDIA A100, A10, V100 and T4 GPUs, and newer instance families with 96 GB and 141 GB NVIDIA GPUs are in allowlist beta. Hyper Computing Clusters link GPU servers over a RoCEv2 RDMA network for distributed training, and the qGPU tool splits one GPU between containers. Tencent also rents bare metal GPU servers and sells API access to its Hy models.",
+    "outlook": "In October 2026 Tencent told bond investors that a planned offering of about $5B will mainly fund AI capex, most of it chip purchases, and that capex is likely to stay elevated into 2027. Executives said new compute goes first to training larger Hy models and to inference, and that renting it out as bare metal GPUs or model services will grow toward the end of 2026 and into 2027. US export rules bar direct sales of the most advanced AI chips to Chinese firms but do not ban leasing compute abroad, and the reported Datasection and Oracle deals use that route. Tencent Cloud CEO Dowson Tong said in January 2026 that Tencent plans more availability zones in Asia-Pacific, Europe and the Middle East over the next 12 to 18 months.",
+    "sources": [
+      {
+        "title": "Tencent: Tencent Announces 2026 Second Quarter Results",
+        "url": "https://www.tencent.com/wp-content/uploads/2026/08/Tencent-Announces-2026-Second-Quarter-Results.pdf",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Tencent: 2026 Second Quarter Results Presentation",
+        "url": "https://static.www.tencent.com/website-2026-upload/2Q26-earnings-PPT_20260812_1800-88b183.pdf",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Investing.com: Earnings call transcript - Tencent posts solid Q2 2026 growth as AI spending surges",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tencent-posts-solid-q2-2026-growth-as-ai-spending-surges-93CH-4855197",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Investing.com: Tencent Q2 2026 slides - AI spending surge amid solid revenue growth",
+        "url": "https://www.investing.com/news/company-news/tencent-q2-2026-slides-ai-spending-surge-amid-solid-revenue-growth-93CH-4855261",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Chip Briefing: Daily - Tencent rents top Nvidia chips from Japanese firm, skirting US export controls",
+        "url": "https://chipbriefing.substack.com/p/daily-tencent-rents-top-nvidia-chips",
+        "date": "2025-12"
+      },
+      {
+        "title": "Datasection: Notice Regarding Progress of Previously Disclosed Matter, Large-Scale Order",
+        "url": "https://www.datasection.co.jp/en-financial-report/en-ir-20260814001.pdf",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "W.Media: Japan's Datasection bets on dominance with GPU supercluster ambitions",
+        "url": "https://w.media/japans-datasection-bets-on-dominance-with-gpu-supercluster-ambitions/",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Financial News: Tencent's $7bn Oracle chip lease - unconfirmed, but fits the numbers",
+        "url": "https://www.financial-news.co.uk/tencents-7bn-oracle-chip-lease-unconfirmed-but-fits-the-numbers/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "DCD: Tencent signs on for 100000 GPUs via Oracle - report",
+        "url": "https://www.datacenterdynamics.com/en/news/tencent-signs-on-for-100000-gpus-via-oracle-report/",
+        "date": "2026-10"
+      },
+      {
+        "title": "The Edge Malaysia: Tencent tells investors its US$5 bil bond mainly for AI capex (Bloomberg)",
+        "url": "https://theedgemalaysia.com/node/821501",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Capacity: Tencent Cloud eyes new data centres across the Middle East",
+        "url": "https://capacityglobal.com/news/tencent-cloud-data-centre/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "Arab News: Tencent Cloud accelerates Saudi expansion with new data region, AI services",
+        "url": "https://www.arabnews.com/business/tencent-cloud-accelerates-saudi-expansion-with-new-data-region-ai-services-2616094",
+        "date": "2025-09-20"
+      },
+      {
+        "title": "Tencent Cloud: Global Infrastructure",
+        "url": "https://www.tencentcloud.com/global-infrastructure",
+        "date": "2026-10"
+      },
+      {
+        "title": "Tencent Cloud: Computing Instance (GPU instance types)",
+        "url": "https://www.tencentcloud.com/document/product/560/19701",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "Tencent Cloud: GPU Cloud Computing",
+        "url": "https://www.tencentcloud.com/products/gpu",
+        "date": "2026-10"
+      },
+      {
+        "title": "Wikipedia: Tencent Cloud",
+        "url": "https://en.wikipedia.org/wiki/Tencent_Cloud",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The seed capex figure checks out. CFO John Lo gave operating capex of RMB 51.8B, up 190%, on the call, and the results slides show the same line. The press release headline figure is total capex of RMB 52.8B, up 176%, so the profile gives both. Tencent does not disclose cloud revenue in RMB, only the growth rate. The Datasection link rests on a Financial Times report of December 21, 2025, which I read through a Chip Briefing summary because FT blocks fetching. W.Media adds that Datasection routes almost all of its AI revenue through an intermediary, NowNaw Japan (W.Media spells it NauNau), and Datasection's filings call the end customer one of the world's largest cloud providers without naming it. Datasection's August 14, 2026 notice ended the service it ran on a partner's GPUs for that customer, with a JPY 5.6B fee in place of the remaining revenue, and kept the agreements for its own Japan and Australia sites. The press link to Tencent therefore now covers a smaller set of contracts than the December 2025 report, and Datasection's GPU counts and revenue belong in its own profile. A short seller, Wolfpack Research, published a report alleging that Datasection supplies Tencent in breach of export rules, and I did not use it. The Oracle lease comes from an FT report of September 30, 2026 that Reuters relayed without verifying. I could not open FT, Reuters or DCD, so I relied on the Financial News summary and DCD's search snippet. A blog post says Tencent received about 10,000 H200 chips in August 2026, and I found no reputable source, so I left it out. The Bloomberg bond story was paywalled, so I read it through The Edge Malaysia reprint. I left customers empty because no source names a Tencent GPU rental customer. CNBC names Keeta as a Saudi cloud customer, but I could not open that article and Keeta is a general cloud user. Datasection and Oracle are Tencent's suppliers, so their profiles may want Tencent as a customer. The website lists 25 regions and 70 zones, while Wikipedia gives 23 and 66, and I used the website. The accelerator list comes from the February 2026 instance document, which does not name the GPU models in the newest beta families. Tencent's own releases switched from Hunyuan to Hy in 2026, while the call transcript still says Hunyuan."
+  },
+  {
+    "slug": "huawei-cloud",
+    "name": "Huawei Cloud",
+    "aka": "HUAWEI CLOUD",
+    "category": "hyperscaler",
+    "region": "Asia-Pacific",
+    "hq": "Gui'an, China",
+    "founded": "2005",
+    "ownership": "Subsidiary of Huawei Investment & Holding (private, employee-owned)",
+    "website": "https://www.huaweicloud.com/intl/en-us/",
+    "accelerators": [
+      "Huawei Ascend 910C",
+      "Huawei Ascend 950"
+    ],
+    "products": [
+      "Virtual machines",
+      "Inference API",
+      "Training and fine-tuning",
+      "Own silicon"
+    ],
+    "snippet": "Huawei's public cloud rents its own Ascend AI chips through CloudMatrix supernodes. It set September 30, 2026 for commercial service of a 1,024-chip Ascend 950 cluster in China and November 30 for a global launch.",
+    "facts": [
+      {
+        "label": "Cloud computing revenue, 2025",
+        "value": "RMB 32.2B (about $4.6B) from external customers, down 3.5%"
+      },
+      {
+        "label": "Cloud revenue including internal sales, 2025",
+        "value": "RMB 72.1B"
+      },
+      {
+        "label": "AI Cluster Service customers",
+        "value": "More than 1,800 (end of 2025)"
+      },
+      {
+        "label": "Ascend 950 cluster",
+        "value": "1,024 chips, up to 1 EFLOPS FP8"
+      },
+      {
+        "label": "Ascend 910C supernodes deployed",
+        "value": "More than 1,000 (September 2026)"
+      },
+      {
+        "label": "Cloud footprint",
+        "value": "34 regions, 103 availability zones"
+      }
+    ],
+    "customers": [
+      "Qihoo 360",
+      "SiliconFlow"
+    ],
+    "origin": "Huawei, the Shenzhen maker of telecom equipment and smartphones, runs Huawei Cloud as its public cloud business, which Baidu Baike dates to 2005 and places in Gui'an New Area in Guizhou province. Huawei designs its own Ascend AI chips. In 2025 Huawei Cloud began renting CloudMatrix384, a system that links 384 Ascend 910C chips and 192 Kunpeng CPUs into one supernode over Huawei's UnifiedBus network. Rotating chairman Xu Zhijun said in September 2025 that the Chinese mainland will lag in chip manufacturing nodes for a long time, and Huawei's plan relies on linking very large numbers of chips instead.",
+    "today": "Huawei Cloud CEO Zhou Yuefeng said at Huawei Connect in September 2026 that commercial service of an Ascend 950 cluster would start in China on September 30 and in global markets on November 30. The cluster links 1,024 Ascend 950 chips over Huawei's UnifiedBus interconnect and delivers up to 1 EFLOPS of FP8 and 2 EFLOPS of FP4 compute with 256 TB of shared memory. Huawei said at the same event that more than 1,000 Ascend 910C supernodes are deployed and that Ascend 950 supernodes are in commercial use. In October 2026 Xu Zhijun said Ascend 950 supernode output cannot yet meet demand in China, so Huawei will not sell the hardware globally for now and has shipped only a few units abroad for testing. At its INSPIRE conference in June 2026 Huawei Cloud described an AI cluster service that scales to 100,000 cards and 200 EFLOPS. Huawei's 2025 cloud computing revenue from external customers fell 3.5% to RMB 32.2B, and revenue including sales through other Huawei segments reached RMB 72.1B. More than 1,800 customers used its AI Cluster Service by the end of 2025, up from 321 in 2024.",
+    "platform": "Huawei Cloud runs 34 regions and 103 availability zones and serves customers in more than 170 countries and regions. Its CloudMatrix AI Infra pools Ascend supernodes into the AI Cluster Service for training, and its AI Token Service sells inference on CloudMatrix384, which Huawei says gives 3 to 4 times the per-card inference performance of an NVIDIA H20. ModelArts handles model training and deployment, and Huawei Cloud offers its own Pangu models along with models from more than 20 partners such as Zhipu, DeepSeek and Kimi. GPU Accelerated Cloud Servers provide GPU and Ascend virtual machines.",
+    "outlook": "Huawei plans the Ascend 950DT chip and an 8,192-chip Atlas 950 SuperPoD for the fourth quarter of 2026, and it moved the Ascend 960DT forward to the first quarter of 2027. TrendForce reported in April 2026 that Huawei aims to ship about 750,000 Ascend 950PR chips in 2026. Huawei has not said how much Ascend 950 capacity the November 30 global cloud launch will offer while supply falls short in China. In May 2025 the US Commerce Department said that using Huawei's Ascend 910B, 910C and 910D chips can violate US export controls, including for users outside the United States.",
+    "sources": [
+      {
+        "title": "TechNode: Huawei sets commercial launch dates for Ascend 950 AI cluster cloud service",
+        "url": "https://technode.com/2026/09/18/huawei-sets-commercial-launch-dates-for-ascend-950-ai-cluster-cloud-service/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Huawei Central: Huawei Ascend 950 AI cluster to debut globally on November 30",
+        "url": "https://www.huaweicentral.com/huawei-ascend-950-ai-cluster-to-debut-globally-on-november-30/",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "TechNode: Huawei unveils what it calls the industry's first NPO-based Ascend 960 supernode",
+        "url": "https://technode.com/2026/09/17/huawei-npo-based-ascend-960-supernode/",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Huawei Central: Huawei details Ascend 950 supernode global expansion plans",
+        "url": "https://www.huaweicentral.com/huawei-details-ascend-950-supernode-global-expansion-plans/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Huawei: 2025 Annual Report",
+        "url": "https://www.huawei.com/en/annual-report/2025",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "TrendForce: Huawei 2025 R&D Spending Reaches Record 192.3B Yuan, 22% of Revenue, Cloud Revenue Slips",
+        "url": "https://www.trendforce.com/news/2026/04/01/news-huawei-2025-r-cloud-revenue-slips/",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "Huawei: Groundbreaking SuperPoD Interconnect - Leading a New Paradigm for AI Infrastructure",
+        "url": "https://www.huawei.com/en/news/2025/9/hc-xu-keynote-speech",
+        "date": "2025-09-18"
+      },
+      {
+        "title": "Huawei Cloud: Fostering the Fertile Ground for Compute, Empowering AI Pioneers for Industries",
+        "url": "https://www.huaweicloud.com/intl/en-us/news/20250919133255709.html",
+        "date": "2025-09-19"
+      },
+      {
+        "title": "36Kr: Huawei Cloud Chooses a Third Path in the Fierce Token Battle",
+        "url": "https://eu.36kr.com/en/p/3840016255126016",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "arXiv: Serving Large Language Models on Huawei CloudMatrix384",
+        "url": "https://arxiv.org/abs/2506.12708",
+        "date": "2025-06-15"
+      },
+      {
+        "title": "Crowell & Moring: U.S. Department of Commerce Rescinds Biden Administration's AI Diffusion Export Control Rule and Issues New Guidance on Huawei, Chips for AI Purposes, and Diligence Expectations",
+        "url": "https://www.crowell.com/en/insights/client-alerts/us-department-of-commerce-rescinds-biden-administrations-ai-diffusion-export-control-rule-and-issues-new-guidance-on-huawei-chips-for-ai-purposes-and-diligence-expectations",
+        "date": "2025-05-19"
+      },
+      {
+        "title": "Huawei Cloud: International website",
+        "url": "https://www.huaweicloud.com/intl/en-us/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Huawei Cloud: GPU Accelerated Cloud Server",
+        "url": "https://www.huaweicloud.com/intl/en-us/product/gpu.html",
+        "date": "2026-10"
+      },
+      {
+        "title": "Baidu Baike: Huawei Cloud",
+        "url": "https://baike.baidu.com/en/item/Huawei%20Cloud/1447537",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The seed says more than 1,000 Ascend supernodes are deployed. TechNode's September 17, 2026 report specifies Ascend 910C supernodes, and the count covers Huawei as a whole rather than Huawei Cloud alone, so the profile says 910C. The seed also says the Ascend 950 cluster service went commercial in China on September 30. I found only the September 18 announcement of that date and no report confirming the launch happened, so the profile states it as the scheduled date. Huawei Central reports that Xu Zhijun said on October 7 that Huawei will not offer the Ascend 950 supernode globally for now because supply falls short in China. That statement appears to cover hardware sales, while the November 30 date covers the cloud service, and Huawei has not reconciled the two. The 2005 founding year and the Gui'an headquarters come only from Baidu Baike. Huawei itself is based in Shenzhen, and Huawei Cloud in its current business unit form is younger than 2005. The annual report gives 101 availability zones at the end of 2025, and the website now shows 103. Huawei reports cloud revenue two ways. RMB 32.2B is revenue from external customers, and RMB 72.1B includes cloud revenue booked through other Huawei segments. The 750,000 Ascend 950PR shipment target comes from TrendForce citing press reports, and Huawei has not confirmed it. Huawei's ultimate controlling party is its employee union, which the ownership line summarizes as employee-owned. Qihoo 360 appears as an AI Token Service user in Huawei Cloud's September 2025 release, and SiliconFlow deployed DeepSeek models on CloudMatrix384 with Huawei Cloud according to 36Kr. The annual report also names general cloud customers such as Ethio Telecom, Absa, Telkomsel and Azerion, which I left out of customers because they are not AI compute customers. The GPU server page names no current NVIDIA models, so the accelerator list has only Ascend chips. Search results say the Commerce Department later removed the phrase about use anywhere in the world from its May 2025 Ascend guidance, and I did not verify that change."
+  },
+  {
+    "slug": "baidu-ai-cloud",
+    "name": "Baidu AI Cloud",
+    "aka": "Baidu Intelligent Cloud, Baidu Cloud",
+    "category": "hyperscaler",
+    "region": "Asia-Pacific",
+    "hq": "Beijing, China",
+    "founded": "2015",
+    "ownership": "Division of Baidu (NASDAQ: BIDU, HKEX: 9888)",
+    "website": "https://intl.cloud.baidu.com",
+    "accelerators": [
+      "Kunlunxin P800",
+      "NVIDIA L20",
+      "NVIDIA A10",
+      "NVIDIA T4"
+    ],
+    "products": [
+      "Virtual machines",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage",
+      "Own silicon"
+    ],
+    "snippet": "Baidu's cloud arm rents NVIDIA GPUs and Baidu's own Kunlun AI chips. GPU Cloud revenue rose 283% year over year in the June 2026 quarter, and AI Cloud Infra revenue reached RMB 7.3B, up 50%.",
+    "facts": [
+      {
+        "label": "AI Cloud Infra revenue, June 2026 quarter",
+        "value": "RMB 7.3B, up 50%"
+      },
+      {
+        "label": "GPU Cloud revenue growth, June 2026 quarter",
+        "value": "283% year over year"
+      },
+      {
+        "label": "AI Cloud Infra revenue, first half 2026",
+        "value": "RMB 16.1B, up 65%"
+      },
+      {
+        "label": "Capex, June 2026 quarter",
+        "value": "RMB 11.4B ($1.68B), up from RMB 3.8B"
+      },
+      {
+        "label": "Kunlun P800 cluster",
+        "value": "30,000 chips (April 2025)"
+      }
+    ],
+    "customers": [],
+    "origin": "Baidu, the Beijing search company, opened Baidu Cloud to the public in 2015 and renamed it Baidu AI Cloud in April 2019. Baidu released its first Kunlun AI chip in 2018 and spun the chip unit off as Kunlunxin in April 2021, staying its largest shareholder. Baidu also trains the ERNIE family of models and sells them through its Qianfan platform.",
+    "today": "Baidu's AI Cloud Infra revenue rose 50% year over year to RMB 7.3B in the quarter that ended June 2026, down from RMB 8.8B in the March quarter. Revenue from GPU Cloud, which Baidu earlier called subscription revenue from AI accelerator infrastructure, rose 283% after 184% growth in the March quarter. Baidu executives said on the August 2026 call that AI computing demand in China remains very strong and that computing supply remains constrained. Baidu's capex rose to RMB 11.4B ($1.68B) in the June 2026 quarter from RMB 3.8B a year earlier. Kunlunxin confidentially filed for a Hong Kong listing on January 1, 2026 and began preparing for a Shanghai STAR Market listing in May 2026. Baidu's September 2026 interim report says the spin-off still awaits regulatory approvals and final decisions by Baidu and Kunlunxin. Kunlunxin launched its Tianchi 256 supernode in June 2026, and its M100 inference chip began small shipments to customers the same month.",
+    "platform": "Baidu AI Cloud rents NVIDIA L20, A10 and T4 GPU servers and capacity on its own Kunlun chips. In April 2025 it switched on a cluster of 30,000 Kunlun P800 chips, which Baidu says can train models with hundreds of billions of parameters. Its Qianfan platform sells API access to ERNIE and other models, and revenue from external customers' token usage on Qianfan grew more than ninefold year over year in the June 2026 quarter. Baidu runs data centers across China and in Hong Kong and Singapore.",
+    "outlook": "Baidu said in August 2026 that AI Cloud Infra can keep growing strongly in the second half of 2026, with potential for further acceleration. Kunlunxin plans the M300 training chip for 2027 and supernodes of a thousand chips for 2028, and Baidu aims to run a single cluster of one million Kunlun chips by 2030. The Kunlunxin listing still needs Hong Kong exchange approval and a filing with the China Securities Regulatory Commission, and Kunlunxin would remain a Baidu subsidiary after it.",
+    "sources": [
+      {
+        "title": "PR Newswire: Baidu Announces Second Quarter 2026 Results",
+        "url": "https://www.prnewswire.com/news-releases/baidu-announces-second-quarter-2026-results-302853860.html",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "SEC: Baidu Form 6-K, Exhibit 99.1, second quarter 2026 results",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "SEC: Baidu Form 6-K, Exhibit 99.1, 2026 Interim Report",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526394299/d152888dex991.pdf",
+        "date": "2026-09"
+      },
+      {
+        "title": "Yahoo Finance: Baidu (BIDU) Q2 2026 Earnings Call Transcript",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/baidu-bidu-q2-2026-earnings-002835072.html",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "SEC: Baidu Form 6-K, Exhibit 99.1, proposed spin-off and separate listing of Kunlunxin",
+        "url": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526000097/d63607dex991.htm",
+        "date": "2026-01-02"
+      },
+      {
+        "title": "TrendForce: Baidu Chip Unit Kunlunxin Reportedly Launches STAR Market IPO Process, HK Listing Valuation Seen Near HK$100B",
+        "url": "https://www.trendforce.com/news/2026/05/08/news-baidu-chip-unit-kunlunxin-reportedly-launches-star-market-ipo-process-hk-listing-valuation-seen-near-hk100b/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "TrendForce: Baidu Rolls Out Kunlun Roadmap, M100 & M300 AI Chips Arrive 2026-2027",
+        "url": "https://www.trendforce.com/news/2025/11/13/news-baidu-rolls-out-kunlun-roadmap-m100-m300-ai-chips-arrive-2026-2027/",
+        "date": "2025-11-13"
+      },
+      {
+        "title": "Investing.com: China's Baidu says its Kunlun chip cluster can train DeepSeek-like models (Reuters)",
+        "url": "https://www.investing.com/news/stock-market-news/baidu-launches-new-ai-model-amid-mounting-competition-4003765",
+        "date": "2025-04-25"
+      },
+      {
+        "title": "Baidu AI Cloud: GPU cloud server",
+        "url": "https://cloud.baidu.com/product/gpu.html",
+        "date": "2026-10"
+      },
+      {
+        "title": "Baidu AI Cloud: International website",
+        "url": "https://intl.cloud.baidu.com/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Baidu Baike: Baidu AI Cloud",
+        "url": "https://baike.baidu.com/en/item/Baidu%20AI%20Cloud/978818",
+        "date": "2026-10"
+      },
+      {
+        "title": "Baidu Baike: Kunlunxin",
+        "url": "https://baike.baidu.com/en/item/Kunlunxin/6414699",
+        "date": "2026-10"
+      },
+      {
+        "title": "Baidu Baike: Kunlun Core M100",
+        "url": "https://baike.baidu.com/en/item/Kunlun%20Core%20M100/3584330",
+        "date": "2026-10"
+      },
+      {
+        "title": "Wikipedia: Kunlunxin",
+        "url": "https://en.wikipedia.org/wiki/Kunlunxin",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "Both seed figures match the August 18, 2026 release. AI Cloud Infra revenue was RMB 7.3B, up 50%, and GPU Cloud revenue grew 283%. The release also shows AI Cloud Infra down 17% from RMB 8.8B in the March quarter, which the profile states. Baidu does not disclose GPU Cloud revenue in RMB. The capex figures come from the cash flow table in the release, which gives the USD value. Kunlunxin has not listed as of October 14, 2026. It filed confidentially in Hong Kong on January 1, 2026, and TrendForce, citing Chinese media, reports that it began STAR Market listing guidance with CICC on May 7, 2026. Baidu's interim report, with information as of September 15, 2026, says the spin-off remains subject to approvals, and Dou Shen said in August that the process is still ongoing. Press reports of a valuation near HK$100B or $50B are unconfirmed, so I left them out. Baidu's stake is 57.67% according to TrendForce and Baidu Baike, while January 2026 reports said about 59%, so I left the stake out. China Mobile bought Kunlun-based servers in a 2025 tender, but that is a chip sale rather than cloud rental, so customers is empty. The earnings call describes key clients in online gaming, e-commerce and lifestyle content without naming them. The Tianchi 256 launch and the M100 shipments come only from Baidu Baike, and I did not list the M100 as an accelerator because no source shows it on Baidu AI Cloud yet. The 2015 opening and the 2019 rename also come from Baidu Baike. The NVIDIA models come from the Chinese GPU product page, since the international site lists only general compute. Baidu became dual-primary listed in Hong Kong on September 1, 2026."
+  }
+]

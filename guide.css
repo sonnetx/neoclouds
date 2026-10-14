@@ -68,25 +68,22 @@ select {
 .container {
     max-width: 1280px;
     margin: 0 auto;
-    padding: 40px var(--pad) 48px;
+    padding: 18px var(--pad) 48px;
 }
 
-/* Header */
+/* Header: a slim line with the way back to the personal site and the update date. */
 .site-header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     gap: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.site-title {
-    font-size: 20px;
+    padding-bottom: 10px;
+    font-family: var(--sans);
+    font-size: 13px;
 }
 
 .site-title a {
-    color: var(--text-color);
+    color: var(--muted);
     border: none;
 }
 
@@ -95,45 +92,39 @@ select {
 }
 
 .updated {
-    font-family: var(--sans);
-    font-size: 14px;
     color: var(--faint);
 }
 
-/* Hero */
-.hero {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 32px;
-    padding: 42px 0 24px;
-}
-
-.hero h1 {
-    font-size: 40px;
-    font-weight: normal;
-    line-height: 1.05;
-    letter-spacing: -0.8px;
-    margin-bottom: 12px;
-}
-
-.hero .lede {
-    font-size: 17px;
-    line-height: 1.6;
-    color: #444;
-    max-width: 65ch;
-}
-
-/* Tabs */
-.tabs {
+/* The title and the tabs share one sticky bar. */
+.topbar {
     position: sticky;
     top: 0;
     z-index: 20;
     display: flex;
-    gap: 34px;
+    align-items: center;
+    gap: 16px 40px;
     background: #fff;
     border-bottom: 1px solid var(--border-color);
+}
+
+.brand {
     margin: 0;
-    padding: 0;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.2;
+    letter-spacing: -0.3px;
+    white-space: nowrap;
+}
+
+.brand a {
+    color: var(--text-color);
+    border: none;
+}
+
+.tabs {
+    display: flex;
+    gap: 30px;
+    margin-left: auto;
     overflow-x: auto;
     scrollbar-width: none;
 }
@@ -144,7 +135,7 @@ select {
 
 .tabs a {
     display: block;
-    padding: 16px 0 13px;
+    padding: 18px 0 15px;
     font-family: var(--sans);
     font-size: 15px;
     color: var(--muted);
@@ -162,79 +153,123 @@ select {
     border-bottom-color: var(--text-color);
 }
 
-.tabs .n {
-    color: var(--faint);
-    font-size: 13px;
-    margin-left: 4px;
+/* The introduction appears on the first view only. */
+#hero {
+    margin: 22px 0 0;
+    font-size: 17px;
+    line-height: 1.6;
+    color: #444;
+    max-width: 70ch;
 }
 
 .view {
-    padding-top: 32px;
+    padding-top: 22px;
 }
 
+/* One plain line under the tabs saying what the view holds. */
 .view-intro {
-    display: grid;
-    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.4fr);
-    gap: 40px;
-    align-items: start;
-    margin-bottom: 24px;
-}
-
-.view-intro h2 {
-    font-size: 32px;
-    font-weight: normal;
-    line-height: 1.15;
-    letter-spacing: -0.6px;
-}
-
-.view-intro p {
-    font-size: 15px;
-    line-height: 1.65;
+    margin-bottom: 18px;
+    font-size: 16px;
+    line-height: 1.6;
     color: #555;
-    max-width: 62ch;
+    max-width: 75ch;
 }
 
-/* Shared buttons and small type */
-.btn {
-    display: inline-block;
-    padding: 8px 18px;
+/* ---------- Controls ---------- */
+/* Every button, toggle, pill and field shares one style. A selected item has a dark fill. */
+.btn,
+.chip-btn,
+.pill,
+.ctl,
+.seg button,
+.ctl-input,
+.net-tools input {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 34px;
+    padding: 0 12px;
     font-family: var(--sans);
-    font-size: 14px;
+    font-size: 13px;
+    line-height: 1.2;
     color: var(--text-color);
     background: #fff;
     border: 1px solid var(--border-color);
-    border-radius: 4px;
+    border-radius: 6px;
     cursor: pointer;
-    transition: border-color 0.2s, color 0.2s;
+    transition: border-color 0.15s, background-color 0.15s, color 0.15s;
 }
 
-.btn:hover {
-    color: var(--link-color);
-    border-color: var(--link-color);
+.ctl-input,
+.net-tools input {
+    font-size: 14px;
+    cursor: text;
 }
 
-.btn.small {
-    padding: 5px 12px;
-    font-size: 13px;
+select.ctl-input {
+    cursor: pointer;
+}
+
+.btn:hover,
+.chip-btn:hover,
+.pill:hover,
+.ctl:hover,
+.seg button:hover,
+.ctl-input:hover,
+.net-tools input:hover {
+    border-color: #b8b8b8;
+}
+
+.pill[aria-pressed="true"],
+.seg button[aria-pressed="true"] {
+    color: #fff;
+    background: var(--text-color);
+    border-color: var(--text-color);
+}
+
+.pill .c,
+.ctl .c {
+    color: var(--faint);
+}
+
+.pill[aria-pressed="true"] .c {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.btn.small,
+.chip-btn {
+    min-height: 30px;
+    padding: 0 10px;
 }
 
 .chip-btn {
-    display: inline-block;
     margin: 0 6px 6px 0;
-    padding: 3px 10px;
-    font-family: var(--sans);
-    font-size: 13px;
-    color: var(--text-color);
-    background: #fff;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    cursor: pointer;
-    transition: border-color 0.2s, color 0.2s;
 }
 
-.chip-btn:hover {
-    color: var(--link-color);
-    border-color: var(--link-color);
+.seg {
+    display: inline-flex;
+}
+
+.seg button {
+    border-radius: 0;
+}
+
+.seg button + button {
+    margin-left: -1px;
+}
+
+.seg button:first-child {
+    border-radius: 6px 0 0 6px;
+}
+
+.seg button:last-child {
+    border-radius: 0 6px 6px 0;
+}
+
+.seg button:hover,
+.seg button[aria-pressed="true"] {
+    position: relative;
+    z-index: 1;
 }
 
 .small {
@@ -341,7 +376,7 @@ details.src summary .n {
     color: var(--faint);
     font-size: 12px;
     border: 1px solid var(--border-color);
-    border-radius: 10px;
+    border-radius: 6px;
     padding: 0 7px;
 }
 
@@ -395,16 +430,6 @@ ol.sources .dt {
 
 .net-tools > * {
     pointer-events: auto;
-}
-
-.net-tools input {
-    width: 220px;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    padding: 6px 10px;
-    font-family: var(--sans);
-    font-size: 14px;
-    background: #fff;
 }
 
 .net-tools .legend {
@@ -740,7 +765,7 @@ ol.sources .dt {
     margin-left: 8px;
     padding: 1px 8px;
     border: 1px solid var(--border-color);
-    border-radius: 10px;
+    border-radius: 6px;
     font-size: 12px;
     color: var(--muted);
 }
@@ -823,61 +848,6 @@ details.tv summary {
 }
 
 /* ---------- Directory ---------- */
-.controls {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    align-items: center;
-    margin-bottom: 14px;
-    font-family: var(--sans);
-    font-size: 14px;
-}
-
-.controls input[type="search"] {
-    flex: 1 1 320px;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    padding: 9px 12px;
-    font-size: 15px;
-    font-family: var(--sans);
-    background: #fff;
-}
-
-.controls select {
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    padding: 8px 10px;
-    font-size: 14px;
-    font-family: var(--sans);
-    background: #fff;
-    color: var(--text-color);
-}
-
-.layout-toggle {
-    display: inline-flex;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    overflow: hidden;
-}
-
-.layout-toggle button {
-    background: #fff;
-    border: none;
-    padding: 8px 14px;
-    font-family: var(--sans);
-    font-size: 14px;
-    color: var(--muted);
-    cursor: pointer;
-}
-
-.layout-toggle button + button {
-    border-left: 1px solid var(--border-color);
-}
-
-.layout-toggle button[aria-pressed="true"] {
-    background: var(--soft);
-    color: var(--text-color);
-}
 
 .pills {
     display: flex;
@@ -886,27 +856,87 @@ details.tv summary {
     margin-bottom: 8px;
 }
 
-.pill {
-    padding: 5px 13px;
-    font-size: 13px;
+
+/* Providers: search, Filters and layout on one row, then the type pills and the count. */
+.dir-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.dir-bar #q {
+    flex: 1 1 280px;
+}
+
+.dir-types {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-color);
     font-family: var(--sans);
-    color: var(--text-color);
+    font-size: 13px;
+}
+
+.dir-types .pills {
+    margin: 0;
+}
+
+.filters {
+    position: relative;
+}
+
+.filters > summary {
+    list-style: none;
+}
+
+.filters > summary::-webkit-details-marker {
+    display: none;
+}
+
+.filters > summary::after {
+    content: "";
+    width: 6px;
+    height: 6px;
+    margin: -3px 0 0 2px;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    transform: rotate(45deg);
+}
+
+.filters[open] > summary {
+    border-color: var(--text-color);
+}
+
+.filters-pop {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    z-index: 30;
+    display: grid;
+    gap: 12px;
+    width: 260px;
+    padding: 14px;
     background: #fff;
     border: 1px solid var(--border-color);
-    border-radius: 4px;
-    cursor: pointer;
-    transition: border-color 0.2s, color 0.2s;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
-.pill .c {
-    color: var(--faint);
-    margin-left: 4px;
+.filters-pop label {
+    display: grid;
+    gap: 5px;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--muted);
 }
 
-.pill:hover,
-.pill[aria-pressed="true"] {
-    color: var(--link-color);
-    border-color: var(--link-color);
+.filters-pop select {
+    width: 100%;
 }
 
 .cat-blurb {
@@ -936,7 +966,7 @@ details.tv summary {
 }
 
 a.card:hover {
-    border-color: var(--link-color);
+    border-color: #b8b8b8;
     box-shadow: 0 1px 6px rgba(0, 102, 204, 0.12);
 }
 
@@ -1122,13 +1152,6 @@ td:first-child {
     border-bottom: 1px solid var(--border-color);
 }
 
-.sec-num {
-    font-family: var(--sans);
-    font-size: 13px;
-    color: var(--faint);
-    font-variant-numeric: tabular-nums;
-}
-
 .sec-head h2 {
     font-size: 32px;
     font-weight: normal;
@@ -1148,6 +1171,39 @@ h3.sub {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     gap: 56px;
     align-items: start;
+}
+
+/* Prose above a full-width table, for tables too wide to share a row with text. */
+.stack {
+    display: grid;
+    gap: 32px;
+}
+
+.stack > * {
+    min-width: 0;
+}
+
+/* Fixed layout so the two compared columns get equal width. */
+table.compare {
+    table-layout: fixed;
+}
+
+table.compare thead td {
+    width: 20%;
+    border-bottom-color: #ccc;
+}
+
+table.compare thead th {
+    width: 40%;
+    color: var(--text-color);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+table.compare th[scope="row"] {
+    color: var(--text-color);
+    font-size: 14px;
+    white-space: normal;
 }
 
 .prose p {
@@ -1552,19 +1608,6 @@ footer p + p {
     border-left: 1px solid var(--border-color);
 }
 
-.directory-toolbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-    padding: 0 0 18px;
-    margin: 18px 0;
-    border-bottom: 1px solid var(--border-color);
-    font-family: var(--sans);
-    font-size: 13px;
-}
-
 .directory-status {
     display: flex;
     align-items: center;
@@ -1588,20 +1631,6 @@ footer p + p {
     border-bottom-color: currentColor;
 }
 
-.pill[aria-pressed="true"] {
-    background: #f1f6fc;
-}
-
-.layout-toggle button[aria-pressed="true"] {
-    background: #f1f6fc;
-    color: var(--link-color);
-}
-
-.controls input[type="search"],
-.controls select,
-.layout-toggle button {
-    min-height: 40px;
-}
 
 .net-wrap > *,
 .tl-wrap > *,
@@ -1653,34 +1682,24 @@ footer p + p {
         font-size: 16px;
     }
 
-    .container {
-        padding-top: 20px;
+    .topbar {
+        flex-wrap: wrap;
+        gap: 0;
     }
 
-    .hero {
-        padding: 30px 0 24px;
-    }
-
-    .hero h1 {
-        font-size: 38px;
-        letter-spacing: -0.8px;
-    }
-
-    .hero .lede {
-        font-size: 17px;
+    .brand {
+        flex: 1 0 100%;
+        padding-top: 12px;
+        font-size: 21px;
     }
 
     .tabs {
         gap: 22px;
+        margin-left: 0;
     }
 
-    .view-intro {
-        grid-template-columns: 1fr;
-        gap: 10px;
-    }
-
-    .view-intro h2 {
-        font-size: 30px;
+    .tabs a {
+        padding: 12px 0 11px;
     }
 
     #net-svg {
@@ -1788,17 +1807,39 @@ footer p + p {
 }
 
 @media (max-width: 520px) {
+    .dir-types .pills {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scrollbar-width: none;
+        width: 100%;
+        padding-bottom: 2px;
+    }
+
+    .dir-types .pills .pill {
+        flex: none;
+    }
+
     .site-header {
         flex-wrap: wrap;
         gap: 4px 16px;
     }
 
-    .updated {
-        font-size: 12px;
+    table.compare thead td {
+        width: 28%;
     }
 
-    .hero h1 {
-        font-size: 34px;
+    table.compare thead th {
+        width: 36%;
+    }
+
+    table.compare th,
+    table.compare td {
+        padding-right: 10px;
+        font-size: 13px;
+    }
+
+    .updated {
+        font-size: 12px;
     }
 
     .tabs {
@@ -1809,11 +1850,6 @@ footer p + p {
         font-size: 14px;
     }
 
-    .tabs .n {
-        margin-left: 3px;
-        font-size: 11px;
-    }
-
     .net-node text {
         opacity: 0;
     }
@@ -1822,25 +1858,6 @@ footer p + p {
     .net-node:hover text,
     .net-node:focus-visible text {
         opacity: 1;
-    }
-
-    .controls {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-
-    .controls input[type="search"] {
-        grid-column: 1 / -1;
-        width: 100%;
-    }
-
-    .controls select {
-        width: 100%;
-        min-width: 0;
-    }
-
-    .pill {
-        padding: 8px 12px;
     }
 
     .terms {
@@ -2036,8 +2053,8 @@ footer p + p {
 }
 
 .tile:hover {
-    border-color: var(--link-color);
-    background: #fafcff;
+    border-color: #b8b8b8;
+    background: var(--stage);
 }
 
 .tile .logo {

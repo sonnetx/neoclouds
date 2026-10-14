@@ -8,7 +8,7 @@ __pycache__/
 
 # Fetched page text for citation matching. It holds full copies of news
 # articles and filings, so it stays local. scripts/fetch_sources.py rebuilds it.
-srccache/
+/srccache
 
 # Local scratch and agent worktrees
 scratch/

@@ -7,7 +7,9 @@ RES = os.path.join(ROOT, 'research')
 OUT = os.environ.get('NEOCLOUD_OUT', os.path.join(ROOT, 'providers.js'))
 OVR = os.path.join(ROOT, 'overrides', 'overrides.json')
 
-CATS = ['neocloud', 'hyperscaler', 'miner', 'developer', 'sovereign', 'devcloud', 'platform', 'marketplace', 'lab']
+# Broad company types. Older research files use miner, sovereign and devcloud,
+# which overrides/overrides.json maps onto these.
+CATS = ['neocloud', 'hyperscaler', 'othercloud', 'platform', 'marketplace', 'developer', 'lab']
 REGIONS = ['North America', 'Europe', 'Asia-Pacific', 'Middle East and Africa', 'Latin America']
 KEYS = ['slug', 'name', 'aka', 'category', 'region', 'hq', 'founded', 'ownership', 'website', 'accelerators', 'products',
         'snippet', 'facts', 'customers', 'origin', 'today', 'platform', 'outlook', 'sources', 'confidence']
@@ -47,6 +49,8 @@ def load():
             continue
         if isinstance(d, dict):
             d = d.get('providers') or [d]
+        # research/ also holds non-profile files such as rate cards and proposed fixes.
+        d = [p for p in d if isinstance(p, dict) and p.get('slug')]
         for p in d:
             p['_file'] = os.path.relpath(f, RES)
             out.append(p)
