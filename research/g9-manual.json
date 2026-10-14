@@ -1,0 +1,67 @@
+[
+ {
+  "slug": "volta",
+  "name": "Volta",
+  "aka": "Acquired the Genesis Cloud team in 2026",
+  "category": "neocloud",
+  "region": "Europe",
+  "hq": "London, UK",
+  "founded": "2026",
+  "ownership": "Private (backed by Azora, Andreessen Horowitz, Altimeter and NVIDIA)",
+  "website": "https://volta.com",
+  "accelerators": ["NVIDIA Vera Rubin"],
+  "products": ["Bare metal", "Virtual machines", "Data center development"],
+  "snippet": "London AI cloud founded in 2026 that bought the Genesis Cloud team. It launched at a $2.4B valuation with a $10B, 133 MW Vera Rubin deployment in Norway, reportedly for Anthropic.",
+  "facts": [
+   {"label": "Valuation", "value": "$2.4B (August 2026)"},
+   {"label": "Funding raised", "value": "About $300M across seed and Series A"},
+   {"label": "Norway deployment", "value": "$10B for 133 MW of Vera Rubin"},
+   {"label": "Infrastructure financing", "value": "$5B program with Azora"},
+   {"label": "Team", "value": "About 100 in London, Palo Alto and New York"}
+  ],
+  "customers": ["Anthropic (reported by Bloomberg)"],
+  "origin": "Ricard Boada and Sofia Gumuzio founded Volta in London in 2026, with Boada as CEO. Volta acquired the team and software of Genesis Cloud, a Munich GPU cloud that had operated since 2018 and served more than 20,000 users. That purchase gave Volta a software stack for public AI cloud and bare-metal cluster management before it brought any capacity of its own online.",
+  "today": "Volta came out of stealth in August 2026 with about $300M across seed and Series A rounds at a $2.4B valuation. Azora, Andreessen Horowitz, Altimeter and NVIDIA led the funding, and Michael Dell's family office and Matter Venture Partners also invested. At launch Volta announced a $10B partnership for a 133 MW NVIDIA Vera Rubin deployment in Norway, and Bloomberg reported that the customer is Anthropic. Volta also runs a $5B infrastructure financing program with Azora for the AI factories it develops.",
+  "platform": "Volta sells long-term AI compute to frontier labs, neolabs and AI application companies, and the Genesis Cloud software runs its public cloud and bare-metal cluster management. Andreessen Horowitz says Volta assembles the credit support, project equity and debt behind each deployment. That structure lets customers without investment-grade balance sheets sign long-term capacity contracts.",
+  "outlook": "Volta's first test is delivering the Norway deployment on Vera Rubin, which NVIDIA partners begin shipping in the second half of 2026. Its model depends on financing each project around customers that may lack investment-grade credit, so the Azora program and lender appetite are the items to watch.",
+  "sources": [
+   {"title": "Andreessen Horowitz: Investing in Volta", "url": "https://a16z.com/announcement/investing-in-volta/", "date": "2026-08-04"},
+   {"title": "EU-Startups: London AI cloud startup Volta exits stealth at $2.4 billion valuation, lands $10 billion compute deal reportedly with Anthropic", "url": "https://www.eu-startups.com/2026/08/london-ai-cloud-startup-volta-exits-stealth-at-2-4-billion-valuation-lands-e8-6-billion-compute-deal-reportedly-with-anthropic/", "date": "2026-08-05"},
+   {"title": "Reuters: AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership", "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04/", "date": "2026-08-04"},
+   {"title": "NVIDIA: Rubin platform announcement", "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer", "date": "2026-01-05"}
+  ],
+  "confidence": "medium",
+  "editor_notes": "Written by hand from the a16z announcement and EU-Startups article after the research agent identified this Volta through the Genesis Cloud profile. Replaces a low-confidence match to an unrelated Riyadh service."
+ },
+ {
+  "slug": "sharon-ai",
+  "name": "Sharon AI",
+  "aka": "Sharon AI Holdings Inc.",
+  "category": "neocloud",
+  "region": "Asia-Pacific",
+  "hq": "Australia",
+  "founded": "",
+  "ownership": "Public (Nasdaq: SHAZ)",
+  "website": "",
+  "accelerators": ["NVIDIA B300"],
+  "products": [],
+  "snippet": "Nasdaq-listed Australian neocloud building AI capacity in Australia and New Zealand. It signed five-year contracts worth $1.32B and $373M in mid-2026 and reports 132 MW of capacity.",
+  "facts": [
+   {"label": "AI factory capacity", "value": "132 MW, 120 MW contracted (August 2026)"},
+   {"label": "AI lab contract", "value": "$1.32B over five years (July 2026)"},
+   {"label": "AI platform contract", "value": "$373M over five years (August 2026)"},
+   {"label": "Planned fleet", "value": "About 64,000 NVIDIA GPUs by mid-2027"}
+  ],
+  "customers": [],
+  "origin": "Sharon AI describes itself as an Australian neocloud that provides secure and sovereign AI infrastructure. Co-founder James Manning leads the company as CEO, and its holding company, Sharon AI Holdings Inc., trades on Nasdaq as SHAZ.",
+  "today": "In July 2026 Sharon AI signed a five-year, $1.32B cloud services agreement with an unnamed global AI lab for more than 62,000 NVIDIA GPUs in New Zealand data centers, with revenue starting in the first half of 2027. In August it signed a five-year, $373M agreement with an unnamed AI platform for an initial 2,048 NVIDIA B300 GPUs in Australia, starting in the first quarter of 2027. After the second deal it reported 132 MW of AI factory capacity, 120 MW of it contracted to customers, and a planned fleet of about 64,000 GPUs by mid-2027.",
+  "platform": "",
+  "outlook": "Both large contracts start billing in 2027, so Sharon AI must build and energize most of its capacity before it earns revenue from them. Neither customer is named.",
+  "sources": [
+   {"title": "Yahoo Finance: Sharon AI Announces US$1.32 Billion Five-Year Cloud Computing Service Agreement", "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-1-121000999.html", "date": "2026-07-16"},
+   {"title": "Yahoo Finance: Sharon AI Announces US$373m Five-Year AI Cloud Service Agreement", "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-373m-110000219.html", "date": "2026-08-04"}
+  ],
+  "confidence": "medium",
+  "editor_notes": "Written by hand from two company announcements after the research agent hit a rate limit. HQ city, founding year and website are not confirmed."
+ }
+]

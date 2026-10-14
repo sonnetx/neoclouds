@@ -1,0 +1,1010 @@
+[
+ {
+  "slug": "iren",
+  "name": "IREN",
+  "aka": "Iris Energy",
+  "category": "miner",
+  "region": "North America",
+  "hq": "Sydney, Australia",
+  "founded": "2018",
+  "ownership": "Public (Nasdaq: IREN)",
+  "website": "https://iren.com",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA B300",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Managed Kubernetes",
+   "Data center development"
+  ],
+  "snippet": "Bitcoin miner turned AI cloud that runs its own Texas data centers. It holds a five-year, $9.7B Microsoft contract and $4B of contracted annual recurring revenue for 2026.",
+  "facts": [
+   {
+    "label": "Microsoft contract",
+    "value": "$9.7B over 5 years (November 2025)"
+   },
+   {
+    "label": "NVIDIA contract",
+    "value": "$3.4B over 5 years (May 2026)"
+   },
+   {
+    "label": "Contracted ARR",
+    "value": "$4B for 2026 capacity"
+   },
+   {
+    "label": "FY26 revenue",
+    "value": "$707.0M, of which $128.8M from AI cloud"
+   },
+   {
+    "label": "Capacity target",
+    "value": "480 MW gross in 2026, 1.2 GW in 2027"
+   },
+   {
+    "label": "Development pipeline",
+    "value": "More than 5 GW"
+   }
+  ],
+  "customers": [
+   "Microsoft",
+   "NVIDIA",
+   "Together AI",
+   "Perplexity",
+   "Fluidstack",
+   "Cohere",
+   "Prometheus",
+   "Figure AI",
+   "Fireworks AI",
+   "Fal AI",
+   "Hume AI",
+   "Higgsfield AI"
+  ],
+  "origin": "Brothers Daniel and Will Roberts founded Iris Energy in Sydney in 2018 to mine Bitcoin next to cheap renewable power. The company listed on Nasdaq in 2021, built its first sites in British Columbia and later expanded to Texas and Oklahoma, with its largest campus at Childress, Texas. It started buying NVIDIA GPUs for an AI cloud business in 2023 and later renamed itself IREN after its Nasdaq ticker.",
+  "today": "IREN reported revenue of $707.0M for the year to June 2026, with $128.8M from AI cloud services and $578.2M from Bitcoin mining. It posted a net loss of $702.6M, driven by $638.8M of impairments on mining hardware it is retiring. Microsoft signed a five-year, $9.7B contract in November 2025 for GB300 capacity at Childress, and IREN delivered the first 50 MW phase, Horizon 1, in August 2026. NVIDIA followed in May 2026 with a five-year, $3.4B managed cloud contract for about 60 MW at Childress and a warrant to invest up to $2.1B in IREN shares. IREN signed another $2.8B of multi-year contracts with AI developers in July 2026 and a contract with an unnamed frontier AI lab in August. The Information reported in October 2026 that the lab is Anthropic, and neither company has confirmed the report. IREN now counts $4B of contracted ARR for 2026 capacity and plans to shut down Bitcoin mining by the end of December 2026.",
+  "platform": "IREN sells GPU clusters on bare metal and as a managed service from data centers it builds and owns. Childress hosts liquid-cooled GB300 NVL72 halls for Microsoft and air-cooled Blackwell systems for NVIDIA. In August 2026 IREN completed its purchase of Mirantis, a Kubernetes and cloud software company it agreed to buy for about $625M, to supply orchestration and cluster management. NVIDIA rated Horizon 1 an Exemplar Cloud for GB300 NVL72 after its own validation testing.",
+  "outlook": "IREN targets 480 MW of gross AI cloud capacity (300 MW of IT load) by the end of 2026 and 1.2 GW gross in 2027. Its pipeline of more than 5 GW includes the 2 GW Sweetwater hub in Texas, where 300 MW is under construction for Q4 2027, plus sites in Oklahoma, Canada, Spain and Australia. Management expects FY27 capex of about $25B to $30B, funded by GPU financings, customer prepayments of 45% to 55% of GPU cost, equity and convertible notes. Delivery of Horizons 2 to 4 for Microsoft on schedule and the cost of that capital are the items to watch.",
+  "sources": [
+   {
+    "title": "Reuters: Microsoft signs $9.7 billion cloud deal with IREN as AI demand swells",
+    "url": "https://www.reuters.com/technology/microsoft-signs-97-billion-contract-with-iren-nvidia-chips-2025-11-03/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "GlobeNewswire: IREN Secures $9.7bn AI Cloud Contract with Microsoft",
+    "url": "https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/iren-secures-9-7bn-ai-cloud-contract-with-microsoft.html",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "NVIDIA Newsroom: NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "Stock Titan: IREN secures $3.4bn AI cloud contract with NVIDIA",
+    "url": "https://www.stocktitan.net/news/IREN/iren-secures-3-4bn-ai-cloud-contract-with-hh8a26euuqhs.html",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "The Register: Neocloud IREN buys OpenStack champion Mirantis",
+    "url": "https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "SDxCentral: Iren buys Mirantis for $625M to strengthen bare metal GPU and Kubernetes stack",
+    "url": "https://www.sdxcentral.com/news/iren-to-buy-mirantis-for-625m-to-strengthen-bare-metal-gpu-and-kubernetes-stack/",
+    "date": "2026-05-06"
+   },
+   {
+    "title": "Blockspace Media: IREN completes Nostrum acquisition, adds 490MW in Spain for Europe AI cloud push",
+    "url": "https://blockspace.media/insight/iren-acquires-nostrum-spain-ai-infrastructure/",
+    "date": "2026-06-15"
+   },
+   {
+    "title": "Stock Titan: IREN Signs $2.8bn in New Customer Contracts with Leading AI Developers, Raises 2026 ARR Target to over $4bn",
+    "url": "https://www.stocktitan.net/news/IREN/iren-signs-2-8bn-in-new-customer-contracts-with-leading-ai-p1daxr97ttye.html",
+    "date": "2026-07-20"
+   },
+   {
+    "title": "Stock Titan: IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72",
+    "url": "https://www.stocktitan.net/news/IREN/iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exemplar-12sdoc82j9x8.html",
+    "date": "2026-08-13"
+   },
+   {
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html",
+    "date": "2026-08-27"
+   },
+   {
+    "title": "Investing.com: IREN Q4 FY26 slides, $4bn ARR contracted amid mining exit",
+    "url": "https://www.investing.com/news/company-news/iren-q4-fy26-slides-4bn-arr-contracted-amid-mining-exit-93CH-4880319",
+    "date": "2026-08-27"
+   },
+   {
+    "title": "Stock Titan: IREN's 2GW Sweetwater Hub Included as Base Load in ERCOT Batch Zero",
+    "url": "https://www.stocktitan.net/news/IREN/iren-s-2gw-sweetwater-hub-included-as-base-load-in-ercot-batch-cy6xg3ubvfes.html",
+    "date": "2026-09-08"
+   },
+   {
+    "title": "TIKR: IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
+    "url": "https://www.tikr.com/blog/iren-stock-anthropic-ai-cloud-deal",
+    "date": "2026-10-12"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed capacity targets (480 MW in 2026, 1.2 GW in 2027) are gross figures. IREN's FY26 results give the IT load equivalents as 0.3 GW and 0.8 GW, and the text gives both. The seed's Dell $5.8B order is from my recollection of the November 2025 Microsoft release and the Reuters story, which I could not open, so I left it out of the text. The September 2026 headlines about a $5.5B NVIDIA deal add the $3.4B contract to the $2.1B warrant and do not describe a new contract. The Anthropic link comes only from a report in The Information (October 2026) and stays out of the customers list. Seed claim of about 3 GW of grid-connected power is superseded by IREN's own figure of a pipeline above 5 GW. Region is North America because almost all capacity is in Texas and Canada, though the head office is in Sydney. Childress campus size of 750 MW is not stated in the sources I could open, so I left it out."
+ },
+ {
+  "slug": "core-scientific",
+  "name": "Core Scientific",
+  "aka": "",
+  "category": "miner",
+  "region": "North America",
+  "hq": "Austin, TX, US",
+  "founded": "2017",
+  "ownership": "Public (Nasdaq: CORZ)",
+  "website": "https://corescientific.com",
+  "accelerators": [],
+  "products": [
+   "Colocation",
+   "Data center development"
+  ],
+  "snippet": "Former Bitcoin miner that leases powered data halls to AI clouds. It hosts about 590 MW for CoreWeave and signed 15-year deals for about 530 MW with AMD in July 2026.",
+  "facts": [
+   {
+    "label": "Q2 2026 revenue",
+    "value": "$164.2M, of which $136.7M from colocation"
+   },
+   {
+    "label": "CoreWeave contracts",
+    "value": "About 590 MW, 12 years, more than $10B"
+   },
+   {
+    "label": "AMD agreements",
+    "value": "About 530 MW, 15 years, more than $14B"
+   },
+   {
+    "label": "Leased capacity",
+    "value": "About 1.1 GW (July 2026)"
+   },
+   {
+    "label": "Billing capacity",
+    "value": "437 MW (mid-July 2026)"
+   },
+   {
+    "label": "Power pipeline",
+    "value": "About 3.0 GW target"
+   }
+  ],
+  "customers": [
+   "CoreWeave",
+   "AMD"
+  ],
+  "origin": "Core Scientific started in Seattle in 2017 as a Bitcoin miner and hosting company and later moved its headquarters to Austin. It filed for Chapter 11 bankruptcy at the end of 2022 after Bitcoin prices fell and emerged in January 2024. During 2024 it began converting mining halls to host GPUs for CoreWeave, which grew into about 590 MW across five sites. CoreWeave agreed in July 2025 to buy the company in an all-stock deal worth about $9B, and Core Scientific shareholders voted the deal down in October 2025.",
+  "today": "Core Scientific reported Q2 2026 revenue of $164.2M, with $136.7M from colocation and $21.5M from its shrinking self-mining fleet. It billed customers for 437 MW in mid-July 2026. It is building toward about 590 MW for CoreWeave at Denton, Dalton, Muskogee, Marble and Austin by early 2027 under 12-year contracts worth more than $10B. In July 2026 it signed 15-year agreements for about 530 MW across five sites, worth more than $14B in base revenue. AMD leases 377 MW in Texas and Oklahoma directly, and an unnamed cloud provider leases 152 MW in Alabama and Georgia. The company now counts about 1.1 GW of leased customer capacity and more than $24B of potential contracted revenue. It sold $3.3B of senior secured notes due 2031 in 2026 to fund a capex budget of about $2B for the year.",
+  "platform": "Core Scientific builds and leases powered data halls and does not run GPUs itself. It operates eleven sites in seven states, four of them in Texas, and reuses land and grid connections it first developed for Bitcoin mining. Its CoreWeave contracts use a take-or-pay structure with fixed pricing and annual escalators. New sites at Hunt County, Texas and an expanded Muskogee, Oklahoma footprint anchor its 2026 growth.",
+  "outlook": "AMD can reserve up to another 1,925 MW through December 2028, which would take the partnership to about 2.5 GW, and AMD customer deployments start in 2027. Core Scientific targets a pipeline of about 3.0 GW and is repurposing its remaining mining sites for colocation. KBW cut its rating in July 2026 over lease delivery delays, so construction timing at Denton and at the new AMD sites is the item to watch. Revenue depends on CoreWeave until the AMD halls come online.",
+  "sources": [
+   {
+    "title": "Wikipedia: Core Scientific",
+    "url": "https://en.wikipedia.org/wiki/Core_Scientific",
+    "date": "2026-03"
+   },
+   {
+    "title": "Core Scientific: Core Scientific and CoreWeave Announce $1.2 Billion Expansion at Denton, TX Site",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site",
+    "date": "2025-02-26"
+   },
+   {
+    "title": "Business Insider: This investor blocked the $9 billion CoreWeave-Core Scientific deal",
+    "url": "https://www.businessinsider.com/core-scientific-corz-investor-trip-miller-expects-new-ai-deals-2026-1",
+    "date": "2026-01-06"
+   },
+   {
+    "title": "Core Scientific: Core Scientific Announces Fourth Quarter Fiscal Year 2025 Results",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/127/core-scientific-announces-fourth-quarter-fiscal-year-2025-results",
+    "date": "2026-03-02"
+   },
+   {
+    "title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion",
+    "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917",
+    "date": "2026-05-12"
+   },
+   {
+    "title": "Blockspace Media: KBW cuts Core Scientific to Market Perform as lease delays raise execution risk",
+    "url": "https://blockspace.media/insight/kbw-downgrades-core-scientific-corz-lease-delays/",
+    "date": "2026-07-27"
+   },
+   {
+    "title": "Core Scientific: Core Scientific and AMD Announce Infrastructure Partnership",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/138/core-scientific-and-amd-announce-infrastructure-partnership",
+    "date": "2026-07-28"
+   },
+   {
+    "title": "Core Scientific: Core Scientific Announces Second Quarter 2026 Results",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/139/core-scientific-announces-second-quarter-2026-results",
+    "date": "2026-07-28"
+   },
+   {
+    "title": "CoinDesk: Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+    "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+    "date": "2026-07-28"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed figure of about 590 MW for CoreWeave matches the company's Q1 2026 materials. The October 2025 shareholder vote date comes from the Business Insider story and general coverage rather than a primary filing I opened. AMD's second lessee (152 MW in Alabama and Georgia) is unnamed in the sources. Category stays miner because the company is converting its own mining sites, though 83% of Q2 2026 revenue already comes from colocation and a developer label would also fit."
+ },
+ {
+  "slug": "applied-digital",
+  "name": "Applied Digital",
+  "aka": "Applied Blockchain",
+  "category": "developer",
+  "region": "North America",
+  "hq": "Dallas, TX, US",
+  "founded": "",
+  "ownership": "Public (Nasdaq: APLD)",
+  "website": "https://www.applieddigital.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "North Dakota data center developer that leases AI campuses to CoreWeave and investment-grade hyperscalers. It has 1.41 GW leased and about $36B of base-term contracted revenue.",
+  "facts": [
+   {
+    "label": "Leased capacity",
+    "value": "1.41 GW across five campuses"
+   },
+   {
+    "label": "Contracted lease revenue",
+    "value": "About $36B base term, $86B with renewals"
+   },
+   {
+    "label": "CoreWeave at Polaris Forge 1",
+    "value": "400 MW, about $11B"
+   },
+   {
+    "label": "Ready for service",
+    "value": "250 MW (October 2026)"
+   },
+   {
+    "label": "Quarterly revenue",
+    "value": "$341.9M (quarter to August 2026)"
+   },
+   {
+    "label": "Total debt",
+    "value": "$6.4B (August 2026)"
+   }
+  ],
+  "customers": [
+   "CoreWeave"
+  ],
+  "origin": "Applied Digital began by building and running hosting sites for Bitcoin miners in North Dakota, at Jamestown and Ellendale. It later added a GPU cloud business and began building data centers for high-performance computing next to its mining sites. Its first large AI lease came in 2025, when CoreWeave signed two 15-year leases at the Polaris Forge 1 campus in Ellendale worth about $7B, later expanded to 400 MW and about $11B.",
+  "today": "Applied Digital has leased 1.41 GW of critical IT capacity across five campuses, with about $36B of base-term contracted revenue and about $86B if tenants exercise renewal options. CoreWeave leases all 400 MW at Polaris Forge 1, and 250 MW there had reached ready for service by October 1, 2026. Unnamed investment-grade hyperscalers lease the other 1,010 MW at Polaris Forge 2 and 3 in North Dakota, Delta Forge 1 in Louisiana and Delta Forge 2, with deliveries from late 2026 to mid-2028. The Polaris Forge 3 lease from May 2026 covers 300 MW for 15 years and $7.5B of base revenue, and the 210 MW Delta Forge 2 lease from June 2026 adds $5.2B. In the quarter to August 2026 the company reported revenue of $341.9M and a net loss of $221.0M. It spent $2.07B on property and equipment that quarter and carried $6.4B of debt. It still hosts Bitcoin miners on 286 MW at Jamestown and Ellendale.",
+  "platform": "Applied Digital designs and builds AI data center campuses, which it calls AI factories, and leases them on 15-year take-or-pay terms. The North Dakota campuses use the cool climate and the state's renewable-heavy grid, and Polaris Forge 1 can scale to 1 GW. The company holds about 10% of Base Electron, which plans a natural gas plant of about 1,200 MW in North Dakota and will sell its power to Applied Digital. In May 2026 Applied Digital moved its GPU cloud business into ChronoScale, a separately listed Nasdaq company under the ticker CHRN in which it keeps about 96%.",
+  "outlook": "The company is marketing another 1.7 GW in several states and has secured up to 1 GW of potential power capacity in Finland. None of the 1,010 MW leased to hyperscalers is live yet, so most contracted revenue depends on construction finishing between late 2026 and mid-2028. Quarterly capex above $2B keeps it reliant on debt markets, where it sold $1.59B of 7.0% senior secured notes due 2031.",
+  "sources": [
+   {
+    "title": "Capacity Media: Applied Digital finalises CoreWeave lease in North Dakota",
+    "url": "https://capacityglobal.com/news/applied-digital-coreweave-data-centre-lease/",
+    "date": "2025-09"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Achieves Ready for Service for Phase 1 at Polaris Forge 1 Building 1 for CoreWeave",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/133/applied-digital-achieves-ready-for-service-for-phase-1-at",
+    "date": "2025-10-27"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/151/applied-digital-completes-separation-of-cloud-business",
+    "date": "2026-05-05"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Reaches Significant Milestone, Surpassing 1 GW of Contracted Capacity with U.S. Based High Investment-Grade Hyperscaler Lease at Fourth Campus, Polaris Forge 3",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/152/applied-digital-reaches-significant-milestone-surpassing-1",
+    "date": "2026-05-20"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Signs 210 MW Lease at Delta Forge 2, Expanding Its AI Factory Franchise Model to a Fifth Campus",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2",
+    "date": "2026-06-08"
+   },
+   {
+    "title": "SEC: Applied Digital fiscal fourth quarter and full year 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/apldq426earningsreleaseasf.htm",
+    "date": "2026-07-27"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Reports Fiscal First Quarter 2027 Results",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/163/applied-digital-reports-fiscal-first-quarter-2027-results",
+    "date": "2026-10-07"
+   },
+   {
+    "title": "Stock Titan: Applied Digital Earnings, Hyperscaler Leases Not Live Yet",
+    "url": "https://www.stocktitan.net/articles/applied-digital-q1-fiscal-2027-live-capacity-gaap-loss",
+    "date": "2026-10-07"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed figure of about $11B in CoreWeave leases matches the 400 MW Polaris Forge 1 total. CoreWeave is the only named tenant, and every hyperscaler tenant is unnamed. The aka Applied Blockchain and the omitted founding year are from memory and not verified in a source I opened. One summary of the October 2026 release mentioned a 50 MW ChronoScale deployment for Microsoft on GB300 systems, and I could not confirm it, so the text leaves it out. Category is developer because the company now mainly builds and leases capacity and has spun its cloud into ChronoScale."
+ },
+ {
+  "slug": "galaxy-digital",
+  "name": "Galaxy",
+  "aka": "Galaxy Digital",
+  "category": "developer",
+  "region": "North America",
+  "hq": "New York, NY, US",
+  "founded": "2018",
+  "ownership": "Public (Nasdaq: GLXY)",
+  "website": "https://www.galaxy.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Crypto financial firm that turned its Helios Bitcoin mining site in West Texas into an AI campus. CoreWeave leases 526 MW of IT load there on 15-year terms.",
+  "facts": [
+   {
+    "label": "CoreWeave lease",
+    "value": "526 MW IT load (800 MW gross), 15 years"
+   },
+   {
+    "label": "Expected lease revenue",
+    "value": "More than $1B a year on average"
+   },
+   {
+    "label": "Phase I delivered",
+    "value": "133 MW IT load (July 2026)"
+   },
+   {
+    "label": "Approved power at Helios",
+    "value": "More than 2.2 GW (August 2026)"
+   },
+   {
+    "label": "Helios notes",
+    "value": "$3.5B senior secured (July 2026)"
+   },
+   {
+    "label": "Data center pipeline",
+    "value": "More than 5.7 GW"
+   }
+  ],
+  "customers": [
+   "CoreWeave"
+  ],
+  "origin": "Mike Novogratz founded Galaxy Digital in 2018 as a crypto financial firm covering trading, asset management and investment banking. Galaxy bought the Helios Bitcoin mining site in West Texas from Argo Blockchain for $65M in 2022, when it ran about 180 MW of mining. In 2025 Galaxy signed CoreWeave as the anchor tenant and began converting Helios from mining to AI data center leasing.",
+  "today": "Galaxy completed Phase I of Helios in July 2026, delivering 133 MW of critical IT load, about 200 MW of gross power, to CoreWeave on schedule. CoreWeave has leased 526 MW of critical IT load across Phases I to III, which uses the first 800 MW of approved power, on 15-year terms with two five-year extensions. Galaxy expects those leases to produce more than $1B of average annual revenue. Phase I earned about $18.9M of leasing revenue in Q2 2026, and Galaxy guides to about $80M a quarter once Phase I runs at full capacity. In July 2026 Galaxy sold $3.5B of senior secured notes to fund Phase II, a 260 MW build with data hall deliveries starting in Q2 2027. CEO Mike Novogratz describes the company as half a data center business and half a digital assets business.",
+  "platform": "Helios covers more than 2,200 acres in West Texas and had more than 2.2 GW of approved gross power by August 2026, with another 2 GW under study. Galaxy builds and powers the data halls and leases them, and CoreWeave installs and runs the GPUs. After June 2026 Galaxy bought three more Texas sites, named Merlin, Caspian and Selene, which lift its total data center pipeline above 5.7 GW.",
+  "outlook": "Galaxy is talking with prospective tenants for 830 MW of approved Helios capacity that is not yet leased. CoreWeave is its only data center tenant, so data center revenue depends on one customer until Galaxy signs another. Phase II delivery in 2027 and service on the new $3.5B of debt are the items to watch.",
+  "sources": [
+   {
+    "title": "Data Center Dynamics: Galaxy secures approval for more than 800MW at Helios campus in Texas",
+    "url": "https://www.datacenterdynamics.com/en/news/galaxy-secures-approval-for-more-than-800mw-at-helios-campus-in-texas/",
+    "date": "2026-01-16"
+   },
+   {
+    "title": "CoinDesk: Galaxy Digital first-quarter loss narrows, AI push grows",
+    "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss",
+    "date": "2026-04-28"
+   },
+   {
+    "title": "Galaxy: Galaxy Completes Phase I of Its Helios Data Center Campus, Delivering 133 Megawatts of Critical IT Load to CoreWeave",
+    "url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "The Block: Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+    "url": "https://www.theblock.co/news/business/2026-07-07-galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub-407396",
+    "date": "2026-07-07"
+   },
+   {
+    "title": "Bloomberg: Galaxy Digital Seeks $3.5 Billion Debt for Texas Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale",
+    "date": "2026-07-22"
+   },
+   {
+    "title": "PR Newswire: Galaxy Announces Second Quarter 2026 Financial Results",
+    "url": "https://www.prnewswire.com/news-releases/galaxy-announces-second-quarter-2026-financial-results-302843529.html",
+    "date": "2026-08-05"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "The seed's 800 MW for CoreWeave is gross power. Galaxy reports the lease as 526 MW of critical IT load, and the text gives both. The founding year 2018 is from memory and not checked in a source I opened. Category is developer because Galaxy builds and leases halls and does not run GPUs, though the company also runs a large crypto trading and asset management business."
+ },
+ {
+  "slug": "hut-8",
+  "name": "Hut 8",
+  "aka": "Hut 8 Mining",
+  "category": "developer",
+  "region": "North America",
+  "hq": "Miami, FL, US",
+  "founded": "2017",
+  "ownership": "Public (Nasdaq: HUT)",
+  "website": "https://hut8.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Bitcoin miner turned power and data center developer. It has leased 949 MW of AI capacity worth about $26.6B, including Anthropic-linked campuses in Louisiana and Texas.",
+  "facts": [
+   {
+    "label": "Contracted IT capacity",
+    "value": "949 MW (July 2026)"
+   },
+   {
+    "label": "Base-term contract value",
+    "value": "About $26.6B"
+   },
+   {
+    "label": "Beacon Point, Texas",
+    "value": "704 MW IT, $19.6B over 15 years"
+   },
+   {
+    "label": "River Bend, Louisiana",
+    "value": "245 MW IT, $7.0B over 15 years"
+   },
+   {
+    "label": "Development pipeline",
+    "value": "8,660 MW"
+   },
+   {
+    "label": "Q2 2026 revenue",
+    "value": "$74.9M, net loss $177.1M"
+   }
+  ],
+  "customers": [
+   "Fluidstack",
+   "Anthropic",
+   "Google (lease backstop)"
+  ],
+  "origin": "Hut 8 began in 2017 as a Canadian Bitcoin miner. It merged with US Bitcoin Corp in 2023 and moved its headquarters to Miami, where it began building power and data center assets alongside mining. In 2024 it launched Highrise AI, a GPU cloud, and it later moved its mining fleet into American Bitcoin, a separately listed company in which it keeps a stake.",
+  "today": "Hut 8 has signed 949 MW of AI data center leases with about $26.6B of base-term contract value, all backed by investment-grade counterparties. At River Bend in West Feliciana Parish, Louisiana, Fluidstack signed a 15-year, 245 MW lease worth $7.0B in December 2025 as part of a partnership with Anthropic, and Google backstops the lease payments. At Beacon Point in Nueces County, Texas, one unnamed high-investment-grade tenant signed two 15-year leases of 352 MW each in May and July 2026, worth $19.6B combined. The Wall Street Journal reported in August 2026 that NVIDIA had signed for capacity at the site and that Lambda will install NVIDIA chips there for Anthropic under a $35B cloud contract. Hut 8 closed $7.5B of project notes in Q2 2026, with $3.25B for River Bend and $4.25B for Beacon Point Phase 1. It reported Q2 2026 revenue of $74.9M and a net loss of $177.1M, and its stake in American Bitcoin was worth $497.2M.",
+  "platform": "Hut 8 secures grid interconnections and land first, then builds data center shells and leases them to large tenants on 15-year triple-net, take-or-pay terms. Beacon Point has 1,000 MW of utility capacity through an AEP Texas interconnection agreement, and Hut 8 designed both phases to NVIDIA's DSX reference architecture. River Bend has 330 MW under construction, and Fluidstack holds a right of first offer on up to 1,000 MW more. Hut 8 also runs Highrise AI, a smaller GPU cloud that rents NVIDIA capacity directly.",
+  "outlook": "Hut 8 reports a development pipeline of 8,660 MW, with 1,330 MW under construction. River Bend's first data hall is due in Q2 2027, Beacon Point Phase 1 energizes in Q1 2027 with its first hall in Q3 2027, and Phase 2 starts delivery in Q2 2028. Corpus Christi is weighing new data center rules, and on-time construction at both campuses is the main execution risk.",
+  "sources": [
+   {
+    "title": "The Block: Bitcoin miner Hut 8 expands AI push with new GPU-as-a-Service cluster",
+    "url": "https://www.theblock.co/news/business/2024-09-26-bitcoin-miner-hut-8-expands-ai-push-with-new-gpu-as-a-service-cluster-318347",
+    "date": "2024-09-26"
+   },
+   {
+    "title": "PR Newswire: Hut 8 Announces AI Infrastructure Partnership with Anthropic and Fluidstack",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-announces-ai-infrastructure-partnership-with-anthropic-and-fluidstack-302644377.html",
+    "date": "2025-12-17"
+   },
+   {
+    "title": "PR Newswire: Hut 8 Signs 15-Year, 245 MW AI Data Center Lease at River Bend Campus with Total Contract Value of $7.0 Billion",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-7-0-billion-302644600.html",
+    "date": "2025-12-17"
+   },
+   {
+    "title": "Reuters: Hut 8 signs about $10 billion AI data center lease in Texas, shares jump",
+    "url": "https://www.reuters.com/technology/hut-8-signs-about-10-billion-ai-data-center-lease-texas-2026-05-06/",
+    "date": "2026-05-06"
+   },
+   {
+    "title": "PR Newswire: Hut 8 Fully Commercializes 1 GW Beacon Point AI Data Center Campus with Second 352 MW IT Lease",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-fully-commercializes-1-gw-beacon-point-ai-data-center-campus-with-second-352-mw-it-lease-bringing-campus-level-base-term-contract-value-to-19-6-billion-302829514.html",
+    "date": "2026-07-20"
+   },
+   {
+    "title": "KIII TV: Hut 8 sells out Beacon Point capacity as Corpus Christi considers new data center regulations",
+    "url": "https://www.kiiitv.com/article/news/local/hut-8-sells-out-beacon-point-capacity-as-corpus-christi-considers-new-data-center-regulations/503-7429d71f-1662-494a-9216-a6a0f65d569d",
+    "date": "2026-07-24"
+   },
+   {
+    "title": "PR Newswire: Hut 8 Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-reports-second-quarter-2026-results-302841830.html",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Investing.com: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, WSJ reports",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381",
+    "date": "2026-08-31"
+   },
+   {
+    "title": "Yahoo Finance: Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
+    "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
+    "date": "2026-09-01"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed attributes the $35B Anthropic and Lambda deal to Reuters. The source I found is a Wall Street Journal report (August 31, 2026) carried by Investing.com, and it gives no MW figure, so the seed's 350 MW is replaced by Hut 8's own 352 MW per phase. Hut 8 has not named the Beacon Point tenant. The River Bend lease with Fluidstack and Anthropic (December 2025) is verified. The 2017 founding, the 2023 US Bitcoin Corp merger and the American Bitcoin spinout are from memory and not checked in a source I opened. Category is developer because the new AI campuses are greenfield leases and mining now sits in American Bitcoin. Miner would also fit."
+ },
+ {
+  "slug": "cipher-mining",
+  "name": "Cipher Digital",
+  "aka": "Cipher Mining (until February 2026)",
+  "category": "miner",
+  "region": "North America",
+  "hq": "New York, NY, US",
+  "founded": "2021",
+  "ownership": "Public (Nasdaq: CIFR)",
+  "website": "https://cipherdigital.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Texas Bitcoin miner turned data center landlord, renamed Cipher Digital in 2026. It leases campuses to AWS and to Fluidstack, with Google backing the Fluidstack lease.",
+  "facts": [
+   {
+    "label": "AWS lease at Black Pearl",
+    "value": "300 MW, 15 years, about $5.5B"
+   },
+   {
+    "label": "Barber Lake lease",
+    "value": "20 years, more than $9B (September 2026)"
+   },
+   {
+    "label": "Operating and contracted capacity",
+    "value": "907 MW"
+   },
+   {
+    "label": "Portfolio",
+    "value": "5.3 GW across 11 sites"
+   },
+   {
+    "label": "Q2 2026",
+    "value": "Revenue $24.8M, net loss $267.5M"
+   },
+   {
+    "label": "Google stake",
+    "value": "About 5.4% via warrants (September 2025)"
+   }
+  ],
+  "customers": [
+   "Amazon Web Services",
+   "Fluidstack",
+   "Google (lease backstop)"
+  ],
+  "origin": "Cipher Mining went public in 2021 and built Bitcoin mining sites in West Texas. In September 2025 it signed a 10-year, 168 MW AI hosting agreement with Fluidstack at its Barber Lake site, and Google backstopped $1.4B of the lease in exchange for warrants worth about 5.4% of Cipher. AWS followed in November 2025 with a 15-year lease for 300 MW. The company renamed itself Cipher Digital in February 2026 and said it plans to sell its Bitcoin treasury.",
+  "today": "Cipher Digital reports 907 MW of operating and contracted capacity across three hyperscale campuses in Texas. AWS took its first capacity at Black Pearl in August 2026, two months early, and rent has started. Fluidstack began partial occupancy at Barber Lake, and in September 2026 Cipher extended that lease to 20 years with a binding commitment from an unnamed AI lab for the second 10-year term. The extension lifts contracted revenue at Barber Lake from $3.8B to more than $9B. A third campus, Stingray, signed a 15-year lease with an investment-grade hyperscaler in March 2026, and a June 2026 filing identified the tenant as AWS. Cipher sold $810M of 6.0% notes to fund Stingray through completion. Bitcoin mining brought in $24.8M of revenue in Q2 2026, and the company posted a net loss of $267.5M as interest expense rose to $66.7M.",
+  "platform": "Cipher builds powered data center shells, mostly on Texas land it first acquired for Bitcoin mining, and leases them to hyperscalers and their partners. Its portfolio covers 5.3 GW across 11 sites in Texas and Ohio, and 83% of that capacity has no tenant yet. In June 2026 it announced plans for a 500 MW campus next to a Texas power plant, and in August it took an option on a site near San Antonio, called Apollo, for up to 900 MW. Under the Barber Lake extension Cipher pays the first $359.3M of cost overruns and the tenant repays half of any further overruns as extra rent.",
+  "outlook": "Barber Lake data halls roll out from Q4 2026 through Q1 2027, with first rent expected in Q4 2026. Cipher carried $5.45B of long-term borrowings and $831.8M of cash at the end of June 2026, so new campuses depend on project bond markets. Signing tenants for the pipeline sites, including Apollo, is the next test.",
+  "sources": [
+   {
+    "title": "GlobeNewswire: Cipher Mining Signs 168 MW, 10-Year AI Hosting Agreement with Fluidstack",
+    "url": "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/cipher-mining-signs-168-mw-10-year-ai-hosting-agreement-with-fluidstack.html",
+    "date": "2025-09-25"
+   },
+   {
+    "title": "Yahoo Finance: Cipher Mining signs $3 billion AI hosting deal with Fluidstack, Google to backstop $1.4 billion",
+    "url": "https://finance.yahoo.com/news/cipher-mining-signs-3-billion-104501461.html",
+    "date": "2025-09-25"
+   },
+   {
+    "title": "TradingView: Google takes 5.4% stake in Bitcoin mining company Cipher Mining in $3B deal",
+    "url": "https://www.tradingview.com/news/cointelegraph:aec4178f1094b:0-google-takes-5-4-stake-in-bitcoin-mining-company-cipher-mining-in-3b-deal/",
+    "date": "2025-09-25"
+   },
+   {
+    "title": "Data Center Dynamics: AWS signs 300MW hosting deal to lease capacity from Cipher Mining",
+    "url": "https://www.datacenterdynamics.com/en/news/aws-signs-300mw-hosting-deal-to-lease-capacity-from-cipher-mining/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "TheEnergyMag: Cipher Mining Rebrands as Cipher Digital to Double Down on AI Data Center Leases",
+    "url": "https://www.theenergymag.com/news/2026-02-24/cipher-digital-ai-bitcoin",
+    "date": "2026-02-24"
+   },
+   {
+    "title": "CoinDesk: CIFR shares rise on new Hyperscaler agreement",
+    "url": "https://www.coindesk.com/markets/2026/03/25/cipher-digital-stock-rises-9-on-new-data-center-deal-with-hyperscale-tenant",
+    "date": "2026-03-25"
+   },
+   {
+    "title": "Blockspace Media: Cipher Digital SEC filing reveals AWS as tenant at Stingray site",
+    "url": "https://blockspace.media/insight/cipher-digital-aws-stingray-data-center/",
+    "date": "2026-06-08"
+   },
+   {
+    "title": "ET Datacenters: Cipher Digital Plans 500MW AI/HPC Campus Near Texas Power Plant",
+    "url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/cipher-digital-plans-500mw-ai/hpc-campus-near-texas-power-plant/131587422",
+    "date": "2026-06-09"
+   },
+   {
+    "title": "TIKR: Cipher Digital Has $11.4 Billion in Contracted Revenue and Still Trades 19% Below Its 52-Week High",
+    "url": "https://www.tikr.com/blog/cipher-digital-has-11-4-billion-in-contracted-revenue-and-still-trades-19-below-its-52-week-high",
+    "date": "2026-07-23"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html",
+    "date": "2026-09-25"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "Cipher Mining renamed itself Cipher Digital in February 2026, so the display name changes and the slug stays cipher-mining as instructed. The seed's AWS lease (November 2025) and Google-backed Fluidstack lease (September 2025) are verified. The $5.5B value of the AWS Black Pearl lease comes from a TIKR summary, not a primary release. Google's 5.4% figure dates from September 2025, and later lease expansions may have changed it. The founding year 2021 is from memory. Category stays miner because the company still mines Bitcoin while converting its sites."
+ },
+ {
+  "slug": "terawulf",
+  "name": "TeraWulf",
+  "aka": "",
+  "category": "miner",
+  "region": "North America",
+  "hq": "Easton, MD, US",
+  "founded": "2021",
+  "ownership": "Public (Nasdaq: WULF)",
+  "website": "https://www.terawulf.com",
+  "accelerators": [],
+  "products": [
+   "Data center development",
+   "Colocation"
+  ],
+  "snippet": "Bitcoin miner turned AI data center landlord in New York and Kentucky. Anthropic signed a 20-year, 401 MW lease in July 2026, and Google holds about 14% of the company.",
+  "facts": [
+   {
+    "label": "Leased capacity",
+    "value": "839 MW (August 2026)"
+   },
+   {
+    "label": "Contracted revenue",
+    "value": "About $27B"
+   },
+   {
+    "label": "Anthropic lease",
+    "value": "401 MW, 20 years, about $19B (July 2026)"
+   },
+   {
+    "label": "Google stake",
+    "value": "About 14% via warrants"
+   },
+   {
+    "label": "Revenue-generating IT load",
+    "value": "102 MW (July 2026)"
+   },
+   {
+    "label": "Q2 2026",
+    "value": "Revenue $44.8M, net loss $939.9M"
+   }
+  ],
+  "customers": [
+   "Fluidstack",
+   "Anthropic",
+   "Core42",
+   "Google (lease backstop)"
+  ],
+  "origin": "Paul Prager founded TeraWulf in 2021 to mine Bitcoin on low-carbon power, with its main site at Lake Mariner in western New York. In December 2024 it signed a 10-year lease with Core42, the G42 cloud unit, for AI capacity at Lake Mariner. In August 2025 Fluidstack leased 200 MW there and then another 160 MW, with Google backstopping $3.2B of the lease obligations and taking warrants for about 14% of TeraWulf. TeraWulf and Fluidstack also formed a joint venture for a 168 MW campus at Abernathy, Texas.",
+  "today": "TeraWulf has leased 839 MW of AI capacity and reports about $27B of contracted revenue. In July 2026 Anthropic signed a 20-year lease for 401 MW of critical IT load at the Justified Data campus in Hawesville, Kentucky, worth about $19B over the initial term, with first capacity due in the second half of 2027. In the same announcement TeraWulf sold a 50.1% stake in the Abernathy joint venture to a Fluidstack-led group for about $450M. At Lake Mariner it had 102 MW of revenue-generating IT capacity online by early July 2026 and 336 MW more under construction. HPC leases brought in $31.9M of Q2 2026 revenue, against $12.8M from mining. The quarter's $939.9M net loss came mostly from a $755.7M non-cash charge on the Google warrants.",
+  "platform": "TeraWulf builds and leases data center capacity and does not run its own GPU cloud. Its sites include Lake Mariner and Lake Hawkeye in New York, the Justified Data and Muskie campuses in Kentucky and the Chesapeake campus in Maryland. Kentucky regulators approved a 482 MW power agreement for Justified Data in August 2026, and in October TeraWulf raised contracted power at Muskie to 1 GW. In Maryland it has applied to buy the Morgantown Generating Station site and plans two phases, each with about 500 MW of gas generation, 250 MW of batteries and 500 MW of data center load.",
+  "outlook": "TeraWulf reports a 2.1 GW controlled pipeline, with 737 MW under construction. It held $3.0B of cash at the end of June 2026 against $2.5B of convertible notes and $3.2B of secured notes at its WULF Compute unit, and its free cash flow over the prior 12 months was negative $1.9B. On-time delivery at Lake Mariner and at the Anthropic campus, plus the federal review of the Morgantown purchase, are the items to watch.",
+  "sources": [
+   {
+    "title": "Quiver Quantitative: TeraWulf Partners with Core42 to Expand AI Infrastructure at Lake Mariner Facility",
+    "url": "https://www.quiverquant.com/news/TeraWulf+Partners+with+Core42+to+Expand+AI+Infrastructure+at+Lake+Mariner+Facility",
+    "date": "2024-12-23"
+   },
+   {
+    "title": "Data Center Dynamics: TeraWulf inks ten year data center lease agreement with Core42 at Lake Mariner campus",
+    "url": "https://www.datacenterdynamics.com/en/news/terawulf-inks-ten-year-data-center-lease-agreement-with-core42-at-lake-mariner-campus/",
+    "date": "2025-01-06"
+   },
+   {
+    "title": "Data Center Dynamics: Cryptominer TeraWulf secures 200MW lease with Fluidstack, Google to take stake in company",
+    "url": "https://www.datacenterdynamics.com/en/news/cryptominer-terawulf-secures-200mw-lease-with-fluidstack-google-to-take-stake-in-company/",
+    "date": "2025-08-14"
+   },
+   {
+    "title": "Yahoo Finance: TeraWulf stock jumps as Google ups stake in bitcoin miner to 14%",
+    "url": "https://finance.yahoo.com/news/terawulf-stock-jumps-as-google-ups-stake-in-bitcoin-miner-to-14-173320607.html",
+    "date": "2025-08-18"
+   },
+   {
+    "title": "Data Center Dynamics: Fluidstack to lease another 160MW of capacity from TeraWulf at New York campus, Google to increase stake in cryptominer",
+    "url": "https://www.datacenterdynamics.com/en/news/fluidstack-to-lease-another-160mw-of-capacity-from-terawulf-at-new-york-campus-google-to-increase-stake-in-cryptominer/",
+    "date": "2025-08-19"
+   },
+   {
+    "title": "Utility Dive: FERC urged to reject TeraWulf's power plant purchase due to undisclosed Google ownership stake",
+    "url": "https://www.utilitydive.com/news/ferc-terawulf-morgantown-power-plant-google/816582/",
+    "date": "2026-04-03"
+   },
+   {
+    "title": "Stock Titan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "Stock Titan: TeraWulf Reports Second Quarter 2026 Results",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html",
+    "date": "2026-08-05"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08-05"
+   },
+   {
+    "title": "Stock Titan: Kentucky PSC Approves 482 MW Power Agreement for TeraWulf's Justified Data Campus",
+    "url": "https://www.stocktitan.net/news/WULF/kentucky-psc-approves-482-mw-power-agreement-for-tera-wulf-s-9kmcbdo654rd.html",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "Stock Titan: TeraWulf Expands Contracted Power Capacity at its Muskie Data Campus to 1 GW",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-expands-contracted-power-capacity-at-its-muskie-data-aw3vnwlp7mvs.html",
+    "date": "2026-10-05"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed facts on the Core42 and Fluidstack leases at Lake Mariner, the Google stake of about 14% and the Abernathy joint venture are verified. The Abernathy joint venture changed in July 2026 when TeraWulf sold 50.1% to a Fluidstack-led group. The press release gives about $450M for the sale, while one slide summary says $530M, and I used $450M. The total contracted revenue of about $27B comes from an Investing.com summary of the Q2 slides. The 2021 founding year and the Easton headquarters are from memory and not checked in a source I opened."
+ },
+ {
+  "slug": "bitdeer",
+  "name": "Bitdeer",
+  "aka": "Bitdeer AI (cloud unit)",
+  "category": "miner",
+  "region": "Asia-Pacific",
+  "hq": "Singapore",
+  "founded": "2021",
+  "ownership": "Public (Nasdaq: BTDR)",
+  "website": "https://www.bitdeer.com",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA GB200 NVL72",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Data center development",
+   "Colocation",
+   "Own silicon"
+  ],
+  "snippet": "Singapore Bitcoin miner that designs its own mining chips and runs an AI cloud, Bitdeer AI. It signed a $4.7B, 16-year AI lease for 121 MW at its Tydal, Norway campus in August 2026.",
+  "facts": [
+   {
+    "label": "Tydal, Norway lease",
+    "value": "121 MW IT, 16 years, $4.7B base (August 2026)"
+   },
+   {
+    "label": "Secured AI cloud capacity",
+    "value": "About 333.5 MW IT (October 2026)"
+   },
+   {
+    "label": "Capacity target",
+    "value": "Up to 350 MW by Q1 2028"
+   },
+   {
+    "label": "AI cloud ARR",
+    "value": "About $76M (July 2026)"
+   },
+   {
+    "label": "GPUs deployed",
+    "value": "4,248 at 95% utilization (July 2026)"
+   },
+   {
+    "label": "Self-mining hashrate",
+    "value": "76.7 EH/s (July 2026)"
+   }
+  ],
+  "customers": [],
+  "origin": "Bitmain co-founder Jihan Wu set up Bitdeer as a separate Bitcoin mining and hosting company, and it listed on Nasdaq in 2023. It runs mining sites in the United States, Norway and Bhutan and designs its own SEALMINER mining chips and machines. Bitdeer AI, its GPU cloud unit, now rents NVIDIA capacity while the company converts some mining sites to AI data centers.",
+  "today": "In August 2026 Bitdeer signed a 16-year lease for 121 MW of IT load at Tydal, Norway, worth $4.7B in base rent and up to $8.0B with an 8-year extension, backed by about $1.3B of letters of credit, with a leading AI lab as end customer. Its AI cloud ran 4,248 GPUs at 95% utilization in July 2026, for about $76M of ARR. By October 2026 it had secured about 333.5 MW of AI cloud capacity across Malaysia, Norway and the United States, about 95% of its target of up to 350 MW by Q1 2028.",
+  "platform": "Bitdeer AI is an NVIDIA Cloud Partner that rents H100, H200, B200, GB200 and GB300 systems. Its Malaysian sites include the Cyberjaya and Johor campuses and a new 67 MW A901 campus, and the 60 MW A103 hall at Cyberjaya is designed for liquid-cooled Vera Rubin racks. Bitdeer also bought 200 acres near its Rockdale, Texas site for $100M in 2026 to expand AI capacity.",
+  "outlook": "Bitdeer reports an AI cloud pipeline above $10B, though it had no offtake contract for A103 when it announced the hall. On October 8, 2026 it withdrew and reissued a release on its Malaysia capacity, so figures from that week need care. The company still earns most of its revenue from mining and chip sales, which keeps it exposed to the Bitcoin price.",
+  "sources": [
+   {
+    "title": "Data Center Dynamics: Bitdeer taps contractor to begin conversion of Norwegian crypto mine to HPC",
+    "url": "https://www.datacenterdynamics.com/en/news/bitdeer-taps-contractor-to-begin-conversion-of-norwegian-crypto-mine-to-hpc/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08-26"
+   },
+   {
+    "title": "Blockspace Media: Bitdeer pays $100 million for 200 acres near Rockdale AI/HPC site",
+    "url": "https://blockspace.media/insight/bitdeer-buys-rockdale-land-ai-hpc-expansion/",
+    "date": "2026-09-02"
+   },
+   {
+    "title": "Stock Titan: Notice to Disregard, Bitdeer Technologies",
+    "url": "https://www.stocktitan.net/news/BTDR/notice-to-disregard-bitdeer-technologies-d6hppmzq6ina.html",
+    "date": "2026-10-08"
+   },
+   {
+    "title": "TheEnergyMag: Bitdeer Secures 67MW AI Data Center Campus in Malaysia, Bringing Total to 273.5MW",
+    "url": "https://www.theenergymag.com/news/market-news/bitdeer-secures-60-mw-malaysia-ai-data-center-95-of-350-mw-target",
+    "date": "2026-10-08"
+   },
+   {
+    "title": "GlobeNewswire: Bitdeer AI Expands Malaysia Campus with New 60MW A103 Facility, Closing in on Up-to-350MW Global Capacity Target",
+    "url": "https://www.globenewswire.com/news-release/2026/10/12/3379255/0/en/bitdeer-ai-expands-malaysia-campus-with-new-60mw-a103-facility-closing-in-on-up-to-350mw-global-capacity-target.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Securities.io: Bitdeer AI Secures 60MW A103 Facility Under 8-Year Agreement",
+    "url": "https://www.securities.io/bitdeer-ai-secures-60mw-a103-facility-under-8-year-agreement/",
+    "date": "2026-10-12"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "Bitdeer withdrew an October 8, 2026 release and replaced it with a 67 MW A901 announcement (273.5 MW secured), then announced the 60 MW A103 hall on October 12, which brings secured capacity to about 333.5 MW. The text uses the October 12 figure. The Tydal tenant is described as a Volta subsidiary serving an AI lab, and I could not identify Volta, so the customers list is empty. Seed site conversions in Ohio, Tennessee and Bhutan are not verified in the sources I opened, so the text names only Norway, Malaysia and Rockdale for AI work. The 2023 Nasdaq listing, the 2021 founding and the Jihan Wu link are from memory. Region follows the Singapore headquarters."
+ },
+ {
+  "slug": "whitefiber",
+  "name": "WhiteFiber",
+  "aka": "",
+  "category": "neocloud",
+  "region": "North America",
+  "hq": "New York, NY, US",
+  "founded": "",
+  "ownership": "Public (Nasdaq: WYFI), majority held by Bit Digital",
+  "website": "https://www.whitefiber.com",
+  "accelerators": [
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA B300"
+  ],
+  "products": [
+   "Bare metal",
+   "Colocation",
+   "Data center development"
+  ],
+  "snippet": "GPU cloud and AI colocation company spun out of Bit Digital. Its NC-1 campus in North Carolina began billing Nscale for 40 MW in 2026, and it signed more than $540M of new cloud contracts.",
+  "facts": [
+   {
+    "label": "NC-1 colocation",
+    "value": "40 MW for Nscale, 10 years, about $865M"
+   },
+   {
+    "label": "New cloud contracts",
+    "value": "More than $540M since May 2026"
+   },
+   {
+    "label": "Q2 2026 revenue",
+    "value": "$28.8M, net loss $15.0M"
+   },
+   {
+    "label": "Remaining performance obligations",
+    "value": "About $932.9M (June 2026)"
+   },
+   {
+    "label": "NC-1 potential",
+    "value": "About 300 MW gross"
+   }
+  ],
+  "customers": [
+   "Nscale",
+   "Prime Intellect"
+  ],
+  "origin": "Bit Digital, a Bitcoin and Ethereum miner, started renting NVIDIA GPUs in 2023 and grouped that business with its Montreal data centers under the WhiteFiber name. WhiteFiber listed on Nasdaq in August 2025, with Bit Digital keeping a controlling stake.",
+  "today": "WhiteFiber reported Q2 2026 revenue of $28.8M, with $23.8M from cloud services (including $12.3M from a customer termination) and $4.7M from colocation. Its NC-1 campus in Madison, North Carolina delivered initial capacity to Nscale under a 10-year, 40 MW colocation agreement worth about $865M. Since May 2026 it has signed more than $540M of multi-year cloud contracts, including a GPU deployment in the Paris region worth more than $160M, a Vera Rubin cluster in Canada for Prime Intellect worth $108M and a B300 deployment in Iceland worth $87.5M.",
+  "platform": "WhiteFiber rents dedicated NVIDIA GPU clusters as bare metal and also leases powered data center space for other clouds to fill. NC-1 can grow to about 300 MW of gross power over time, and the company also runs sites in Montreal.",
+  "outlook": "WhiteFiber held $60.4M of cash and restricted cash at the end of June 2026 and is negotiating secured financing for NC-1. In June it took a $100M delayed-draw loan from Bit Digital and B. Riley at 9.5%. Funding the next NC-1 phase and delivering the Paris and Prime Intellect clusters on time are the items to watch.",
+  "sources": [
+   {
+    "title": "PR Newswire: WhiteFiber and Nscale Announce 10-Year, 40 MW Colocation Agreement Representing Approximately $865 Million in Total Contract Value at NC-1 AI Data Center Campus",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-and-nscale-announce-10-year-40-mw-colocation-agreement-representing-approximately-865-million-in-total-contract-value-at-nc-1-ai-data-center-campus-302646399.html",
+    "date": "2025-12-18"
+   },
+   {
+    "title": "The Business Journals: Madison data center reaches milestone as WhiteFiber lands major AI infrastructure client",
+    "url": "https://www.bizjournals.com/triad/news/2026/01/22/whitefiber-madison-nc-data-center-financing-deals.html",
+    "date": "2026-01-22"
+   },
+   {
+    "title": "Yahoo Finance: WhiteFiber Lines Up $100 Million Debt And $160 Million AI Contract",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-lines-100-million-debt-050747329.html",
+    "date": "2026-06-04"
+   },
+   {
+    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Blockspace Media: WhiteFiber revenue rises 54% as NC-1 starts billing contracted capacity",
+    "url": "https://blockspace.media/insight/whitefiber-revenue-rises-nc1-billing-cloud-contracts/",
+    "date": "2026-08-12"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "Seed facts on the Bit Digital spinout, the August 2025 IPO, NC-1 and Montreal match my sources, though I did not open a filing that states Bit Digital's current percentage, and the 2023 start of GPU rentals is from memory. The Paris region customer is an unnamed investment-grade technology company. Category is neocloud because cloud services bring in most revenue, though NC-1 colocation now drives most of the contract backlog."
+ },
+ {
+  "slug": "buzz-hpc",
+  "name": "BUZZ HPC",
+  "aka": "",
+  "category": "neocloud",
+  "region": "North America",
+  "hq": "Toronto, Canada",
+  "founded": "",
+  "ownership": "Subsidiary of HIVE Digital Technologies (Nasdaq: HIVE)",
+  "website": "https://www.buzzhpc.ai",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA H200",
+   "NVIDIA B200",
+   "NVIDIA GB200 NVL72",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Data center development"
+  ],
+  "snippet": "Canadian sovereign AI cloud owned by Bitcoin miner HIVE Digital. It signed a $220M GB200 contract with Bell AI Fabric for Cohere and a $350M GB300 deal in 2026.",
+  "facts": [
+   {
+    "label": "Bell AI Fabric contract",
+    "value": "$220M for Cohere (June 2026)"
+   },
+   {
+    "label": "Enterprise GB300 contract",
+    "value": "$350M over 5 years (August 2026)"
+   },
+   {
+    "label": "Total ARR",
+    "value": "About $180M active and contracted (August 2026)"
+   },
+   {
+    "label": "Live GPU fleet",
+    "value": "About 5,500 GPUs, $35M ARR"
+   },
+   {
+    "label": "Planned Toronto campus",
+    "value": "320 MW"
+   }
+  ],
+  "customers": [
+   "Bell AI Fabric",
+   "Cohere",
+   "ProCogia"
+  ],
+  "origin": "HIVE Digital Technologies mined Ethereum on GPUs until Ethereum moved to proof of stake in 2022, then put those GPUs and newer NVIDIA systems into an AI cloud under the BUZZ HPC brand. HIVE keeps mining Bitcoin and uses its hydro-powered Canadian and Swedish sites for both businesses.",
+  "today": "In June 2026 BUZZ HPC closed a $220M contract with Bell AI Fabric to run 2,304 NVIDIA GB200 GPUs for Cohere, and in August it signed a five-year, $350M contract with an unnamed investment-grade enterprise for 2,016 GB300 GPUs at Bell's facility in Merritt, British Columbia. HIVE says those deals bring BUZZ HPC to about $180M of active and contracted ARR, against $35M of live ARR from about 5,500 GPUs. HIVE as a whole still earns most of its revenue from Bitcoin mining, $72.1M of $79.1M in the quarter to June 2026.",
+  "platform": "BUZZ HPC rents NVIDIA clusters as dedicated bare metal and markets them as sovereign Canadian capacity running on renewable hydro power. It runs GPUs in Manitoba and partner sites in British Columbia, owns a 7.2 MW site in Toronto, and plans a 320 MW campus in the Greater Toronto Area. HIVE's 32 MW Big Boden site in Sweden is also slated for AI use.",
+  "outlook": "HIVE targets $200M of GPU cloud ARR by the fourth quarter of 2026. The GB300 deployment needs about $185M of capex against a customer deposit of about $35M, and the Toronto campus is still at the planning stage.",
+  "sources": [
+   {
+    "title": "HIVE Digital Technologies: BUZZ HPC Closes Acquisition of 7.2 MW Toronto Site to Build Data Centre for Sovereign AI Infrastructure",
+    "url": "https://www.hivedigitaltechnologies.com/news/buzz-hpc-closes-acquisition-of-72-mw-toronto-site-to-build-data-centre-for-sovereign-ai-infrastructure/",
+    "date": "2025-09-18"
+   },
+   {
+    "title": "HIVE Digital Technologies: HIVE's BUZZ HPC Announces 320 MW Sovereign AI Infrastructure in Greater Toronto Area",
+    "url": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-announces-320-mw-sovereign-ai-infrastructure-in-greater-toronto-area/",
+    "date": "2026-05-18"
+   },
+   {
+    "title": "HIVE Digital Technologies: HIVE's BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.",
+    "url": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc/",
+    "date": "2026-06-18"
+   },
+   {
+    "title": "HIVE Digital Technologies: HIVE Reports Q1 2027 Revenue of $79.1 Million, Contracted GPU Cloud ARR Reaches Approximately $110 Million",
+    "url": "https://www.hivedigitaltechnologies.com/news/hive-reports-q1-2027-revenue-of-791-million-contracted-gpu-cloud-arr-reaches-approximately-110-million/",
+    "date": "2026-08-14"
+   },
+   {
+    "title": "HIVE Digital Technologies: HIVE's BUZZ HPC Signs $350 Million AI Cloud Services Agreement with Investment-Grade Enterprise Customer",
+    "url": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-signs-350-million-ai-cloud-services-agreement-with-investment-grade-enterprise-customer/",
+    "date": "2026-08-16"
+   },
+   {
+    "title": "Yahoo Finance: HIVE subsidiary BUZZ HPC strikes AI infrastructure deal with ProCogia",
+    "url": "https://finance.yahoo.com/technology/ai/articles/hive-subsidiary-buzz-hpc-strikes-132100321.html",
+    "date": "2026-09-16"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "The Toronto headquarters and the buzzhpc.ai website are assumptions I did not verify. The H100 and H200 entries come from a 2025 HIVE release on Hopper clusters and from memory. The Sweden site appears in HIVE's results only as a 32 MW facility with a signed letter of intent, so its AI status is uncertain. HIVE's quarterly ARR figure ($110M) predates the $350M August contract, and the $180M total comes from the August release. Category is neocloud because BUZZ HPC rents GPUs, though its parent remains a Bitcoin miner."
+ }
+]

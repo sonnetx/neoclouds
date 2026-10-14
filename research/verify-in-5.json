@@ -1,0 +1,965 @@
+[
+ {
+  "slug": "cipher-mining",
+  "name": "Cipher Digital",
+  "website": "https://cipherdigital.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "GlobeNewswire: Cipher Mining Signs 168 MW, 10-Year AI Hosting Agreement with Fluidstack",
+    "url": "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/cipher-mining-signs-168-mw-10-year-ai-hosting-agreement-with-fluidstack.html"
+   },
+   {
+    "n": 2,
+    "title": "Yahoo Finance: Cipher Mining signs $3 billion AI hosting deal with Fluidstack, Google to backstop $1.4 billion",
+    "url": "https://finance.yahoo.com/news/cipher-mining-signs-3-billion-104501461.html"
+   },
+   {
+    "n": 3,
+    "title": "TradingView: Google takes 5.4% stake in Bitcoin mining company Cipher Mining in $3B deal",
+    "url": "https://www.tradingview.com/news/cointelegraph:aec4178f1094b:0-google-takes-5-4-stake-in-bitcoin-mining-company-cipher-mining-in-3b-deal/"
+   },
+   {
+    "n": 4,
+    "title": "Data Center Dynamics: AWS signs 300MW hosting deal to lease capacity from Cipher Mining",
+    "url": "https://www.datacenterdynamics.com/en/news/aws-signs-300mw-hosting-deal-to-lease-capacity-from-cipher-mining/"
+   },
+   {
+    "n": 5,
+    "title": "TheEnergyMag: Cipher Mining Rebrands as Cipher Digital to Double Down on AI Data Center Leases",
+    "url": "https://www.theenergymag.com/news/2026-02-24/cipher-digital-ai-bitcoin"
+   },
+   {
+    "n": 6,
+    "title": "CoinDesk: CIFR shares rise on new Hyperscaler agreement",
+    "url": "https://www.coindesk.com/markets/2026/03/25/cipher-digital-stock-rises-9-on-new-data-center-deal-with-hyperscale-tenant"
+   },
+   {
+    "n": 7,
+    "title": "Blockspace Media: Cipher Digital SEC filing reveals AWS as tenant at Stingray site",
+    "url": "https://blockspace.media/insight/cipher-digital-aws-stingray-data-center/"
+   },
+   {
+    "n": 8,
+    "title": "ET Datacenters: Cipher Digital Plans 500MW AI/HPC Campus Near Texas Power Plant",
+    "url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/cipher-digital-plans-500mw-ai/hpc-campus-near-texas-power-plant/131587422"
+   },
+   {
+    "n": 9,
+    "title": "TIKR: Cipher Digital Has $11.4 Billion in Contracted Revenue and Still Trades 19% Below Its 52-Week High",
+    "url": "https://www.tikr.com/blog/cipher-digital-has-11-4-billion-in-contracted-revenue-and-still-trades-19-below-its-52-week-high"
+   },
+   {
+    "n": 10,
+    "title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html"
+   },
+   {
+    "n": 11,
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719"
+   },
+   {
+    "n": 12,
+    "title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Cipher Digital reports 907 MW of operating and contracted capacity across three hyperscale campuses in Texas."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The extension lifts contracted revenue at Barber Lake from $3.8B to more than $9B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Cipher sold $810M of 6.0% notes to fund Stingray through completion."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Bitcoin mining brought in $24.8M of revenue in Q2 2026, and the company posted a net loss of $267.5M as interest expense rose to $66.7M."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Its portfolio covers 5.3 GW across 11 sites in Texas and Ohio, and 83% of that capacity has no tenant yet."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "In June 2026 it announced plans for a 500 MW campus next to a Texas power plant, and in August it took an option on a site near San Antonio, called Apollo, for up to 900 MW."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Under the Barber Lake extension Cipher pays the first $359.3M of cost overruns and the tenant repays half of any further overruns as extra rent."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Cipher carried $5.45B of long-term borrowings and $831.8M of cash at the end of June 2026, so new campuses depend on project bond markets."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Signing tenants for the pipeline sites, including Apollo, is the next test."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Barber Lake lease = 20 years, more than $9B (September 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Operating and contracted capacity = 907 MW"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Portfolio = 5.3 GW across 11 sites"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 = Revenue $24.8M, net loss $267.5M"
+   }
+  ]
+ },
+ {
+  "slug": "qumulusai",
+  "name": "QumulusAI",
+  "website": "https://www.qumulusai.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: QumulusAI, Inc. Form 424B4 prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm"
+   },
+   {
+    "n": 2,
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, fiscal 2026 guidance",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023568/ex_988109.htm"
+   },
+   {
+    "n": 3,
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm"
+   },
+   {
+    "n": 4,
+    "title": "QumulusAI: QumulusAI Signs $240.9 Million in New AI Inference Customer Contracts for NVIDIA Blackwell B300 Capacity",
+    "url": "https://www.qumulusai.com/articles/qumulusai-signs-2409-million-in-new-ai-inference-customer-contracts-for-nvidia-blackwell-b300-capacity"
+   },
+   {
+    "n": 5,
+    "title": "QumulusAI: Home",
+    "url": "https://www.qumulusai.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "QumulusAI traces back to two 2019 companies, WAHA Technologies and WAHA, Inc., which merged in December 2022 as Global Digital Holdings."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In April 2025 the company acquired The Cloud Minders, a GPU-as-a-Service business it had first invested in in October 2023, and rebranded as QumulusAI."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It adopted the name legally in August 2025 and still lists blockchain hosting facilities in Watonga, Oklahoma and Denton, Texas."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Q2 2026 revenue was $6.7M, up 118% from a year earlier, with AI compute at 84% of the total."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The deployed fleet reached 3,088 GPUs, and cumulative signed contract value stood at $282.5M in August 2026."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "It deploys capacity in colocation sites in metro Atlanta, Kansas City, Denver and Philadelphia and sizes each build to signed demand."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "The company guides to $300M of forward annual recurring revenue and 18 MW of capacity by the end of fiscal 2026."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "It also cites a line of sight to 2.5 GW by the end of fiscal 2027, against 8 MW under executed agreements in August 2026."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 revenue = $6.7M, up 118%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Deployed GPUs = 3,088, Q2 2026"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Signed contract value = $282.5M, August 2026"
+   }
+  ]
+ },
+ {
+  "slug": "coreweave",
+  "name": "CoreWeave",
+  "website": "https://www.coreweave.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "CoreWeave: CoreWeave Reports Strong Second Quarter 2026 Results",
+    "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx"
+   },
+   {
+    "n": 2,
+    "title": "Yahoo Finance: CoreWeave Inc (CRWV) (Q2 2026) Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-q2-2026-050033531.html"
+   },
+   {
+    "n": 3,
+    "title": "The Register: CoreWeave revenue doubles as debt pile reaches $35.6B",
+    "url": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832"
+   },
+   {
+    "n": 4,
+    "title": "SEC: CoreWeave, Inc. Form 10-K for fiscal year 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+   },
+   {
+    "n": 5,
+    "title": "Stock Titan: CoreWeave revenue surges to $5.1B on AI cloud boom (10-K summary)",
+    "url": "https://www.stocktitan.net/sec-filings/CRWV/10-k-core-weave-inc-files-annual-report-765643168fc2.html"
+   },
+   {
+    "n": 6,
+    "title": "CoreWeave: CoreWeave and Meta Announce $21 Billion Expanded AI Infrastructure Agreement",
+    "url": "https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement"
+   },
+   {
+    "n": 7,
+    "title": "CoreWeave: CoreWeave Announces Multi-Year Agreement With Anthropic",
+    "url": "https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic"
+   },
+   {
+    "n": 8,
+    "title": "CoreWeave: Jane Street Signs $6 Billion AI Cloud Agreement with CoreWeave",
+    "url": "https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave"
+   },
+   {
+    "n": 9,
+    "title": "CoreWeave: CoreWeave Expands Agreement with OpenAI by up to $6.5B",
+    "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b"
+   },
+   {
+    "n": 10,
+    "title": "CoreWeave: CoreWeave Completes Industry-First Bring-Up and Validation of NVIDIA Vera Rubin NVL72",
+    "url": "https://www.coreweave.com/news/coreweave-completes-industry-first-bring-up-of-nvidia-vera-rubin-nvl72"
+   },
+   {
+    "n": 11,
+    "title": "CoreWeave: CoreWeave Expands Cloud AI Platform to Indonesia, Marking First Move Into Asia-Pacific Region",
+    "url": "https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region"
+   },
+   {
+    "n": 12,
+    "title": "CoreWeave: CoreWeave Enters India, Expanding AI Cloud Platform With AdaniConneX",
+    "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Enters-India-Expanding-AI-Cloud-Platform-With-AdaniConneX/default.aspx"
+   },
+   {
+    "n": 13,
+    "title": "CNBC: CoreWeave stock jumps 6% as Nvidia invests $2 billion to expand AI data center capacity",
+    "url": "https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html"
+   },
+   {
+    "n": 14,
+    "title": "CoreWeave: CoreWeave Completes Acquisition of Weights & Biases",
+    "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Completes-Acquisition-of-Weights--Biases/default.aspx"
+   },
+   {
+    "n": 15,
+    "title": "Core Scientific: Core Scientific Announces Termination of Merger Agreement with CoreWeave",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/124/core-scientific-announces-termination-of-merger-agreement-with-coreweave"
+   },
+   {
+    "n": 16,
+    "title": "Wikipedia: CoreWeave",
+    "url": "https://en.wikipedia.org/wiki/CoreWeave"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Nasdaq-listed GPU cloud that rents NVIDIA capacity to AI labs, hyperscalers and trading firms."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "CoreWeave reported Q2 2026 revenue of $2.58B, up 112% from a year earlier, and a net loss of $626M."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Microsoft supplied 67% of 2025 revenue, and the three largest customers made up 72% of Q2 2026 revenue."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "In Q2 2026 it launched CoreWeave Interconnect to Google Cloud, SUNK Anywhere and cross-cloud LOTA data caching."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "CoreWeave expects more than 1.85 GW of active power by the end of 2026 and targets more than 8 GW by 2030."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 revenue = $2.58B, up 112% year over year"
+   }
+  ]
+ },
+ {
+  "slug": "shadeform",
+  "name": "Shadeform",
+  "website": "https://shadeform.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Shadeform: The GPU Cloud Marketplace",
+    "url": "https://shadeform.com/"
+   },
+   {
+    "n": 2,
+    "title": "PR Newswire: Shadeform Strengthens Supply Chain Expertise with Director Level Hires Across Colo, Powered Land, and Compute",
+    "url": "https://www.prnewswire.com/news-releases/shadeform-strengthens-supply-chain-expertise-with-director-level-hires-across-colo-powered-land-and-compute-302859642.html"
+   },
+   {
+    "n": 3,
+    "title": "citybiz: Shadeform Hires Fluidstack, RunPod Veterans to Expand GPU Infrastructure Supply",
+    "url": "https://www.citybiz.co/article/894855/shadeform-hires-fluidstack-runpod-veterans-to-expand-gpu-infrastructure-supply/"
+   },
+   {
+    "n": 4,
+    "title": "Y Combinator: Shadeform",
+    "url": "https://www.ycombinator.com/companies/shadeform"
+   },
+   {
+    "n": 5,
+    "title": "DigitalOcean: Customers, Shadeform",
+    "url": "https://www.digitalocean.com/customers/shadeform"
+   },
+   {
+    "n": 6,
+    "title": "Business Wire: QumulusAI Signs $71.9 Million, Three-Year Agreement With AI Inference Platform Provider",
+    "url": "https://www.businesswire.com/news/home/20260728505196/en/QumulusAI-Signs-%2471.9-Million-Three-Year-Agreement-With-AI-Inference-Platform-Provider"
+   },
+   {
+    "n": 7,
+    "title": "PR Newswire: WhiteFiber and Shadeform Announce Strategic Partnership to deliver on-demand access to NVIDIA B200 GPUs",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-and-shadeform-announce-strategic-partnership-to-deliver-on-demand-access-to-nvidia-b200-gpus-302407006.html"
+   },
+   {
+    "n": 8,
+    "title": "Shadeform: Model Guide, Kimi K2.5",
+    "url": "https://shadeform.com/resources/tutorials/model-guide-kimi-k25"
+   },
+   {
+    "n": 9,
+    "title": "Stripe: Shadeform Boosts Revenue 10% by Accepting Stablecoin Payments",
+    "url": "https://stripe.com/customers/shadeform"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "The company went through Y Combinator's Summer 2023 batch."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Supplier QumulusAI announced two NVIDIA H200 cluster deployments with Shadeform in May 2026."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Users can reserve capacity automatically when it appears."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "The company holds a SOC 2 report and also accepts stablecoin payments through Stripe."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Accelerator program = Y Combinator S23"
+   }
+  ]
+ },
+ {
+  "slug": "argentum-ai",
+  "name": "Argentum AI",
+  "website": "https://argentum-ai.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: Argentum AI Signs $2.5 Billion, 300MW AI Data Center Agreement with Boosteroid and DL Invest Group",
+    "url": "https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html"
+   },
+   {
+    "n": 2,
+    "title": "Reuters: Argentum AI signs $2.5 billion data center deal with cloud, real estate firms",
+    "url": "https://www.reuters.com/business/argentum-ai-signs-25-billion-data-center-deal-with-cloud-real-estate-firms-2026-05-15/"
+   },
+   {
+    "n": 3,
+    "title": "Investing.com: $1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity",
+    "url": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152"
+   },
+   {
+    "n": 4,
+    "title": "PR Newswire: Former CEO of LIV Golf, Saudi Golf and Newcastle United, Majed Al Sorour to Join Global AI Enterprise, Argentum AI",
+    "url": "https://www.prnewswire.com/news-releases/former-ceo-of-liv-golf-saudi-golf--newcastle-united-majed-al-sorour-to-join-global-ai-enterprise-argentum-ai-302667524.html"
+   },
+   {
+    "n": 5,
+    "title": "SiliconANGLE: Beyond the $7.8B in deals, why Wall Street is suddenly watching Argentum AI",
+    "url": "https://siliconangle.com/2026/06/24/beyond-7-8b-deals-wall-street-suddenly-watching-argentum-ai/"
+   },
+   {
+    "n": 6,
+    "title": "Argentum AI: Home",
+    "url": "https://argentum-ai.com/"
+   },
+   {
+    "n": 7,
+    "title": "Argentum AI: Company",
+    "url": "https://argentum-ai.com/company"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Argentum AI is a San Francisco compute marketplace and AI cloud that signs capacity deals before it finances hardware."
+   },
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "In 2026 it announced a $1.5B GB300 contract and a $2.5B, 300 MW data center deal."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In April 2026 Argentum AI announced a $1.5B agreement to provide about 10,500 NVIDIA GB300 GPUs to an unnamed AI company, plus two inference deals worth $140M and $100M."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "The company claims more than 200,000 available GPUs and a 3.3 GW power pipeline across nine or more live and contracted sites, without a public breakdown."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "GB300 capacity deal = $1.5B for about 10,500 GPUs, April 2026"
+   }
+  ]
+ },
+ {
+  "slug": "google-cloud",
+  "name": "Google Cloud",
+  "website": "https://cloud.google.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Alphabet Inc. Form 8-K, Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm"
+   },
+   {
+    "n": 2,
+    "title": "Futurum: Alphabet Q2 FY 2026: Google Cloud Leads Growth Amid Rising AI Investment",
+    "url": "https://futurumgroup.com/insights/alphabet-q2-fy-2026-google-cloud-leads-growth-amid-rising-ai-investment/"
+   },
+   {
+    "n": 3,
+    "title": "The Register: Google to sell its TPUs to some customers",
+    "url": "https://www.theregister.com/2026/04/30/alphabet_google_q1_fy26/"
+   },
+   {
+    "n": 4,
+    "title": "Anthropic: Anthropic expands Google and Broadcom compute deal",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+   },
+   {
+    "n": 5,
+    "title": "TechCrunch: Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
+   },
+   {
+    "n": 6,
+    "title": "SiliconANGLE: Google and Meta reportedly strike new, multibillion-dollar AI chip deal",
+    "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/"
+   },
+   {
+    "n": 7,
+    "title": "TechCrunch: Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
+   },
+   {
+    "n": 8,
+    "title": "Business Wire: Blackstone Announces Joint Venture with Google to Create New TPU Cloud",
+    "url": "https://www.businesswire.com/news/home/20260518367552/en/Blackstone-Announces-Joint-Venture-with-Google-to-Create-New-TPU-Cloud"
+   },
+   {
+    "n": 9,
+    "title": "Google: Blackstone will create a new TPU cloud in a joint venture with Google",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/"
+   },
+   {
+    "n": 10,
+    "title": "SEC: TeraWulf Exhibit 99.1, Fluidstack hosting agreements backed by Google",
+    "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925078084/tm2523008d2_ex99-1.htm"
+   },
+   {
+    "n": 11,
+    "title": "TechCrunch: Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+    "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/"
+   },
+   {
+    "n": 12,
+    "title": "CNBC: Alphabet to acquire data center and energy infrastructure company Intersect",
+    "url": "https://www.cnbc.com/2025/12/22/alphabet-to-acquire-intersect.html"
+   },
+   {
+    "n": 13,
+    "title": "Renewables Now: Google closes USD-4.75bn Intersect deal as investors spin out IPX Power",
+    "url": "https://renewablesnow.com/news/google-closes-usd-4-75bn-intersect-deal-as-investors-spin-out-ipx-power-1291177/"
+   },
+   {
+    "n": 14,
+    "title": "HPCwire: Google Bolsters AI Hypercomputer with New TPU Chips, Virgo Interconnect, Speedier Lustre",
+    "url": "https://www.hpcwire.com/2026/04/22/google-bolsters-ai-hypercomputer-with-new-tpu-chips-virgo-interconnect-speedier-lustre/"
+   },
+   {
+    "n": 15,
+    "title": "Google Cloud: Cluster Director is now generally available",
+    "url": "https://cloud.google.com/blog/products/compute/cluster-director-is-now-generally-available/"
+   },
+   {
+    "n": 16,
+    "title": "Google Cloud Docs: Use gIB NCCL plugins in NVIDIA NGC containers",
+    "url": "https://docs.cloud.google.com/ai-hypercomputer/docs/nccl/ngc-containers"
+   },
+   {
+    "n": 17,
+    "title": "Google Cloud Docs: TPU7x (Ironwood)",
+    "url": "https://docs.cloud.google.com/tpu/docs/tpu7x"
+   },
+   {
+    "n": 18,
+    "title": "Network World: Google Cloud signs $10 billion deal with Palo Alto Networks",
+    "url": "https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Google Cloud revenue grew 82% to $24.8B in the second quarter of 2026, and its backlog rose by more than $50B in the quarter to $514B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Google backstops Fluidstack lease obligations at TeraWulf sites, which places TPU capacity in third-party data centers."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Google Cloud revenue, Q2 2026 = $24.8B, up 82%"
+   }
+  ]
+ },
+ {
+  "slug": "fluidstack",
+  "name": "Fluidstack",
+  "website": "https://www.fluidstack.io",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Fluidstack: Fluidstack raised $830M Series A",
+    "url": "https://www.fluidstack.io/news/series-a-announcement"
+   },
+   {
+    "n": 2,
+    "title": "Fluidstack: Fluidstack selected by Anthropic to deliver custom data centers in New York and Texas",
+    "url": "https://www.fluidstack.io/news/fluidstack-selected-by-anthropic-to-deliver-custom-data-centers-in-the-us"
+   },
+   {
+    "n": 3,
+    "title": "Fluidstack: Fluidstack Expands U.S. Investment by Relocating Global Headquarters to New York City",
+    "url": "https://www.fluidstack.io/news/fluidstack-expands-u-s-investment-by-relocating-global-headquarters-to-new-york-city"
+   },
+   {
+    "n": 4,
+    "title": "TechCrunch: AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+    "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+   },
+   {
+    "n": 5,
+    "title": "TechCrunch: Anthropic announces $50 billion data center plan",
+    "url": "https://techcrunch.com/2025/11/12/anthropic-announces-50-billion-data-center-plan/"
+   },
+   {
+    "n": 6,
+    "title": "TeraWulf: TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner",
+    "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner"
+   },
+   {
+    "n": 7,
+    "title": "TeraWulf: TeraWulf Expands Strategic Partnership with Fluidstack Through New 168 MW AI Compute Joint Venture",
+    "url": "https://investors.terawulf.com/news-events/press-releases/detail/121/terawulf-expands-strategic-partnership-with-fluidstack-through-new-168-mw-ai-compute-joint-venture"
+   },
+   {
+    "n": 8,
+    "title": "TeraWulf: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack"
+   },
+   {
+    "n": 9,
+    "title": "Fluidstack: Community",
+    "url": "https://www.fluidstack.io/community"
+   },
+   {
+    "n": 10,
+    "title": "Fluidstack: Fluidstack homepage",
+    "url": "https://www.fluidstack.io/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Fluidstack started in 2017 with roots in Oxford and grew as a UK-based GPU cloud for AI companies."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In Texas it is building a $4B first phase in Cameron County, and in July 2026 it led the purchase of TeraWulf's 50.1% stake in their 168 MW Abernathy joint venture."
+   }
+  ]
+ },
+ {
+  "slug": "yotta",
+  "name": "Yotta Data Services",
+  "website": "https://yotta.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Analytics India Magazine: Yotta's 85,000-GPU Bet Is Bigger Than the IndiaAI Mission",
+    "url": "https://analyticsindiamag.com/ai-startups/yottas-85000-gpu-bet-is-bigger-than-the-indiaai-mission"
+   },
+   {
+    "n": 2,
+    "title": "Analytics Insight: Yotta Data Services Receives Frost & Sullivan's 2026 Indian Company of the Year Recognition for Leadership in Sovereign AI Infrastructure",
+    "url": "https://www.analyticsinsight.net/press-release/yotta-data-services-receives-frost-sullivans-2026-indian-company-of-the-year-recognition-for-leadership-in-sovereign-ai-infrastructure"
+   },
+   {
+    "n": 3,
+    "title": "Analytics India Magazine: Yotta Orders 8,000 NVIDIA Blackwell GPUs to Support IndiaAI Mission",
+    "url": "https://analyticsindiamag.com/ai-news-updates/yotta-orders-8000-nvidia-blackwell-gpus-to-support-indiaai-mission/"
+   },
+   {
+    "n": 4,
+    "title": "Kotak Neo: Yotta Data Services IPO, Company Plans Rs 6,000-8,000 Crore Issue Amid AI Infrastructure Expansion",
+    "url": "https://www.kotakneo.com/news/ipos/yotta-data-services-ipo-rs-6000-8000-crore-ai-infrastructure/"
+   },
+   {
+    "n": 5,
+    "title": "Economic Times: Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom",
+    "url": "https://m.economictimes.com/markets/ipos/fpos/yotta-targets-jan-march-2027-ipo-seeks-up-to-1-5-billion-amid-ai-boom/amp_articleshow/133701389.cms"
+   },
+   {
+    "n": 6,
+    "title": "Economic Times: Yotta raises $150 million at $3.9 billion valuation to fund AI infrastructure expansion",
+    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/yotta-raises-150-million-at-3-9-billion-valuation-to-fund-ai-infrastructure-expansion/articleshow/132221572.cms"
+   },
+   {
+    "n": 7,
+    "title": "Moneycontrol: Yotta to deploy Nvidia's latest Vera Rubin GPUs in Noida, eyeing $12 billion expansion",
+    "url": "https://www.moneycontrol.com/news/business/information-technology/yotta-plans-40-000-vera-rubin-gpus-for-new-noida-data-centre-eyes-12-billion-investment-14026856.html"
+   },
+   {
+    "n": 8,
+    "title": "Livemint: Yotta flips IPO strategy, to pursue India IPO first",
+    "url": "https://www.livemint.com/industry/india-data-centre-ipos-ai-capex-surge-11769562772350.html"
+   },
+   {
+    "n": 9,
+    "title": "Business Today: Gorilla Technology, Yotta ink AI infrastructure deal to deploy 5,000+ GPUs in India",
+    "url": "https://www.businesstoday.in/technology/story/gorilla-technology-yotta-ink-ai-infrastructure-deal-to-deploy-5000-gpus-in-india-520999-2026-03-17"
+   },
+   {
+    "n": 10,
+    "title": "Angel One: Yotta Data Eyes $4 Billion Valuation Ahead of IPO, Soon to File DRHP",
+    "url": "https://www.angelone.in/news/market-updates/yotta-data-eyes-4-billion-valuation-ahead-of-ipo-soon-to-file-drhp"
+   },
+   {
+    "n": 11,
+    "title": "DQ India: Yotta and NVIDIA launches Shakti Cloud, boosting India's sovereign AI efforts",
+    "url": "https://www.dqindia.com/news/yotta-and-nvidia-launches-shakti-cloud-boosting-indias-sovereign-ai-efforts-9086321"
+   },
+   {
+    "n": 12,
+    "title": "Yotta: Yotta Data Services Collaborates with NVIDIA to Catalyze India's AI Transformation",
+    "url": "https://yotta.com/press-releases/yotta-data-services-collaborates-with-nvidia-to-catalyze-indias-ai-transformation/"
+   },
+   {
+    "n": 13,
+    "title": "Yotta: Media coverage",
+    "url": "https://yotta.com/media/"
+   },
+   {
+    "n": 14,
+    "title": "Shakti Cloud: Pricing",
+    "url": "https://shakticloud.ai/pricing/"
+   },
+   {
+    "n": 15,
+    "title": "Shakti Cloud: Sovereign Cloud and AI Cloud Platform India",
+    "url": "https://shakticloud.ai/"
+   },
+   {
+    "n": 16,
+    "title": "Shakti Cloud: Should You Rent NVIDIA B200 GPUs in India for Frontier AI Workloads?",
+    "url": "https://shakticloud.ai/blog/should-you-rent-nvidia-b200-gpus-in-india-for-frontier-ai-workloads/"
+   },
+   {
+    "n": 17,
+    "title": "Yotta: NM1 data center, Navi Mumbai",
+    "url": "https://colocation.yotta.com/data-center/nm1-datacenter-mumbai-region-maharashtra/"
+   },
+   {
+    "n": 18,
+    "title": "Yotta: D1 data center, Greater Noida",
+    "url": "https://colocation.yotta.com/data-center/yotta-d1-datacenter-ncr-delhi/"
+   },
+   {
+    "n": 19,
+    "title": "Yotta: G1 data center, GIFT City",
+    "url": "https://yotta.com/datacenter/gujarat-g1/"
+   },
+   {
+    "n": 20,
+    "title": "Wikipedia: Hiranandani Group",
+    "url": "https://en.wikipedia.org/wiki/Yotta_Infrastructure"
+   },
+   {
+    "n": 21,
+    "title": "Unlistedcart: Yotta Data Services unlisted share report",
+    "url": "https://unlistedcart.com/yotta-data-services-unlisted-share-report/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In 2025 Yotta supplied more than half of the IndiaAI Mission's GPU capacity, including 4,096 GPUs allocated to Sarvam AI and 1,536 to Soket AI Labs."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The company says 85 to 90 percent of its new capacity goes to overseas offtakers on long-term contracts."
+   }
+  ]
+ },
+ {
+  "slug": "whitefiber",
+  "name": "WhiteFiber",
+  "website": "https://www.whitefiber.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: WhiteFiber and Nscale Announce 10-Year, 40 MW Colocation Agreement Representing Approximately $865 Million in Total Contract Value at NC-1 AI Data Center Campus",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-and-nscale-announce-10-year-40-mw-colocation-agreement-representing-approximately-865-million-in-total-contract-value-at-nc-1-ai-data-center-campus-302646399.html"
+   },
+   {
+    "n": 2,
+    "title": "The Business Journals: Madison data center reaches milestone as WhiteFiber lands major AI infrastructure client",
+    "url": "https://www.bizjournals.com/triad/news/2026/01/22/whitefiber-madison-nc-data-center-financing-deals.html"
+   },
+   {
+    "n": 3,
+    "title": "Yahoo Finance: WhiteFiber Lines Up $100 Million Debt And $160 Million AI Contract",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whitefiber-lines-100-million-debt-050747329.html"
+   },
+   {
+    "n": 4,
+    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html"
+   },
+   {
+    "n": 5,
+    "title": "Blockspace Media: WhiteFiber revenue rises 54% as NC-1 starts billing contracted capacity",
+    "url": "https://blockspace.media/insight/whitefiber-revenue-rises-nc1-billing-cloud-contracts/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "NC-1 can grow to about 300 MW of gross power over time, and the company also runs sites in Montreal."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "NC-1 potential = About 300 MW gross"
+   }
+  ]
+ },
+ {
+  "slug": "hydra-host",
+  "name": "Hydra Host",
+  "website": "https://hydrahost.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Hydra Host: Hydra Host Raises $100 Million Series A to Expand Global AI Factory Capacity",
+    "url": "https://hydrahost.com/blog/news/hydra-host-raises-100m-series-a/"
+   },
+   {
+    "n": 2,
+    "title": "Business Wire: Hydra Host Raises $100 Million Series A to Expand Global AI Factory Capacity",
+    "url": "https://www.businesswire.com/news/home/20260616230170/en/Hydra-Host-Raises-$100-Million-Series-A-to-Expand-Global-AI-Factory-Capacity"
+   },
+   {
+    "n": 3,
+    "title": "TheNextWeb: Hydra Host raises $100M as Nvidia backs a GPU broker",
+    "url": "https://thenextweb.com/news/hydra-host-100m-series-a-nvidia-gpu-ai-factory"
+   },
+   {
+    "n": 4,
+    "title": "Yahoo Finance (Investing.com): ARK Venture Fund backs AI GPU marketplace startup Hydra Host",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ark-venture-fund-backs-ai-210505860.html"
+   },
+   {
+    "n": 5,
+    "title": "Hydra Host: Build and monetize your AI data center with Hydra Host",
+    "url": "https://hydrahost.com/data-center/"
+   },
+   {
+    "n": 6,
+    "title": "Hydra Host: Hydra Host GPU, Bare Metal GPU and Scalable Solutions",
+    "url": "https://hydrahost.com/"
+   },
+   {
+    "n": 7,
+    "title": "NVIDIA Blog: NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/"
+   },
+   {
+    "n": 8,
+    "title": "SEC (Bitzero Holdings): Exhibit 99.74, Bitzero partnership with Hydra Host",
+    "url": "https://www.sec.gov/Archives/edgar/data/2100457/000175392626000899/g085467_ex99-74.htm"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "TheNextWeb reports that the company started in crypto mining infrastructure and then moved into renting bare-metal GPUs for AI."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Supply deals such as Bitzero's 64-GPU B300 deployment in Norway, announced in January 2026, show how hardware owners use Brokkr to reach Hydra's buyers."
+   }
+  ]
+ },
+ {
+  "slug": "genesis-cloud",
+  "name": "Genesis Cloud",
+  "website": "https://www.genesiscloud.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Andreessen Horowitz: Investing in Volta",
+    "url": "https://a16z.com/announcement/investing-in-volta/"
+   },
+   {
+    "n": 2,
+    "title": "EU-Startups: London AI cloud startup Volta exits stealth at €2.07 billion valuation, lands €8.6 billion compute deal reportedly with Anthropic",
+    "url": "https://www.eu-startups.com/2026/08/london-ai-cloud-startup-volta-exits-stealth-at-2-4-billion-valuation-lands-e8-6-billion-compute-deal-reportedly-with-anthropic/"
+   },
+   {
+    "n": 3,
+    "title": "Reuters: AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership",
+    "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04/"
+   },
+   {
+    "n": 4,
+    "title": "Wayback Machine: Genesis Cloud homepage, archived March 8, 2026",
+    "url": "http://web.archive.org/web/20260308135449/https://www.genesiscloud.com/"
+   },
+   {
+    "n": 5,
+    "title": "EdgeIR: Genesis Cloud company profile",
+    "url": "https://www.edgeir.com/companies/genesis-cloud"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Its later lineup included H100 SXM5 nodes with 3.2 Tbps InfiniBand, H200 and B200."
+   }
+  ]
+ },
+ {
+  "slug": "byteplus",
+  "name": "BytePlus",
+  "website": "https://www.byteplus.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "BytePlus: AI-Native Cloud for Enterprise Growth",
+    "url": "https://www.byteplus.com/en"
+   },
+   {
+    "n": 2,
+    "title": "Wikipedia: BytePlus",
+    "url": "https://en.wikipedia.org/wiki/BytePlus"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "Its website lists a Southeast Asia region, and BytePlus does not publish GPU counts or capacity figures."
+   }
+  ]
+ }
+]

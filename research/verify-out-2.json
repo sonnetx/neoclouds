@@ -1,0 +1,479 @@
+[
+ {
+  "slug": "terawulf",
+  "field": "snippet",
+  "text": "Anthropic signed a 20-year, 401 MW lease in July 2026, and Google holds about 14% of the company.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html", "date": "2026-07-06"},
+  "quote": "approximately 401 MW of critical IT load; 20-year lease agreement"
+ },
+ {
+  "slug": "terawulf",
+  "field": "origin",
+  "text": "In August 2025 Fluidstack leased 200 MW there and then another 160 MW, with Google backstopping $3.2B of the lease obligations and taking warrants for about 14% of TeraWulf.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "CarbonCredits.com: Bitcoin Miner TeraWulf (WULF) Stock Rallies as Google Backs $3.2B AI Infrastructure Expansion", "url": "https://carboncredits.com/bitcoin-miner-terawulf-wulf-stock-rallies-as-google-backs-3-2b-ai-infrastructure-expansion/", "date": "2025-08-21"},
+  "quote": "TeraWulf signed two 10-year deals with Fluidstack...to supply more than 200 MW of compute capacity; The facility will add 160 MW of critical IT load; This brings Google's total support for the company to $3.2 billion; Google increased its stake to 14%"
+ },
+ {
+  "slug": "terawulf",
+  "field": "origin",
+  "text": "TeraWulf and Fluidstack also formed a joint venture for a 168 MW campus at Abernathy, Texas.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "The Block: TeraWulf expands AI push with $9.5 billion Google-backed Fluidstack joint venture as stock jumps 25%", "url": "https://www.theblock.co/news/business/2025-10-28-terawulf-expands-ai-push-9-5-billion-usd-google-backed-fluidstack-joint-venture-stock-jumps-376561", "date": "2025-10-28"},
+  "quote": "a 168-megawatt data center in Abernathy, Texas"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "TeraWulf has leased 839 MW of AI capacity and reports about $27B of contracted revenue.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "839 MW of leased capacity; Approximately $27 billion in contracted revenue"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "In July 2026 Anthropic signed a 20-year lease for 401 MW of critical IT load at the Justified Data campus in Hawesville, Kentucky, worth about $19B over the initial term, with first capacity due in the second half of 2027.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html", "date": "2026-07-06"},
+  "quote": "approximately 401 MW of critical IT load; 20-year lease agreement; approximately $19 billion of contracted lease revenue; Initial capacity is expected to be placed into service during the second half of 2027"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "In the same announcement TeraWulf sold a 50.1% stake in the Abernathy joint venture to a Fluidstack-led group for about $450M.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html", "date": "2026-07-06"},
+  "quote": "entire 50.1% ownership interest; investor group led by Fluidstack; monetizes TeraWulf's approximately $450 million investment at a premium"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "At Lake Mariner it had 102 MW of revenue-generating IT capacity online by early July 2026 and 336 MW more under construction.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Reports Second Quarter 2026 Results", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html", "date": "2026-08"},
+  "quote": "102 MW of revenue-generating critical IT capacity operational at Lake Mariner as of early July 2026; 336 MW under construction across CB-4 and CB-5 at Lake Mariner"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "HPC leases brought in $31.9M of Q2 2026 revenue, against $12.8M from mining.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "HPC lease revenue reached $31.9 million; Digital asset mining revenue declined to $12.8 million from $47.6 million year-over-year"
+ },
+ {
+  "slug": "terawulf",
+  "field": "today",
+  "text": "The quarter's $939.9M net loss came mostly from a $755.7M non-cash charge on the Google warrants.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "GAAP net loss was $939.9 million driven by $755.7 million non-cash charge related to the fair value of Google warrants"
+ },
+ {
+  "slug": "terawulf",
+  "field": "platform",
+  "text": "Kentucky regulators approved a 482 MW power agreement for Justified Data in August 2026, and in October TeraWulf raised contracted power at Muskie to 1 GW.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: Kentucky PSC Approves 482 MW Power Agreement for TeraWulf's Justified Data Campus", "url": "https://www.stocktitan.net/news/WULF/kentucky-psc-approves-482-mw-power-agreement-for-tera-wulf-s-9kmcbdo654rd.html", "date": "2026-08-21"},
+  "quote": "the Kentucky Public Service Commission has approved the Retail Electric Service Agreement supporting up to 482 megawatts of electric service for TeraWulf's Justified Data Campus"
+ },
+ {
+  "slug": "terawulf",
+  "field": "outlook",
+  "text": "TeraWulf reports a 2.1 GW controlled pipeline, with 737 MW under construction.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "2.1 GW controlled pipeline; 737 MW under construction including the Anthropic Hawesville campus"
+ },
+ {
+  "slug": "terawulf",
+  "field": "outlook",
+  "text": "It held $3.0B of cash at the end of June 2026 against $2.5B of convertible notes and $3.2B of secured notes at its WULF Compute unit, and its free cash flow over the prior 12 months was negative $1.9B.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "$3.0 billion in cash, cash equivalents, and restricted cash; $2.5 billion in convertible notes at the TeraWulf parent level; $3.2 billion in senior secured notes at WULF Compute; Negative free cash flow of $1.9 billion over the last twelve months"
+ },
+ {
+  "slug": "terawulf",
+  "field": "fact",
+  "text": "Leased capacity = 839 MW (August 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "839 MW of leased capacity"
+ },
+ {
+  "slug": "terawulf",
+  "field": "fact",
+  "text": "Contracted revenue = About $27B",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "Approximately $27 billion in contracted revenue"
+ },
+ {
+  "slug": "terawulf",
+  "field": "fact",
+  "text": "Anthropic lease = 401 MW, 20 years, about $19B (July 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html", "date": "2026-07-06"},
+  "quote": "approximately 401 MW of critical IT load; 20-year lease agreement; approximately $19 billion of contracted lease revenue"
+ },
+ {
+  "slug": "terawulf",
+  "field": "fact",
+  "text": "Revenue-generating IT load = 102 MW (July 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "StockTitan: TeraWulf Reports Second Quarter 2026 Results", "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html", "date": "2026-08"},
+  "quote": "102 MW of revenue-generating critical IT capacity operational at Lake Mariner as of early July 2026"
+ },
+ {
+  "slug": "terawulf",
+  "field": "fact",
+  "text": "Q2 2026 = Revenue $44.8M, net loss $939.9M",
+  "decision": "reword",
+  "replacement": "Q2 2026 = HPC and mining revenue $44.7M, net loss $939.9M",
+  "source": {"title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss", "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037", "date": "2026-08"},
+  "quote": "HPC lease revenue reached $31.9 million; Digital asset mining revenue declined to $12.8 million; GAAP net loss was $939.9 million"
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "snippet",
+  "text": "Slovak startup planning an AI data center and supercomputer built on NVIDIA Blackwell GPUs.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: NVIDIA partnership", "url": "https://tatrasupercompute.com/nvidia", "date": "2026"},
+  "quote": "Powered by NVIDIA Blackwell chipsets. Our partnership includes supplier agreement to bolster our technological advancement."
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "snippet",
+  "text": "It has published few details beyond its founding team and a stated NVIDIA supplier agreement.",
+  "decision": "remove",
+  "replacement": "",
+  "source": null,
+  "quote": ""
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "origin",
+  "text": "Tatra Supercompute presents itself as a project to build an AI data center in Slovakia that pairs AI computing with green energy.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Why Slovakia", "url": "https://tatrasupercompute.com/slovakia", "date": "2026"},
+  "quote": "We are building not just a supercomputer, but the infrastructure of tomorrow. The datacenter, based in the heart of the Europe, will be a seamless fusion of AI and green energy"
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "origin",
+  "text": "Its founders include CEO and COO Peter Novak, a banking and telecom executive who has led data center projects, and president Robert Lesko, who spent 25 years at Morgan Stanley.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Team", "url": "https://tatrasupercompute.com/team", "date": "2026"},
+  "quote": "Peter, a digital transformation expert with 25+ years in banking and telecom, has led major Data Centre projects; Bob Lesko...is a seasoned leader with 25 years at Morgan Stanley"
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "today",
+  "text": "The company's website says it has a supplier agreement with NVIDIA for Blackwell GPUs and that the facility will rank among the most powerful supercomputers in the world.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Why Slovakia", "url": "https://tatrasupercompute.com/slovakia", "date": "2026"},
+  "quote": "The facility will be among the most powerful supercomputers globally, creating a leverage for Slovakia in future technological advancement."
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "outlook",
+  "text": "The company says the data center will draw on electricity generated in Slovakia and help build a Slovak AI business ecosystem.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Why Slovakia", "url": "https://tatrasupercompute.com/slovakia", "date": "2026"},
+  "quote": "Harnessing the electricity generated in Slovakia; Tatra Supercompute will help develop a thriving AI business ecosystem, growing the Slovak knowledge economy."
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "fact",
+  "text": "Country = Slovakia",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Why Slovakia", "url": "https://tatrasupercompute.com/slovakia", "date": "2026"},
+  "quote": "A significant opportunity for Slovakia."
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "fact",
+  "text": "Planned GPUs = NVIDIA Blackwell",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: NVIDIA partnership", "url": "https://tatrasupercompute.com/nvidia", "date": "2026"},
+  "quote": "Powered by NVIDIA Blackwell chipsets."
+ },
+ {
+  "slug": "tatra-supercompute",
+  "field": "fact",
+  "text": "CEO and COO = Peter Novak",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Tatra Supercompute: Team", "url": "https://tatrasupercompute.com/team", "date": "2026"},
+  "quote": "Peter Novak, CEO & COO"
+ },
+ {
+  "slug": "sk-telecom",
+  "field": "origin",
+  "text": "It launched its own GPU as a service in January 2025 and opened the Haein cluster of NVIDIA B200 GPUs in August 2025.",
+  "decision": "reword",
+  "replacement": "It launched its own GPU as a service in January 2025 and opened the Haein cluster of over 1,000 NVIDIA Blackwell GPUs in August 2025.",
+  "source": {"title": "SK Telecom Newsroom: SK Telecom Launches Sovereign AI Infrastructure, Powered by NVIDIA", "url": "https://news.sktelecom.com/en/2056", "date": "2025-08-05"},
+  "quote": "SK Telecom announced the launch of its new sovereign AI Infrastructure, providing GPU-as-a-Service (GPUaaS) based on the latest NVIDIA Blackwell GPUs; The newly launched platform features one of Korea's largest GPU clusters, consisting of over 1,000 NVIDIA Blackwell GPUs"
+ },
+ {
+  "slug": "sk-telecom",
+  "field": "origin",
+  "text": "In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, a project the Korean government valued at $5B.",
+  "decision": "reword",
+  "replacement": "In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, with AWS expected to contribute about $4B.",
+  "source": {"title": "KED Global: SK, AWS to build South Korea's largest, multibillion-dollar AI data center", "url": "https://www.kedglobal.com/tech,-media-telecom/newsView/ked202506160002", "date": "2025-06-16"},
+  "quote": "AWS, which is expected to contribute $4 billion to the project, according to sources."
+ },
+ {
+  "slug": "sk-telecom",
+  "field": "today",
+  "text": "In August 2026 SK Telecom moved its existing data centers into a new company, SK Horizon, and sold 49% to KKR and an IMM-led consortium for KRW 3.08T ($2.24B).",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal", "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal", "date": "2026-08-28"},
+  "quote": "KKR and the IMM-Stonebridge consortium will hold 29% and 20% stakes in SK Horizon respectively, while SKT will retain management control with a 51% stake; a combined investment of 3.08 trillion Korean won (US$2.24 billion)"
+ },
+ {
+  "slug": "sk-telecom",
+  "field": "platform",
+  "text": "SK Telecom also builds its own A.X models for the government's sovereign foundation model project and runs the 519B parameter A.X K1 on Rebellions neural processors.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "UPI: SK Telecom, Rebellions expand Korean AI chip infrastructure", "url": "https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/", "date": "2026-08-07"},
+  "quote": "A.X K1 is a 519 billion-parameter mixture-of-experts large language model developed by SK Telecom; has successfully operated its hyperscale A.X K1 AI model using Rebellions technology at an SK Telecom data center"
+ },
+ {
+  "slug": "sk-telecom",
+  "field": "fact",
+  "text": "SK Horizon investment from KKR and IMM = KRW 3.08T ($2.24B) for 49% (August 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal", "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal", "date": "2026-08-28"},
+  "quote": "a combined investment of 3.08 trillion Korean won (US$2.24 billion); KKR and the IMM-Stonebridge consortium will hold 29% and 20% stakes"
+ },
+ {
+  "slug": "nebul",
+  "field": "origin",
+  "text": "It chose NetApp AFF A90 storage in 2024 after testing several vendors for multi-tenant performance, and it hosts its systems with Dutch data center partners Eurofiber, NorthC and Switch Datacenters.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer", "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/", "date": "2025-09-23"},
+  "quote": "In 2024, Nebul chose the AFF-A90 for storage; Nebul has partnerships with Dutch data center players such as Eurofiber, NorthC Datacenters, and Switch Datacenters"
+ },
+ {
+  "slug": "nebul",
+  "field": "platform",
+  "text": "Customers can run open models such as DeepSeek on the platform without sending data outside Europe.",
+  "decision": "reword",
+  "replacement": "Customers can run open source models on the platform without sending data outside Europe.",
+  "source": {"title": "Nebul: Homepage", "url": "https://nebul.com/", "date": "2026"},
+  "quote": "Run any open source model, fine tune or bring your own & deploy; Building the European Hyperscale Cloud that provides true privacy and sovereignty"
+ },
+ {
+  "slug": "nebul",
+  "field": "fact",
+  "text": "HQ = Leiden, Netherlands",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Nebul: Contact", "url": "https://nebul.com/contact/", "date": "2026"},
+  "quote": "Sylviusweg 74, 2333 BE Leiden"
+ },
+ {
+  "slug": "nebul",
+  "field": "fact",
+  "text": "Data center partners = Eurofiber, NorthC, Switch Datacenters",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer", "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/", "date": "2025-09-23"},
+  "quote": "Nebul has partnerships with Dutch data center players such as Eurofiber, NorthC Datacenters, and Switch Datacenters"
+ },
+ {
+  "slug": "nebul",
+  "field": "fact",
+  "text": "Storage = NetApp AFF A90",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer", "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/", "date": "2025-09-23"},
+  "quote": "In 2024, Nebul chose the AFF-A90 for storage"
+ },
+ {
+  "slug": "core-scientific",
+  "field": "today",
+  "text": "It sold $3.3B of senior secured notes due 2031 in 2026 to fund a capex budget of about $2B for the year.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion", "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917", "date": "2026"},
+  "quote": "Core Scientific secured $3.3 billion in senior secured notes due 2031 with a 7.750% interest rate; The company's 2026 capital expenditure plan totals approximately $2 billion"
+ },
+ {
+  "slug": "core-scientific",
+  "field": "outlook",
+  "text": "Core Scientific targets a pipeline of about 3.0 GW and is repurposing its remaining mining sites for colocation.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion", "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917", "date": "2026"},
+  "quote": "Core Scientific outlined expansion from roughly 520 MW of current leasable capacity to a total pipeline of approximately 3.0 GW"
+ },
+ {
+  "slug": "core-scientific",
+  "field": "outlook",
+  "text": "KBW cut its rating in July 2026 over lease delivery delays, so construction timing at Denton and at the new AMD sites is the item to watch.",
+  "decision": "reword",
+  "replacement": "KBW cut its rating in July 2026 over lease delivery delays, so construction timing at its expansion campuses is the item to watch.",
+  "source": {"title": "Yahoo Finance: KBW cuts Core Scientific to Market Perform as lease delays raise execution risk", "url": "https://finance.yahoo.com/technology/ai/articles/kbw-cuts-core-scientific-market-143007821.html", "date": "2026-07-27"},
+  "quote": "We are downgrading Core Scientific to Market Perform as we see elevated execution risk in 2H:26 relative to investor expectations; Core Scientific plans to accelerate construction of initial data halls at five campuses, despite not having signed customers for that capacity"
+ },
+ {
+  "slug": "core-scientific",
+  "field": "fact",
+  "text": "Power pipeline = About 3.0 GW target",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion", "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917", "date": "2026"},
+  "quote": "a total pipeline of approximately 3.0 GW across multiple sites and locations"
+ },
+ {
+  "slug": "oracle",
+  "field": "platform",
+  "text": "Oracle also offers AMD Instinct MI300X and MI355X instances and plans a 50,000-GPU MI450 cluster starting in the third quarter of 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo Finance: AMD and Oracle Expand Partnership to Help Customers Achieve Next-Generation AI Scale", "url": "https://finance.yahoo.com/news/amd-oracle-expand-partnership-deploy-093737884.html", "date": "2025-10-21"},
+  "quote": "the launch of AMD Instinct MI300X powered shapes on Oracle Cloud Infrastructure/OCI in 2024; The deployment of this AI supercluster will begin in calendar Q3 2026 with an initial installment of 50,000 AMD Instinct MI450 Series GPUs"
+ },
+ {
+  "slug": "oracle",
+  "field": "outlook",
+  "text": "Oracle funds its build-out with debt, equity and customer prepayments, and said in February 2026 it planned to raise $45B to $50B that year through a bond offering and an equity program.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "PR Newswire: Oracle Announces Equity and Debt Financing Plan for Calendar Year 2026", "url": "https://www.prnewswire.com/news-releases/oracle-announces-equity-and-debt-financing-plan-for-calendar-year-2026-302675778.html", "date": "2026-02-01"},
+  "quote": "expects to raise $45 to $50 billion of gross cash proceeds during the 2026 calendar year; a newly authorized at-the-market equity program of up to $20 billion; to complete a single, one-time issuance of investment-grade senior unsecured bonds early in 2026"
+ },
+ {
+  "slug": "oracle",
+  "field": "outlook",
+  "text": "In the June to August 2026 quarter it spent $28.5B on capex and received $11.4B of customer prepayments.",
+  "decision": "reword",
+  "replacement": "In the June to August 2026 quarter it spent about $28B on capex, with operating cash flow lifted by customer prepayments.",
+  "source": {"title": "The Motley Fool: Oracle (ORCL) Q1 2027 Earnings Call Transcript", "url": "https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/", "date": "2026-09-11"},
+  "quote": "Total Capital Expenditures -- $28 billion; Operating Cash Flow -- $23 billion, a record performance for the first quarter supported by strong execution and the collection of customer prepayments"
+ },
+ {
+  "slug": "sf-compute",
+  "field": "today",
+  "text": "Buyers can resell reserved time they do not use to other tenants.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SF Compute: Home", "url": "https://sfcompute.com/", "date": "2026"},
+  "quote": "Reserve the compute you need and resell what you don't, so idle GPUs become revenue instead of sunk cost."
+ },
+ {
+  "slug": "sf-compute",
+  "field": "platform",
+  "text": "Customers buy and resell capacity from a command-line tool, and the scheduler lets tenants sell idle reserved GPUs back into the market.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SF Compute: Home", "url": "https://sfcompute.com/", "date": "2026"},
+  "quote": "Install sf, log in, and buy or resell GPU capacity right from the terminal; Our scheduler allows tenants to sell back their idle compute to others."
+ },
+ {
+  "slug": "sf-compute",
+  "field": "outlook",
+  "text": "Its site said in late 2025 that B300 access was coming.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SF Compute homepage (Wayback Machine archive)", "url": "http://web.archive.org/web/20251202002351/https://sfcompute.com/", "date": "2025-12-02"},
+  "quote": "B300 cluster by January, at an unbeatable price?"
+ },
+ {
+  "slug": "mithril",
+  "field": "platform",
+  "text": "Users bid in the spot auction, with low bids for cheaper capacity or high bids for faster access.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Mithril: AI Omnicloud", "url": "https://mithril.ai/", "date": "2026"},
+  "quote": "Set a low bid; your workload waits for the price to drop, then runs. Set a high bid as a safety limit. Your workload starts immediately and pays whatever the market clears at."
+ },
+ {
+  "slug": "mithril",
+  "field": "outlook",
+  "text": "The company says 20% to 60% of reserved GPU time goes unused, and Flexible Reservations targets that waste.",
+  "decision": "reword",
+  "replacement": "Mithril cites industry estimates that 20% to 60% of reserved GPU time goes unused, and says Flexible Reservations targets that waste.",
+  "source": {"title": "PR Newswire: Mithril Launches Flexible Reservations, Recycling Idle GPU Time Into the Mithril Spot Service", "url": "https://www.prnewswire.com/news-releases/mithril-launches-flexible-reservations-recycling-idle-gpu-time-into-the-mithril-spot-service-302718349.html", "date": "2026"},
+  "quote": "Industry estimates suggest that 20-60% of reserved GPU capacity goes unused at any given time, representing billions of dollars in wasted spend across the industry."
+ },
+ {
+  "slug": "hetzner",
+  "field": "origin",
+  "text": "It became one of Europe's largest hosting providers by selling dedicated servers at low prices from its own data center parks.",
+  "decision": "reword",
+  "replacement": "It became one of Europe's largest datacenter operators by providing low-cost infrastructure as a service to developers and corporate customers.",
+  "source": {"title": "The Register: Hetzner: 50% price hike, no fooling, from April 1st", "url": "https://www.theregister.com/on-prem/2026/02/24/hetzner-50-price-hike-no-fooling-from-april-1st/4547119", "date": "2026-02-24"},
+  "quote": "one of Europe's largest datacenter operators; provides low-cost Infrastructure as a Service (IaaS) for developers and many corporate customers"
+ },
+ {
+  "slug": "hetzner",
+  "field": "today",
+  "text": "The GEX131, launched in December 2025, pairs an RTX PRO 6000 Blackwell Max-Q with 96 GB of memory for €889 a month or about €1.42 an hour.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Hetzner: Hetzner unveils the GEX131 with NVIDIA RTX PRO 6000 Blackwell Max-Q", "url": "https://www.hetzner.com/pressroom/new-gex131/", "date": "2025-12-11"},
+  "quote": "11th December 2025; The NVIDIA RTX PRO 6000 Blackwell Max-Q offers exceptional AI computing capacity...96 GB of ultra-fast GDDR7 ECC memory; available from €889.00 / $989.00 a month; €1.4247 / $1.5850 per hour"
+ },
+ {
+  "slug": "gmi-cloud",
+  "field": "outlook",
+  "text": "Reuters reported in November 2025 that GMI was developing a 50 MW US data center and planned an IPO within 2 to 3 years.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Progressive Robot: GMI Cloud, Surprising $668M Series B, NVIDIA and a Debt Risk", "url": "https://www.progressiverobot.com/2026/09/30/gmi-cloud-668m-series-b-nvidia/", "date": "2026-09-30"},
+  "quote": "the company said it was raising $400 million from several Taiwanese banks for the project, planned a 50-megawatt data centre in the United States, and was considering a stock market listing in two to three years"
+ },
+ {
+  "slug": "cirrascale",
+  "field": "fact",
+  "text": "AMD Helios and MI400 series = Planned at AMD general availability",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Cirrascale: Cirrascale Advances Open AI Infrastructure with AMD Helios Rackscale Solution and AMD Instinct MI400 Series GPUs", "url": "https://www.cirrascale.com/press/cirrascale-amd-instinct-mi400-series-gpus", "date": "2026"},
+  "quote": "Cirrascale expects to make AMD Helios and AMD Instinct MI400 Series capacity available on its AI innovation cloud as the platform reaches general availability."
+ },
+ {
+  "slug": "sharon-ai",
+  "field": "outlook",
+  "text": "Neither customer is named.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo Finance: Sharon AI Announces US$1.32 Billion Five-Year Cloud Computing Service Agreement", "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-1-121000999.html", "date": "2026"},
+  "quote": "a global Artificial Intelligence ('AI') Lab"
+ }
+]

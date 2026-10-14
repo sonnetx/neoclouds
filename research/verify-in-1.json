@@ -1,0 +1,890 @@
+[
+ {
+  "slug": "akamai",
+  "name": "Akamai Cloud",
+  "website": "https://www.akamai.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results"
+   },
+   {
+    "n": 2,
+    "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results"
+   },
+   {
+    "n": 3,
+    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia"
+   },
+   {
+    "n": 4,
+    "title": "Akamai: Akamai Inference Cloud platform",
+    "url": "https://www.akamai.com/products/akamai-inference-cloud-platform"
+   },
+   {
+    "n": 5,
+    "title": "Akamai: Akamai Completes Acquisition of Linode",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Akamai turned its CDN and the Linode cloud it bought in 2022 into a distributed AI inference cloud."
+   },
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "It signed over $2.8B of multi-year cloud contracts in 2026, including $1.8B from a frontier model provider."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It bought the developer cloud Linode for about $900M in March 2022 to add general compute to its edge network."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In October 2025 it launched Akamai Inference Cloud with NVIDIA, starting in 20 locations with NVIDIA RTX PRO 6000 Blackwell servers and BlueField-3 DPUs."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Akamai's Cloud Infrastructure Services revenue grew 39% to $99M in the second quarter of 2026, out of $1.1B in total revenue."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In May 2026 Akamai said a leading US frontier model provider committed $1.8B over seven years to its cloud infrastructure."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "By August it had signed multi-year cloud contracts worth more than $2.8B in 2026, including more than $600M over four years from a new US technology customer for robotics development."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Akamai Inference Cloud runs NVIDIA RTX PRO 6000 Blackwell GPUs with NVIDIA AI Enterprise software and NIM microservices, aimed at low-latency inference close to users."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "A Kubernetes-based developer platform ships with vLLM, KServe and NVIDIA Dynamo, and Akamai charges no egress fees."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "The service sits on an edge network that Akamai says spans more than 4,350 points of presence."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Akamai said at launch that an expanded rollout beyond the first 20 Inference Cloud locations was underway."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Cloud infrastructure revenue grows much faster than Akamai's total revenue, which it guides to $4.445B to $4.530B for 2026, but still makes up less than 10% of it."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Cloud Infrastructure Services revenue, Q2 2026 = $99M, up 39%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Multi-year cloud contracts signed in 2026 = Over $2.8B"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Frontier model provider commitment = $1.8B over seven years"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Robotics customer contract = $600M+ over four years"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Edge points of presence = 4,350+"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Linode purchase price = About $900M (2022)"
+   }
+  ]
+ },
+ {
+  "slug": "northern-data",
+  "name": "Northern Data Group",
+  "website": "https://quake.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "RUM Group (SEC exhibit): Rumble Closes Acquisition of Northern Data",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026069733/ea029508101ex99-1.htm"
+   },
+   {
+    "n": 2,
+    "title": "RUM Group: Rumble Announces Realignment into Two Core Business Units and Renames Newly Acquired Cloud and AI-Infrastructure Business Quake AI",
+    "url": "https://www.rum.group/blog/rumble-announces-realignment-into-two-core-business-units-and-renames-newly-acquired-cloud-and-ai-infrastructure-business-quake-ai/"
+   },
+   {
+    "n": 3,
+    "title": "RUM Group (SEC exhibit): Press release dated September 10, 2026 on acquiring additional Northern Data shares",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026098854/ea030515801ex99-1.htm"
+   },
+   {
+    "n": 4,
+    "title": "The Globe and Mail: Rumble boosts Northern Data stake, nears full control",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/RUM/pressreleases/4945989/rumble-boosts-northern-data-stake-nears-full-control/"
+   },
+   {
+    "n": 5,
+    "title": "GlobeNewswire: Tether Doubles Down on Rumble, with an Initial Commitment of up to $150 Million of GPU Services to Fuel AI Plans",
+    "url": "https://www.globenewswire.com/news-release/2025/11/10/3184182/0/en/Tether-Doubles-Down-on-Rumble-with-an-Initial-Commitment-of-up-to-150-Million-of-GPU-Services-to-Fuel-AI-Plans.html"
+   },
+   {
+    "n": 6,
+    "title": "Crypto Briefing: Rumble signs $270M cloud agreement for dedicated GPU capacity powered by NVIDIA Blackwell systems",
+    "url": "https://cryptobriefing.com/rumble-270m-gpu-cloud-agreement/"
+   },
+   {
+    "n": 7,
+    "title": "Pulse 2.0: RUM Group Signs $13.7 Billion GPU Services Deal With Warrant For Up To 50.8 Million Shares",
+    "url": "https://pulse2.com/rum-group-signs-13-7-billion-gpu-services-deal-with-warrant-for-up-to-50-8-million-shares/"
+   },
+   {
+    "n": 8,
+    "title": "The Block: Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives (FT)",
+    "url": "https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft"
+   },
+   {
+    "n": 9,
+    "title": "DCD: European investigators raid Northern Data offices over tax fraud allegations, four arrested",
+    "url": "https://www.datacenterdynamics.com/en/news/european-investigators-raid-northern-data-offices-over-tax-fraud-allegations-four-arrested/"
+   },
+   {
+    "n": 10,
+    "title": "Bloomberg: EU Prosecutors Probe Northern Data's €500 Million GPU Buy",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-01/european-prosecutors-probe-northern-data-s-500-million-gpu-buy"
+   },
+   {
+    "n": 11,
+    "title": "DCD: Core42 signs deal with Northern Data for access to 10,000 GPUs",
+    "url": "https://www.datacenterdynamics.com/en/news/core42-signs-deal-with-northern-data-for-access-to-10000-gpus/"
+   },
+   {
+    "n": 12,
+    "title": "Wikipedia: Northern Data",
+    "url": "https://en.wikipedia.org/wiki/Northern_Data"
+   },
+   {
+    "n": 13,
+    "title": "Quake AI: Homepage",
+    "url": "https://quake.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "German GPU cloud with about 22,000 NVIDIA H100 and H200 GPUs."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "By 2025 Tether held a majority of Northern Data and about 48% of Rumble, according to the Financial Times."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Quake AI reports about 22,000 H100 and H200 GPUs and up to about 250 MW of energized or contracted power."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Northern Data raised its 2026 revenue outlook to €170M to €190M after GPU utilization reached about 85% in March 2026."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Together AI signed a $270M multi-year contract for dedicated HGX B300 capacity in June 2026, and Tether committed to buy up to $150M of GPU services over two years."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "GPU fleet = About 22,000 H100 and H200"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Utilization = About 85% in March 2026"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "2026 revenue guidance = €170M to €190M"
+   }
+  ]
+ },
+ {
+  "slug": "tensorwave",
+  "name": "TensorWave",
+  "website": "https://tensorwave.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "NewsChannel 10: Fermi America announces $6.5 billion contract with TensorWave",
+    "url": "https://www.newschannel10.com/2026/08/10/fermi-america-announces-65-billion-contract-with-tensorwave/"
+   },
+   {
+    "n": 2,
+    "title": "The Wall Street Journal: Anti-Nvidia Data-Center Startup Is Valued at $1.55 Billion in New Funding Round",
+    "url": "https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec"
+   },
+   {
+    "n": 3,
+    "title": "TensorWave: TensorWave Powers Frontier AI Growth for Cloud Customers with AMD Helios Rackscale Solution",
+    "url": "https://tensorwave.com/blog/tensorwave-powers-frontier-ai-growth-for-cloud-customers-with-amd-helios-rackscale-solution"
+   },
+   {
+    "n": 4,
+    "title": "TensorWave: News and press",
+    "url": "https://tensorwave.com/news"
+   },
+   {
+    "n": 5,
+    "title": "TensorWave: About",
+    "url": "https://tensorwave.com/about"
+   },
+   {
+    "n": 6,
+    "title": "TensorWave: Homepage",
+    "url": "https://tensorwave.com/"
+   },
+   {
+    "n": 7,
+    "title": "DCD: AI GPU cloud platform TensorWave closes $43m funding round",
+    "url": "https://www.datacenterdynamics.com/en/news/ai-gpu-cloud-platform-tensorwave-closes-43m-funding-round/"
+   },
+   {
+    "n": 8,
+    "title": "DCD: Tecfusions signs 1GW AI infrastructure deal with AI cloud firm TensorWave",
+    "url": "https://www.datacenterdynamics.com/en/news/tecfusions-signs-1gw-ai-infrastructure-deal-with-ai-cloud-firm-tensorwave/"
+   },
+   {
+    "n": 9,
+    "title": "Business Wire: TensorWave Expands Executive Leadership Team as Company Scales AI Infrastructure Operations",
+    "url": "https://www.businesswire.com/news/home/20260928477282/en/TensorWave-Expands-Executive-Leadership-Team-as-Company-Scales-AI-Infrastructure-Operations"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "AMD-only GPU cloud based in Las Vegas."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It raised a $43M round in October 2024 and that month signed a 1 GW infrastructure agreement with Tecfusions."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The Wall Street Journal reported in June 2026 that a new funding round valued TensorWave at $1.55B, and the company says it has raised more than $500M in total."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It opened a new Las Vegas headquarters in April 2026 and expanded its executive team in September 2026."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Valuation (June 2026, WSJ) = $1.55B"
+   }
+  ]
+ },
+ {
+  "slug": "moonlite",
+  "name": "Moonlite",
+  "website": "https://moonlite.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/"
+   },
+   {
+    "n": 2,
+    "title": "Moonlite: Careers at Moonlite",
+    "url": "https://moonlite.ai/careers"
+   },
+   {
+    "n": 3,
+    "title": "Revelio Labs: Moonlite AI Number of Employees 2026",
+    "url": "https://www.reveliolabs.com/companies/moonlite-ai/employees"
+   },
+   {
+    "n": 4,
+    "title": "The Manila Times (GlobeNewswire): CIQ challenges 20 teams to scale real AI across a full cluster before SC26",
+    "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/ciq-challenges-20-teams-to-scale-real-ai-across-a-full-cluster-before-sc26/2441125"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Moonlite sells GPU clusters with RDMA and InfiniBand networking and tiered storage, either co-located in a customer's data center or hosted in Moonlite facilities."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Customers can run Slurm, Kubernetes or bare metal on the same cluster."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Moonlite links clusters to existing infrastructure with multi-Tbps connections to avoid egress fees."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "It is part of the NVIDIA Inception program and does not list specific GPU models on its site."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Program = NVIDIA Inception"
+   }
+  ]
+ },
+ {
+  "slug": "microsoft-azure",
+  "name": "Microsoft Azure",
+  "website": "https://azure.microsoft.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Microsoft Form 8-K, Exhibit 99.1, fiscal 2026 fourth quarter results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526323632/msft-ex99_1.htm"
+   },
+   {
+    "n": 2,
+    "title": "Microsoft: Fiscal Year 2026 Fourth Quarter Earnings Conference Call",
+    "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+   },
+   {
+    "n": 3,
+    "title": "Microsoft: The next chapter of the Microsoft-OpenAI partnership",
+    "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/"
+   },
+   {
+    "n": 4,
+    "title": "Anthropic: Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+    "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships"
+   },
+   {
+    "n": 5,
+    "title": "Microsoft: Infinite scale: The architecture behind the Azure AI superfactory",
+    "url": "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/"
+   },
+   {
+    "n": 6,
+    "title": "Microsoft: Maia 200: The AI accelerator built for inference",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/"
+   },
+   {
+    "n": 7,
+    "title": "Microsoft: Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+    "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+   },
+   {
+    "n": 8,
+    "title": "Nebius: Nebius announces multi-billion dollar agreement with Microsoft for AI infrastructure",
+    "url": "https://nebius.com/newsroom/nebius-announces-multi-billion-dollar-agreement-with-microsoft-for-ai-infrastructure"
+   },
+   {
+    "n": 9,
+    "title": "IREN: Investor news, IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72",
+    "url": "https://iren.com/investors/news"
+   },
+   {
+    "n": 10,
+    "title": "OpenAI: Resilient AI Supercomputer Networking using MRC and SRv6 (paper)",
+    "url": "https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Microsoft's cloud runs much of OpenAI's compute and sells AI capacity to Anthropic and enterprises."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Microsoft held rights to OpenAI's compute until an October 2025 restructuring removed its right of first refusal."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Anthropic committed in November 2025 to buy $30B of Azure compute and to contract up to 1 GW more on NVIDIA Grace Blackwell and Vera Rubin systems."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Capacity remains the limit on Azure AI revenue, since Microsoft says demand exceeds supply."
+   }
+  ]
+ },
+ {
+  "slug": "nebius",
+  "name": "Nebius",
+  "website": "https://nebius.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Nebius Group N.V. Form 6-K, results for the six months ended June 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926094844/nbis-20260812xex99d1.htm"
+   },
+   {
+    "n": 2,
+    "title": "The Motley Fool: Nebius (NBIS) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/nebius-nbis-q2-2026-earnings-call-transcript/"
+   },
+   {
+    "n": 3,
+    "title": "The Motley Fool: Nebius Raised Its Year-End Power Target From More Than 3 Gigawatts to 5 in 6 Months",
+    "url": "https://www.fool.com/investing/2026/09/01/nebius-raised-its-year-end-power-target-from-more-than-3-gigawatts-to-5-in-6-months/"
+   },
+   {
+    "n": 4,
+    "title": "Nebius: Nebius signs new AI infrastructure agreement with Meta",
+    "url": "https://nebius.com/newsroom/nebius-signs-new-ai-infrastructure-agreement-with-meta"
+   },
+   {
+    "n": 5,
+    "title": "DCD: Nebius secures up to $27bn AI infrastructure contract from Meta",
+    "url": "https://www.datacenterdynamics.com/en/news/nebius-secures-up-to-27bn-ai-infrastructure-contract-from-meta/"
+   },
+   {
+    "n": 6,
+    "title": "DCD: Microsoft to use Nebius GPU data centers, in deal worth $17.4bn over five years",
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-use-nebius-gpu-data-centers-in-deal-worth-174bn-over-five-years/"
+   },
+   {
+    "n": 7,
+    "title": "TechCrunch: Reflection inks $1B compute deal with Nebius",
+    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
+   },
+   {
+    "n": 8,
+    "title": "Bloomberg: Nvidia to Invest $2 Billion in AI Data Center Specialist Nebius",
+    "url": "https://bloomberg.com/news/articles/2026-03-11/nvidia-to-invest-2-billion-in-ai-data-center-specialist-nebius"
+   },
+   {
+    "n": 9,
+    "title": "CNBC: Nebius stock surges nearly 19% as Nvidia discloses significant stake in neocloud",
+    "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html"
+   },
+   {
+    "n": 10,
+    "title": "SEC: Nebius Group N.V. Form 6-K, Palantir partnership announcement",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926105749/tm2624958d1_ex99-1.htm"
+   },
+   {
+    "n": 11,
+    "title": "Nebius: Nebius agrees to acquire Eigen AI, strengthening Nebius Token Factory as a frontier inference platform",
+    "url": "https://nebius.com/newsroom/nebius-agrees-to-acquire-eigen-ai-strengthening-nebius-token-factory-as-a-frontier-inference-platform"
+   },
+   {
+    "n": 12,
+    "title": "Nebius: Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack",
+    "url": "https://nebius.com/newsroom/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack"
+   },
+   {
+    "n": 13,
+    "title": "Nebius: Nebius announces agreement to acquire Tavily to add agentic search to its AI cloud platform",
+    "url": "https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform"
+   },
+   {
+    "n": 14,
+    "title": "HPCwire: Nebius AI Cloud 3.1 Adds NVIDIA Blackwell Ultra Compute and Capacity Management Tools",
+    "url": "https://www.hpcwire.com/aiwire/2025/12/17/nebius-ai-cloud-3-1-adds-nvidia-blackwell-ultra-compute-and-capacity-management-tools/"
+   },
+   {
+    "n": 15,
+    "title": "GitHub: nebius/soperator",
+    "url": "https://github.com/nebius/soperator"
+   },
+   {
+    "n": 16,
+    "title": "Nasdaq: Nasdaq Resumes Trading in Nebius Group N.V.",
+    "url": "https://www.nasdaq.com/press-release/nasdaq-resumes-trading-nebius-group-nv-2024-10-18"
+   },
+   {
+    "n": 17,
+    "title": "Yahoo Finance (Reuters): Nebius set to resume Nasdaq trading after completing split from Russia's Yandex",
+    "url": "https://finance.yahoo.com/news/nebius-set-resume-nasdaq-trading-195218464.html"
+   },
+   {
+    "n": 18,
+    "title": "DCD: Nebius plans 240MW data center in Béthune, France",
+    "url": "https://www.datacenterdynamics.com/en/news/nebius-plans-240mw-data-center-in-b%C3%A9thune-france/"
+   },
+   {
+    "n": 19,
+    "title": "DCD: Nebius targets data center development in Birmingham, Alabama",
+    "url": "https://www.datacenterdynamics.com/en/news/nebius-targets-data-center-development-in-birmingham-alabama/"
+   },
+   {
+    "n": 20,
+    "title": "GlobeNewswire via Manila Times: AIB Data Centers Signs Contract with Nebius for AI Data Center Capacity",
+    "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/aib-data-centers-signs-contract-with-nebius-for-ai-data-center-capacity/2436078"
+   },
+   {
+    "n": 21,
+    "title": "NL Times: Cloud company Nebius signs on as first client at new major data center",
+    "url": "https://nltimes.nl/2026/10/12/cloud-company-nebius-signs-first-client-new-major-data-center"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Microsoft signed a five-year contract in September 2025 worth $17.4B, or up to $19.4B with options, served from a new site in Vineland, New Jersey."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Palantir named Nebius its preferred sovereign AI infrastructure partner in September 2026 and plans to integrate Nebius compute and inference into its platform."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "New sites include a 240 MW former Bridgestone tyre plant in Béthune, France, a project in Birmingham, Alabama, a 50 MW, 12-year lease from AIB Data Centers in the southeastern US, and a letter of intent for a large share of a planned 600 MW campus on Rotterdam's Maasvlakte."
+   }
+  ]
+ },
+ {
+  "slug": "modal",
+  "name": "Modal",
+  "website": "https://modal.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SiliconANGLE: Serverless AI infrastructure startup Modal Labs seals $355M funding round",
+    "url": "https://siliconangle.com/2026/05/21/serverless-ai-infrastructure-startup-modal-labs-seals-355m-funding-round/"
+   },
+   {
+    "n": 2,
+    "title": "Reuters: Modal Labs valued at $4.65 billion as AI coding takes off",
+    "url": "https://www.reuters.com/business/modal-labs-valued-465-billion-ai-coding-takes-off-2026-05-21/"
+   },
+   {
+    "n": 3,
+    "title": "TechCrunch: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+   },
+   {
+    "n": 4,
+    "title": "Reuters: Modal Labs in talks to raise funds at $15 billion valuation, Bloomberg News reports",
+    "url": "https://www.reuters.com/technology/modal-labs-talks-raise-funds-15-billion-valuation-bloomberg-news-reports-2026-09-23/"
+   },
+   {
+    "n": 5,
+    "title": "Modal: Pricing",
+    "url": "https://modal.com/pricing"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Demand for AI inference and for sandboxes that run AI-generated code made GPUs the core of its business."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Developers define workloads in Python, and Modal runs them in containers on rented GPUs, charging by the second for the time used."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "It offers NVIDIA GPUs from T4 to B300, plus sandboxes for testing AI-generated code."
+   }
+  ]
+ },
+ {
+  "slug": "vast-ai",
+  "name": "Vast.ai",
+  "website": "https://vast.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PRWeb: Vast.ai Launches Serverless Orchestration Layer for Global GPU Cloud",
+    "url": "https://www.prweb.com/releases/vastai-launches-serverless-orchestration-layer-for-global-gpu-cloud-302637585.html"
+   },
+   {
+    "n": 2,
+    "title": "Vast.ai: June 2026 Product Update",
+    "url": "https://vast.ai/article/june-2026-product-update"
+   },
+   {
+    "n": 3,
+    "title": "Vast.ai: About Vast.ai",
+    "url": "https://vast.ai/about"
+   },
+   {
+    "n": 4,
+    "title": "Vast.ai: Press Kit",
+    "url": "https://vast.ai/press-kit"
+   },
+   {
+    "n": 5,
+    "title": "Vast.ai: GPU Pricing",
+    "url": "https://vast.ai/pricing"
+   },
+   {
+    "n": 6,
+    "title": "PR Newswire: VAST.AI Becomes First GPU Rental Marketplace To Offer AMD Support",
+    "url": "https://www.prnewswire.com/news-releases/vastai-becomes-first-gpu-rental-marketplace-to-offer-amd-support-302134581.html"
+   },
+   {
+    "n": 7,
+    "title": "Observer: Amid an A.I. Chip Shortage, the GPU Rental Market Is Booming",
+    "url": "https://observer.com/2024/10/ai-gpu-rental-startup/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "Hosts run Vast's software and list their own machines, from single consumer cards to data center racks, and prices move with supply and demand."
+   },
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "The catalog spans RTX 4090 and RTX 5090 cards, RTX PRO 6000 workstation cards, and A100, H100, H200 and B300 data center GPUs."
+   }
+  ]
+ },
+ {
+  "slug": "indosat",
+  "name": "Indosat Ooredoo Hutchison",
+  "website": "https://ioh.co.id",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Developing Telecoms: Indosat's Lintasarta launches Nvidia-powered AI cloud",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/17197-indosat-s-lintasarta-launches-nvidia-powered-ai-cloud.html"
+   },
+   {
+    "n": 2,
+    "title": "NVIDIA Blog: Indonesia Tech Leaders Team With NVIDIA and Partners to Launch Nation's AI",
+    "url": "https://blogs.nvidia.com/blog/indonesia-tech-leaders-sovereign-ai/"
+   },
+   {
+    "n": 3,
+    "title": "TNGlobal: Indonesia's Indosat jointly launches 1GW AI factory platform Zankore with Qatar's Ooredoo, Finland's Nokia, US' NVIDIA",
+    "url": "https://technode.global/2026/08/07/indonesias-indosat-jointly-launches-1gw-ai-factory-platform-zankore-with-qatars-ooredoo-finlands-nokia-us-nvidia/"
+   },
+   {
+    "n": 4,
+    "title": "The Next Web: Cherry-picking our tenants, Ooredoo bets $800m on Indonesia's first AI cloud",
+    "url": "https://thenextweb.com/news/zankore-ooredoo-800m-indonesia-ai-cloud-neocloud-nvidia"
+   },
+   {
+    "n": 5,
+    "title": "Reuters: Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform",
+    "url": "https://www.reuters.com/business/media-telecom/ooredoo-backed-zankore-secures-31-billion-financing-nvidia-ai-cloud-platform-2026-09-09/"
+   },
+   {
+    "n": 6,
+    "title": "Developing Telecoms: Indosat and F5 launch AI services suite for Southeast Asian enterprises",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20948-indosat-and-f5-launch-ai-services-suite-for-southeast-asian-enterprises.html"
+   },
+   {
+    "n": 7,
+    "title": "CoreWeave: CoreWeave Expands AI Cloud Platform Into Indonesia",
+    "url": "https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Ooredoo commits $800M over five years for a 49% stake, and Zankore raised a $3.1B term loan in September 2026."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Zankore debt financing = $3.1B (September 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "together-ai",
+  "name": "Together AI",
+  "website": "https://www.together.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Together AI: Announcing our $800M Series C",
+    "url": "https://www.together.ai/blog/announcing-our-series-c"
+   },
+   {
+    "n": 2,
+    "title": "Together AI: Together AI announcing $305M Series B",
+    "url": "https://www.together.ai/blog/together-ai-announcing-305m-series-b"
+   },
+   {
+    "n": 3,
+    "title": "Together AI: Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
+    "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia"
+   },
+   {
+    "n": 4,
+    "title": "Together AI: Together Link, frontier-quality open models in the harness you already use",
+    "url": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use"
+   },
+   {
+    "n": 5,
+    "title": "Together AI: Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models",
+    "url": "https://www.together.ai/blog/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models"
+   },
+   {
+    "n": 6,
+    "title": "Together AI: GPU Clusters",
+    "url": "https://www.together.ai/gpu-clusters"
+   },
+   {
+    "n": 7,
+    "title": "Together AI: About us",
+    "url": "https://www.together.ai/about"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "That round followed a $305M Series B at a $3.3B valuation in February 2025, when it announced a 36,000-GPU GB200 NVL72 cluster with Hypertec and 200 MW of secured power."
+   }
+  ]
+ },
+ {
+  "slug": "lightning-ai",
+  "name": "Lightning AI",
+  "website": "https://lightning.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "VentureBeat: Lightning AI and Voltage Park merge",
+    "url": "https://venturebeat.com/business/lightning-ai-and-voltage-park-complete-merger-to-create-the-first-cloud-built-for-ai"
+   },
+   {
+    "n": 2,
+    "title": "Latham & Watkins: Latham & Watkins Advises Voltage Park in Completed Merger With Lightning AI",
+    "url": "https://www.lw.com/en/news/2026/01/latham-advises-voltage-park-in-completed-merger-with-lightning-ai"
+   },
+   {
+    "n": 3,
+    "title": "Unite.AI: Lightning AI and Voltage Park Announce Merger to Redefine the AI Cloud Stack",
+    "url": "https://www.unite.ai/lightning-ai-and-voltage-park-announce-merger-to-redefine-the-ai-cloud-stack/"
+   },
+   {
+    "n": 4,
+    "title": "Bitget News: Lightning AI merges with Voltage Park, valuation exceeds $2.5 billions",
+    "url": "https://www.bitget.com/news/detail/12560605161913"
+   },
+   {
+    "n": 5,
+    "title": "Forbes: AI Startup Merges With A Billionaire-Backed Data Center Operator In $2.5 Billion Deal",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/01/21/ai-startup-merges-with-a-billionaire-backed-data-center-operator-in-25-billion-deal/"
+   },
+   {
+    "n": 6,
+    "title": "Pulse 2.0: Lightning AI Appoints Heather Paduck As CFO, Betty Junod As CMO, And Jarlath Doherty As Chief People Officer",
+    "url": "https://pulse2.com/lightning-ai-appoints-heather-paduck-as-cfo-betty-junod-as-cmo-and-jarlath-doherty-as-chief-people-officer/"
+   },
+   {
+    "n": 7,
+    "title": "SiliconANGLE: Lightning AI launches multicloud GPU marketplace to connect developers to compute infrastructure",
+    "url": "https://siliconangle.com/2025/08/19/lightning-ai-launches-multicloud-gpu-marketplace-connect-developers-compute-infrastructure/"
+   },
+   {
+    "n": 8,
+    "title": "AlleyWatch: Lightning AI Raises $40M for its Platform and Framework for Building Machine Learning and AI Apps",
+    "url": "https://www.alleywatch.com/2022/06/lightning-ai-operating-system-for-ai-machine-learning-william-falcon/"
+   },
+   {
+    "n": 9,
+    "title": "HPCwire: Lightning AI Launches Its Studio Platform in AWS Marketplace",
+    "url": "https://www.hpcwire.com/bigdatawire/this-just-in/lightning-ai-launches-its-studio-platform-in-aws-marketplace/"
+   },
+   {
+    "n": 10,
+    "title": "Lightning AI: Home",
+    "url": "https://lightning.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Lightning's software covers data preparation, interactive development on cloud GPUs through its Studio platform, parallel experiments, training on InfiniBand clusters, fine-tuning with reinforcement learning, and serving."
+   }
+  ]
+ },
+ {
+  "slug": "sesterce",
+  "name": "Sesterce",
+  "website": "https://www.sesterce.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Sesterce: SoftBank Group and Sesterce to Develop 1 GW AI Data Center in Bosquel, France",
+    "url": "https://www.sesterce.com/newsroom/softbank-group-sesterce-1gw-ai-data-center-bosquel-france"
+   },
+   {
+    "n": 2,
+    "title": "Sesterce: Rovaltain Becomes a Sesterce Campus",
+    "url": "https://www.sesterce.com/newsroom/rovaltain-becomes-a-sesterce-campus"
+   },
+   {
+    "n": 3,
+    "title": "Sesterce: Sesterce Plans a €10 Billion AI Campus in Jämsä",
+    "url": "https://www.sesterce.com/newsroom/sesterce-plans-ai-campus-kaipola-jamsa-finland"
+   },
+   {
+    "n": 4,
+    "title": "Sesterce: Supercomputers to be proud of",
+    "url": "https://www.sesterce.com/"
+   },
+   {
+    "n": 5,
+    "title": "Sesterce Cloud: GPU rental",
+    "url": "https://cloud.sesterce.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unsupported",
+    "text": "French AI infrastructure company that rents NVIDIA GPUs and is developing large AI campuses."
+   }
+  ]
+ }
+]

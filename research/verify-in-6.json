@@ -1,0 +1,900 @@
+[
+ {
+  "slug": "aws",
+  "name": "Amazon Web Services",
+  "website": "https://aws.amazon.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx"
+   },
+   {
+    "n": 2,
+    "title": "Amazon: Amazon.com Announces First Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx"
+   },
+   {
+    "n": 3,
+    "title": "Amazon: Amazon.com Announces Fourth Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx"
+   },
+   {
+    "n": 4,
+    "title": "About Amazon: AWS and OpenAI announce multi-year strategic partnership",
+    "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure"
+   },
+   {
+    "n": 5,
+    "title": "About Amazon: AWS activates Project Rainier, one of the world's largest AI compute clusters",
+    "url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster"
+   },
+   {
+    "n": 6,
+    "title": "About Amazon: Trainium3 UltraServers now generally available",
+    "url": "https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "AWS grew 37% to $42.2B in the June 2026 quarter, and Anthropic and OpenAI have made multi-gigawatt Trainium commitments."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Amazon launched AWS in 2006 and built it into the largest public cloud."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "AWS revenue rose 37% to $42.2B in the second quarter of 2026, its fastest growth in 18 quarters."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Both Amazon's AI business and its chips business passed $25B annual run rates."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Amazon said in April 2026 that Anthropic will secure up to 5 GW of current and future Trainium chips and that OpenAI committed to about 2 GW of Trainium capacity."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Amazon landed more than 2.1 million AI chips in the 12 months before its April 2026 report, more than half of them Trainium, and plans about $200B of capex in 2026."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Its trailing twelve-month free cash flow was negative $7.6B at the end of June 2026 as capex rose."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "AWS revenue, Q2 2026 = $42.2B, up 37%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "AI business run rate = Over $25B"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Amazon 2026 capex plan = About $200B"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Anthropic Trainium commitment = Up to 5 GW"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "OpenAI commitments = $38B (Nov 2025), about 2 GW of Trainium"
+   }
+  ]
+ },
+ {
+  "slug": "alibaba-cloud",
+  "name": "Alibaba Cloud",
+  "website": "https://www.alibabacloud.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm"
+   },
+   {
+    "n": 2,
+    "title": "SEC: Alibaba Group Form 6-K, pricing of HK$80 billion placing of new shares",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361715/baba-ex99_4.htm"
+   },
+   {
+    "n": 3,
+    "title": "SEC: Alibaba Group Form 6-K, completion of placing of new shares",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/baba-ex99_1.htm"
+   },
+   {
+    "n": 4,
+    "title": "Wikipedia: Alibaba Cloud",
+    "url": "https://en.wikipedia.org/wiki/Alibaba_Cloud"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Cloud revenue grew 45% in the June 2026 quarter, and Alibaba raised HK$80B in August 2026 for AI infrastructure."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Alibaba's cloud revenue rose 45% to RMB 48.4B ($7.1B) in the quarter that ended June 2026, and AI-related product revenue reached RMB 12.4B ($1.8B)."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Quarterly capex rose 75% to RMB 67.7B ($10.0B), which Alibaba attributes to procurement timing, added compute capacity and higher chip component prices."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.3B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "T-Head's Zhenwu AI chips now serve more than 650 external customers through Alibaba Cloud."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Alibaba announced in February 2025 a plan to spend more than RMB 380B on cloud and AI infrastructure over three years."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Higher chip component prices already push up its capex."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Cloud revenue, June 2026 quarter = RMB 48.4B ($7.1B), up 45%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "AI-related product revenue, June 2026 quarter = RMB 12.4B ($1.8B)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Capex, June 2026 quarter = RMB 67.7B ($10.0B), up 75%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Share placement, August 2026 = HK$80B (about $10.3B)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Zhenwu chip external customers = 650+"
+   }
+  ]
+ },
+ {
+  "slug": "bitdeer",
+  "name": "Bitdeer",
+  "website": "https://www.bitdeer.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Data Center Dynamics: Bitdeer taps contractor to begin conversion of Norwegian crypto mine to HPC",
+    "url": "https://www.datacenterdynamics.com/en/news/bitdeer-taps-contractor-to-begin-conversion-of-norwegian-crypto-mine-to-hpc/"
+   },
+   {
+    "n": 2,
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html"
+   },
+   {
+    "n": 3,
+    "title": "Blockspace Media: Bitdeer pays $100 million for 200 acres near Rockdale AI/HPC site",
+    "url": "https://blockspace.media/insight/bitdeer-buys-rockdale-land-ai-hpc-expansion/"
+   },
+   {
+    "n": 4,
+    "title": "Stock Titan: Notice to Disregard, Bitdeer Technologies",
+    "url": "https://www.stocktitan.net/news/BTDR/notice-to-disregard-bitdeer-technologies-d6hppmzq6ina.html"
+   },
+   {
+    "n": 5,
+    "title": "TheEnergyMag: Bitdeer Secures 67MW AI Data Center Campus in Malaysia, Bringing Total to 273.5MW",
+    "url": "https://www.theenergymag.com/news/market-news/bitdeer-secures-60-mw-malaysia-ai-data-center-95-of-350-mw-target"
+   },
+   {
+    "n": 6,
+    "title": "GlobeNewswire: Bitdeer AI Expands Malaysia Campus with New 60MW A103 Facility, Closing in on Up-to-350MW Global Capacity Target",
+    "url": "https://www.globenewswire.com/news-release/2026/10/12/3379255/0/en/bitdeer-ai-expands-malaysia-campus-with-new-60mw-a103-facility-closing-in-on-up-to-350mw-global-capacity-target.html"
+   },
+   {
+    "n": 7,
+    "title": "Securities.io: Bitdeer AI Secures 60MW A103 Facility Under 8-Year Agreement",
+    "url": "https://www.securities.io/bitdeer-ai-secures-60mw-a103-facility-under-8-year-agreement/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Bitmain co-founder Jihan Wu set up Bitdeer as a separate Bitcoin mining and hosting company, and it listed on Nasdaq in 2023."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Its AI cloud ran 4,248 GPUs at 95% utilization in July 2026, for about $76M of ARR."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Bitdeer also bought 200 acres near its Rockdale, Texas site for $100M in 2026 to expand AI capacity."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "AI cloud ARR = About $76M (July 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "GPUs deployed = 4,248 at 95% utilization (July 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Self-mining hashrate = 76.7 EH/s (July 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "corvex",
+  "name": "Corvex",
+  "website": "https://www.corvex.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Movano and Corvex joint press release on merger agreement, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390025107857/ea026448601ex99-1_movano.htm"
+   },
+   {
+    "n": 2,
+    "title": "SEC: Corvex Announces Closing of All-Stock Merger, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026031846/ea028203201ex99-1.htm"
+   },
+   {
+    "n": 3,
+    "title": "SEC: Corvex, Inc. Form 8-K, annual meeting and co-CEO appointment",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026076046/ea0297207-8k_corvex.htm"
+   },
+   {
+    "n": 4,
+    "title": "SEC: Corvex, Inc. Form 10-Q for the quarter ended June 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026090091/ea0301480-10q_corvex.htm"
+   },
+   {
+    "n": 5,
+    "title": "SEC: Corvex private placement press release, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026096776/ea030434301ex99-1.htm"
+   },
+   {
+    "n": 6,
+    "title": "Corvex: Corvex Announces Significant Data Center Expansion, Increasing Current Capacity 5x with Contracted Path to 13x",
+    "url": "https://www.corvex.ai/blog/corvex-announces-significant-data-center-expansion-increasing-current-capacity-5x-with-contracted-path-to-13x"
+   },
+   {
+    "n": 7,
+    "title": "Corvex: Corvex Signs Multi-Year Agreement to Provide NVIDIA Blackwell GPUs",
+    "url": "https://www.corvex.ai/blog/corvex-signs-multi-year-agreement-to-provide-nvidia-blackwell-gpus"
+   },
+   {
+    "n": 8,
+    "title": "Corvex: Corvex Secures Long-Term NVIDIA H200 GPU Deployment with AI-Driven Provider of High-Performance Battery Technologies",
+    "url": "https://www.corvex.ai/blog/corvex-secures-long-term-nvidia-h200-gpu-deployment-with-ai-driven-provider-of-high-performance-battery-technologies-to-support-production-ai-workloads"
+   },
+   {
+    "n": 9,
+    "title": "Corvex: Blog and news",
+    "url": "https://www.corvex.ai/blog"
+   },
+   {
+    "n": 10,
+    "title": "Corvex: Home",
+    "url": "https://www.corvex.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Corvex is an Arlington, Virginia AI cloud that went public by merging into Nasdaq-listed Movano in March 2026."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In November 2025 Corvex agreed to an all-stock merger with Movano Inc., under which Corvex holders would own about 96% of the combined company."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "The two companies raised about $40M around the deal."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Corvex reported $3.8M of revenue in Q2 2026, and two customers accounted for 93% of it."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 revenue = $3.8M"
+   }
+  ]
+ },
+ {
+  "slug": "lambda",
+  "name": "Lambda",
+  "website": "https://lambda.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Pulse 2.0: Anthropic Reportedly Signs $35 Billion Lambda Cloud Deal For 350 MW Texas AI Data Center",
+    "url": "https://pulse2.com/anthropic-reportedly-signs-35-billion-lambda-cloud-deal-for-350-mw-texas-ai-data-center/"
+   },
+   {
+    "n": 2,
+    "title": "DCD: Anthropic signs $35bn cloud agreement with Lambda - report",
+    "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-35bn-cloud-agreement-with-lambda-report/"
+   },
+   {
+    "n": 3,
+    "title": "Tech Funding News: Nvidia-backed Lambda eyes $4B at $14.5B valuation from Blackstone and Coatue before 2027 IPO",
+    "url": "https://techfundingnews.com/nvidia-backed-lambda-eyes-4b-at-14-5b-valuation-from-blackstone-and-coatue-before-2027-ipo-report"
+   },
+   {
+    "n": 4,
+    "title": "Investing.com: Lambda raises up to $4 billion ahead of planned 2027 IPO, WSJ reports",
+    "url": "https://ng.investing.com/news/stock-market-news/lambda-raises-up-to-4-billion-ahead-of-planned-2027-ipo-wsj-reports-93CH-2724167"
+   },
+   {
+    "n": 5,
+    "title": "Lambda: Lambda closes $1 billion senior secured fixed rate financing",
+    "url": "https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing"
+   },
+   {
+    "n": 6,
+    "title": "Lambda: Lambda closes $926 million senior secured term loan B facility",
+    "url": "https://lambda.ai/blog/lambda-closes-926-million-senior-secured-term-loan-b-facility"
+   },
+   {
+    "n": 7,
+    "title": "Converge Digest: Lambda Closes $1 Billion Loan for Contracted GPU Deployments",
+    "url": "https://convergedigest.com/lambda-1-008b-fixed-rate-loan-gpu-deployments/"
+   },
+   {
+    "n": 8,
+    "title": "Lambda: Lambda to build new data center in Mayes County, Oklahoma",
+    "url": "https://lambda.ai/blog/new-lambda-data-center-in-oklahoma"
+   },
+   {
+    "n": 9,
+    "title": "HPCwire: Lambda Announces Multibillion-Dollar Agreement with Microsoft to Deploy AI Infrastructure Powered by NVIDIA GPUs",
+    "url": "https://www.hpcwire.com/off-the-wire/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-nvidia-gpus/"
+   },
+   {
+    "n": 10,
+    "title": "DCD: Microsoft signs multi-billion-dollar cloud capacity deal with Lambda",
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-cloud-capacity-deal-with-lambda/"
+   },
+   {
+    "n": 11,
+    "title": "KCTV5: Lambda to convert Kansas City building into AI supercomputer",
+    "url": "https://www.kctv5.com/2025/10/28/tech-company-bring-500-million-supercomputer-facility-kansas-city/"
+   },
+   {
+    "n": 12,
+    "title": "Sacra: Lambda's IPO",
+    "url": "https://sacra.com/research/lambda-ipo/"
+   },
+   {
+    "n": 13,
+    "title": "Sacra: Lambda Labs revenue, valuation and funding",
+    "url": "https://sacra.com/c/lambda-labs/"
+   },
+   {
+    "n": 14,
+    "title": "Lambda: 1-Click Clusters",
+    "url": "https://lambda.ai/1-click-clusters"
+   },
+   {
+    "n": 15,
+    "title": "Lambda: The Superintelligence Cloud (homepage)",
+    "url": "https://lambda.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It has worked with Microsoft for more than eight years and now markets itself as the Superintelligence Cloud."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The Wall Street Journal reported in October that the deal lifted Lambda's backlog from about $15B in June to about $50B in September."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Lambda raised $2.93B of debt in 2026 through a $1B credit facility in May, a $926M term loan B in August and a $1.008B investment-grade term loan in October."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Debt raised in 2026 = $2.93B across three facilities"
+   }
+  ]
+ },
+ {
+  "slug": "ibm-cloud",
+  "name": "IBM Cloud",
+  "website": "https://www.ibm.com/cloud",
+  "sources": [
+   {
+    "n": 1,
+    "title": "IBM: GPUs and AI accelerators on IBM Cloud",
+    "url": "https://www.ibm.com/cloud/gpu"
+   },
+   {
+    "n": 2,
+    "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
+    "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "IBM's public cloud targets enterprise and regulated workloads."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Its GPU business serves enterprises that want to run AI next to IBM software and inside IBM's security and compliance controls."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Largest NVIDIA instance = 8x H200 (141 GB each)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Intel instance = 8x Gaudi 3 (128 GB each)"
+   }
+  ]
+ },
+ {
+  "slug": "mistral-ai",
+  "name": "Mistral AI",
+  "website": "https://mistral.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Mistral AI: Mistral Compute",
+    "url": "https://mistral.ai/news/mistral-compute"
+   },
+   {
+    "n": 2,
+    "title": "Mistral AI: Mistral raises 1.7B€ to accelerate technological progress with AI",
+    "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/"
+   },
+   {
+    "n": 3,
+    "title": "Mistral AI: Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+   },
+   {
+    "n": 4,
+    "title": "Mistral AI: In-region inference, open models, and new European infrastructure for sovereign AI",
+    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/"
+   },
+   {
+    "n": 5,
+    "title": "Mistral AI: Mistral x HUMAIN",
+    "url": "https://mistral.ai/news/mistral-x-humain/"
+   },
+   {
+    "n": 6,
+    "title": "Mistral AI: Hallo, Deutschland",
+    "url": "https://mistral.ai/news/hallo-deutschland/"
+   },
+   {
+    "n": 7,
+    "title": "Mistral AI: Mistral partners with NVIDIA to accelerate open frontier models",
+    "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unsupported",
+    "text": "Mistral AI started in Paris in 2023 to build open-weight language models."
+   },
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "Mistral Compute bundles GPUs, orchestration, APIs and Mistral's own products, sold from bare-metal servers up to fully managed platform services."
+   }
+  ]
+ },
+ {
+  "slug": "naver-cloud",
+  "name": "Naver Cloud",
+  "website": "https://www.navercloudcorp.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "NVIDIA Newsroom: NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs",
+    "url": "https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure"
+   },
+   {
+    "n": 2,
+    "title": "The Globe and Mail (press release): NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/2348997/naver-expands-ai-infrastructure-with-nvidia-to-serve-surging-global-ai-demand/"
+   },
+   {
+    "n": 3,
+    "title": "The Korea Herald: Nvidia, Naver team up for gigawatt-scale AI cloud push in Korea",
+    "url": "https://www.koreaherald.com/article/10765602"
+   },
+   {
+    "n": 4,
+    "title": "The Korea Times: Nvidia invests $1 bil. in Naver for 4.5% stake",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260727/nvidia-takes-45-stake-in-naver-with-1-bil-strategic-investment"
+   },
+   {
+    "n": 5,
+    "title": "Seoul Economic Daily: Samsung SDS, Naver Cloud, Elice Group Win 2 Trillion Won Government GPU Project",
+    "url": "https://en.sedaily.com/technology/2026/06/08/samsung-sds-naver-cloud-elice-group-win-2-trillion-won"
+   },
+   {
+    "n": 6,
+    "title": "AMD: AMD and NAVER Cloud Announce Strategic Collaboration to Advance AI Infrastructure in Korea",
+    "url": "https://newsroom.amd.com/news/amd-and-naver-cloud-announce-strategic-collab/"
+   },
+   {
+    "n": 7,
+    "title": "The Korea Herald: Naver Cloud, NC AI opt out of retender in sovereign AI project",
+    "url": "https://www.koreaherald.com/article/10657159"
+   },
+   {
+    "n": 8,
+    "title": "UPI: South Korea's Naver Cloud, Vietnam's FPT expand AI partnership",
+    "url": "https://www.upi.com/Top_News/World-News/2026/10/12/naver-cloud-vietnam-fpt-ai-factories/4801791853282/"
+   },
+   {
+    "n": 9,
+    "title": "The Korea Times: Naver Cloud, HanmiGlobal set sights on Saudi Arabia's data center market",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260424/naver-cloud-hanmiglobal-set-sights-on-saudi-arabias-data-center-market"
+   },
+   {
+    "n": 10,
+    "title": "Naver Corp: TEAM NAVER to Join Morocco's Mega AI Data Center Project, Expanding AI and Cloud Presence into Europe",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=32606"
+   },
+   {
+    "n": 11,
+    "title": "Developing Telecoms: Nexus to build US$1.2 billion AI factory in Morocco",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20099-nexus-to-build-us-1-2-billion-ai-factory-in-morocco.html"
+   },
+   {
+    "n": 12,
+    "title": "The Korea Herald: Naver Cloud teams up with Siam AI to develop Thai-language LLM, AI agent",
+    "url": "https://www.koreaherald.com/article/10494320"
+   },
+   {
+    "n": 13,
+    "title": "THE ELEC: Naver Cloud Beats SK Telecom for Government Cybersecurity AI Project",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=13641"
+   },
+   {
+    "n": 14,
+    "title": "UPI: Naver Cloud pushes private-sector AI into South Korean military",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/18/naver-cloud-military-networks-ai-models/8891789773893/"
+   },
+   {
+    "n": 15,
+    "title": "The Korea Herald: LG CNS enters liquid cooling market with Naver Cloud",
+    "url": "https://www.koreaherald.com/article/10852869"
+   }
+  ],
+  "claims": [
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "The Nexus Core Systems project now targets 36 MW with construction from 2027, and recent coverage does not spell out Naver's role."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Government GPU contract = 4,120 GPUs, 3,112 B300 and 1,008 Vera Rubin (June 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "evroc",
+  "name": "Evroc",
+  "website": "https://www.evroc.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "TechCrunch: Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe",
+    "url": "https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/"
+   },
+   {
+    "n": 2,
+    "title": "SiliconANGLE: Cloud infrastructure startup Evroc raises €50.6M to build new data centers",
+    "url": "https://siliconangle.com/2025/03/20/cloud-infrastructure-startup-evroc-raises-e50-6m-build-new-data-centers/"
+   },
+   {
+    "n": 3,
+    "title": "DCD: Evroc plans 96MW data center outside Cannes, France",
+    "url": "https://www.datacenterdynamics.com/en/news/evroc-plans-96mw-data-center-outside-cannes-france/"
+   },
+   {
+    "n": 4,
+    "title": "DCD: Sovereign European cloud Evroc launches",
+    "url": "https://www.datacenterdynamics.com/en/news/sovereign-european-cloud-evroc-launches/"
+   },
+   {
+    "n": 5,
+    "title": "PR Newswire: evroc reveals plans to build Europe's first sovereign hyperscale cloud",
+    "url": "https://www.prnewswire.co.uk/news-releases/evroc-reveals-plans-to-build-europes-first-sovereign-hyperscale-cloud-301841271.html"
+   },
+   {
+    "n": 6,
+    "title": "Nordic Defence Sector: Evroc Develops Cloud Platform for the Swedish Armed Forces' New Command and Control System",
+    "url": "https://nordicdefencesector.com/en/article/evroc-builds-cloud-platform-for-the-swedish-armed-forces-sincc"
+   },
+   {
+    "n": 7,
+    "title": "DCD: Swedish military teams up with Evroc for Combat Cloud",
+    "url": "https://www.datacenterdynamics.com/en/news/swedish-military-teams-up-with-evroc-for-combat-cloud/"
+   },
+   {
+    "n": 8,
+    "title": "DataCentreNews UK: SUSE and evroc forge sovereign European cloud stack deal",
+    "url": "https://datacentrenews.uk/story/suse-evroc-forge-sovereign-european-cloud-stack-deal"
+   },
+   {
+    "n": 9,
+    "title": "Konsulteer: Vilja Partners With Evroc On Sovereign AI Banking",
+    "url": "https://www.konsulteer.com/article/vilja-partners-with-evroc-to-bring-sovereign-ai-into-european-banking"
+   },
+   {
+    "n": 10,
+    "title": "evroc: Homepage",
+    "url": "https://www.evroc.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In September 2026 it partnered with Vilja to bring agentic AI to European banks."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Its flagship Stockholm data center targets rack densities above 150 kW with liquid cooling and fossil-free power, and Evroc plans an NVIDIA Blackwell GPU cluster there."
+   }
+  ]
+ },
+ {
+  "slug": "firmus",
+  "name": "Firmus",
+  "website": "https://firmus.co",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Firmus: Firmus Announces Fully Subscribed USD$2 Billion Strategic Equity Investment",
+    "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific"
+   },
+   {
+    "n": 2,
+    "title": "Reuters via Yahoo Finance: Firmus nearly doubles valuation to over $10.5 billion in Nvidia-backed fundraise",
+    "url": "https://finance.yahoo.com/technology/ai/articles/firmus-nearly-doubles-valuation-over-022927084.html"
+   },
+   {
+    "n": 3,
+    "title": "SiliconANGLE: Nvidia-backed Firmus raises $505M at $5.5B valuation ahead of ASX IPO",
+    "url": "https://siliconangle.com/2026/04/06/nvidia-backed-firmus-raises-505m-5-5b-valuation-ahead-asx-ipo/"
+   },
+   {
+    "n": 4,
+    "title": "Mingtiandi: Blackstone Leads $10B in Debt Financing for Australia's Firmus",
+    "url": "https://www.mingtiandi.com/real-estate/data-centres/blackstone-leads-10b-in-debt-financing-for-australias-firmus/"
+   },
+   {
+    "n": 5,
+    "title": "Firmus: Firmus Signs Multi-Year Agreement with Global Hyperscale Customer at Project Southgate",
+    "url": "https://firmus.co/newsroom/firmus-signs-multi-year-agreement-with-global-hyperscale-customer-at-project-southgate"
+   },
+   {
+    "n": 6,
+    "title": "Firmus: Firmus to Build 170,000 GPU AI Factory Campus with NVIDIA for Global AI-Natives",
+    "url": "https://firmus.co/newsroom/firmus-to-build-170-000-gpu-ai-factor-y-campus-with-nvidia-for-global-ai-natives"
+   },
+   {
+    "n": 7,
+    "title": "Firmus: Firmus surpasses 900 MW contracted capacity, adds OpenAI as anchor customer and expands into Malaysia",
+    "url": "https://firmus.co/newsroom/firmus-surpasses-900-mw-contracted-capacity-adds-openai-as-anchor-customer-and-expands-into-malaysia"
+   },
+   {
+    "n": 8,
+    "title": "Firmus: Firmus and Meta announce strategic AI infrastructure agreements across Asia-Pacific",
+    "url": "https://firmus.co/newsroom/firmus-and-meta-announce-strategic-ai-infrastructure-agreements-across-asia-pacific"
+   },
+   {
+    "n": 9,
+    "title": "Firmus: Fireworks partners with Firmus AI Cloud to scale specialized intelligence",
+    "url": "https://firmus.co/newsroom/fireworks-partners-with-firmus-ai-cloud-to-scale-specialized-intelligence"
+   },
+   {
+    "n": 10,
+    "title": "W.Media: Firmus and CDC end Project Southgate partnership after 42MW rollout",
+    "url": "https://w.media/firmus-and-cdc-end-project-southgate-partnership-after-42mw-rollout/"
+   },
+   {
+    "n": 11,
+    "title": "ABC News: Data centre operator Firmus pulls blockbuster ASX float after lacklustre demand",
+    "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230"
+   },
+   {
+    "n": 12,
+    "title": "techpartner.news: Firmus and STT partner for sustainable AI factory",
+    "url": "https://www.techpartner.news/news/firmus-and-stt-partner-for-sustainable-ai-factory-597261"
+   },
+   {
+    "n": 13,
+    "title": "Forbes: Former Bitcoin Miner Firmus Became A $10.5 Billion AI Infrastructure Company",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/08/09/former-bitcoin-miner-firmus-became-a-105b-ai-infrastructure-company/"
+   },
+   {
+    "n": 14,
+    "title": "Firmus: About",
+    "url": "https://firmus.co/about"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In June 2026 Firmus and NVIDIA announced a 360 MW campus in Batam, Indonesia, for up to 170,000 NVIDIA accelerators, with $25B to $30B of expected committed offtake over six years."
+   }
+  ]
+ },
+ {
+  "slug": "ovhcloud",
+  "name": "OVHcloud",
+  "website": "https://www.ovhcloud.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "OVHcloud: Financial results FY2025, revenue breaks through billion euro mark",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/"
+   },
+   {
+    "n": 2,
+    "title": "OVHcloud: Octave Klaba appointed Chairman and Chief Executive Officer",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/octave-klaba-chairman-ceo/"
+   },
+   {
+    "n": 3,
+    "title": "OVHcloud: Financial results H1 FY26",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-h1-fy26/"
+   },
+   {
+    "n": 4,
+    "title": "OVHcloud: Financial results Q3 FY26, acceleration of growth in the third quarter",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-q3-fy26/"
+   },
+   {
+    "n": 5,
+    "title": "OVHcloud: OVH Labs unveils OVHai Workspace in preview",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhai-workspace/"
+   },
+   {
+    "n": 6,
+    "title": "OVHcloud: Organizational changes and Executive Committee updates",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-changes-organization-executive-committee/"
+   },
+   {
+    "n": 7,
+    "title": "OVHcloud: OVHcloud Launches AI Endpoints",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ai-endpoints/"
+   },
+   {
+    "n": 8,
+    "title": "OVHcloud: Cloud GPU",
+    "url": "https://www.ovhcloud.com/en/public-cloud/gpu/"
+   },
+   {
+    "n": 9,
+    "title": "OVHcloud: History",
+    "url": "https://corporate.ovhcloud.com/en/company/history/"
+   },
+   {
+    "n": 10,
+    "title": "Wikipedia: OVHcloud",
+    "url": "https://en.wikipedia.org/wiki/OVHcloud"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unsupported",
+    "text": "French cloud provider listed on Euronext Paris with 46 data centers and €1.08B in fiscal 2025 revenue."
+   }
+  ]
+ },
+ {
+  "slug": "global-ai",
+  "name": "Global AI",
+  "website": "https://www.globalai.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: Global AI Secures $441 Million Financing to Accelerate Sovereign AI Infrastructure Expansion",
+    "url": "https://www.prnewswire.com/news-releases/global-ai-secures-441-million-financing-to-accelerate-sovereign-ai-infrastructure-expansion-302847168.html"
+   },
+   {
+    "n": 2,
+    "title": "Unite.AI: Global AI Secures $441M Senior Secured Credit Facility to Expand Sovereign AI Data Centers",
+    "url": "https://www.unite.ai/global-ai-closes-first-debt-raise-to-expand-sovereign-ai-data-centers/"
+   },
+   {
+    "n": 3,
+    "title": "Global AI: Latest News",
+    "url": "https://www.globalai.com/news"
+   },
+   {
+    "n": 4,
+    "title": "Global AI: About",
+    "url": "https://www.globalai.com/about"
+   },
+   {
+    "n": 5,
+    "title": "Engineering.com: Global AI, HUMAIN to build U.S. sovereign AI data centers",
+    "url": "https://www.engineering.com/global-ai-humain-to-build-u-s-sovereign-ai-data-centers/"
+   },
+   {
+    "n": 6,
+    "title": "PR Newswire: HUMAIN Expands Strategic Partnership with NVIDIA, Advancing Global AI Infrastructure with xAI, Global AI, and AWS at the U.S.-Saudi Investment Forum",
+    "url": "https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "Humain agreed in November 2025 to develop large US AI data centers with Global AI."
+   }
+  ]
+ }
+]

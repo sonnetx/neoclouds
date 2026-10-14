@@ -1,0 +1,890 @@
+[
+ {
+  "slug": "terawulf",
+  "name": "TeraWulf",
+  "website": "https://www.terawulf.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Quiver Quantitative: TeraWulf Partners with Core42 to Expand AI Infrastructure at Lake Mariner Facility",
+    "url": "https://www.quiverquant.com/news/TeraWulf+Partners+with+Core42+to+Expand+AI+Infrastructure+at+Lake+Mariner+Facility"
+   },
+   {
+    "n": 2,
+    "title": "Data Center Dynamics: TeraWulf inks ten year data center lease agreement with Core42 at Lake Mariner campus",
+    "url": "https://www.datacenterdynamics.com/en/news/terawulf-inks-ten-year-data-center-lease-agreement-with-core42-at-lake-mariner-campus/"
+   },
+   {
+    "n": 3,
+    "title": "Data Center Dynamics: Cryptominer TeraWulf secures 200MW lease with Fluidstack, Google to take stake in company",
+    "url": "https://www.datacenterdynamics.com/en/news/cryptominer-terawulf-secures-200mw-lease-with-fluidstack-google-to-take-stake-in-company/"
+   },
+   {
+    "n": 4,
+    "title": "Yahoo Finance: TeraWulf stock jumps as Google ups stake in bitcoin miner to 14%",
+    "url": "https://finance.yahoo.com/news/terawulf-stock-jumps-as-google-ups-stake-in-bitcoin-miner-to-14-173320607.html"
+   },
+   {
+    "n": 5,
+    "title": "Data Center Dynamics: Fluidstack to lease another 160MW of capacity from TeraWulf at New York campus, Google to increase stake in cryptominer",
+    "url": "https://www.datacenterdynamics.com/en/news/fluidstack-to-lease-another-160mw-of-capacity-from-terawulf-at-new-york-campus-google-to-increase-stake-in-cryptominer/"
+   },
+   {
+    "n": 6,
+    "title": "Utility Dive: FERC urged to reject TeraWulf's power plant purchase due to undisclosed Google ownership stake",
+    "url": "https://www.utilitydive.com/news/ferc-terawulf-morgantown-power-plant-google/816582/"
+   },
+   {
+    "n": 7,
+    "title": "Stock Titan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html"
+   },
+   {
+    "n": 8,
+    "title": "Stock Titan: TeraWulf Reports Second Quarter 2026 Results",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html"
+   },
+   {
+    "n": 9,
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037"
+   },
+   {
+    "n": 10,
+    "title": "Stock Titan: Kentucky PSC Approves 482 MW Power Agreement for TeraWulf's Justified Data Campus",
+    "url": "https://www.stocktitan.net/news/WULF/kentucky-psc-approves-482-mw-power-agreement-for-tera-wulf-s-9kmcbdo654rd.html"
+   },
+   {
+    "n": 11,
+    "title": "Stock Titan: TeraWulf Expands Contracted Power Capacity at its Muskie Data Campus to 1 GW",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-expands-contracted-power-capacity-at-its-muskie-data-aw3vnwlp7mvs.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Anthropic signed a 20-year, 401 MW lease in July 2026, and Google holds about 14% of the company."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In August 2025 Fluidstack leased 200 MW there and then another 160 MW, with Google backstopping $3.2B of the lease obligations and taking warrants for about 14% of TeraWulf."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "TeraWulf and Fluidstack also formed a joint venture for a 168 MW campus at Abernathy, Texas."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "TeraWulf has leased 839 MW of AI capacity and reports about $27B of contracted revenue."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In July 2026 Anthropic signed a 20-year lease for 401 MW of critical IT load at the Justified Data campus in Hawesville, Kentucky, worth about $19B over the initial term, with first capacity due in the second half of 2027."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In the same announcement TeraWulf sold a 50.1% stake in the Abernathy joint venture to a Fluidstack-led group for about $450M."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "At Lake Mariner it had 102 MW of revenue-generating IT capacity online by early July 2026 and 336 MW more under construction."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "HPC leases brought in $31.9M of Q2 2026 revenue, against $12.8M from mining."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The quarter's $939.9M net loss came mostly from a $755.7M non-cash charge on the Google warrants."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Kentucky regulators approved a 482 MW power agreement for Justified Data in August 2026, and in October TeraWulf raised contracted power at Muskie to 1 GW."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "TeraWulf reports a 2.1 GW controlled pipeline, with 737 MW under construction."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "It held $3.0B of cash at the end of June 2026 against $2.5B of convertible notes and $3.2B of secured notes at its WULF Compute unit, and its free cash flow over the prior 12 months was negative $1.9B."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Leased capacity = 839 MW (August 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Contracted revenue = About $27B"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Anthropic lease = 401 MW, 20 years, about $19B (July 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Revenue-generating IT load = 102 MW (July 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 = Revenue $44.8M, net loss $939.9M"
+   }
+  ]
+ },
+ {
+  "slug": "tatra-supercompute",
+  "name": "Tatra Supercompute",
+  "website": "https://tatrasupercompute.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Tatra Supercompute: Home",
+    "url": "https://tatrasupercompute.com/"
+   },
+   {
+    "n": 2,
+    "title": "Tatra Supercompute: Team",
+    "url": "https://tatrasupercompute.com/team"
+   },
+   {
+    "n": 3,
+    "title": "Tatra Supercompute: NVIDIA partnership",
+    "url": "https://tatrasupercompute.com/nvidia"
+   },
+   {
+    "n": 4,
+    "title": "Tatra Supercompute: Why Slovakia",
+    "url": "https://tatrasupercompute.com/slovakia"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Slovak startup planning an AI data center and supercomputer built on NVIDIA Blackwell GPUs."
+   },
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "It has published few details beyond its founding team and a stated NVIDIA supplier agreement."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Tatra Supercompute presents itself as a project to build an AI data center in Slovakia that pairs AI computing with green energy."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Its founders include CEO and COO Peter Novak, a banking and telecom executive who has led data center projects, and president Robert Lesko, who spent 25 years at Morgan Stanley."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The company's website says it has a supplier agreement with NVIDIA for Blackwell GPUs and that the facility will rank among the most powerful supercomputers in the world."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "The company says the data center will draw on electricity generated in Slovakia and help build a Slovak AI business ecosystem."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Country = Slovakia"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Planned GPUs = NVIDIA Blackwell"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "CEO and COO = Peter Novak"
+   }
+  ]
+ },
+ {
+  "slug": "sk-telecom",
+  "name": "SK Telecom",
+  "website": "https://www.sktelecom.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SK Telecom Newsroom: SK Telecom Announces Q2 2026 Results",
+    "url": "https://news.sktelecom.com/en/3218"
+   },
+   {
+    "n": 2,
+    "title": "SK Telecom Newsroom: SK Telecom Announces Q1 2026 Results",
+    "url": "https://news.sktelecom.com/en/3039"
+   },
+   {
+    "n": 3,
+    "title": "SK Telecom Newsroom: SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub",
+    "url": "https://news.sktelecom.com/en/3155"
+   },
+   {
+    "n": 4,
+    "title": "The Korea Herald: SK Telecom targets 15 GW AI data center capacity by 2035",
+    "url": "https://www.koreaherald.com/article/10798417"
+   },
+   {
+    "n": 5,
+    "title": "KKR: SK Telecom Launches AI Data Center Infrastructure Company SK Horizon and Secures Investments from KKR and IMM",
+    "url": "https://media.kkr.com/news-details?news_id=d43fd044-c7f3-427b-a41e-e2a4e43e9f33"
+   },
+   {
+    "n": 6,
+    "title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal",
+    "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal"
+   },
+   {
+    "n": 7,
+    "title": "NVIDIA Investor Relations: SK Telecom and NVIDIA Build AI Infrastructure to Power Korea's AI Innovation",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/SK-Telecom-and-NVIDIA-Build-AI-Infrastructure-to-Power-Koreas-AI-Innovation/default.aspx"
+   },
+   {
+    "n": 8,
+    "title": "NVIDIA Newsroom: NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs",
+    "url": "https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure"
+   },
+   {
+    "n": 9,
+    "title": "Businesskorea: SK Telecom's AI Data Center Wins CSAP Certification",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272498"
+   },
+   {
+    "n": 10,
+    "title": "Data Center Dynamics: SK Telecom launches GPUaaS based on Nvidia B200 cluster in South Korea",
+    "url": "https://www.datacenterdynamics.com/en/news/sk-telecom-launches-gpuaas-based-on-nvidia-b200-cluster-in-south-korea/"
+   },
+   {
+    "n": 11,
+    "title": "Data Center Dynamics: Vast Data teams up with SK Telecom on Haein AI cluster in South Korea",
+    "url": "https://www.datacenterdynamics.com/en/news/vast-data-teams-up-with-sk-telecom-on-haein-ai-cluster-in-south-korea/"
+   },
+   {
+    "n": 12,
+    "title": "SK Telecom Newsroom: SKT Signs Partnership Agreement with Lambda",
+    "url": "https://news.sktelecom.com/en/1544"
+   },
+   {
+    "n": 13,
+    "title": "The Korea Herald: SK Telecom launches new Nvidia-powered cloud service GPUaaS",
+    "url": "https://www.koreaherald.com/article/10389109"
+   },
+   {
+    "n": 14,
+    "title": "Reuters: South Korea says SK and Amazon to invest $5 billion in country's biggest data centre",
+    "url": "https://www.reuters.com/business/retail-consumer/south-korea-says-sk-amazon-invest-5-bln-countrys-biggest-data-centre-2025-06-20/"
+   },
+   {
+    "n": 15,
+    "title": "UPI: SK Telecom, Rebellions expand Korean AI chip infrastructure",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/"
+   },
+   {
+    "n": 16,
+    "title": "TNGlobal: South Korea picks SK Telecom, Kakao and KT for free national AI service",
+    "url": "https://technode.global/2026/08/28/south-korea-picks-skt-kakao-kt-national-ai-service/"
+   },
+   {
+    "n": 17,
+    "title": "Data Center Dynamics: Nvidia and SK Group announce $500bn AI agreement, includes 2GW of data center capacity",
+    "url": "https://www.datacenterdynamics.com/en/news/nvidia-and-sk-group-announce-500bn-ai-agreement-includes-2gw-of-data-center-capacity/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It launched its own GPU as a service in January 2025 and opened the Haein cluster of NVIDIA B200 GPUs in August 2025."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, a project the Korean government valued at $5B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In August 2026 SK Telecom moved its existing data centers into a new company, SK Horizon, and sold 49% to KKR and an IMM-led consortium for KRW 3.08T ($2.24B)."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "SK Telecom also builds its own A.X models for the government's sovereign foundation model project and runs the 519B parameter A.X K1 on Rebellions neural processors."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "SK Horizon investment from KKR and IMM = KRW 3.08T ($2.24B) for 49% (August 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "nebul",
+  "name": "Nebul",
+  "website": "https://nebul.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer",
+    "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/"
+   },
+   {
+    "n": 2,
+    "title": "PR Newswire: Speedata Partners with Nebul to Bring High-Performance Big Data and AI Analytics to European Sovereign Cloud",
+    "url": "https://www.prnewswire.com/news-releases/speedata-creator-of-worlds-first-analytics-processing-unit-apu-partners-with-nebul-to-bring-high-performance-big-data-and-ai-analytics-to-european-sovereign-cloud-302692530.html"
+   },
+   {
+    "n": 3,
+    "title": "Techzine Global: Nebul integrates Speedata chip for lightning-fast data processing",
+    "url": "https://www.techzine.eu/news/infrastructure/138932/nebul-integrates-speedata-chip-for-lightning-fast-data-processing/"
+   },
+   {
+    "n": 4,
+    "title": "DCD: Neocloud Nebul to offer Speedata's Analytics Processing Units",
+    "url": "https://www.datacenterdynamics.com/en/news/neocloud-nebul-to-offer-speedatas-analytics-processing-units/"
+   },
+   {
+    "n": 5,
+    "title": "StorageReview: DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories",
+    "url": "https://www.storagereview.com/news/ddn-and-nebul-validate-kv-cache-acceleration-for-nvidia-based-ai-factories"
+   },
+   {
+    "n": 6,
+    "title": "Nebul: Homepage",
+    "url": "https://nebul.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It chose NetApp AFF A90 storage in 2024 after testing several vendors for multi-tenant performance, and it hosts its systems with Dutch data center partners Eurofiber, NorthC and Switch Datacenters."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Customers can run open models such as DeepSeek on the platform without sending data outside Europe."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "HQ = Leiden, Netherlands"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Data center partners = Eurofiber, NorthC, Switch Datacenters"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Storage = NetApp AFF A90"
+   }
+  ]
+ },
+ {
+  "slug": "core-scientific",
+  "name": "Core Scientific",
+  "website": "https://corescientific.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Wikipedia: Core Scientific",
+    "url": "https://en.wikipedia.org/wiki/Core_Scientific"
+   },
+   {
+    "n": 2,
+    "title": "Core Scientific: Core Scientific and CoreWeave Announce $1.2 Billion Expansion at Denton, TX Site",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+   },
+   {
+    "n": 3,
+    "title": "Business Insider: This investor blocked the $9 billion CoreWeave-Core Scientific deal",
+    "url": "https://www.businessinsider.com/core-scientific-corz-investor-trip-miller-expects-new-ai-deals-2026-1"
+   },
+   {
+    "n": 4,
+    "title": "Core Scientific: Core Scientific Announces Fourth Quarter Fiscal Year 2025 Results",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/127/core-scientific-announces-fourth-quarter-fiscal-year-2025-results"
+   },
+   {
+    "n": 5,
+    "title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion",
+    "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917"
+   },
+   {
+    "n": 6,
+    "title": "Blockspace Media: KBW cuts Core Scientific to Market Perform as lease delays raise execution risk",
+    "url": "https://blockspace.media/insight/kbw-downgrades-core-scientific-corz-lease-delays/"
+   },
+   {
+    "n": 7,
+    "title": "Core Scientific: Core Scientific and AMD Announce Infrastructure Partnership",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/138/core-scientific-and-amd-announce-infrastructure-partnership"
+   },
+   {
+    "n": 8,
+    "title": "Core Scientific: Core Scientific Announces Second Quarter 2026 Results",
+    "url": "https://investors.corescientific.com/news-events/press-releases/detail/139/core-scientific-announces-second-quarter-2026-results"
+   },
+   {
+    "n": 9,
+    "title": "CoinDesk: Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+    "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It sold $3.3B of senior secured notes due 2031 in 2026 to fund a capex budget of about $2B for the year."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Core Scientific targets a pipeline of about 3.0 GW and is repurposing its remaining mining sites for colocation."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "KBW cut its rating in July 2026 over lease delivery delays, so construction timing at Denton and at the new AMD sites is the item to watch."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Power pipeline = About 3.0 GW target"
+   }
+  ]
+ },
+ {
+  "slug": "oracle",
+  "name": "Oracle Cloud Infrastructure",
+  "website": "https://www.oracle.com/cloud/",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Oracle: Oracle Announces Q1 Results Driven by Triple Digit Growth in Cloud Infrastructure Revenues",
+    "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
+   },
+   {
+    "n": 2,
+    "title": "The Motley Fool: Oracle (ORCL) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/"
+   },
+   {
+    "n": 3,
+    "title": "Oracle: Oracle Announces Record Q4 and FY 2026 Results Driven by Cloud Infrastructure & Cloud Applications",
+    "url": "https://www.oracle.com/news/announcement/q4fy26-earnings-release-2026-06-10/"
+   },
+   {
+    "n": 4,
+    "title": "Oracle: Oracle Announces Fiscal Year 2026 Second Quarter Financial Results",
+    "url": "https://www.oracle.com/news/announcement/q2fy26-earnings-release-2025-12-10/"
+   },
+   {
+    "n": 5,
+    "title": "The Register: OpenAI reportedly on the hook for $300B Oracle Cloud bill",
+    "url": "https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/"
+   },
+   {
+    "n": 6,
+    "title": "Yahoo Finance: OpenAI signs contract to buy $300 billion worth of Oracle computing power over the next five years",
+    "url": "https://finance.yahoo.com/news/openai-signs-contract-buy-300-121305642.html"
+   },
+   {
+    "n": 7,
+    "title": "DCD: Oracle to raise up to $50bn in debt and equity in 2026 to fund OpenAI & cloud buildout",
+    "url": "https://www.datacenterdynamics.com/en/news/oracle-to-raise-up-to-50bn-in-debt-and-equity-in-2026/"
+   },
+   {
+    "n": 8,
+    "title": "Bloomberg: Oracle $25 Billion Bond Sale Helps Ease Fears of AI Debt Wave",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-02/oracle-kicks-off-8-part-dollar-bond-sale-amid-ai-borrowing-push"
+   },
+   {
+    "n": 9,
+    "title": "PR Newswire: Oracle Unveils Next-Generation Oracle Cloud Infrastructure Zettascale10 Cluster for AI",
+    "url": "https://www.prnewswire.com/news-releases/oracle-unveils-next-generation-oracle-cloud-infrastructure-zettascale10-cluster-for-ai-302583054.html"
+   },
+   {
+    "n": 10,
+    "title": "DCD: Oracle to deploy cluster of 50000 AMD Instinct MI450 GPUs",
+    "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-cluster-of-50000-amd-instinct-mi450-gpus/"
+   },
+   {
+    "n": 11,
+    "title": "HPCwire: Oracle Unveils Cloud Computing Cluster with Up to 131,072 NVIDIA Blackwell GPUs",
+    "url": "https://www.hpcwire.com/off-the-wire/oracle-unveils-cloud-computing-cluster-with-up-to-131072-nvidia-blackwell-gpus/"
+   },
+   {
+    "n": 12,
+    "title": "OpenAI: Supercomputer networking to accelerate large scale AI training",
+    "url": "https://openai.com/index/mrc-supercomputer-networking/"
+   },
+   {
+    "n": 13,
+    "title": "OpenAI: Resilient AI Supercomputer Networking using MRC and SRv6 (paper)",
+    "url": "https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Oracle also offers AMD Instinct MI300X and MI355X instances and plans a 50,000-GPU MI450 cluster starting in the third quarter of 2026."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Oracle funds its build-out with debt, equity and customer prepayments, and said in February 2026 it planned to raise $45B to $50B that year through a bond offering and an equity program."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "In the June to August 2026 quarter it spent $28.5B on capex and received $11.4B of customer prepayments."
+   }
+  ]
+ },
+ {
+  "slug": "sf-compute",
+  "name": "SF Compute",
+  "website": "https://sfcompute.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "DCD: SF Compute raises $40m for AI compute marketplace offering",
+    "url": "https://www.datacenterdynamics.com/en/news/sf-compute-raises-40m-for-ai-compute-marketplace-offering/"
+   },
+   {
+    "n": 2,
+    "title": "WSJ: SF Compute, an AI Computing Marketplace, Raises $40 Million",
+    "url": "https://www.wsj.com/articles/sf-compute-an-ai-computing-marketplace-raises-40-million-2b0d0ef4"
+   },
+   {
+    "n": 3,
+    "title": "PYMNTS: Investors Renew Funding for Core AI Capabilities",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2025/investors-renew-funding-for-core-ai-capabilities/"
+   },
+   {
+    "n": 4,
+    "title": "PYMNTS: San Francisco Compute Co. to Build Computing Power Trading Platform",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2024/san-francisco-compute-co-to-build-computing-power-trading-platform/"
+   },
+   {
+    "n": 5,
+    "title": "CRN: 10 Cloud Computing Startup Companies To Watch In 2026",
+    "url": "https://www.crn.com/news/cloud/2026/10-cloud-computing-startup-companies-to-watch-in-2026"
+   },
+   {
+    "n": 6,
+    "title": "BGNES: Cost of renting Nvidia H100 computing power rises 60% in a year",
+    "url": "https://www.bgnes.com/economy/cost-of-renting-nvidia-h100-computing-power-rises-60-in-a-year"
+   },
+   {
+    "n": 7,
+    "title": "SF Compute: Home",
+    "url": "https://sfcompute.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Buyers can resell reserved time they do not use to other tenants."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Customers buy and resell capacity from a command-line tool, and the scheduler lets tenants sell idle reserved GPUs back into the market."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Its site said in late 2025 that B300 access was coming."
+   }
+  ]
+ },
+ {
+  "slug": "mithril",
+  "name": "Mithril",
+  "website": "https://mithril.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: Mithril arrives, expanding omnicloud AI compute platform trusted by Cursor, LG AI Research, Arc Institute and others",
+    "url": "https://www.prnewswire.com/news-releases/mithril-arrives-expanding-omnicloud-ai-compute-platform-trusted-by-cursor-lg-ai-research-arc-institute-and-others-302520349.html"
+   },
+   {
+    "n": 2,
+    "title": "PR Newswire: Mithril Launches Flexible Reservations, Recycling Idle GPU Time Into the Mithril Spot Service",
+    "url": "https://www.prnewswire.com/news-releases/mithril-launches-flexible-reservations-recycling-idle-gpu-time-into-the-mithril-spot-service-302718349.html"
+   },
+   {
+    "n": 3,
+    "title": "Crunchbase News: Foundry Emerges From Stealth With $80M For Purpose-Built AI Cloud",
+    "url": "https://news.crunchbase.com/ai/foundry-ai-cloud-startup-funding/"
+   },
+   {
+    "n": 4,
+    "title": "Sequoia Capital: Partnering with Mithril, AI Compute, On Demand",
+    "url": "https://sequoiacap.com/article/partnering-with-mithril-ai-compute-on-demand"
+   },
+   {
+    "n": 5,
+    "title": "Oracle: Oracle Becomes the Destination of Choice for AI Innovators",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-becomes-the-destination-of-choice-for-ai-innovators-2025-10-14/"
+   },
+   {
+    "n": 6,
+    "title": "Mithril: AI Omnicloud",
+    "url": "https://mithril.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "Users bid in the spot auction, with low bids for cheaper capacity or high bids for faster access."
+   },
+   {
+    "field": "outlook",
+    "status": "unsupported",
+    "text": "The company says 20% to 60% of reserved GPU time goes unused, and Flexible Reservations targets that waste."
+   }
+  ]
+ },
+ {
+  "slug": "hetzner",
+  "name": "Hetzner",
+  "website": "https://www.hetzner.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Hetzner: Hetzner unveils the GEX131 with NVIDIA RTX PRO 6000 Blackwell Max-Q",
+    "url": "https://www.hetzner.com/pressroom/new-gex131/"
+   },
+   {
+    "n": 2,
+    "title": "Hetzner: Hetzner expands its GPU portfolio with the GEX45",
+    "url": "https://www.hetzner.com/pressroom/hetzner-expands-its-gpu-portfolio-with-the-gex45/"
+   },
+   {
+    "n": 3,
+    "title": "Hetzner: Hetzner expands GPU portfolio with new GEX63 featuring NVIDIA RTX PRO 6000 Blackwell Max-Q",
+    "url": "https://www.hetzner.com/pressroom/hetzner-expands-gpu-portfolio-with-new-gex63-featuring-nvidia-rtx-pro-6000-blackwell-max-q/"
+   },
+   {
+    "n": 4,
+    "title": "Hetzner: GPU dedicated servers",
+    "url": "https://www.hetzner.com/dedicated-rootserver/matrix-gpu/"
+   },
+   {
+    "n": 5,
+    "title": "Hetzner: Pressroom",
+    "url": "https://www.hetzner.com/pressroom/"
+   },
+   {
+    "n": 6,
+    "title": "Wikipedia: Hetzner",
+    "url": "https://en.wikipedia.org/wiki/Hetzner"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unsupported",
+    "text": "It became one of Europe's largest hosting providers by selling dedicated servers at low prices from its own data center parks."
+   },
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "The GEX131, launched in December 2025, pairs an RTX PRO 6000 Blackwell Max-Q with 96 GB of memory for €889 a month or about €1.42 an hour."
+   }
+  ]
+ },
+ {
+  "slug": "gmi-cloud",
+  "name": "GMI Cloud",
+  "website": "https://www.gmicloud.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "GMI Cloud: We Raised Over $660 Million to Accelerate Global AI Infrastructure Expansion",
+    "url": "https://gmicloud.ai/en/blog/we-raised-over-660-million-to-accelerate-global-ai-infrastructure-expansion"
+   },
+   {
+    "n": 2,
+    "title": "Pulse 2.0: GMI Cloud Raises $668 Million To Expand Global AI Infrastructure",
+    "url": "https://pulse2.com/gmi-cloud-raises-668-million-to-expand-global-ai-infrastructure/"
+   },
+   {
+    "n": 3,
+    "title": "BigGo Finance: South Korea's KB Financial, Other Domestic Capital Join Nvidia in $668 Million Investment in U.S.-Based GMI Cloud",
+    "url": "https://finance.biggo.com/news/4304b4fa-8e46-4a52-82be-9cef7ce36c9f"
+   },
+   {
+    "n": 4,
+    "title": "Reuters via Yahoo Finance: GMI Cloud to build $500 million AI data centre in Taiwan with Nvidia chips",
+    "url": "https://finance.yahoo.com/news/gmi-cloud-build-500-million-110205941.html"
+   },
+   {
+    "n": 5,
+    "title": "GMI Cloud: GMI Cloud and Taiwan Step Into a New Era With Its AI Factory",
+    "url": "https://gmicloud.ai/en/blog/gmi-cloud-brings-taiwans-first-ai-factory"
+   },
+   {
+    "n": 6,
+    "title": "GMI Cloud: GMI Cloud Announces 1GW Sovereign AI Infrastructure in Japan Accelerated By NVIDIA Vera Rubin NVL72",
+    "url": "https://gmicloud.ai/en/blog/gmi-cloud-announces-1gw-sovereign-ai-infrastructure-in-japan-accelerated-by-nvidia-vera-rubin-nvl72-tm"
+   },
+   {
+    "n": 7,
+    "title": "GMI Cloud: GMI Cloud Secures 8x ARR Growth as Global AI Infrastructure Footprint Expands",
+    "url": "https://gmicloud.ai/en/blog/gmi-cloud-secures-8x-arr-growth-as-global-ai-infrastructure-footprint-expands"
+   },
+   {
+    "n": 8,
+    "title": "GMI Cloud: GMI Cloud Commits $500 Million to Expand AI Infrastructure for Frontier AI Customers",
+    "url": "https://gmicloud.ai/en/blog/gmi-cloud-commits-500-million-to-expand-ai-infrastructure-for-frontier-ai-customers"
+   },
+   {
+    "n": 9,
+    "title": "GMI Cloud: GMI Cloud Recognized As NVIDIA Exemplar Cloud on NVIDIA GB300 NVL72 Systems for Training",
+    "url": "https://gmicloud.ai/en/blog/gmi-cloud-recognized-as-nvidia-exemplar-cloud-on-nvidia-gb300-nvl72-systems-for-training"
+   },
+   {
+    "n": 10,
+    "title": "GMI Cloud: Agentbox is live, the whole stack for production AI agents in one place",
+    "url": "https://gmicloud.ai/en/blog/agentbox-is-live-the-whole-stack-for-production-ai-agents-in-one-place"
+   },
+   {
+    "n": 11,
+    "title": "GMI Cloud: About",
+    "url": "https://gmicloud.ai/en/company/about"
+   },
+   {
+    "n": 12,
+    "title": "Progressive Robot: GMI Cloud, Surprising $668M Series B, NVIDIA and a Debt Risk",
+    "url": "https://www.progressiverobot.com/2026/09/30/gmi-cloud-668m-series-b-nvidia/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "outlook",
+    "status": "unsupported",
+    "text": "Reuters reported in November 2025 that GMI was developing a 50 MW US data center and planned an IPO within 2 to 3 years."
+   }
+  ]
+ },
+ {
+  "slug": "cirrascale",
+  "name": "Cirrascale Cloud Services",
+  "website": "https://www.cirrascale.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Cirrascale: Cirrascale Cloud Services Launches Production Release of the Cirrascale Inference Platform",
+    "url": "https://www.cirrascale.com/press/ccs-production-inference-platform"
+   },
+   {
+    "n": 2,
+    "title": "Cirrascale: Cirrascale Advances Open AI Infrastructure with AMD Helios Rackscale Solution and AMD Instinct MI400 Series GPUs",
+    "url": "https://www.cirrascale.com/press/cirrascale-amd-instinct-mi400-series-gpus"
+   },
+   {
+    "n": 3,
+    "title": "Cirrascale: Telehouse and Cirrascale Partner to Bring AI Inference Closer to Enterprise Data",
+    "url": "https://www.cirrascale.com/press/telehouse-and-cirrascale-partner"
+   },
+   {
+    "n": 4,
+    "title": "Cirrascale: Cirrascale Cloud Services Adds Tenstorrent Galaxy Blackhole to Its AI Innovation Cloud",
+    "url": "https://www.cirrascale.com/press/cirrascale-adds-tenstorrent"
+   },
+   {
+    "n": 5,
+    "title": "Cirrascale: Cirrascale Expands Model Offerings to Include Gemini on Google Distributed Cloud",
+    "url": "https://www.cirrascale.com/press/cirrascale-expands-models-gemini-cirrascale-inference-platform"
+   },
+   {
+    "n": 6,
+    "title": "Cirrascale: Cirrascale Partners with Google Public Sector and Launches New Government Services Division",
+    "url": "https://www.cirrascale.com/press/cirrascale-googlegpar-cgs"
+   },
+   {
+    "n": 7,
+    "title": "Cirrascale: Cirrascale Cloud Services to Offer AMD Instinct MI350 Series GPUs and Platforms in its AI Innovation Cloud",
+    "url": "https://www.cirrascale.com/press/amd-instinct-mi350-series"
+   },
+   {
+    "n": 8,
+    "title": "Cirrascale: Cirrascale Cloud Services Adds NVIDIA HGX B200 to its AI Innovation Cloud",
+    "url": "https://www.cirrascale.com/press/cirrascale-cloud-services-adds-nvidia-hgx-b200"
+   },
+   {
+    "n": 9,
+    "title": "Cirrascale: Cirrascale Cloud Services Announces Availability of Inference Cloud Powered by Qualcomm's AI Inference Suite",
+    "url": "https://www.cirrascale.com/press/cirrascale-cloud-services-announces-availability-of-inference-cloud-powered-by-qualcomms-ai-inference-suite"
+   },
+   {
+    "n": 10,
+    "title": "Cirrascale: Homepage",
+    "url": "https://www.cirrascale.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "fact",
+    "status": "unsupported",
+    "text": "AMD Helios and MI400 series = Planned at AMD general availability"
+   }
+  ]
+ },
+ {
+  "slug": "sharon-ai",
+  "name": "Sharon AI",
+  "website": "",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Yahoo Finance: Sharon AI Announces US$1.32 Billion Five-Year Cloud Computing Service Agreement",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-1-121000999.html"
+   },
+   {
+    "n": 2,
+    "title": "Yahoo Finance: Sharon AI Announces US$373m Five-Year AI Cloud Service Agreement",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-373m-110000219.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "outlook",
+    "status": "unsupported",
+    "text": "Neither customer is named."
+   }
+  ]
+ }
+]

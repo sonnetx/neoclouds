@@ -1,0 +1,770 @@
+{
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "SemiAnalysis counted 124 neocloud providers in its 2024 AI Neocloud Playbook and now tracks about 323.",
+      "status": "corrected",
+      "corrected_text": "SemiAnalysis's October 2024 AI Neocloud Playbook named four neocloud giants (CoreWeave, Crusoe, Lambda and Nebius) and a long tail of a couple dozen emerging neoclouds that it tracks.",
+      "sources": [
+        {
+          "title": "SemiAnalysis: AI Neocloud Playbook and Anatomy",
+          "url": "https://newsletter.semianalysis.com/p/ai-neocloud-playbook-and-anatomy",
+          "date": "2024-10-03"
+        }
+      ],
+      "note": "The 2024 Playbook gives no total of 124. It defines a neocloud as a new breed of cloud provider focused on GPU rental and describes a couple dozen emerging neoclouds. The 124 and 323 counts appear only in SemiAnalysis's 2026 provider-review material and coverage of it, which the guide excludes, so neither number has a citable source. Drop both counts or use the Playbook wording."
+    },
+    {
+      "id": "C2",
+      "claim": "The September 2022 Ethereum Merge to proof-of-stake ended GPU mining economics and stranded GPU fleets.",
+      "status": "corrected",
+      "corrected_text": "The Ethereum Merge on September 15, 2022 moved Ethereum to proof-of-stake and ended GPU mining of ether, the largest GPU-mined coin. Miners briefly moved hardware to smaller proof-of-work coins such as Ethereum Classic, and CoreWeave stopped mining on September 30, 2022.",
+      "sources": [
+        {
+          "title": "Ethereum.org: The Merge",
+          "url": "https://ethereum.org/en/roadmap/merge/",
+          "date": "2022-09-15"
+        },
+        {
+          "title": "TechCrunch: Miners flee to Ethereum Classic as 'The Merge' arrives",
+          "url": "https://techcrunch.com/2022/09/15/miners-ethereum-classic-the-merge/",
+          "date": "2022-09-15"
+        },
+        {
+          "title": "SEC: CoreWeave, Inc. Form S-1 registration statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525044231/d899798ds1.htm",
+          "date": "2025-03-03"
+        }
+      ],
+      "note": "Date and mechanism are correct. Ended GPU mining economics slightly overstates it because miners moved to other proof-of-work coins for a while. The S-1 says CoreWeave ceased mining on September 30, 2022 because Ethereum's reward change materially impacted future mining revenue."
+    },
+    {
+      "id": "C3",
+      "claim": "Atlantic Crypto was founded in 2017 by Michael Intrator, Brian Venturo, Brannin McBee and Peter Salanki, pivoted to GPU cloud in 2019 and was renamed CoreWeave.",
+      "status": "corrected",
+      "corrected_text": "CoreWeave began in September 2017 as The Atlantic Crypto Corporation, an Ethereum mining company started by Michael Intrator, Brian Venturo and Brannin McBee. It renamed itself CoreWeave in December 2019 and launched its cloud platform in 2020. Peter Salanki joined in June 2019 and CoreWeave's website lists him as a co-founder, but the IPO prospectus names only the first three as co-founders.",
+      "sources": [
+        {
+          "title": "SEC: CoreWeave, Inc. Form S-1 registration statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525044231/d899798ds1.htm",
+          "date": "2025-03-03"
+        },
+        {
+          "title": "CoreWeave: About Us",
+          "url": "https://www.coreweave.com/about-us",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": "The S-1 gives formation in September 2017, conversion to Atlantic Crypto Corporation in September 2018, and the CoreWeave name change in December 2019. It lists Salanki as CTO and a key employee, not a co-founder."
+    },
+    {
+      "id": "C4",
+      "claim": "Crusoe was founded in 2018 to power crypto mining with flared natural gas.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "TechCrunch: Crusoe Energy is tackling energy use for cryptocurrencies and data centers and greenhouse gas emissions",
+          "url": "https://techcrunch.com/2021/04/26/crusoe-energy-is-tackling-energy-use-for-cryptocurrencies-and-data-centers-and-greenhouse-gas-emissions/",
+          "date": "2021-04-26"
+        },
+        {
+          "title": "Crusoe: Company",
+          "url": "https://www.crusoe.ai/about/company",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": "Chase Lochmiller and Cully Cavness founded Crusoe Energy in 2018. By April 2021 it ran about 40 flare-gas modular data centers with roughly 80 percent of the load on bitcoin mining. Crusoe sold its bitcoin mining business to NYDIG in 2025."
+    },
+    {
+      "id": "C5",
+      "claim": "Lambda was founded in 2012, initially selling GPU workstations and servers.",
+      "status": "corrected",
+      "corrected_text": "Stephen Balaban and Michael Balaban founded Lambda in 2012 as a facial recognition software company. Lambda began selling GPU workstations and servers for deep learning in 2017 and later built a GPU cloud.",
+      "sources": [
+        {
+          "title": "TechCrunch: Following Facebook's Shut Down Of Face.com's Facial Recognition API, Lambda Labs Debuts An Open Source Alternative",
+          "url": "https://techcrunch.com/2012/09/04/following-facebooks-shut-down-of-face-coms-facial-recognition-api-lambda-labs-debuts-an-open-source-alternative/",
+          "date": "2012-09-04"
+        },
+        {
+          "title": "Lambda: Lambda Raises $320M to Build a GPU Cloud for AI",
+          "url": "https://lambda.ai/blog/lambda-raises-320m-to-build-a-gpu-cloud-for-ai",
+          "date": "2024-02-15"
+        },
+        {
+          "title": "Lambda: Leadership",
+          "url": "https://lambda.ai/leadership",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": "The 2012 founding year is right but Lambda did not start with hardware. It built a face recognition app and API first. Lambda's 2024 funding post says it started selling AI infrastructure in 2017."
+    },
+    {
+      "id": "C6",
+      "claim": "NVIDIA invested in CoreWeave in 2023, and 2023 saw the first large GPU-collateralized debt facilities (CoreWeave $2.3B debt facility August 2023, $7.5B May 2024).",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "TechCrunch: CoreWeave, a GPU-focused cloud compute provider, lands $221M investment",
+          "url": "https://techcrunch.com/2023/04/20/coreweave-a-gpu-focused-cloud-compute-provider-lands-221m-investment/",
+          "date": "2023-04-20"
+        },
+        {
+          "title": "CoreWeave: CoreWeave Secures $2.3 Billion Debt Financing Facility led by Magnetar Capital and Blackstone",
+          "url": "https://www.coreweave.com/news/coreweave-secures-2-3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone-to-meet-surging-demand-and-ongoing-expansion-of-specialized-cloud-infrastructure-to-power-ai",
+          "date": "2023-08-03"
+        },
+        {
+          "title": "Reuters: CoreWeave raises $2.3 billion in debt collateralized by Nvidia chips",
+          "url": "https://www.reuters.com/technology/coreweave-raises-23-billion-debt-collateralized-by-nvidia-chips-2023-08-03/",
+          "date": "2023-08-03"
+        },
+        {
+          "title": "PR Newswire: CoreWeave Secures $7.5 Billion Debt Financing Facility led by Blackstone and Magnetar",
+          "url": "https://www.prnewswire.com/news-releases/coreweave-secures-7-5-billion-debt-financing-facility-led-by-blackstone-and-magnetar-302148876.html",
+          "date": "2024-05-17"
+        }
+      ],
+      "note": "NVIDIA invested through CoreWeave's $221M Series B in April 2023, which Magnetar led. CoreWeave announced the $2.3B facility on August 3, 2023, and Reuters described it as collateralized by NVIDIA chips. The $7.5B facility followed on May 17, 2024. The Reuters link was taken from citations and not opened because of a bot block."
+    },
+    {
+      "id": "C7",
+      "claim": "CoreWeave IPO on Nasdaq in March 2025.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "CoreWeave: CoreWeave Announces Pricing of Initial Public Offering",
+          "url": "https://www.coreweave.com/news/coreweave-announces-pricing-of-initial-public-offering",
+          "date": "2025-03-27"
+        },
+        {
+          "title": "CNBC: Nvidia-backed CoreWeave closes flat at $40 after biggest U.S. tech IPO since 2021",
+          "url": "https://www.cnbc.com/2025/03/28/coreweave-starts-trading-on-nasdaq-at-per-share.html",
+          "date": "2025-03-28"
+        }
+      ],
+      "note": "CoreWeave priced 37.5M shares at $40 on March 27, 2025, below its $47 to $55 range, raising about $1.5B. Trading began March 28, 2025 on the Nasdaq Global Select Market as CRWV."
+    },
+    {
+      "id": "C8",
+      "claim": "Nebius Group (Yandex N.V. after divesting Russian assets) resumed Nasdaq trading in October 2024.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "Nasdaq: Nasdaq Resumes Trading in Nebius Group N.V.",
+          "url": "https://www.nasdaq.com/press-release/nasdaq-resumes-trading-nebius-group-nv-2024-10-18",
+          "date": "2024-10-18"
+        },
+        {
+          "title": "Nebius: Nebius Group announces planned resumption of trading on Nasdaq and provides investor update",
+          "url": "https://nebius.com/newsroom/nebius-group-announces-planned-resumption-of-trading-on-nasdaq-and-provides-investor-update",
+          "date": "2024-10-17"
+        }
+      ],
+      "note": "Trading resumed on October 21, 2024 under NBIS. Nasdaq had suspended the shares on February 28, 2022. The company previously traded as Yandex N.V. (YNDX)."
+    },
+    {
+      "id": "C9",
+      "claim": "Nebius signed a multi-billion-dollar Microsoft capacity deal in September 2025 (about $17.4B to $19.4B).",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "Nebius Group (SEC Form 6-K): Commercial agreement with Microsoft",
+          "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+          "date": "2025-09-08"
+        },
+        {
+          "title": "Redmond Channel Partner: Microsoft Taps Nebius in $17B AI Infrastructure Deal To Alleviate Cloud Strain",
+          "url": "https://rcpmag.com/articles/2025/09/12/microsoft-nebius-ai-infrastructure-deal.aspx",
+          "date": "2025-09-12"
+        }
+      ],
+      "note": "Signed September 8, 2025 for five years of dedicated GPU capacity in Vineland, New Jersey. Value is about $17.4B through 2031, rising to about $19.4B with additional services."
+    },
+    {
+      "id": "C10",
+      "claim": "NVIDIA invested $2B in Nebius in March 2026 and disclosed a 9.3% stake.",
+      "status": "corrected",
+      "corrected_text": "NVIDIA agreed on March 11, 2026 to invest $2B in Nebius and disclosed a 9.3% stake in a Schedule 13G filed in July 2026.",
+      "sources": [
+        {
+          "title": "Nebius Group (SEC Form 6-K, Exhibit 99.1): NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud",
+          "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_ex99-1.htm",
+          "date": "2026-03-11"
+        },
+        {
+          "title": "NVIDIA (SEC Schedule 13G): Nebius Group N.V. Class A ordinary shares",
+          "url": "https://www.sec.gov/Archives/edgar/data/1513845/000104581026000062/0001045810-26-000062-index.htm",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "The Motley Fool: Nvidia Just Revealed It Owns 9.3% of Nebius",
+          "url": "https://www.fool.com/investing/2026/07/22/nvidia-just-revealed-it-owns-93-of-nebius-the-stoc/",
+          "date": "2026-07-22"
+        }
+      ],
+      "note": "The 9.3% disclosure came in July 2026, not March. Most of the position sits in a pre-funded warrant bought on March 11 that NVIDIA cannot exercise before September 11, 2026. March coverage put the stake at about 8.3%."
+    },
+    {
+      "id": "C11",
+      "claim": "CoreWeave reported a $104B backlog in August 2026 (Q2 2026), Q2 2026 revenue $2.58B, net loss $626M, FY2026 revenue guide $12.4B to $13.2B, capex guide $35B to $39B, about 1.5 GW active and 3.7 GW contracted power, about $35B of debt. Microsoft was about 67% of CoreWeave's 2025 revenue.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "CoreWeave (SEC exhibit): CoreWeave Reports Strong Second Quarter 2026 Results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "CoreWeave: CoreWeave Reports Strong Second Quarter 2026 Results",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "Investing.com: CoreWeave Q2 2026 slides: revenue doubles, backlog surges 246%",
+          "url": "https://www.investing.com/news/company-news/coreweave-q2-2026-slides-revenue-doubles-backlog-surges-246-93CH-4852949",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "MarketDaily: CoreWeave Q2 Revenue Doubles to $2.58 Billion as AI Infrastructure Backlog Surges Past $104 Billion",
+          "url": "https://marketdaily.com/coreweave-q2-2026-earnings-revenue-doubles-ai-backlog-104-billion/",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "CoreWeave (SEC Form 10-K): Annual report for fiscal year 2025",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+          "date": "2026-03-02"
+        }
+      ],
+      "note": "The release gives revenue of $2,575M, net loss of $626M, backlog of about $104B ($104.2B in the slides) excluding more than $25B signed in early Q3, 1.5 GW active and about 3.7 GW contracted (4.2 GW by August 11). Balance sheet debt sums to $35.1B. Guidance came on the call, so the revenue guide is sourced to Investing.com and the capex guide to MarketDaily. The FY2025 10-K gives Microsoft at about 67% of revenue."
+    },
+    {
+      "id": "C12",
+      "claim": "Lambda joined a reported $35B, 350 MW Anthropic deal in Nueces County, Texas, with Hut 8 and NVIDIA (August 2026).",
+      "status": "corrected",
+      "corrected_text": "In late August 2026 Anthropic signed a reported $35B cloud deal with Lambda for NVIDIA capacity, first reported by the Wall Street Journal. Later reporting places the capacity at Hut 8's Beacon Point campus in Nueces County, Texas, which Hut 8 is building in two 352 MW phases. The arrangement runs through NVIDIA and Lambda and is not a direct Anthropic lease with Hut 8.",
+      "sources": [
+        {
+          "title": "Reuters via Yahoo: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says",
+          "url": "https://www.yahoo.com/news/articles/anthropic-signs-35-billion-cloud-235939268.html",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Yahoo Finance: Anthropic has unannounced multiyear cloud deal with IREN: The Information",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-unannounced-multiyear-cloud-deal-141549911.html",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Hut 8 (SEC Form 8-K, Exhibit 99.1): Hut 8 Fully Commercializes 1 GW Beacon Point AI Data Center Campus with Second 352 MW IT Lease",
+          "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926084862/tm2620835d1_ex99-1.htm",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "Hut 8 (SEC Form 8-K, Exhibit 99.1): Investment-grade notes for 352 MW Beacon Point data center in Nueces County, Texas",
+          "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926070744/tm2616926d1_ex99-1.htm",
+          "date": "2026-06"
+        }
+      ],
+      "note": "Reuters confirms the $35B Lambda deal and the WSJ as original reporter, with no MW or site. The Hut 8 link comes from an October 2026 roundup. Hut 8 filings name only an unnamed highly rated tenant with two 352 MW leases of $9.8B each. No source gives a single 350 MW figure for the Anthropic deal."
+    },
+    {
+      "id": "C13",
+      "claim": "Firmus raised $2B at a $10.5B post-money valuation in August 2026.",
+      "status": "corrected",
+      "corrected_text": "Firmus secured a fully subscribed $2B strategic equity round in August 2026, which lifted its valuation above $10.5B.",
+      "sources": [
+        {
+          "title": "Firmus: Firmus Announces Fully Subscribed USD$2 Billion Strategic Equity Investment",
+          "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "Reuters: Firmus nearly doubles valuation to over $10.5 billion in 4 months with Nvidia-backed raise",
+          "url": "https://www.reuters.com/technology/firmus-nearly-doubles-valuation-over-105-billion-4-months-with-nvidia-backed-2026-08-07/",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "Firmus says the valuation is above $10.5B rather than exactly $10.5B. Coatue and NVIDIA reinvested and Blackstone Tactical Opportunities joined. Firmus withdrew a planned Australian IPO in October 2026."
+    },
+    {
+      "id": "C14",
+      "claim": "Crusoe Series F initial close of $3.9B at $30.9B post-money (September 2026), with over $140B contracted value and over 6 GW contracted.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "Crusoe: Crusoe Raises $3.9 Billion Series F for its Vertically-Integrated AI Infrastructure Platform",
+          "url": "https://crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+          "date": "2026-09-17"
+        }
+      ],
+      "note": "Announced September 17, 2026 as the initial closing of an anticipated $3.9B round, co-led by Atreides, Mubadala Capital and Valor. Crusoe cites over $140B of contracted value and more than 6 GW of gross contracted capacity, 1 GW of it operational."
+    },
+    {
+      "id": "C15",
+      "claim": "Nebius pushed prepayment to 100% on some 1-year commitments.",
+      "status": "unverified",
+      "corrected_text": "Nebius said 70% of its Q2 2026 deals included customer prepayments covering 50 to 60% of the associated capex, and it expects more than $9B of customer prepayments in 2026.",
+      "sources": [
+        {
+          "title": "Nebius Group (SEC Form 6-K, Exhibit 99.2): Letter to shareholders Q2 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-2.htm",
+          "date": "2026-08-12"
+        }
+      ],
+      "note": "The Q1 and Q2 2026 shareholder letters do not mention 100% prepayment on 1-year terms. No citable public source for the 100% figure was found. The corrected text uses what Nebius itself disclosed."
+    },
+    {
+      "id": "C16",
+      "claim": "Parametric termination insurance that bridges about one month if an offtaker cancels emerged in 2026 for GPU financing.",
+      "status": "unverified",
+      "corrected_text": "",
+      "sources": [],
+      "note": "No source found. The free sections of SemiAnalysis's July and September 2026 GPU debt backstop articles do not mention it. Drop the claim or source it before publishing."
+    },
+    {
+      "id": "C17",
+      "claim": "Anthropic's TPU capacity structure involves Broadcom equipment financing while Google guarantees data center rent.",
+      "status": "corrected",
+      "corrected_text": "Anthropic will access about 3.5 GW of TPU capacity through Broadcom from 2027. Under Broadcom's AI XPV platform a financial partner buys the racks and leases them to the customer, and Broadcom backstops part of those leases. Google separately backstops data center lease payments for third parties at some sites, such as Fluidstack leases at TeraWulf, Cipher and Hut 8.",
+      "sources": [
+        {
+          "title": "Broadcom (SEC Form 8-K): Long Term Agreement with Google and expanded collaboration with Anthropic",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/0001193125-26-144028-index.htm",
+          "date": "2026-04-06"
+        },
+        {
+          "title": "Broadcom (SEC Form 10-Q): Quarterly report for the quarter ended August 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/avgo-20260802.htm",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Alphabet (SEC Form 10-Q): Quarterly report for the quarter ended June 30, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+          "date": "2026-07-23"
+        }
+      ],
+      "note": "Broadcom launched AI XPV in June 2026 with a $35B initial tranche for more than 1 GW for an unnamed customer and backstops 85% of outstanding lease amounts net of resale value. Alphabet's 10-Q describes data center payment backstops of up to 15 years. No filing ties the Google backstop or the XPV customer to Anthropic by name, so present the two structures separately."
+    },
+    {
+      "id": "C18",
+      "claim": "H100 rental prices range from about $1.25 to $12.29 per GPU-hour in 2026; the SemiAnalysis H100 spot-contract index is about $2.80.",
+      "status": "corrected",
+      "corrected_text": "H100 rental prices ranged from about $1.25 per GPU-hour (cheapest listed spot) to $12.29 (Azure on-demand) in May 2026, according to Emma. SemiAnalysis's latest public H100 composite rental price was $2.82 per GPU-hour in April 2026.",
+      "sources": [
+        {
+          "title": "Emma: The NVIDIA H100 in 2026: A 12x Price Spread for the Same Silicon",
+          "url": "https://www.emma.ms/blog/nvidia-h100-cloud-gpu",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "Uvik: GPU Price Index 2026: NVIDIA H100, H200, B200 and AMD MI300X Prices to Rent and Buy",
+          "url": "https://uvik.net/blog/gpu-price-index/",
+          "date": "2026-10-11"
+        }
+      ],
+      "note": "Emma's body text gives $1.25 to $12.29, while its summary box says $1.38 to $12.29. No SemiAnalysis index called a spot-contract index was found. The $2.82 April 2026 composite comes via Uvik because the SemiAnalysis dashboard needs a login. Silicon Data's H100 index read $2.85 on October 12, 2026."
+    },
+    {
+      "id": "C19",
+      "claim": "1-year H100 contract prices rose from about $1.70 (October 2025) to about $2.35 (March 2026), about 40%.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "SemiAnalysis: The Great GPU Shortage - Rental Capacity - Launching our H100 1 Year Rental Price Index",
+          "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity",
+          "date": "2026-04-02"
+        }
+      ],
+      "note": "SemiAnalysis writes that H100 1-year contract pricing rose almost 40% from a low of $1.70 in October 2025 to $2.35 by March 2026. The exact rise is 38%."
+    },
+    {
+      "id": "C20",
+      "claim": "B200 rental ranges from $2.12 to $6.04 per GPU-hour, with a spot-contract index of $3.68 (April 2026).",
+      "status": "corrected",
+      "corrected_text": "B200 rental runs from about $2.12 per GPU-hour on spot to $6.04 on-demand at specialist providers, according to IntuitionLabs.",
+      "sources": [
+        {
+          "title": "IntuitionLabs: Data Center GPU Pricing 2026: The Full AI Pricing Index",
+          "url": "https://intuitionlabs.ai/articles/data-center-gpu-pricing-2026",
+          "date": "2026-10-11"
+        }
+      ],
+      "note": "The range is confirmed. The $3.68 April 2026 index value was not found in any public source, so drop it. Other public B200 indexes read higher, such as Silicon Data at $5.94 in October 2026."
+    },
+    {
+      "id": "C21",
+      "claim": "GB200 NVL72 rentals range from about $10.50 to $27 per GPU-hour.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "IntuitionLabs: Data Center GPU Pricing 2026: The Full AI Pricing Index",
+          "url": "https://intuitionlabs.ai/articles/data-center-gpu-pricing-2026",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Uvik: GPU Price Index 2026: NVIDIA H100, H200, B200 and AMD MI300X Prices to Rent and Buy",
+          "url": "https://uvik.net/blog/gpu-price-index/",
+          "date": "2026-10-11"
+        }
+      ],
+      "note": "IntuitionLabs gives $10.50 to $27 per GPU-hour, with CoreWeave at the low end and Azure ND GB200 v6 at the high end. Uvik gives $10.50 to $27.04 from three providers."
+    },
+    {
+      "id": "C22",
+      "claim": "SemiAnalysis models OpenAI and Anthropic at 56.3% of all lab compute by year-end 2027.",
+      "status": "unverified",
+      "corrected_text": "",
+      "sources": [],
+      "note": "Not found in the free sections of about twenty 2026 SemiAnalysis articles. The figure may sit in a paid model. Drop it or obtain the source."
+    },
+    {
+      "id": "C23",
+      "claim": "Rothschild & Co Redburn initiated neocloud coverage on September 23, 2026 with Sell ratings on CoreWeave and Nebius and Neutral on IREN.",
+      "status": "corrected",
+      "corrected_text": "Rothschild & Co Redburn initiated coverage of CoreWeave and Nebius at Sell on September 21, 2026, citing falling GPU rental prices, and started IREN at Neutral with a $40 target in the same week.",
+      "sources": [
+        {
+          "title": "MarketScreener (MT Newswires): Rothschild & Co Redburn Initiates CoreWeave at Sell",
+          "url": "https://www.marketscreener.com/news/rothschild-co-redburn-initiates-coreweave-at-sell-ce785adbda80f327",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "24/7 Wall St. via Yahoo Finance: Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rothschild-redburn-downgrades-nebius-coreweave-185619271.html",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "MarketScreener: Rothschild & Co Redburn Initiates Nebius Group at Sell With $84 Price Target",
+          "url": "https://www.marketscreener.com/news/rothschild-co-redburn-initiates-nebius-group-at-sell-with-84-price-target-ce785adbda80f423",
+          "date": "2026-09-21"
+        }
+      ],
+      "note": "CoreWeave and Nebius initiations are dated September 21, 2026 (headlines say downgrades but the text says initiations). The IREN Neutral rating with a $40 target appears in Investing.com and Blockspace headlines from September 21 to 23 that could not be opened, and in a September 25 24/7 Wall St follow-up that is not cited because it discusses excluded SemiAnalysis ratings."
+    },
+    {
+      "id": "C24",
+      "claim": "NVIDIA open-sourced NVSentinel for GPU fault detection and remediation on Kubernetes.",
+      "status": "verified",
+      "corrected_text": "",
+      "sources": [
+        {
+          "title": "GitHub: NVIDIA/NVSentinel",
+          "url": "https://github.com/NVIDIA/NVSentinel",
+          "date": "2025-10-17"
+        },
+        {
+          "title": "NVIDIA Technical Blog: Automate Kubernetes AI Cluster Health with NVSentinel",
+          "url": "https://developer.nvidia.com/blog/automate-kubernetes-ai-cluster-health-with-nvsentinel/",
+          "date": "2025-12-08"
+        }
+      ],
+      "note": "Apache-2.0 repository, first release v0.1.0 on October 17, 2025. NVIDIA describes it as a GPU fault detection and remediation system for Kubernetes."
+    },
+    {
+      "id": "C25",
+      "claim": "OpenAI released the MRC multiplanar network design through the Open Compute Project in May 2026.",
+      "status": "corrected",
+      "corrected_text": "In May 2026 OpenAI released MRC (Multipath Reliable Connection) as an open specification through the Open Compute Project. MRC is a transport protocol for multiplane AI training networks, developed with AMD, Broadcom, Intel, Microsoft and NVIDIA.",
+      "sources": [
+        {
+          "title": "OpenAI: Supercomputer networking to accelerate large scale AI training",
+          "url": "https://openai.com/index/mrc-supercomputer-networking/",
+          "date": "2026-05-06"
+        },
+        {
+          "title": "NVIDIA Blog: NVIDIA Spectrum-X, the Open, AI-Native Ethernet Fabric, Sets the Standard for Gigascale AI, Now With MRC",
+          "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+          "date": "2026-05-06"
+        }
+      ],
+      "note": "MRC is a transport protocol that makes multiplane networks practical, not a network design itself. The OpenAI page blocked automated fetches, so the May 6 date comes from NVIDIA's coverage."
+    },
+    {
+      "id": "C26",
+      "claim": "Vera Rubin NVL72 racks rise from about 130 kW (GB300) to about 200 kW, with 1.6T ConnectX-9 NICs and 800V DC power options.",
+      "status": "corrected",
+      "corrected_text": "Vera Rubin NVL72 rack power rises from about 120 to 140 kW for GB200 and GB300 to about 180 to 220 kW. ConnectX-9 SuperNICs give 1.6 Tb/s of scale-out bandwidth per GPU, and an optional 800 VDC power rack is available.",
+      "sources": [
+        {
+          "title": "SemiAnalysis: Vera Rubin - Extreme Co-Design: An Evolution from Grace Blackwell Oberon",
+          "url": "https://newsletter.semianalysis.com/p/vera-rubin-extreme-co-design-an-evolution",
+          "date": "2026-02-25"
+        },
+        {
+          "title": "NVIDIA Technical Blog: Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer",
+          "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
+          "date": "2026-01-05"
+        }
+      ],
+      "note": "The 1.6 Tb/s figure is per GPU, from two 800G ConnectX-9 NICs per GPU, not a single 1.6T NIC. SemiAnalysis gives 180 to 220 kW per rack and mentions an HVDC power rack at 800 VDC."
+    },
+    {
+      "id": "C27",
+      "claim": "Google formed a $5B joint venture with Blackstone for a TPU cloud targeting 500 MW.",
+      "status": "unverified",
+      "corrected_text": "",
+      "sources": [],
+      "note": "No source found. Alphabet's Q2 2026 10-Q and June 2026 8-K do not mention Blackstone, and Blackstone's press page blocked fetching. Drop the claim or source it before publishing."
+    },
+    {
+      "id": "C28",
+      "claim": "CoreWeave's managed inference business reached $100M ARR.",
+      "status": "corrected",
+      "corrected_text": "CoreWeave said booked ARR for its managed inference business rose from $1M to more than $100M within a few months.",
+      "sources": [
+        {
+          "title": "CoreWeave (SEC Form 8-K): Convertible notes offering investor presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/crwv2026convertpresentat.htm",
+          "date": "2026-09-17"
+        }
+      ],
+      "note": "The figure is booked ARR, not recognized revenue, and was first given on the Q2 2026 call. Crusoe separately reports over $100M of contracted ARR for its own managed inference, so keep the two apart."
+    },
+    {
+      "id": "C29",
+      "claim": "SemiAnalysis estimates open-source model tokens can earn over $100M per MW per year at current rental prices.",
+      "status": "unverified",
+      "corrected_text": "SemiAnalysis estimates that OpenAI and Anthropic can each generate over $100B per GW per year (about $100M per MW) selling API inference on a GB300 cluster.",
+      "sources": [
+        {
+          "title": "SemiAnalysis: SpaceX 10GW in 2027 - Why It's Real, Will Drive $300B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker",
+          "url": "https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real",
+          "date": "2026-08-07"
+        }
+      ],
+      "note": "No public SemiAnalysis statement about open-source model tokens at over $100M per MW was found. The closest sourced figure covers frontier lab API inference, not open models, so use the corrected text or drop the claim."
+    },
+    {
+      "id": "C30",
+      "claim": "SemiAnalysis reported that GPU supply has effectively gone to zero and on-demand capacity is sold out across GPU types (The Great GPU Shortage).",
+      "status": "corrected",
+      "corrected_text": "SemiAnalysis reported in April 2026 that on-demand GPU rental capacity was sold out across all GPU types and that by March 2026 it had become increasingly impossible to find H100, H200 or B200 rental capacity for any term.",
+      "sources": [
+        {
+          "title": "SemiAnalysis: The Great GPU Shortage - Rental Capacity - Launching our H100 1 Year Rental Price Index",
+          "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity",
+          "date": "2026-04-02"
+        }
+      ],
+      "note": "The sold-out wording is a direct quote. The phrase gone to zero does not appear in the article, so do not present it as a quote. The article also says capacity coming online through August to September 2026 was already booked."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017-09",
+      "event": "Michael Intrator, Brian Venturo and Brannin McBee start Atlantic Crypto, a GPU mining company that renames itself CoreWeave in December 2019.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525044231/d899798ds1.htm"
+    },
+    {
+      "date": "2022-09",
+      "event": "Ethereum completes the Merge to proof-of-stake, which ends GPU mining of ether and leaves miners with idle GPU fleets.",
+      "url": "https://ethereum.org/en/roadmap/merge/"
+    },
+    {
+      "date": "2022-11",
+      "event": "OpenAI launches ChatGPT, which sets off a surge in demand for GPU compute.",
+      "url": "https://openai.com/index/chatgpt/"
+    },
+    {
+      "date": "2023-04",
+      "event": "NVIDIA invests in CoreWeave as part of a $221 million Series B led by Magnetar Capital.",
+      "url": "https://techcrunch.com/2023/04/20/coreweave-a-gpu-focused-cloud-compute-provider-lands-221m-investment/"
+    },
+    {
+      "date": "2023-08",
+      "event": "CoreWeave secures a $2.3 billion debt facility from Magnetar Capital and Blackstone that uses its NVIDIA GPUs as collateral.",
+      "url": "https://www.reuters.com/technology/coreweave-raises-23-billion-debt-collateralized-by-nvidia-chips-2023-08-03/"
+    },
+    {
+      "date": "2024-10",
+      "event": "Nebius Group, the former Yandex parent, resumes trading on Nasdaq under the ticker NBIS for the first time since February 2022.",
+      "url": "https://www.nasdaq.com/press-release/nasdaq-resumes-trading-nebius-group-nv-2024-10-18"
+    },
+    {
+      "date": "2025-01",
+      "event": "OpenAI, SoftBank, Oracle and MGX announce Stargate, a plan to invest $500 billion in US AI infrastructure over four years.",
+      "url": "https://group.softbank/en/news/press/20250122"
+    },
+    {
+      "date": "2025-03",
+      "event": "OpenAI signs a contract worth up to $11.9 billion with CoreWeave and receives $350 million of CoreWeave stock.",
+      "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Agreement-with-OpenAI-to-Deliver-AI-Infrastructure/default.aspx"
+    },
+    {
+      "date": "2025-03",
+      "event": "CoreWeave agrees to buy Weights & Biases in a deal reported at about $1.7 billion.",
+      "url": "https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/"
+    },
+    {
+      "date": "2025-03",
+      "event": "CoreWeave prices its IPO at $40 a share and begins trading on Nasdaq as CRWV on March 28.",
+      "url": "https://www.coreweave.com/news/coreweave-announces-pricing-of-initial-public-offering"
+    },
+    {
+      "date": "2025-07",
+      "event": "CoreWeave agrees to acquire Core Scientific in an all-stock deal valued at about $9 billion.",
+      "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-to-Acquire-Core-Scientific/default.aspx"
+    },
+    {
+      "date": "2025-08",
+      "event": "Google backstops Fluidstack's lease at TeraWulf, starting at $1.8 billion and rising to about $3.2 billion in exchange for a stake of about 14%.",
+      "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner"
+    },
+    {
+      "date": "2025-09",
+      "event": "Nebius signs a five-year GPU capacity deal with Microsoft worth $17.4 billion, rising to about $19.4 billion with added services.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm"
+    },
+    {
+      "date": "2025-09",
+      "event": "Google backstops $1.4 billion of Fluidstack's lease at Cipher Mining and receives warrants for about 5.4% of Cipher.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325012168/dp234624_ex9901.htm"
+    },
+    {
+      "date": "2025-09",
+      "event": "OpenAI expands its CoreWeave contracts by up to $6.5 billion, bringing the total to about $22.4 billion.",
+      "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Expands-Agreement-with-OpenAI-by-up-to-6-5B/default.aspx"
+    },
+    {
+      "date": "2025-10",
+      "event": "Anthropic expands its Google Cloud deal to use up to one million TPUs.",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services"
+    },
+    {
+      "date": "2025-10",
+      "event": "Core Scientific shareholders vote down the CoreWeave merger, and the two companies terminate the agreement.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/ef20057995_ex99-1.htm"
+    },
+    {
+      "date": "2025-11",
+      "event": "Microsoft signs a five-year $9.7 billion contract with IREN for GPU cloud capacity built on NVIDIA GB300 systems.",
+      "url": "https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/IREN-Secures-9-7bn-AI-Cloud-Contract-with-Microsoft.html"
+    },
+    {
+      "date": "2025-11",
+      "event": "Lambda signs a multibillion-dollar agreement with Microsoft to deploy tens of thousands of NVIDIA GPUs.",
+      "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus"
+    },
+    {
+      "date": "2025-11",
+      "event": "Nebius signs a five-year AI infrastructure deal with Meta worth about $3 billion.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925109806/tm2530882d1_ex99-1.htm"
+    },
+    {
+      "date": "2025-11",
+      "event": "Anthropic commits $50 billion to build US data centers with Fluidstack, starting with sites in Texas and New York.",
+      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
+    },
+    {
+      "date": "2025-12",
+      "event": "NVIDIA licenses Groq's inference technology on a non-exclusive basis and hires its top executives in a deal CNBC values at about $20 billion.",
+      "url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html"
+    },
+    {
+      "date": "2026-01",
+      "event": "NVIDIA launches the Vera Rubin platform at CES and names CoreWeave, Lambda, Nebius and Nscale among its first cloud partners.",
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+    },
+    {
+      "date": "2026-02",
+      "event": "SpaceX acquires xAI in an all-stock deal that values SpaceX at $1 trillion and xAI at $250 billion.",
+      "url": "https://finance.yahoo.com/news/musks-spacex-merge-xai-combined-212210116.html"
+    },
+    {
+      "date": "2026-03",
+      "event": "NVIDIA invests $2 billion in Nebius as part of a plan to deploy more than 5 GW of NVIDIA systems by 2030.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_ex99-1.htm"
+    },
+    {
+      "date": "2026-04",
+      "event": "SemiAnalysis reports that on-demand GPU rental capacity is sold out and that 1-year H100 contract prices have risen almost 40% since October 2025.",
+      "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity"
+    },
+    {
+      "date": "2026-08",
+      "event": "Firmus raises $2 billion from investors including NVIDIA, Coatue and Blackstone, which lifts its valuation above $10.5 billion.",
+      "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific"
+    },
+    {
+      "date": "2026-08",
+      "event": "CoreWeave reports second-quarter revenue of $2.58 billion and a revenue backlog of about $104 billion.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm"
+    },
+    {
+      "date": "2026-08",
+      "event": "Anthropic signs a reported $35 billion cloud deal with Lambda for NVIDIA capacity.",
+      "url": "https://www.yahoo.com/news/articles/anthropic-signs-35-billion-cloud-235939268.html"
+    },
+    {
+      "date": "2026-09",
+      "event": "Crusoe announces the initial close of a $3.9 billion Series F at a $30.9 billion post-money valuation.",
+      "url": "https://crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding"
+    }
+  ],
+  "source_links": [
+    {
+      "name": "SemiAnalysis: The Great GPU Shortage",
+      "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity",
+      "title": "The Great GPU Shortage - Rental Capacity - Launching our H100 1 Year Rental Price Index"
+    },
+    {
+      "name": "SemiAnalysis GPU rental index",
+      "url": "https://semianalysis.com/gpu-pricing-index/",
+      "title": "GPU Pricing Index - SemiAnalysis (public landing page, data dashboard requires login)"
+    },
+    {
+      "name": "SemiAnalysis: AI Neocloud Playbook and Anatomy (2024)",
+      "url": "https://newsletter.semianalysis.com/p/ai-neocloud-playbook-and-anatomy",
+      "title": "AI Neocloud Playbook and Anatomy"
+    },
+    {
+      "name": "Pulse 2.0: CoreWeave backlog reaches $104B",
+      "url": "https://pulse2.com/coreweave-revenue-backlog-reaches-104-billion-before-another-25-billion-of-new-commitments/",
+      "title": "CoreWeave: Revenue Backlog Reaches $104 Billion Before Another $25 Billion Of New Commitments"
+    },
+    {
+      "name": "Channelchek: CoreWeave Q2 2026 earnings",
+      "url": "",
+      "title": "Not found. Channelchek's sitemaps list no CoreWeave article, and web search was unavailable."
+    },
+    {
+      "name": "LongYield: CoreWeave books $104B",
+      "url": "",
+      "title": "Not found. longyield.com is a parked domain, and web search was unavailable."
+    },
+    {
+      "name": "Analytics Insight: How Michael Intrator built CoreWeave",
+      "url": "https://www.analyticsinsight.net/cxo-insights/from-crypto-mining-to-ai-cloud-how-michael-intrator-built-coreweave",
+      "title": "From Crypto Mining to AI Cloud: How Michael Intrator Built CoreWeave?"
+    },
+    {
+      "name": "Introl: CoreWeave deep dive",
+      "url": "https://introl.com/blog/coreweave-gpu-cloud-ai-infrastructure-deep-dive-2025",
+      "title": "CoreWeave Deep Dive: How a Former Crypto Miner Became AI's Essential Cloud (contains errors on the pivot date, NVIDIA investment size and May 2024 debt amount)"
+    },
+    {
+      "name": "IntuitionLabs: Data center GPU pricing 2026",
+      "url": "https://intuitionlabs.ai/articles/data-center-gpu-pricing-2026",
+      "title": "Data Center GPU Pricing 2026: The Full AI Pricing Index"
+    },
+    {
+      "name": "Emma: H100 pricing in 2026",
+      "url": "https://www.emma.ms/blog/nvidia-h100-cloud-gpu",
+      "title": "The NVIDIA H100 in 2026: A 12x Price Spread for the Same Silicon"
+    },
+    {
+      "name": "Yahoo Finance: neocloud stocks and Redburn initiation",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rothschild-redburn-downgrades-nebius-coreweave-185619271.html",
+      "title": "Rothschild Redburn Downgrades Nebius, CoreWeave to Sell on Lower GPU Prices (24/7 Wall St. via Yahoo Finance)"
+    }
+  ]
+}

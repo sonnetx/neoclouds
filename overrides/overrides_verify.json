@@ -1,0 +1,1965 @@
+{
+ "add_sources": {
+  "akamai": [
+   {
+    "title": "Akamai: AI Inference at the Edge: How Akamai's Evolution Made It Possible",
+    "url": "https://www.akamai.com/blog/cloud/full-circle-akamais-evolution-set-stage-ai-inference-era",
+    "date": "2025-11-26"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Completes Acquisition of Linode",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode",
+    "date": "2022-03"
+   },
+   {
+    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results",
+    "date": "2026-05"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Akamai: AI Inference with App Platform for LKE",
+    "url": "https://www.akamai.com/cloud/guides/deploy-llm-for-ai-inferencing-on-apl",
+    "date": "2025-12"
+   },
+   {
+    "title": "Akamai: AI Inference at the Edge: How Akamai's Evolution Made It Possible",
+    "url": "https://www.akamai.com/blog/cloud/full-circle-akamais-evolution-set-stage-ai-inference-era",
+    "date": "2025-11-26"
+   },
+   {
+    "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results",
+    "date": "2026-05"
+   },
+   {
+    "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+    "date": "2026-08"
+   },
+   {
+    "title": "Akamai: AI Inference at the Edge: How Akamai's Evolution Made It Possible",
+    "url": "https://www.akamai.com/blog/cloud/full-circle-akamais-evolution-set-stage-ai-inference-era",
+    "date": "2025-11-26"
+   },
+   {
+    "title": "Akamai: Akamai Completes Acquisition of Linode",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode",
+    "date": "2022-03"
+   }
+  ],
+  "northern-data": [
+   {
+    "title": "Yahoo Finance: Rumble Eyes $3B AI Compute Run Rate From 250MW Power Pipeline",
+    "url": "https://finance.yahoo.com/technology/ai/articles/rumble-eyes-3b-ai-compute-040202696.html",
+    "date": "2026-08-16"
+   },
+   {
+    "title": "The Block: Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives (FT)",
+    "url": "https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft",
+    "date": "2025-12-21"
+   },
+   {
+    "title": "Stock Titan: RUM says GPU use jumped to 85% as Quake AI builds out capacity",
+    "url": "https://www.stocktitan.net/news/RUM/rum-group-inc-announces-the-filing-of-updated-investor-vjbhkpqnz3oq.html",
+    "date": "2026-06-30"
+   },
+   {
+    "title": "Investing.com: Rumble completes Northern Data acquisition for $170-190M revenue",
+    "url": "https://www.investing.com/news/company-news/rumble-completes-northern-data-acquisition-for-170190m-revenue-93CH-4748271",
+    "date": "2026-06-17"
+   },
+   {
+    "title": "GlobeNewswire: Tether Doubles Down on Rumble, with an Initial Commitment of up to $150 Million of GPU Services to Fuel AI Plans",
+    "url": "https://www.globenewswire.com/news-release/2025/11/10/3184182/0/en/Tether-Doubles-Down-on-Rumble-with-an-Initial-Commitment-of-up-to-150-Million-of-GPU-Services-to-Fuel-AI-Plans.html",
+    "date": "2025-11-10"
+   },
+   {
+    "title": "Stock Titan: RUM says GPU use jumped to 85% as Quake AI builds out capacity",
+    "url": "https://www.stocktitan.net/news/RUM/rum-group-inc-announces-the-filing-of-updated-investor-vjbhkpqnz3oq.html",
+    "date": "2026-06-30"
+   },
+   {
+    "title": "Investing.com: Rumble completes Northern Data acquisition for $170-190M revenue",
+    "url": "https://www.investing.com/news/company-news/rumble-completes-northern-data-acquisition-for-170190m-revenue-93CH-4748271",
+    "date": "2026-06-17"
+   },
+   {
+    "title": "Investing.com: Rumble completes Northern Data acquisition for $170-190M revenue",
+    "url": "https://www.investing.com/news/company-news/rumble-completes-northern-data-acquisition-for-170190m-revenue-93CH-4748271",
+    "date": "2026-06-17"
+   }
+  ],
+  "tensorwave": [
+   {
+    "title": "Yahoo Finance: TensorWave Celebrates Opening of Las Vegas Headquarters With Community Ribbon-Cutting and Block Party",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/tensorwave-celebrates-opening-las-vegas-150000719.html",
+    "date": "2026-04-16"
+   },
+   {
+    "title": "Pulse 2.0: TensorWave: $43 Million In SAFE Funding Raised For Advancing AI Computing Solutions",
+    "url": "https://pulse2.com/tensorwave-43-million-in-safe-funding-raised-for-advancing-ai-computing-solutions/",
+    "date": "2024-10-08"
+   },
+   {
+    "title": "Tech Funding News: The Forbes 30 Under 30 CEO who left Lockheed Martin's Skunk Works raises $350M at $1.55B to challenge Nvidia's grip on AI infrastructure",
+    "url": "https://techfundingnews.com/tensorwave-350m-series-b-all-amd-ai-infrastructure/",
+    "date": "2026-06-10"
+   },
+   {
+    "title": "Yahoo Finance: TensorWave Expands Executive Leadership Team as Company Scales AI Infrastructure Operations",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tensorwave-expands-executive-leadership-team-120000407.html",
+    "date": "2026-09-28"
+   },
+   {
+    "title": "Tech Funding News: The Forbes 30 Under 30 CEO who left Lockheed Martin's Skunk Works raises $350M at $1.55B to challenge Nvidia's grip on AI infrastructure",
+    "url": "https://techfundingnews.com/tensorwave-350m-series-b-all-amd-ai-infrastructure/",
+    "date": "2026-06-10"
+   }
+  ],
+  "microsoft-azure": [
+   {
+    "title": "Microsoft: The next chapter of the Microsoft-OpenAI partnership",
+    "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Microsoft: The next chapter of the Microsoft-OpenAI partnership",
+    "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Anthropic: Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+    "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+    "date": "2025-11-18"
+   },
+   {
+    "title": "The Futurum Group: Microsoft Q4 FY 2026: AI Demand Accelerates Azure and Enterprise Growth",
+    "url": "https://futurumgroup.com/insights/microsoft-q4-fy-2026-ai-demand-accelerates-azure-and-enterprise-growth/",
+    "date": "2026-07-31"
+   }
+  ],
+  "nebius": [
+   {
+    "title": "Reuters (via Yahoo Finance): Nebius signs $17.4 billion AI infrastructure deal with Microsoft, shares jump",
+    "url": "https://finance.yahoo.com/news/nebius-signs-17-4-billion-211147146.html",
+    "date": "2025-09-08"
+   },
+   {
+    "title": "SEC: Nebius Group N.V. Form 6-K, Palantir partnership announcement",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926105749/tm2624958d1_ex99-1.htm",
+    "date": "2026-09-08"
+   },
+   {
+    "title": "Construction Review: Amsterdam-based AI Firm Nebius to Build 240MW Béthune Data Centre in France, One of Europe's Largest",
+    "url": "https://constructionreviewonline.com/amsterdam-based-ai-firm-nebius-to-build-240mw-bethune-data-centre-in-france-one-of-europes-largest/",
+    "date": "2026-02-18"
+   }
+  ],
+  "modal": [
+   {
+    "title": "SiliconANGLE: Serverless AI infrastructure startup Modal Labs seals $355M funding round",
+    "url": "https://siliconangle.com/2026/05/21/serverless-ai-infrastructure-startup-modal-labs-seals-355m-funding-round/",
+    "date": "2026-05-21"
+   },
+   {
+    "title": "Modal: Pricing",
+    "url": "https://modal.com/pricing",
+    "date": "2026"
+   },
+   {
+    "title": "Modal: Pricing",
+    "url": "https://modal.com/pricing",
+    "date": "2026"
+   }
+  ],
+  "vast-ai": [
+   {
+    "title": "Vast.ai: Press Kit",
+    "url": "https://vast.ai/press-kit",
+    "date": "2026"
+   },
+   {
+    "title": "Vast.ai: GPU Pricing",
+    "url": "https://vast.ai/pricing",
+    "date": "2026"
+   }
+  ],
+  "indosat": [
+   {
+    "title": "The Next Web: Cherry-picking our tenants, Ooredoo bets $800m on Indonesia's first AI cloud",
+    "url": "https://thenextweb.com/news/zankore-ooredoo-800m-indonesia-ai-cloud-neocloud-nvidia",
+    "date": "2026"
+   },
+   {
+    "title": "Developing Telecoms: Zankore lands US$3.1b loan facility to finance Nvidia-powered AI platform",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20802-zankore-lands-us-3-1b-loan-facility-to-finance-nvidia-powered-ai-platform.html",
+    "date": "2026-09-10"
+   }
+  ],
+  "together-ai": [
+   {
+    "title": "Reuters: Together AI notches $3.3 billion valuation after General Catalyst-led fundraising",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/together-ai-notches-33-billion-valuation-after-latest-fundraising-2025-02-20/",
+    "date": "2025-02-20"
+   }
+  ],
+  "lightning-ai": [
+   {
+    "title": "VentureBeat: Lightning AI and Voltage Park merge",
+    "url": "https://venturebeat.com/business/lightning-ai-and-voltage-park-complete-merger-to-create-the-first-cloud-built-for-ai",
+    "date": "2026"
+   }
+  ],
+  "sesterce": [
+   {
+    "title": "Le Monde: French AI startup Sesterce unveils €10 billion Finland data center project",
+    "url": "https://www.lemonde.fr/en/france/article/2026/10/08/french-ai-startup-sesterce-unveils-10-billion-finland-data-center-project_6758387_7.html",
+    "date": "2026-10-08"
+   }
+  ],
+  "moonlite": [
+   {
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/",
+    "date": "2026"
+   },
+   {
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/",
+    "date": "2026"
+   },
+   {
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/",
+    "date": "2026"
+   },
+   {
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/",
+    "date": "2026"
+   },
+   {
+    "title": "Moonlite: High-Performance AI Infrastructure",
+    "url": "https://moonlite.ai/",
+    "date": "2026"
+   }
+  ],
+  "terawulf": [
+   {
+    "title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "CarbonCredits.com: Bitcoin Miner TeraWulf (WULF) Stock Rallies as Google Backs $3.2B AI Infrastructure Expansion",
+    "url": "https://carboncredits.com/bitcoin-miner-terawulf-wulf-stock-rallies-as-google-backs-3-2b-ai-infrastructure-expansion/",
+    "date": "2025-08-21"
+   },
+   {
+    "title": "The Block: TeraWulf expands AI push with $9.5 billion Google-backed Fluidstack joint venture as stock jumps 25%",
+    "url": "https://www.theblock.co/news/business/2025-10-28-terawulf-expands-ai-push-9-5-billion-usd-google-backed-fluidstack-joint-venture-stock-jumps-376561",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "StockTitan: TeraWulf Reports Second Quarter 2026 Results",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "StockTitan: Kentucky PSC Approves 482 MW Power Agreement for TeraWulf's Justified Data Campus",
+    "url": "https://www.stocktitan.net/news/WULF/kentucky-psc-approves-482-mw-power-agreement-for-tera-wulf-s-9kmcbdo654rd.html",
+    "date": "2026-08-21"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   },
+   {
+    "title": "StockTitan: TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-announces-anthropic-lease-at-justified-data-campus-and-zyf9qhmc6xif.html",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "StockTitan: TeraWulf Reports Second Quarter 2026 Results",
+    "url": "https://www.stocktitan.net/news/WULF/tera-wulf-reports-second-quarter-2026-xroiqofrgahk.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: TeraWulf Q2 2026 slides, AI pivot advances despite $940M loss",
+    "url": "https://www.investing.com/news/company-news/terawulf-q2-2026-slides-ai-pivot-advances-despite-940m-loss-93CH-4838037",
+    "date": "2026-08"
+   }
+  ],
+  "tatra-supercompute": [
+   {
+    "title": "Tatra Supercompute: NVIDIA partnership",
+    "url": "https://tatrasupercompute.com/nvidia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Why Slovakia",
+    "url": "https://tatrasupercompute.com/slovakia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Team",
+    "url": "https://tatrasupercompute.com/team",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Why Slovakia",
+    "url": "https://tatrasupercompute.com/slovakia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Why Slovakia",
+    "url": "https://tatrasupercompute.com/slovakia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Why Slovakia",
+    "url": "https://tatrasupercompute.com/slovakia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: NVIDIA partnership",
+    "url": "https://tatrasupercompute.com/nvidia",
+    "date": "2026"
+   },
+   {
+    "title": "Tatra Supercompute: Team",
+    "url": "https://tatrasupercompute.com/team",
+    "date": "2026"
+   }
+  ],
+  "sk-telecom": [
+   {
+    "title": "SK Telecom Newsroom: SK Telecom Launches Sovereign AI Infrastructure, Powered by NVIDIA",
+    "url": "https://news.sktelecom.com/en/2056",
+    "date": "2025-08-05"
+   },
+   {
+    "title": "KED Global: SK, AWS to build South Korea's largest, multibillion-dollar AI data center",
+    "url": "https://www.kedglobal.com/tech,-media-telecom/newsView/ked202506160002",
+    "date": "2025-06-16"
+   },
+   {
+    "title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal",
+    "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal",
+    "date": "2026-08-28"
+   },
+   {
+    "title": "UPI: SK Telecom, Rebellions expand Korean AI chip infrastructure",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal",
+    "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal",
+    "date": "2026-08-28"
+   }
+  ],
+  "nebul": [
+   {
+    "title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer",
+    "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/",
+    "date": "2025-09-23"
+   },
+   {
+    "title": "Nebul: Homepage",
+    "url": "https://nebul.com/",
+    "date": "2026"
+   },
+   {
+    "title": "Nebul: Contact",
+    "url": "https://nebul.com/contact/",
+    "date": "2026"
+   },
+   {
+    "title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer",
+    "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/",
+    "date": "2025-09-23"
+   },
+   {
+    "title": "Techzine Global: Nebul has already built its AI factory, with NetApp as the storage layer",
+    "url": "https://www.techzine.eu/blogs/infrastructure/134870/nebul-has-already-built-its-ai-factory-with-netapp-as-the-storage-layer/",
+    "date": "2025-09-23"
+   }
+  ],
+  "core-scientific": [
+   {
+    "title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion",
+    "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917",
+    "date": "2026"
+   },
+   {
+    "title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion",
+    "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917",
+    "date": "2026"
+   },
+   {
+    "title": "Yahoo Finance: KBW cuts Core Scientific to Market Perform as lease delays raise execution risk",
+    "url": "https://finance.yahoo.com/technology/ai/articles/kbw-cuts-core-scientific-market-143007821.html",
+    "date": "2026-07-27"
+   },
+   {
+    "title": "Investing.com: Core Scientific Q1 2026 slides, $3B financing fuels 3 GW expansion",
+    "url": "https://www.investing.com/news/company-news/core-scientific-q1-2026-slides-3b-financing-fuels-3-gw-expansion-93CH-4680917",
+    "date": "2026"
+   }
+  ],
+  "oracle": [
+   {
+    "title": "Yahoo Finance: AMD and Oracle Expand Partnership to Help Customers Achieve Next-Generation AI Scale",
+    "url": "https://finance.yahoo.com/news/amd-oracle-expand-partnership-deploy-093737884.html",
+    "date": "2025-10-21"
+   },
+   {
+    "title": "PR Newswire: Oracle Announces Equity and Debt Financing Plan for Calendar Year 2026",
+    "url": "https://www.prnewswire.com/news-releases/oracle-announces-equity-and-debt-financing-plan-for-calendar-year-2026-302675778.html",
+    "date": "2026-02-01"
+   },
+   {
+    "title": "The Motley Fool: Oracle (ORCL) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/",
+    "date": "2026-09-11"
+   }
+  ],
+  "sf-compute": [
+   {
+    "title": "SF Compute: Home",
+    "url": "https://sfcompute.com/",
+    "date": "2026"
+   },
+   {
+    "title": "SF Compute: Home",
+    "url": "https://sfcompute.com/",
+    "date": "2026"
+   },
+   {
+    "title": "SF Compute homepage (Wayback Machine archive)",
+    "url": "http://web.archive.org/web/20251202002351/https://sfcompute.com/",
+    "date": "2025-12-02"
+   }
+  ],
+  "mithril": [
+   {
+    "title": "Mithril: AI Omnicloud",
+    "url": "https://mithril.ai/",
+    "date": "2026"
+   },
+   {
+    "title": "PR Newswire: Mithril Launches Flexible Reservations, Recycling Idle GPU Time Into the Mithril Spot Service",
+    "url": "https://www.prnewswire.com/news-releases/mithril-launches-flexible-reservations-recycling-idle-gpu-time-into-the-mithril-spot-service-302718349.html",
+    "date": "2026"
+   }
+  ],
+  "hetzner": [
+   {
+    "title": "The Register: Hetzner: 50% price hike, no fooling, from April 1st",
+    "url": "https://www.theregister.com/on-prem/2026/02/24/hetzner-50-price-hike-no-fooling-from-april-1st/4547119",
+    "date": "2026-02-24"
+   },
+   {
+    "title": "Hetzner: Hetzner unveils the GEX131 with NVIDIA RTX PRO 6000 Blackwell Max-Q",
+    "url": "https://www.hetzner.com/pressroom/new-gex131/",
+    "date": "2025-12-11"
+   }
+  ],
+  "gmi-cloud": [
+   {
+    "title": "Progressive Robot: GMI Cloud, Surprising $668M Series B, NVIDIA and a Debt Risk",
+    "url": "https://www.progressiverobot.com/2026/09/30/gmi-cloud-668m-series-b-nvidia/",
+    "date": "2026-09-30"
+   }
+  ],
+  "cirrascale": [
+   {
+    "title": "Cirrascale: Cirrascale Advances Open AI Infrastructure with AMD Helios Rackscale Solution and AMD Instinct MI400 Series GPUs",
+    "url": "https://www.cirrascale.com/press/cirrascale-amd-instinct-mi400-series-gpus",
+    "date": "2026"
+   }
+  ],
+  "sharon-ai": [
+   {
+    "title": "Yahoo Finance: Sharon AI Announces US$1.32 Billion Five-Year Cloud Computing Service Agreement",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sharon-ai-announces-us-1-121000999.html",
+    "date": "2026"
+   }
+  ],
+  "digitalocean": [
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces First Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-First-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-05"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   },
+   {
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08"
+   }
+  ],
+  "denvr-dataworks": [
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   },
+   {
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/",
+    "date": "2026-04-01"
+   }
+  ],
+  "boost-run": [
+   {
+    "title": "Boost Run: Home",
+    "url": "https://www.boostrun.com/",
+    "date": "2026-10"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08"
+   }
+  ],
+  "gmo-gpu-cloud": [
+   {
+    "title": "GMO Internet Group: GPU cloud service for generative AI using NVIDIA H200 to launch first in Japan (Japanese)",
+    "url": "https://group.gmo/news/article/8933/",
+    "date": "2024-04-19"
+   },
+   {
+    "title": "GMO Internet Group: Notice Regarding Completion of Transition to Holding Company Structure",
+    "url": "https://group.gmo/en/ir_news/article/587/",
+    "date": "2025-01"
+   },
+   {
+    "title": "GMO Internet: GMO Internet invests ¥3.2 billion in Turing and signs strategic partnership (Japanese)",
+    "url": "https://internet.gmo/news/article/147/",
+    "date": "2026-02-12"
+   },
+   {
+    "title": "GMO GPU Cloud: GMO GPU Cloud resources used to train Sakana AI's Namazu (Japanese)",
+    "url": "https://gpucloud.gmo/news/954/",
+    "date": "2026"
+   },
+   {
+    "title": "GMO Internet Group: GPU cloud service for generative AI using NVIDIA H200 to launch first in Japan (Japanese)",
+    "url": "https://group.gmo/news/article/8933/",
+    "date": "2024-04-19"
+   }
+  ],
+  "galaxy-digital": [
+   {
+    "title": "The Block: Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+    "url": "https://www.theblock.co/news/business/2026-07-07-galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub-407396",
+    "date": "2026-07-07"
+   },
+   {
+    "title": "PR Newswire: Galaxy Announces Second Quarter 2026 Financial Results",
+    "url": "https://www.prnewswire.com/news-releases/galaxy-announces-second-quarter-2026-financial-results-302843529.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "PR Newswire: Galaxy Announces Second Quarter 2026 Financial Results",
+    "url": "https://www.prnewswire.com/news-releases/galaxy-announces-second-quarter-2026-financial-results-302843529.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "PR Newswire: Galaxy Announces Second Quarter 2026 Financial Results",
+    "url": "https://www.prnewswire.com/news-releases/galaxy-announces-second-quarter-2026-financial-results-302843529.html",
+    "date": "2026-08"
+   }
+  ],
+  "core42": [
+   {
+    "title": "The National: Abu Dhabi's Core42 more than triples US data centre capacity to 60MW",
+    "url": "https://www.thenationalnews.com/future/technology/2026/06/02/abu-dhabis-core42-more-than-triples-us-data-centre-capacity-to-60mw/",
+    "date": "2026-06-02"
+   },
+   {
+    "title": "G42: Core42 Unveils Self-Service, On-Demand AI Cloud Platform with NVIDIA Accelerated Computing at GITEX Global 2025",
+    "url": "https://www.g42.ai/resources/news/core42-unveils-self-service-demand-ai-cloud-platform-nvidia-accelerated-computing-gitex-global-2025",
+    "date": "2025-10"
+   },
+   {
+    "title": "G42: Global Tech Alliance Launches Stargate UAE",
+    "url": "https://www.g42.ai/resources/news/global-tech-alliance-launches-stargate-uae",
+    "date": "2025-05-22"
+   }
+  ],
+  "applied-digital": [
+   {
+    "title": "SEC: Applied Digital fiscal fourth quarter and full year 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/apldq426earningsreleaseasf.htm",
+    "date": "2026"
+   },
+   {
+    "title": "Applied Digital: Applied Digital Reports Fiscal First Quarter 2027 Results",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/163/applied-digital-reports-fiscal-first-quarter-2027-results",
+    "date": "2026-10"
+   }
+  ],
+  "darya-ai": [
+   {
+    "title": "W.Media: Yotta partners with darya.ai to build green data center in Tajikistan",
+    "url": "https://w.media/yotta-partners-with-darya-ai-to-build-green-data-center-in-tajikistan/",
+    "date": "2025-10"
+   },
+   {
+    "title": "Asia-Plus: $117 million in AI investment deals signed in Dushanbe",
+    "url": "https://asiaplus.news/en/2025/10/30/117-million-in-ai-investment-deals-signed-in-dushanbe/",
+    "date": "2025-10-30"
+   }
+  ],
+  "sakura-internet": [
+   {
+    "title": "SAKURA internet: News releases (Gen AI Platform launch, KDDI and Highreso agreement)",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/",
+    "date": "2025-08-12"
+   },
+   {
+    "title": "SAKURA internet: Selected as a Provider of Government Cloud Services for Fiscal Years 2023 and 2026",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/03/27/1968224094/",
+    "date": "2026-03-27"
+   }
+  ],
+  "spacex-xai": [
+   {
+    "title": "SEC: Space Exploration Technologies Corp. Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+    "date": "2026-05-20"
+   }
+  ],
+  "farmgpu": [
+   {
+    "title": "Hedgehog: FarmGPU Case Study",
+    "url": "https://hedgehog.cloud/case-studies/farmgpu",
+    "date": "2026"
+   }
+  ],
+  "latitude-sh": [
+   {
+    "title": "Latitude.sh: We've secured $594M to build the global AI Inference Cloud",
+    "url": "https://www.latitude.sh/blog/weve-secured-594m-to-build-the-global-ai-inference-cloud",
+    "date": "2026"
+   }
+  ],
+  "iren": [
+   {
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "TechCrunch: Microsoft inks $9.7B deal with Australia's IREN for AI cloud capacity",
+    "url": "https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "NVIDIA Newsroom: NVIDIA and IREN Announce Strategic Partnership",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "TIKR: IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
+    "url": "https://www.tikr.com/blog/iren-stock-anthropic-ai-cloud-deal",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Stock Titan: IREN secures $3.4bn AI cloud contract with NVIDIA",
+    "url": "https://www.stocktitan.net/news/IREN/iren-secures-3-4bn-ai-cloud-contract-with-hh8a26euuqhs.html",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "Stock Titan: IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72",
+    "url": "https://www.stocktitan.net/news/IREN/iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exemplar-12sdoc82j9x8.html",
+    "date": "2026-08-13"
+   },
+   {
+    "title": "Investing.com: IREN Q4 FY26 slides, $4bn ARR contracted amid mining exit",
+    "url": "https://www.investing.com/news/company-news/iren-q4-fy26-slides-4bn-arr-contracted-amid-mining-exit-93CH-4880319",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: IREN's 2GW Sweetwater Hub Included as Base Load in ERCOT Batch Zero",
+    "url": "https://www.stocktitan.net/news/IREN/iren-s-2gw-sweetwater-hub-included-as-base-load-in-ercot-batch-cy6xg3ubvfes.html",
+    "date": "2026"
+   },
+   {
+    "title": "Stock Titan: IREN secures $3.4bn AI cloud contract with NVIDIA",
+    "url": "https://www.stocktitan.net/news/IREN/iren-secures-3-4bn-ai-cloud-contract-with-hh8a26euuqhs.html",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: IREN Q4 FY26 slides, $4bn ARR contracted amid mining exit",
+    "url": "https://www.investing.com/news/company-news/iren-q4-fy26-slides-4bn-arr-contracted-amid-mining-exit-93CH-4880319",
+    "date": "2026-08"
+   }
+  ],
+  "nscale": [
+   {
+    "title": "Cointelegraph: Nvidia partners with UK crypto miner's arm as part of AI push",
+    "url": "https://cointelegraph.com/news/nvidia-nscale-arkon-uk-crypto-miner-ai",
+    "date": "2025-09-17"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "Tech Times: Nscale Files $30B NYSE IPO With $1B Nvidia Note and $45B Anthropic Deal",
+    "url": "https://www.techtimes.com/articles/327754/20260920/nscale-files-30b-nyse-ipo-1b-nvidia-note-45b-anthropic-deal.htm",
+    "date": "2026-09-20"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm",
+    "date": "2026-09-18"
+   }
+  ],
+  "stn": [
+   {
+    "title": "PR.com: STN's Sabur Mian Recognized as a CRN 2025 Next-Gen Solution Provider Leader",
+    "url": "https://www.pr.com/press-release/952180",
+    "date": "2025"
+   },
+   {
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "PR.com: STN's Sabur Mian Recognized as a CRN 2025 Next-Gen Solution Provider Leader",
+    "url": "https://www.pr.com/press-release/952180",
+    "date": "2025"
+   },
+   {
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "Business Wire: CoreSite's Chicago AI-Optimized Infrastructure Powers STN's GPU One Platform and Helps Deliver Significant Savings",
+    "url": "https://www.businesswire.com/news/home/20251029829242/en/CoreSites-Chicago-AI-Optimized-Infrastructure-Powers-STNs-GPU-One-Platform-and-Helps-Deliver-Significant-Savings",
+    "date": "2025-10-29"
+   },
+   {
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/",
+    "date": "2025-10-30"
+   }
+  ],
+  "vessl-ai": [
+   {
+    "title": "VESSL AI: CEO An Jaeman says an AI factory needs stability, efficiency and scale",
+    "url": "https://vessl.ai/ko/blog/vessl-samsung-sds-real-summit-2026",
+    "date": "2026-09-08"
+   },
+   {
+    "title": "VESSL AI: CEO An Jaeman says an AI factory needs stability, efficiency and scale",
+    "url": "https://vessl.ai/ko/blog/vessl-samsung-sds-real-summit-2026",
+    "date": "2026-09-08"
+   },
+   {
+    "title": "VESSL AI: Neo AI Cloud hands VESSL AI the GPU platform for its Pohang AI data center",
+    "url": "https://vessl.ai/ko/blog/vessl-neoaicloud-pohang-ai-datacenter",
+    "date": "2026"
+   },
+   {
+    "title": "VESSL AI: CEO An Jaeman says an AI factory needs stability, efficiency and scale",
+    "url": "https://vessl.ai/ko/blog/vessl-samsung-sds-real-summit-2026",
+    "date": "2026-09-08"
+   },
+   {
+    "title": "VESSL AI: Neo AI Cloud hands VESSL AI the GPU platform for its Pohang AI data center",
+    "url": "https://vessl.ai/ko/blog/vessl-neoaicloud-pohang-ai-datacenter",
+    "date": "2026"
+   }
+  ],
+  "vultr": [
+   {
+    "title": "SiliconANGLE: AMD backs $333M funding round for cloud infrastructure provider Vultr",
+    "url": "https://siliconangle.com/2024/12/18/amd-backs-333m-funding-round-cloud-infrastructure-provider-vultr/",
+    "date": "2024-12-18"
+   },
+   {
+    "title": "Ohio Tech News: Vultr to invest $1 billion in Ohio for AMD-Powered AI Supercluster",
+    "url": "https://www.ohiotechnews.com/vultr-billion-ohio-amd-powered-ai-supercluster/",
+    "date": "2025-12-03"
+   },
+   {
+    "title": "Vultr: Cloud GPU documentation",
+    "url": "https://docs.vultr.com/products/compute/cloud-gpu",
+    "date": "2026"
+   },
+   {
+    "title": "Ohio Tech News: Vultr to invest $1 billion in Ohio for AMD-Powered AI Supercluster",
+    "url": "https://www.ohiotechnews.com/vultr-billion-ohio-amd-powered-ai-supercluster/",
+    "date": "2025-12-03"
+   }
+  ],
+  "hut-8": [
+   {
+    "title": "Yahoo Finance: Hut 8 and USBTC Announce Completion of Business Combination",
+    "url": "https://finance.yahoo.com/news/hut-8-usbtc-announce-completion-214300908.html",
+    "date": "2023-11-30"
+   },
+   {
+    "title": "The Block: Bitcoin miner Hut 8 expands AI push with new GPU-as-a-Service cluster",
+    "url": "https://www.theblock.co/news/business/2024-09-26-bitcoin-miner-hut-8-expands-ai-push-with-new-gpu-as-a-service-cluster-318347",
+    "date": "2024-09-26"
+   },
+   {
+    "title": "PR Newswire via TradingView: Hut 8 Affirms Commitment to Responsible Data Center Development Following Directive from Texas Governor Greg Abbott",
+    "url": "https://www.tradingview.com/news/prnewswire:701843a7869ef:0-hut-8-affirms-commitment-to-responsible-data-center-development-following-directive-from-texas-governor-greg-abbott/",
+    "date": "2026-08-10"
+   }
+  ],
+  "baseten": [
+   {
+    "title": "Yahoo Finance: Market Chatter: AI Inference Startups Modal Labs, Baseten in New Funding Talks",
+    "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-ai-inference-startups-235945298.html",
+    "date": "2026-09-23"
+   },
+   {
+    "title": "Yahoo Finance: Market Chatter: AI Inference Startups Modal Labs, Baseten in New Funding Talks",
+    "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-ai-inference-startups-235945298.html",
+    "date": "2026-09-23"
+   }
+  ],
+  "fpt-ai-factory": [
+   {
+    "title": "Wikipedia: FPT Group",
+    "url": "https://en.wikipedia.org/wiki/FPT_Group",
+    "date": "2026"
+   },
+   {
+    "title": "FPT AI Factory: Pricing",
+    "url": "https://factory.fpt.ai/pricing",
+    "date": "2026"
+   }
+  ],
+  "groq": [
+   {
+    "title": "EdTech Innovation Hub: Groq raises $350 million at $3.5 billion valuation to scale AI inference cloud",
+    "url": "https://www.edtechinnovationhub.com/news/groq-raises-350-million-at-35-billion-valuation-to-scale-ai-inference-cloud",
+    "date": "2026-08-19"
+   },
+   {
+    "title": "EdTech Innovation Hub: Groq raises $350 million at $3.5 billion valuation to scale AI inference cloud",
+    "url": "https://www.edtechinnovationhub.com/news/groq-raises-350-million-at-35-billion-valuation-to-scale-ai-inference-cloud",
+    "date": "2026-08-19"
+   }
+  ],
+  "fireworks-ai": [
+   {
+    "title": "The Information: Fireworks, Fal Consider New Rounds as Inference Demand Soars",
+    "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars",
+    "date": "2026-09-25"
+   }
+  ],
+  "firebird": [
+   {
+    "title": "Firebird: From a snowfield to NVIDIA Exemplar Cloud status in less than 10 months",
+    "url": "https://www.firebird.ai/news-from-a-snowfield-to-nvidia-exemplar-cloud-status-in-less-than-10-months.html",
+    "date": "2026"
+   }
+  ],
+  "atlas-cloud": [
+   {
+    "title": "Atlas Cloud: About",
+    "url": "https://www.atlascloud.ai/about",
+    "date": "2026"
+   }
+  ],
+  "cipher-mining": [
+   {
+    "title": "Yahoo Finance: Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-smart-buy-125515327.html",
+    "date": "2026-07-22"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719",
+    "date": "2026-08"
+   },
+   {
+    "title": "Data Center Dynamics: Cipher looks to build 500MW campus near coal plant outside Waco, Texas",
+    "url": "https://www.datacenterdynamics.com/en/news/cipher-looks-to-build-500mw-campus-near-coal-plant-outside-waco-texas/",
+    "date": "2026-06-08"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years",
+    "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Yahoo Finance: Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-smart-buy-125515327.html",
+    "date": "2026-07-22"
+   },
+   {
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719",
+    "date": "2026-08"
+   },
+   {
+    "title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss",
+    "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719",
+    "date": "2026-08"
+   }
+  ],
+  "qumulusai": [
+   {
+    "title": "SEC: QumulusAI, Inc. Form 424B4 prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 424B4 prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 424B4 prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 424B4 prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm",
+    "date": "2026-07-14"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, fiscal 2026 guidance",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023568/ex_988109.htm",
+    "date": "2026"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm",
+    "date": "2026-08"
+   }
+  ],
+  "coreweave": [
+   {
+    "title": "CoreWeave: Jane Street Signs $6 Billion AI Cloud Agreement with CoreWeave",
+    "url": "https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave",
+    "date": "2026"
+   },
+   {
+    "title": "The Register: CoreWeave revenue doubles as debt pile reaches $35.6B",
+    "url": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832",
+    "date": "2026-08-12"
+   },
+   {
+    "title": "Stock Titan: CoreWeave revenue surges to $5.1B on AI cloud boom (10-K summary)",
+    "url": "https://www.stocktitan.net/sec-filings/CRWV/10-k-core-weave-inc-files-annual-report-765643168fc2.html",
+    "date": "2026"
+   },
+   {
+    "title": "dbta.com: CoreWeave Partners with Google Cloud, Introduces New Capabilities to Simplify Cross-Cloud AI",
+    "url": "https://www.dbta.com/Editorial/News-Flashes/CoreWeave-Partners-with-Google-Cloud-Introduces-New-Capabilities-to-Simplify-Cross-Cloud-AI-174534.aspx",
+    "date": "2026-04-26"
+   },
+   {
+    "title": "The Globe and Mail: CoreWeave's Earnings Call: Hyper-Growth Meets Heavy Leverage",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/CRWV/pressreleases/3961191/coreweaves-earnings-call-hypergrowth-meets-heavy-leverage/",
+    "date": "2026-08-20"
+   },
+   {
+    "title": "The Register: CoreWeave revenue doubles as debt pile reaches $35.6B",
+    "url": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832",
+    "date": "2026-08-12"
+   }
+  ],
+  "shadeform": [
+   {
+    "title": "Y Combinator: Shadeform",
+    "url": "https://www.ycombinator.com/companies/shadeform",
+    "date": "2026"
+   },
+   {
+    "title": "Yahoo Finance: QumulusAI and Shadeform Deploy Two NVIDIA H200 Clusters Totaling 680 GPUs for Leading AI Inference Platforms",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/qumulusai-shadeform-deploy-two-nvidia-120000452.html",
+    "date": "2026-05-28"
+   },
+   {
+    "title": "Stripe: Shadeform Boosts Revenue 10% by Accepting Stablecoin Payments",
+    "url": "https://stripe.com/customers/shadeform",
+    "date": "2026"
+   },
+   {
+    "title": "Y Combinator: Shadeform",
+    "url": "https://www.ycombinator.com/companies/shadeform",
+    "date": "2026"
+   }
+  ],
+  "argentum-ai": [
+   {
+    "title": "SiliconANGLE: Beyond the $7.8B in deals, why Wall Street is suddenly watching Argentum AI",
+    "url": "https://siliconangle.com/2026/06/24/beyond-7-8b-deals-wall-street-suddenly-watching-argentum-ai/",
+    "date": "2026-06-24"
+   },
+   {
+    "title": "PR Newswire: Argentum AI Signs $2.5 Billion, 300MW AI Data Center Agreement with Boosteroid and DL Invest Group",
+    "url": "https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html",
+    "date": "2026-05-15"
+   },
+   {
+    "title": "Investing.com: $1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity",
+    "url": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152",
+    "date": "2026-04-29"
+   },
+   {
+    "title": "Argentum AI: Home",
+    "url": "https://argentum-ai.com/",
+    "date": "2026"
+   },
+   {
+    "title": "Investing.com: $1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity",
+    "url": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152",
+    "date": "2026-04-29"
+   }
+  ],
+  "google-cloud": [
+   {
+    "title": "Futurum: Alphabet Q2 FY 2026: Google Cloud Leads Growth Amid Rising AI Investment",
+    "url": "https://futurumgroup.com/insights/alphabet-q2-fy-2026-google-cloud-leads-growth-amid-rising-ai-investment/",
+    "date": "2026"
+   },
+   {
+    "title": "techtimes: Google Built Credit Guarantee Infrastructure Giving Its TPU Chips 2-Point Rate Edge Over Nvidia",
+    "url": "https://www.techtimes.com/articles/322900/20260804/google-built-credit-guarantee-infrastructure-giving-its-tpu-chips-2-point-rate-edge-over-nvidia.htm",
+    "date": "2026-08-04"
+   },
+   {
+    "title": "SEC: Alphabet Inc. Form 8-K, Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm",
+    "date": "2026"
+   }
+  ],
+  "fluidstack": [
+   {
+    "title": "VN Express: Oxford dropout and two Fluidstack co-founders become billionaires after AI startup reaches $18B valuation",
+    "url": "https://e.vnexpress.net/news/tech/personalities/oxford-dropout-and-two-fluidstack-co-founders-become-billionaires-after-ai-startup-reaches-18b-valuation-5116862.html",
+    "date": "2026-09-05"
+   },
+   {
+    "title": "Yahoo: Company launches data center's $4B first phase near Harlingen",
+    "url": "https://www.yahoo.com/news/us/articles/company-launches-data-center-4b-035900189.html",
+    "date": "2026-09-10"
+   }
+  ],
+  "yotta": [
+   {
+    "title": "Inc42: Over 17K GPUs Installed Under IndiaAI Mission: Report",
+    "url": "https://inc42.com/buzz/over-17k-gpus-installed-under-indiaai-mission-report/",
+    "date": "2025-06-23"
+   },
+   {
+    "title": "Analytics India Magazine: Yotta's 85,000-GPU Bet Is Bigger Than the IndiaAI Mission",
+    "url": "https://analyticsindiamag.com/ai-startups/yottas-85000-gpu-bet-is-bigger-than-the-indiaai-mission",
+    "date": "2026"
+   }
+  ],
+  "whitefiber": [
+   {
+    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html",
+    "date": "2026-08"
+   }
+  ],
+  "hydra-host": [
+   {
+    "title": "TheNextWeb: Hydra Host raises $100M as Nvidia backs a GPU broker",
+    "url": "https://thenextweb.com/news/hydra-host-100m-series-a-nvidia-gpu-ai-factory",
+    "date": "2026-06"
+   },
+   {
+    "title": "SEC (Bitzero Holdings): Exhibit 99.74, Bitzero partnership with Hydra Host",
+    "url": "https://www.sec.gov/Archives/edgar/data/2100457/000175392626000899/g085467_ex99-74.htm",
+    "date": "2026-01-19"
+   }
+  ],
+  "genesis-cloud": [
+   {
+    "title": "Wayback Machine: Genesis Cloud homepage, archived March 8, 2026",
+    "url": "http://web.archive.org/web/20260308135449/https://www.genesiscloud.com/",
+    "date": "2026-03-08"
+   }
+  ],
+  "byteplus": [
+   {
+    "title": "BytePlus: AI-Native Cloud for Enterprise Growth",
+    "url": "https://www.byteplus.com/en",
+    "date": "2026"
+   }
+  ],
+  "aws": [
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Statista: Big Three Hold Dominant Lead in Accelerating Cloud Market",
+    "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/",
+    "date": "2026-05-05"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "About Amazon: Amazon and Anthropic expand strategic collaboration",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+    "date": "2026-04-20"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces First Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx",
+    "date": "2026-04-29"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Amazon: Amazon.com Announces Second Quarter Results",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "BigGo Finance: Amazon CEO's Compensation Rises to $2.1 Million; Jassy's Shareholder Letter Vows 'Not Conservative' $200 Billion AI Investment",
+    "url": "https://finance.biggo.com/news/vNftc50Bga3fZL9MkdKl",
+    "date": "2026-04-09"
+   },
+   {
+    "title": "About Amazon: Amazon and Anthropic expand strategic collaboration",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+    "date": "2026-04-20"
+   },
+   {
+    "title": "About Amazon: AWS and OpenAI announce multi-year strategic partnership",
+    "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+    "date": "2025-11"
+   }
+  ],
+  "alibaba-cloud": [
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop",
+    "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763",
+    "date": "2026-08-22"
+   },
+   {
+    "title": "Fortune: Alibaba pledges over $50 billion in new AI and cloud investment as investors send shares to 3-year highs",
+    "url": "https://fortune.com/asia/2025/02/24/alibaba-pledges-more-ai-cloud-investment-shares/",
+    "date": "2025-02-24"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "date": "2026-08-24"
+   },
+   {
+    "title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop",
+    "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763",
+    "date": "2026-08-22"
+   }
+  ],
+  "bitdeer": [
+   {
+    "title": "ForkLog: Bitdeer's Jihan Wu Takes Bitdeer to Nasdaq via SPAC Deal",
+    "url": "https://forklog.com/en/bitdeers-jihan-wu-takes-bitdeer-to-nasdaq-via-spac-deal/",
+    "date": "2023-04-14"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "TheEnergyMag: Bitdeer Acquires 200 Acres in Texas for $100 Million to Expand AI/HPC Infrastructure",
+    "url": "https://www.theenergymag.com/news/market-news/bitdeer-acquires-200-acres-in-texas-for-100-million-to-expand-ai-hpc-infrastructure",
+    "date": "2026-09-01"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update",
+    "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html",
+    "date": "2026-08"
+   }
+  ],
+  "corvex": [
+   {
+    "title": "SEC: Corvex Announces Closing of All-Stock Merger, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026031846/ea028203201ex99-1.htm",
+    "date": "2026-03-19"
+   },
+   {
+    "title": "SEC: Movano and Corvex joint press release on merger agreement, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390025107857/ea026448601ex99-1_movano.htm",
+    "date": "2025-11-10"
+   },
+   {
+    "title": "SEC: Movano and Corvex joint press release on merger agreement, Form 8-K Exhibit 99.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390025107857/ea026448601ex99-1_movano.htm",
+    "date": "2025-11-10"
+   },
+   {
+    "title": "SEC: Corvex, Inc. Form 10-Q for the quarter ended June 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026090091/ea0301480-10q_corvex.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "SEC: Corvex, Inc. Form 10-Q for the quarter ended June 30, 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026090091/ea0301480-10q_corvex.htm",
+    "date": "2026-08"
+   }
+  ],
+  "lambda": [
+   {
+    "title": "TechCrunch: Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+    "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "Analytics Insight: Lambda Seeks USD 4 Billion as USD 50 Billion Backlog Fuels IPO Plans",
+    "url": "https://www.analyticsinsight.net/news/lambda-seeks-usd-4-billion-as-usd-50-billion-backlog-fuels-ipo-plans",
+    "date": "2026-10-07"
+   },
+   {
+    "title": "Lambda: Lambda closes $926 million senior secured term loan B facility",
+    "url": "https://lambda.ai/blog/lambda-closes-926-million-senior-secured-term-loan-b-facility",
+    "date": "2026-08-27"
+   },
+   {
+    "title": "Lambda: Lambda closes $1 billion senior secured fixed rate financing",
+    "url": "https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing",
+    "date": "2026-10-01"
+   }
+  ],
+  "ibm-cloud": [
+   {
+    "title": "IBM: GPUs and AI accelerators on IBM Cloud",
+    "url": "https://www.ibm.com/cloud/gpu",
+    "date": "2026"
+   },
+   {
+    "title": "IBM: GPUs and AI accelerators on IBM Cloud",
+    "url": "https://www.ibm.com/cloud/gpu",
+    "date": "2026"
+   },
+   {
+    "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
+    "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family",
+    "date": "2026"
+   },
+   {
+    "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
+    "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family",
+    "date": "2026"
+   }
+  ],
+  "mistral-ai": [
+   {
+    "title": "TechCrunch: What is Mistral AI? Everything to know about the OpenAI competitor",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "date": "2026-07-04"
+   },
+   {
+    "title": "Mistral AI: Mistral Compute",
+    "url": "https://mistral.ai/news/mistral-compute",
+    "date": "2026"
+   }
+  ],
+  "naver-cloud": [
+   {
+    "title": "Developing Telecoms: Nexus to build US$1.2 billion AI factory in Morocco",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20099-nexus-to-build-us-1-2-billion-ai-factory-in-morocco.html",
+    "date": "2026"
+   },
+   {
+    "title": "Seoul Economic Daily: Samsung SDS, Naver Cloud, Elice Group Win 2 Trillion Won Government GPU Project",
+    "url": "https://en.sedaily.com/technology/2026/06/08/samsung-sds-naver-cloud-elice-group-win-2-trillion-won",
+    "date": "2026-06-08"
+   }
+  ],
+  "evroc": [
+   {
+    "title": "Konsulteer: Vilja Partners With Evroc On Sovereign AI Banking",
+    "url": "https://www.konsulteer.com/article/vilja-partners-with-evroc-to-bring-sovereign-ai-into-european-banking",
+    "date": "2026-09-18"
+   }
+  ],
+  "firmus": [
+   {
+    "title": "Firmus: Firmus to Build 170,000 GPU AI Factory Campus with NVIDIA for Global AI-Natives",
+    "url": "https://firmus.co/newsroom/firmus-to-build-170-000-gpu-ai-factor-y-campus-with-nvidia-for-global-ai-natives",
+    "date": "2026-06"
+   }
+  ],
+  "ovhcloud": [
+   {
+    "title": "OVHcloud: Financial results FY2025, revenue breaks through billion euro mark",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/",
+    "date": "2026"
+   }
+  ],
+  "global-ai": [
+   {
+    "title": "PR Newswire: HUMAIN Expands Strategic Partnership with NVIDIA, Advancing Global AI Infrastructure with xAI, Global AI, and AWS at the U.S.-Saudi Investment Forum",
+    "url": "https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html",
+    "date": "2025-11-19"
+   }
+  ]
+ },
+ "replace": {
+  "akamai": [
+   [
+    "platform",
+    "A Kubernetes-based developer platform ships with vLLM, KServe and NVIDIA Dynamo, and Akamai charges no egress fees.",
+    "A Kubernetes-based developer platform, App Platform for LKE, ships with KServe for model serving, and Akamai markets some of the lowest data-transfer costs in the market rather than free egress."
+   ],
+   [
+    "platform",
+    "The service sits on an edge network that Akamai says spans more than 4,350 points of presence.",
+    "The service sits on an edge network that Akamai says spans more than 4,400 locations across 134 countries."
+   ]
+  ],
+  "tensorwave": [
+   [
+    "today",
+    "The Wall Street Journal reported in June 2026 that a new funding round valued TensorWave at $1.55B, and the company says it has raised more than $500M in total.",
+    "The Wall Street Journal reported in June 2026 that a new funding round valued TensorWave at $1.55B, bringing its total funding raised to about $493M."
+   ]
+  ],
+  "vast-ai": [
+   [
+    "platform",
+    "The catalog spans RTX 4090 and RTX 5090 cards, RTX PRO 6000 workstation cards, and A100, H100, H200 and B300 data center GPUs.",
+    "The catalog spans 68 or more GPU types, from consumer cards like the RTX 3060 up to NVIDIA's B200 data center GPU."
+   ]
+  ],
+  "lightning-ai": [
+   [
+    "platform",
+    "Lightning's software covers data preparation, interactive development on cloud GPUs through its Studio platform, parallel experiments, training on InfiniBand clusters, fine-tuning with reinforcement learning, and serving.",
+    "Lightning's software covers large-scale data preparation, multi-node training, model serving, large-scale inference, team management and observability, all accessed from GPUs in one place."
+   ]
+  ],
+  "sk-telecom": [
+   [
+    "origin",
+    "It launched its own GPU as a service in January 2025 and opened the Haein cluster of NVIDIA B200 GPUs in August 2025.",
+    "It launched its own GPU as a service in January 2025 and opened the Haein cluster of over 1,000 NVIDIA Blackwell GPUs in August 2025."
+   ],
+   [
+    "origin",
+    "In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, a project the Korean government valued at $5B.",
+    "In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, with AWS expected to contribute about $4B."
+   ]
+  ],
+  "nebul": [
+   [
+    "platform",
+    "Customers can run open models such as DeepSeek on the platform without sending data outside Europe.",
+    "Customers can run open source models on the platform without sending data outside Europe."
+   ]
+  ],
+  "core-scientific": [
+   [
+    "outlook",
+    "KBW cut its rating in July 2026 over lease delivery delays, so construction timing at Denton and at the new AMD sites is the item to watch.",
+    "KBW cut its rating in July 2026 over lease delivery delays, so construction timing at its expansion campuses is the item to watch."
+   ]
+  ],
+  "oracle": [
+   [
+    "outlook",
+    "In the June to August 2026 quarter it spent $28.5B on capex and received $11.4B of customer prepayments.",
+    "In the June to August 2026 quarter it spent about $28B on capex, with operating cash flow lifted by customer prepayments."
+   ]
+  ],
+  "mithril": [
+   [
+    "outlook",
+    "The company says 20% to 60% of reserved GPU time goes unused, and Flexible Reservations targets that waste.",
+    "Mithril cites industry estimates that 20% to 60% of reserved GPU time goes unused, and says Flexible Reservations targets that waste."
+   ]
+  ],
+  "hetzner": [
+   [
+    "origin",
+    "It became one of Europe's largest hosting providers by selling dedicated servers at low prices from its own data center parks.",
+    "It became one of Europe's largest datacenter operators by providing low-cost infrastructure as a service to developers and corporate customers."
+   ]
+  ],
+  "galaxy-digital": [
+   [
+    "platform",
+    "Helios covers more than 2,200 acres in West Texas and had more than 2.2 GW of approved gross power by August 2026, with another 2 GW under study.",
+    "Helios covers more than 2,200 acres in West Texas and had more than 1.6 GW of approved gross power by August 2026, with additional gigawatt-scale requests under review that could bring the total to 3.6 GW."
+   ]
+  ],
+  "farmgpu": [
+   [
+    "snippet",
+    "FarmGPU is a small neocloud in Rancho Cordova, California that rents H200, B200 and RTX PRO 6000 GPUs.",
+    "FarmGPU is a small neocloud in Rancho Cordova, California that rents H200 and B200 GPUs."
+   ]
+  ],
+  "latitude-sh": [
+   [
+    "outlook",
+    "Delivering the four US AI contracts is the main near-term use of the new capital.",
+    "About A$369.5M of the A$827.3M raised goes to delivering four US AI contracts, with the remainder funding a new on-demand GPU pool that includes 2,048 NVIDIA B300 GPUs."
+   ]
+  ],
+  "iren": [
+   [
+    "outlook",
+    "IREN targets 480 MW of gross AI cloud capacity (300 MW of IT load) by the end of 2026 and 1.2 GW gross in 2027.",
+    "IREN targets 500 MW of gross AI cloud capacity (300 MW of IT load) by the end of 2026 and 1.2 GW gross (800 MW of IT load) in 2027."
+   ],
+   [
+    "outlook",
+    "Its pipeline of more than 5 GW includes the 2 GW Sweetwater hub in Texas, where 300 MW is under construction for Q4 2027, plus sites in Oklahoma, Canada, Spain and Australia.",
+    "Its pipeline of more than 5 GW includes the 2 GW Sweetwater hub in Texas, where 300 MW is under construction for delivery in Q4 2027."
+   ]
+  ],
+  "vessl-ai": [
+   [
+    "snippet",
+    "Korean MLOps company turned GPU cloud that says it runs more than 8,000 GPUs across 20+ clouds.",
+    "Korean MLOps company turned GPU cloud that says it runs more than 8,000 GPUs."
+   ]
+  ],
+  "vultr": [
+   [
+    "today",
+    "Bloomberg reported in December 2025 that it would spend more than $1B on a 50 MW cluster of AMD chips in Ohio, due to launch in the first quarter of 2026.",
+    "Ohio Tech News reported in December 2025 that Vultr would spend about $901 million on a 50 MW AMD-chip cluster in Springfield, Ohio."
+   ]
+  ],
+  "hut-8": [
+   [
+    "outlook",
+    "Corpus Christi is weighing new data center rules, and on-time construction at both campuses is the main execution risk.",
+    "Corpus Christi is weighing new data center rules as Hut 8 expands its Beacon Point campus."
+   ]
+  ],
+  "firebird": [
+   [
+    "platform",
+    "The company says DC-1 reached NVIDIA Exemplar Cloud status for training on B200, performing at 99% or more of NVIDIA's reference results.",
+    "The company says it reached NVIDIA Exemplar Cloud status for training on B200, meeting NVIDIA's required threshold of at least 95% of reference performance."
+   ]
+  ],
+  "atlas-cloud": [
+   [
+    "platform",
+    "The platform combines model APIs for video, image, audio and language with GPU cloud capacity for custom workloads.",
+    "The platform combines model APIs for video, image and language with GPU cloud capacity for custom workloads."
+   ]
+  ],
+  "argentum-ai": [
+   [
+    "snippet",
+    "Argentum AI is a San Francisco compute marketplace and AI cloud that signs capacity deals before it finances hardware.",
+    "Argentum AI is a compute marketplace and AI cloud that signs capacity deals before it finances hardware."
+   ]
+  ],
+  "yotta": [
+   [
+    "today",
+    "In 2025 Yotta supplied more than half of the IndiaAI Mission's GPU capacity, including 4,096 GPUs allocated to Sarvam AI and 1,536 to Soket AI Labs.",
+    "In 2025 Yotta was provisioned 4,096 GPUs under the IndiaAI Mission, most of which went to Sarvam AI."
+   ]
+  ],
+  "aws": [
+   [
+    "today",
+    "Amazon said in April 2026 that Anthropic will secure up to 5 GW of current and future Trainium chips and that OpenAI committed to about 2 GW of Trainium capacity.",
+    "Amazon said in April 2026 that Anthropic will secure up to 5 GW of Trainium capacity, after OpenAI committed in February 2026 to about 2 GW of Trainium capacity."
+   ]
+  ],
+  "alibaba-cloud": [
+   [
+    "today",
+    "In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.3B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers.",
+    "In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.2B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers."
+   ]
+  ],
+  "ovhcloud": [
+   [
+    "snippet",
+    "French cloud provider listed on Euronext Paris with 46 data centers and €1.08B in fiscal 2025 revenue.",
+    "French cloud provider listed on Euronext Paris with 44 data centers and €1.08B in fiscal 2025 revenue."
+   ]
+  ]
+ },
+ "replace_fact": {
+  "akamai": [
+   [
+    "Edge points of presence",
+    "Edge points of presence",
+    "4,400+"
+   ]
+  ],
+  "terawulf": [
+   [
+    "Q2 2026",
+    "Q2 2026",
+    "HPC and mining revenue $44.7M, net loss $939.9M"
+   ]
+  ],
+  "galaxy-digital": [
+   [
+    "Approved power at Helios",
+    "Approved power at Helios",
+    "More than 1.6 GW (August 2026)"
+   ]
+  ],
+  "iren": [
+   [
+    "Capacity target",
+    "Capacity target",
+    "500 MW gross in 2026, 1.2 GW gross in 2027"
+   ]
+  ],
+  "vultr": [
+   [
+    "Ohio AMD cluster",
+    "Ohio AMD cluster",
+    "About $901M, 50 MW"
+   ]
+  ],
+  "alibaba-cloud": [
+   [
+    "Share placement, August 2026",
+    "Share placement, August 2026",
+    "HK$80B (about $10.2B)"
+   ]
+  ]
+ },
+ "strip": {
+  "tatra-supercompute": {
+   "snippet": [
+    "It has published few details beyond its founding team and a stated NVIDIA supplier agreement."
+   ]
+  },
+  "iren": {
+   "origin": [
+    "It started buying NVIDIA GPUs for an AI cloud business in 2023 and later renamed itself IREN after its Nasdaq ticker."
+   ]
+  },
+  "cipher-mining": {
+   "outlook": [
+    "Signing tenants for the pipeline sites, including Apollo, is the next test."
+   ]
+  },
+  "shadeform": {
+   "platform": [
+    "Users can reserve capacity automatically when it appears."
+   ]
+  },
+  "evroc": {
+   "platform": [
+    "Its flagship Stockholm data center targets rack densities above 150 kW with liquid cooling and fossil-free power, and Evroc plans an NVIDIA Blackwell GPU cluster there."
+   ]
+  }
+ },
+ "drop_facts": {}
+}

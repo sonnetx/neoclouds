@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "fal",
+    "name": "Fal",
+    "aka": "fal.ai, Features & Labels",
+    "category": "platform",
+    "region": "North America",
+    "hq": "San Francisco, CA, US",
+    "founded": "2021",
+    "ownership": "Private",
+    "website": "https://fal.ai",
+    "accelerators": [
+      "NVIDIA B300",
+      "NVIDIA GB200",
+      "NVIDIA B200",
+      "NVIDIA H200",
+      "NVIDIA H100",
+      "NVIDIA RTX PRO 6000"
+    ],
+    "products": [
+      "Inference API",
+      "Serverless GPUs",
+      "Training and fine-tuning"
+    ],
+    "snippet": "San Francisco platform that runs image, video and audio AI models through one API on rented GPUs. Its annualized revenue reached a reported $800M in September 2026.",
+    "facts": [
+      {
+        "label": "Annualized revenue",
+        "value": "$800M (September 2026, reported)"
+      },
+      {
+        "label": "Reported round talks",
+        "value": "$15B or more (September 2026)"
+      },
+      {
+        "label": "Spring 2026 round",
+        "value": "$300M to $350M at up to $8B (reported)"
+      },
+      {
+        "label": "Series D",
+        "value": "$140M at $4.5B, Sequoia lead (December 2025)"
+      },
+      {
+        "label": "Developers",
+        "value": "2.5 million (May 2026)"
+      },
+      {
+        "label": "Models offered",
+        "value": "Over 1,000 (September 2026)"
+      }
+    ],
+    "customers": [
+      "Adobe",
+      "Canva",
+      "Shopify",
+      "Quora",
+      "Perplexity",
+      "Amazon MGM Studios"
+    ],
+    "origin": "Burkay Gur, a former Coinbase machine learning engineer, and Gorkem Yurtseven, a former Amazon engineer, started the company in 2021 as Features & Labels. They first built tools to help developers run AI models. The company then left language models to others and specialized in image, video and audio generation, which it serves on rented GPUs. By February 2025 Yurtseven put the fleet in the thousands of GPUs.",
+    "today": "Fal raised $140M in a Series D led by Sequoia in December 2025 at a $4.5B valuation, two months after its annualized revenue reached $200M. In March 2026 The Information reported that Fal was raising $300M to $350M in two tranches, with the higher tranche priced at an $8B valuation and annualized revenue at $400M. In September 2026 The Information reported that annualized revenue had doubled since March to $800M and that Fal was discussing a new round at $15B or more. Fal made AWS its preferred cloud provider in May 2026, with the rollout running in phases through the year. It serves 2.5 million developers, and its enterprise customers include Adobe, Canva, Shopify, Quora and Amazon MGM Studios. In September 2026 it acquired Lucent, an agent-based creative platform, and hired its two co-founders.",
+    "platform": "Fal sells access to more than 1,000 image, video, audio and 3D models through one API, served from more than 1,300 production endpoints on its own inference engine. Developers can also deploy their own models on serverless GPUs or rent dedicated GPU instances by the hour for training and fine-tuning, on NVIDIA hardware from the RTX PRO 6000 to the B300. Fal rents capacity from several suppliers, and IREN lists Fal AI among its AI cloud customers. Fal's head of engineering credits the Shadeform marketplace with sourcing GPUs when demand spikes.",
+    "outlook": "Fal had not confirmed the reported round at $15B or more as of October 14, 2026. It is moving beyond model hosting with fal Agent, which launched in early access in August 2026. The agent coordinates several models in one creative workflow and is sold through credit add-ons. Because Fal rents its GPUs from AWS, IREN and other providers, its costs and capacity depend on those suppliers.",
+    "sources": [
+      {
+        "title": "Fortune: Exclusive - Fal, generative media platform for developers, raises $49 million Series B",
+        "url": "https://fortune.com/2025/02/12/exclusive-fal-generative-media-platform-for-developers-raises-49-million-series-b/",
+        "date": "2025-02-12"
+      },
+      {
+        "title": "Bloomberg: Sequoia-Led Funding Vaults AI Startup Fal to $4.5 Billion Valuation",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-09/sequoia-led-funding-vaults-ai-startup-fal-to-4-5-billion-valuation",
+        "date": "2025-12-09"
+      },
+      {
+        "title": "Techloy: An AI Startup's New Funding Round Could Value It at $8 Billion - With Two Different Price Tags",
+        "url": "https://www.techloy.com/an-ai-startups-new-funding-round-could-value-it-at-8-billion-with-two-different-price-tags/",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "VentureBeat: AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
+        "url": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "IREN: IREN Signs $2.8bn in New Customer Contracts with Leading AI Developers, Raises 2026 ARR Target to over $4bn (Form 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001878848/000114036126028871/ef20078253_ex99-1.htm",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "PR Newswire: fal Launches fal Agent, a Creative Partner for Frontier Generative Media",
+        "url": "https://www.prnewswire.com/news-releases/fal-launches-fal-agent-a-creative-partner-for-frontier-generative-media-302850038.html",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "PR Newswire: fal Acquires Lucent, Welcomes Co-Founders Dimi Panagiotopoulos and Alex Koumpas to the team",
+        "url": "https://www.prnewswire.com/news-releases/fal-acquires-lucent-welcomes-co-founders-dimi-panagiotopoulos-and-alex-koumpas-to-the-team-302877934.html",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "The Information: Fireworks, Fal Consider New Rounds as Inference Demand Soars",
+        "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Shadeform: The GPU Cloud Marketplace",
+        "url": "https://shadeform.com/",
+        "date": "2026-10"
+      },
+      {
+        "title": "fal: Pricing",
+        "url": "https://fal.ai/pricing",
+        "date": "2026-10"
+      },
+      {
+        "title": "fal: Compute",
+        "url": "https://fal.ai/compute",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The company writes its name in lowercase as fal and uses fal.ai as its domain, while Bloomberg and The Information write Fal. This styling is not a rebrand, so I kept the name Fal and put fal.ai and the former legal name Features & Labels in aka. Fal has announced none of its 2026 funding or revenue figures. The spring 2026 round comes from The Information's March report as summarized by Techloy. Secondary-market sites (Axevil, Forge) say this Series E closed on April 23, 2026 at an $8B post-money valuation, and I did not cite them. The $800M annualized revenue and the $15B talks come from The Information's paywalled September 2026 report, which I read through its own social post and through GuruFocus and Sovereign Magazine summaries. Those summaries also mention a possible $17B to $20B range, which I left out. VentureBeat's AWS article calls the Series D a $300M round, but Bloomberg and Fal give $140M, so I used $140M. IREN is confirmed as a supplier, since its July 20, 2026 8-K exhibit lists Fal AI among its AI cloud customers, with no contract terms. Shadeform is confirmed through a testimonial from Fal head of engineering Batuhan Taskaya on the Shadeform homepage. QumulusAI is not confirmed. Fal appears only on the QumulusAI logo wall, and neither the May 2026 QumulusAI and Shadeform H200 release nor the July 2026 QumulusAI prospectus names Fal. DigitalOcean also publishes an undated Fal customer story about GPU Droplets, which I did not use. Contrary Research says Fal ran a colocated fleet across 35 data centers in December 2025, and other summaries say 28, but I found no primary source and left the count out. The pricing page lists GB200 per GPU without saying NVL72, so I wrote NVIDIA GB200. Fal also bought Remade in November 2025, which I left out for length."
+  }
+]

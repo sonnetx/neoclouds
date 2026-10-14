@@ -1,0 +1,470 @@
+[
+ {
+  "slug": "aws",
+  "field": "snippet",
+  "text": "AWS grew 37% to $42.2B in the June 2026 quarter, and Anthropic and OpenAI have made multi-gigawatt Trainium commitments.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "AWS segment sales increased 37% year-over-year to $42.2 billion"
+ },
+ {
+  "slug": "aws",
+  "field": "origin",
+  "text": "Amazon launched AWS in 2006 and built it into the largest public cloud.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Statista: Big Three Hold Dominant Lead in Accelerating Cloud Market", "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/", "date": "2026-05-05"},
+  "quote": "Amazon's market share in the worldwide cloud infrastructure market amounted to 28 percent in the first quarter of 2026, ahead of Microsoft's Azure platform at 21 percent and Google Cloud at 14 percent"
+ },
+ {
+  "slug": "aws",
+  "field": "today",
+  "text": "AWS revenue rose 37% to $42.2B in the second quarter of 2026, its fastest growth in 18 quarters.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "its fastest growth in 18 quarters"
+ },
+ {
+  "slug": "aws",
+  "field": "today",
+  "text": "Both Amazon's AI business and its chips business passed $25B annual run rates.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "eclipsed run rates of more than $25 billion"
+ },
+ {
+  "slug": "aws",
+  "field": "today",
+  "text": "Amazon said in April 2026 that Anthropic will secure up to 5 GW of current and future Trainium chips and that OpenAI committed to about 2 GW of Trainium capacity.",
+  "decision": "reword",
+  "replacement": "Amazon said in April 2026 that Anthropic will secure up to 5 GW of Trainium capacity, after OpenAI committed in February 2026 to about 2 GW of Trainium capacity.",
+  "source": {"title": "About Amazon: Amazon and Anthropic expand strategic collaboration", "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai", "date": "2026-04-20"},
+  "quote": "Anthropic will secure up to 5 gigawatts (GW) of capacity to train and power their advanced AI models"
+ },
+ {
+  "slug": "aws",
+  "field": "today",
+  "text": "Amazon landed more than 2.1 million AI chips in the 12 months before its April 2026 report, more than half of them Trainium, and plans about $200B of capex in 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces First Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx", "date": "2026-04-29"},
+  "quote": "Landed 2.1 million+ AI chips over the past 12 months, more than half of which were Trainium"
+ },
+ {
+  "slug": "aws",
+  "field": "outlook",
+  "text": "Its trailing twelve-month free cash flow was negative $7.6B at the end of June 2026 as capex rose.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "Free cash flow decreased to an outflow of $7.6 billion for the trailing twelve months, driven primarily by a year-over-year increase of $66.1 billion in purchases of property and equipment"
+ },
+ {
+  "slug": "aws",
+  "field": "fact",
+  "text": "AWS revenue, Q2 2026 = $42.2B, up 37%",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "AWS segment sales increased 37% year-over-year to $42.2 billion"
+ },
+ {
+  "slug": "aws",
+  "field": "fact",
+  "text": "AI business run rate = Over $25B",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Amazon: Amazon.com Announces Second Quarter Results", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx", "date": "2026-07-31"},
+  "quote": "eclipsed run rates of more than $25 billion"
+ },
+ {
+  "slug": "aws",
+  "field": "fact",
+  "text": "Amazon 2026 capex plan = About $200B",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "BigGo Finance: Amazon CEO's Compensation Rises to $2.1 Million; Jassy's Shareholder Letter Vows 'Not Conservative' $200 Billion AI Investment", "url": "https://finance.biggo.com/news/vNftc50Bga3fZL9MkdKl", "date": "2026-04-09"},
+  "quote": "approximately $200 billion in capital expenditure for artificial intelligence (AI) infrastructure in 2026"
+ },
+ {
+  "slug": "aws",
+  "field": "fact",
+  "text": "Anthropic Trainium commitment = Up to 5 GW",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "About Amazon: Amazon and Anthropic expand strategic collaboration", "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai", "date": "2026-04-20"},
+  "quote": "Anthropic will secure up to 5 gigawatts (GW) of capacity to train and power their advanced AI models"
+ },
+ {
+  "slug": "aws",
+  "field": "fact",
+  "text": "OpenAI commitments = $38B (Nov 2025), about 2 GW of Trainium",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "About Amazon: AWS and OpenAI announce multi-year strategic partnership", "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure", "date": "2025-11"},
+  "quote": "Representing a $38B commitment, OpenAI will rapidly expand compute capacity while benefitting from the price, performance, scale, and security of AWS"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "snippet",
+  "text": "Cloud revenue grew 45% in the June 2026 quarter, and Alibaba raised HK$80B in August 2026 for AI infrastructure.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "The year-over-year growth of total revenue and revenue from external customers both accelerated to 45%"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "today",
+  "text": "Alibaba's cloud revenue rose 45% to RMB 48.4B ($7.1B) in the quarter that ended June 2026, and AI-related product revenue reached RMB 12.4B ($1.8B).",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "AI-related product revenue continued to show strong momentum, achieving RMB12,376 million (US$1,824 million) and delivering the twelfth consecutive quarter of triple-digit year-over-year growth"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "today",
+  "text": "Quarterly capex rose 75% to RMB 67.7B ($10.0B), which Alibaba attributes to procurement timing, added compute capacity and higher chip component prices.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "capital expenditures were RMB67,678 million (US$9,975 million), an increase of 75% compared to RMB38,676 million in the same quarter of 2025. The significant year-over-year increase was due to several reasons, including fluctuations in procurement cycles, increase in CPU-compute capacity"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "today",
+  "text": "In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.3B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers.",
+  "decision": "reword",
+  "replacement": "In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.2B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers.",
+  "source": {"title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push", "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html", "date": "2026-08-24"},
+  "quote": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "today",
+  "text": "T-Head's Zhenwu AI chips now serve more than 650 external customers through Alibaba Cloud.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop", "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763", "date": "2026-08-22"},
+  "quote": "Chips such as the Zhenwu M890 have achieved commercial deployment across more than 650 external customers in over 20 industries"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "today",
+  "text": "Alibaba announced in February 2025 a plan to spend more than RMB 380B on cloud and AI infrastructure over three years.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Fortune: Alibaba pledges over $50 billion in new AI and cloud investment as investors send shares to 3-year highs", "url": "https://fortune.com/asia/2025/02/24/alibaba-pledges-more-ai-cloud-investment-shares/", "date": "2025-02-24"},
+  "quote": "invest at least 380 billion yuan ($53 billion) over the next three years to advance its cloud computing and AI infrastructure"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "outlook",
+  "text": "Higher chip component prices already push up its capex.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "higher pricing of a broad range of chip components"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "fact",
+  "text": "Cloud revenue, June 2026 quarter = RMB 48.4B ($7.1B), up 45%",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "RMB48,437 million (US$7,139 million)"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "fact",
+  "text": "AI-related product revenue, June 2026 quarter = RMB 12.4B ($1.8B)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "AI-related product revenue continued to show strong momentum, achieving RMB12,376 million (US$1,824 million)"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "fact",
+  "text": "Capex, June 2026 quarter = RMB 67.7B ($10.0B), up 75%",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm", "date": "2026-08"},
+  "quote": "capital expenditures were RMB67,678 million (US$9,975 million), an increase of 75% compared to RMB38,676 million in the same quarter of 2025"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "fact",
+  "text": "Share placement, August 2026 = HK$80B (about $10.3B)",
+  "decision": "reword",
+  "replacement": "Share placement, August 2026 = HK$80B (about $10.2B)",
+  "source": {"title": "CNBC: Alibaba plunges after announcing $10.2 billion share placement to fund AI push", "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html", "date": "2026-08-24"},
+  "quote": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push"
+ },
+ {
+  "slug": "alibaba-cloud",
+  "field": "fact",
+  "text": "Zhenwu chip external customers = 650+",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "BigGo Finance: Alibaba Cloud's AI Revenue Posts 12th Straight Quarter of Triple-Digit Growth; In-House Chips Achieve Full Commercialization Loop", "url": "https://finance.biggo.com/news/58ddb0d5-e53c-4bff-a06e-48be2f515763", "date": "2026-08-22"},
+  "quote": "Chips such as the Zhenwu M890 have achieved commercial deployment across more than 650 external customers in over 20 industries"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "origin",
+  "text": "Bitmain co-founder Jihan Wu set up Bitdeer as a separate Bitcoin mining and hosting company, and it listed on Nasdaq in 2023.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "ForkLog: Bitdeer's Jihan Wu Takes Bitdeer to Nasdaq via SPAC Deal", "url": "https://forklog.com/en/bitdeers-jihan-wu-takes-bitdeer-to-nasdaq-via-spac-deal/", "date": "2023-04-14"},
+  "quote": "the shares of the combined firm, named Bitdeer Technologies Group, began trading on the Nasdaq under the ticker BTDR"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "today",
+  "text": "Its AI cloud ran 4,248 GPUs at 95% utilization in July 2026, for about $76M of ARR.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update", "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html", "date": "2026-08"},
+  "quote": "GPU Amount Deployed 4,248; Utilization Rate 95%; ARR ~$76M"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "platform",
+  "text": "Bitdeer also bought 200 acres near its Rockdale, Texas site for $100M in 2026 to expand AI capacity.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "TheEnergyMag: Bitdeer Acquires 200 Acres in Texas for $100 Million to Expand AI/HPC Infrastructure", "url": "https://www.theenergymag.com/news/market-news/bitdeer-acquires-200-acres-in-texas-for-100-million-to-expand-ai-hpc-infrastructure", "date": "2026-09-01"},
+  "quote": "Bitdeer Technologies Group announced today that it has acquired approximately 200 acres of greenfield land in Milam County, Texas, adjacent to its existing Rockdale operations, in an all-cash transaction valued at approximately $100 million"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "fact",
+  "text": "AI cloud ARR = About $76M (July 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update", "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html", "date": "2026-08"},
+  "quote": "ARR ~$76M"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "fact",
+  "text": "GPUs deployed = 4,248 at 95% utilization (July 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update", "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html", "date": "2026-08"},
+  "quote": "GPU Amount Deployed 4,248; Utilization Rate 95%"
+ },
+ {
+  "slug": "bitdeer",
+  "field": "fact",
+  "text": "Self-mining hashrate = 76.7 EH/s (July 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Bitdeer Announces July 2026 Production and Operations Update", "url": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-july-2026-production-and-operations-lzd9iw4lb7mk.html", "date": "2026-08"},
+  "quote": "Self-Mining (Operated in self-owned datacenters) 76.7"
+ },
+ {
+  "slug": "corvex",
+  "field": "snippet",
+  "text": "Corvex is an Arlington, Virginia AI cloud that went public by merging into Nasdaq-listed Movano in March 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Corvex Announces Closing of All-Stock Merger, Form 8-K Exhibit 99.1", "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026031846/ea028203201ex99-1.htm", "date": "2026-03-19"},
+  "quote": "Corvex is headquartered in Arlington, Virginia"
+ },
+ {
+  "slug": "corvex",
+  "field": "origin",
+  "text": "In November 2025 Corvex agreed to an all-stock merger with Movano Inc., under which Corvex holders would own about 96% of the combined company.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Movano and Corvex joint press release on merger agreement, Form 8-K Exhibit 99.1", "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390025107857/ea026448601ex99-1_movano.htm", "date": "2025-11-10"},
+  "quote": "pre-Merger Corvex stockholders would own approximately 96.2% of the combined company"
+ },
+ {
+  "slug": "corvex",
+  "field": "origin",
+  "text": "The two companies raised about $40M around the deal.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Movano and Corvex joint press release on merger agreement, Form 8-K Exhibit 99.1", "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390025107857/ea026448601ex99-1_movano.htm", "date": "2025-11-10"},
+  "quote": "Corvex, together with Movano, raised an aggregate of $40.0 million from concurrent private placement financings"
+ },
+ {
+  "slug": "corvex",
+  "field": "today",
+  "text": "Corvex reported $3.8M of revenue in Q2 2026, and two customers accounted for 93% of it.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Corvex, Inc. Form 10-Q for the quarter ended June 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026090091/ea0301480-10q_corvex.htm", "date": "2026-08"},
+  "quote": "Customer A accounted for 65% and Customer B accounted for 28%"
+ },
+ {
+  "slug": "corvex",
+  "field": "fact",
+  "text": "Q2 2026 revenue = $3.8M",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Corvex, Inc. Form 10-Q for the quarter ended June 30, 2026", "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026090091/ea0301480-10q_corvex.htm", "date": "2026-08"},
+  "quote": "Total revenue $3,801 thousand"
+ },
+ {
+  "slug": "lambda",
+  "field": "origin",
+  "text": "It has worked with Microsoft for more than eight years and now markets itself as the Superintelligence Cloud.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "TechCrunch: Lambda inks multibillion-dollar AI infrastructure deal with Microsoft", "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/", "date": "2025-11-03"},
+  "quote": "We've been working with Microsoft for more than eight years, and this is a phenomenal next step in our relationship"
+ },
+ {
+  "slug": "lambda",
+  "field": "today",
+  "text": "The Wall Street Journal reported in October that the deal lifted Lambda's backlog from about $15B in June to about $50B in September.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Analytics Insight: Lambda Seeks USD 4 Billion as USD 50 Billion Backlog Fuels IPO Plans", "url": "https://www.analyticsinsight.net/news/lambda-seeks-usd-4-billion-as-usd-50-billion-backlog-fuels-ipo-plans", "date": "2026-10-07"},
+  "quote": "A letter to investors reviewed by the Journal showed Lambda's backlog reached USD 50 billion in September. That figure stood at USD 15 billion in June"
+ },
+ {
+  "slug": "lambda",
+  "field": "today",
+  "text": "Lambda raised $2.93B of debt in 2026 through a $1B credit facility in May, a $926M term loan B in August and a $1.008B investment-grade term loan in October.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Lambda: Lambda closes $926 million senior secured term loan B facility", "url": "https://lambda.ai/blog/lambda-closes-926-million-senior-secured-term-loan-b-facility", "date": "2026-08-27"},
+  "quote": "Lambda's $1 billion senior secured credit facility, announced in May 2026"
+ },
+ {
+  "slug": "lambda",
+  "field": "fact",
+  "text": "Debt raised in 2026 = $2.93B across three facilities",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Lambda: Lambda closes $1 billion senior secured fixed rate financing", "url": "https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing", "date": "2026-10-01"},
+  "quote": "$1.008 billion delayed draw term loan"
+ },
+ {
+  "slug": "ibm-cloud",
+  "field": "snippet",
+  "text": "IBM's public cloud targets enterprise and regulated workloads.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "IBM: GPUs and AI accelerators on IBM Cloud", "url": "https://www.ibm.com/cloud/gpu", "date": "2026"},
+  "quote": "Our cloud is built for modern enterprises, prioritizing data security, compliance and trust"
+ },
+ {
+  "slug": "ibm-cloud",
+  "field": "origin",
+  "text": "Its GPU business serves enterprises that want to run AI next to IBM software and inside IBM's security and compliance controls.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "IBM: GPUs and AI accelerators on IBM Cloud", "url": "https://www.ibm.com/cloud/gpu", "date": "2026"},
+  "quote": "GPUs and AI accelerators on IBM Cloud can integrate with your infrastructure, application and hybrid cloud requirements. We also provide an open architecture for supporting Red Hat OpenShift, IBM watsonx, HPC software and more"
+ },
+ {
+  "slug": "ibm-cloud",
+  "field": "fact",
+  "text": "Largest NVIDIA instance = 8x H200 (141 GB each)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "IBM Cloud Docs: Accelerated profile family for virtual servers", "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family", "date": "2026"},
+  "quote": "8x NVIDIA H200 (141 GB)"
+ },
+ {
+  "slug": "ibm-cloud",
+  "field": "fact",
+  "text": "Intel instance = 8x Gaudi 3 (128 GB each)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "IBM Cloud Docs: Accelerated profile family for virtual servers", "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family", "date": "2026"},
+  "quote": "8x Intel Gaudi-3 (128 GB)"
+ },
+ {
+  "slug": "mistral-ai",
+  "field": "origin",
+  "text": "Mistral AI started in Paris in 2023 to build open-weight language models.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "TechCrunch: What is Mistral AI? Everything to know about the OpenAI competitor", "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/", "date": "2026-07-04"},
+  "quote": "In June 2023, just one month after being founded, Mistral AI raised a record $113 million seed round"
+ },
+ {
+  "slug": "mistral-ai",
+  "field": "platform",
+  "text": "Mistral Compute bundles GPUs, orchestration, APIs and Mistral's own products, sold from bare-metal servers up to fully managed platform services.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Mistral AI: Mistral Compute", "url": "https://mistral.ai/news/mistral-compute", "date": "2026"},
+  "quote": "a private, integrated stack—GPUs, orchestration, APIs, products, and services in whatever form factor they need, from bare-metal servers to fully-managed PaaS"
+ },
+ {
+  "slug": "naver-cloud",
+  "field": "outlook",
+  "text": "The Nexus Core Systems project now targets 36 MW with construction from 2027, and recent coverage does not spell out Naver's role.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Developing Telecoms: Nexus to build US$1.2 billion AI factory in Morocco", "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20099-nexus-to-build-us-1-2-billion-ai-factory-in-morocco.html", "date": "2026"},
+  "quote": "The first phase in Nouaceur will sport an IT load capacity of 16MW, while the second phase in Northern Morocco will add another 20MW. The Nexus AI Factory will be constructed in two phases in 2027"
+ },
+ {
+  "slug": "naver-cloud",
+  "field": "fact",
+  "text": "Government GPU contract = 4,120 GPUs, 3,112 B300 and 1,008 Vera Rubin (June 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Seoul Economic Daily: Samsung SDS, Naver Cloud, Elice Group Win 2 Trillion Won Government GPU Project", "url": "https://en.sedaily.com/technology/2026/06/08/samsung-sds-naver-cloud-elice-group-win-2-trillion-won", "date": "2026-06-08"},
+  "quote": "Naver Cloud will operate 1,008 Vera Rubin and 3,112 B300 units, Samsung SDS will operate 1,008 Vera Rubin and 2,016 B300 units, and Elice Group will operate 2,560 B300 units"
+ },
+ {
+  "slug": "evroc",
+  "field": "today",
+  "text": "In September 2026 it partnered with Vilja to bring agentic AI to European banks.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Konsulteer: Vilja Partners With Evroc On Sovereign AI Banking", "url": "https://www.konsulteer.com/article/vilja-partners-with-evroc-to-bring-sovereign-ai-into-european-banking", "date": "2026-09-18"},
+  "quote": "Vilja partners with evroc to combine its core banking platform with sovereign European cloud and AI infrastructure"
+ },
+ {
+  "slug": "evroc",
+  "field": "platform",
+  "text": "Its flagship Stockholm data center targets rack densities above 150 kW with liquid cooling and fossil-free power, and Evroc plans an NVIDIA Blackwell GPU cluster there.",
+  "decision": "remove",
+  "replacement": "",
+  "source": null,
+  "quote": ""
+ },
+ {
+  "slug": "firmus",
+  "field": "today",
+  "text": "In June 2026 Firmus and NVIDIA announced a 360 MW campus in Batam, Indonesia, for up to 170,000 NVIDIA accelerators, with $25B to $30B of expected committed offtake over six years.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Firmus: Firmus to Build 170,000 GPU AI Factory Campus with NVIDIA for Global AI-Natives", "url": "https://firmus.co/newsroom/firmus-to-build-170-000-gpu-ai-factor-y-campus-with-nvidia-for-global-ai-natives", "date": "2026-06"},
+  "quote": "Firmus expects to receive between US$25 and US$30 billion from committed offtake agreements during the first six years"
+ },
+ {
+  "slug": "ovhcloud",
+  "field": "snippet",
+  "text": "French cloud provider listed on Euronext Paris with 46 data centers and €1.08B in fiscal 2025 revenue.",
+  "decision": "reword",
+  "replacement": "French cloud provider listed on Euronext Paris with 44 data centers and €1.08B in fiscal 2025 revenue.",
+  "source": {"title": "OVHcloud: Financial results FY2025, revenue breaks through billion euro mark", "url": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/", "date": "2026"},
+  "quote": "operating over 500,000 servers within 44 datacenters across 4 continents"
+ },
+ {
+  "slug": "global-ai",
+  "field": "today",
+  "text": "Humain agreed in November 2025 to develop large US AI data centers with Global AI.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "PR Newswire: HUMAIN Expands Strategic Partnership with NVIDIA, Advancing Global AI Infrastructure with xAI, Global AI, and AWS at the U.S.-Saudi Investment Forum", "url": "https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html", "date": "2025-11-19"},
+  "quote": "HUMAIN is forming a new strategic partnership with Global AI, an American sovereign AI infrastructure company, to develop large-scale AI data centers and compute capacity in the United States powered by NVIDIA technologies"
+ }
+]

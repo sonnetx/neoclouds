@@ -1,0 +1,875 @@
+[
+ {
+  "slug": "digitalocean",
+  "name": "DigitalOcean",
+  "website": "https://www.digitalocean.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "DigitalOcean: DigitalOcean Announces Second Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Second-Quarter-2026-Financial-Results/default.aspx"
+   },
+   {
+    "n": 2,
+    "title": "DigitalOcean: DigitalOcean Announces First Quarter 2026 Financial Results",
+    "url": "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-First-Quarter-2026-Financial-Results/default.aspx"
+   },
+   {
+    "n": 3,
+    "title": "DigitalOcean: GPU Droplets",
+    "url": "https://www.digitalocean.com/products/gpu-droplets"
+   },
+   {
+    "n": 4,
+    "title": "DigitalOcean: AI-Native Cloud",
+    "url": "https://www.digitalocean.com/products/gradient"
+   },
+   {
+    "n": 5,
+    "title": "Paperspace: Paperspace is now part of DigitalOcean",
+    "url": "https://www.paperspace.com/"
+   },
+   {
+    "n": 6,
+    "title": "Wikipedia: DigitalOcean",
+    "url": "https://en.wikipedia.org/wiki/DigitalOcean"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Its AI customer ARR reached $234M in Q2 2026, up 212% year over year."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "DigitalOcean reported $281M in second-quarter 2026 revenue, up 29%, and raised its 2026 guidance to $1.17B to $1.18B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "AI customer ARR reached $234M, and the company says 85% of it comes from inference and core cloud rather than bare metal."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Remaining performance obligations rose to $894M, including its first nine-figure annual customer commitments."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It has about 155 MW of committed data center capacity, including 20 MW added for 2027 and 2028."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "A follow-on share offering in the first quarter of 2026 raised $888M net, and it used $500M of that to repay debt."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "CEO Paddy Srinivasan expects growth to reach 35% or more by the fourth quarter of 2026 and to exceed 50% in 2027."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Third-quarter guidance is $304M to $307M."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "The company is moving from small monthly accounts toward large AI contracts, and its weighted average contract life has risen from 1.6 years to more than 3 years."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 revenue = $281M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "AI customer ARR (Q2 2026) = $234M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "2026 revenue guidance = $1.17B to $1.18B"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Committed data center capacity = About 155 MW"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Remaining performance obligations = $894M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Customers = 680,000+"
+   }
+  ]
+ },
+ {
+  "slug": "denvr-dataworks",
+  "name": "Denvr Dataworks",
+  "website": "https://www.denvr.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "The Logic: The Calgary firm with a wildly different plan for the AI infrastructure boom",
+    "url": "https://thelogic.co/news/the-big-read/denvr-artificial-intelligence-data-centres-canada/"
+   },
+   {
+    "n": 2,
+    "title": "Denvr: From Challenge to Breakthrough, a joint engineering story on AI infrastructure immersion cooling",
+    "url": "https://www.denvr.com/post/denvr-unicom-ai-infrastructure-immersion-cooling"
+   },
+   {
+    "n": 3,
+    "title": "Denvr: Homepage",
+    "url": "https://www.denvr.com/"
+   },
+   {
+    "n": 4,
+    "title": "Denvr: News",
+    "url": "https://www.denvr.com/news"
+   },
+   {
+    "n": 5,
+    "title": "Denvr: Blog",
+    "url": "https://www.denvr.com/denvr-blog"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "It reported more than US$10M of ARR in April 2026 and has reserved about 1 GW in Alberta."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The Logic reported in April 2026 that Denvr had raised US$12.5M of equity, deployed about US$100M of infrastructure on its own account and passed US$10M of ARR."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It runs a facility in southeast Calgary and has reserved about 1 GW of capacity across two Alberta sites that it has not fully built."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The company competes for Canadian federal and Alberta government work in defence, health and sovereignty, and planned to add infrastructure later in 2026."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Denvr plans to grow in modular blocks of 1 MW to 5 MW and to bid for Canadian sovereign and defence AI work with partners in its CAIP Defence Coalition."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "ARR (April 2026) = More than US$10M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Equity raised = US$12.5M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Infrastructure deployed on own account = About US$100M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Reserved power = About 1 GW at two Alberta sites"
+   }
+  ]
+ },
+ {
+  "slug": "boost-run",
+  "name": "Boost Run",
+  "website": "https://www.boostrun.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Boost Run Inc. Form 8-K Exhibit 99.1, second quarter 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226038014/ex99-1.htm"
+   },
+   {
+    "n": 2,
+    "title": "SEC: Boost Run Inc. Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226031923/forms-1.htm"
+   },
+   {
+    "n": 3,
+    "title": "SEC: Boost Run Inc. Form 424B3 proxy statement and prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226015740/form424b3.htm"
+   },
+   {
+    "n": 4,
+    "title": "SEC: Boost Run Inc. Form POS AM",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226046345/formposam.htm"
+   },
+   {
+    "n": 5,
+    "title": "Business Wire: Boost Run Announces Five-Year, $525.6 Million AI Cloud Services Compute Agreement",
+    "url": "https://www.businesswire.com/news/home/20261005413010/en/Boost-Run-Announces-Five-Year-$525.6-Million-AI-Cloud-Services-Compute-Agreement"
+   },
+   {
+    "n": 6,
+    "title": "TIKR: Boost Run Soars 11% on $526 Million Sovereign AI Cloud Deal",
+    "url": "https://www.tikr.com/blog/boost-run-soars-11-on-526-million-sovereign-ai-cloud-deal-an-important-step"
+   },
+   {
+    "n": 7,
+    "title": "Pulse 2.0: Boost Run SPAC Merger With Willow Lane To Take AI Cloud Infrastructure Provider Public",
+    "url": "https://pulse2.com/boost-run-spac-merger-with-willow-lane-to-take-ai-cloud-infrastructure-provider-public/"
+   },
+   {
+    "n": 8,
+    "title": "Boost Run: Home",
+    "url": "https://www.boostrun.com/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It places NVIDIA GPU servers in partner data centers, mainly TierPoint facilities, with Lenovo and Dell as hardware partners and Lumen for connectivity."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Q2 2026 revenue reached $31.1M, up 270% from a year earlier, and total contract value stood at $1.9B at the time."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The company runs six US data center locations and reports 253 MW of accessible power."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Boost Run targets about $400M in annual recurring revenue for 2026 and plans three new sites."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "It has fully committed a $1.44B Dell purchase agreement and plans $4B to $5B of further compute procurement."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Q2 2026 revenue = $31.1M, up 270%"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Accessible power = 253 MW"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Dell purchase agreement = $1.44B"
+   }
+  ]
+ },
+ {
+  "slug": "gmo-gpu-cloud",
+  "name": "GMO GPU Cloud",
+  "website": "https://gpucloud.gmo/",
+  "sources": [
+   {
+    "n": 1,
+    "title": "GMO Internet Group: GPU cloud service for generative AI using NVIDIA H200 to launch first in Japan (Japanese)",
+    "url": "https://group.gmo/news/article/8933/"
+   },
+   {
+    "n": 2,
+    "title": "GMO Internet Group: GMO Internet Group Launches GMO GPU Cloud, Ranked in the TOP500 Supercomputer List",
+    "url": "https://group.gmo/en/news/article/835/"
+   },
+   {
+    "n": 3,
+    "title": "TOP500: November 2024 list",
+    "url": "https://www.top500.org/lists/top500/list/2024/11/"
+   },
+   {
+    "n": 4,
+    "title": "GMO Internet Group: Notice Regarding Completion of Transition to Holding Company Structure",
+    "url": "https://group.gmo/en/ir_news/article/587/"
+   },
+   {
+    "n": 5,
+    "title": "GMO Internet Group: GMO Internet decides on additional investment in GMO GPU Cloud (Japanese)",
+    "url": "https://group.gmo/news/article/9503/"
+   },
+   {
+    "n": 6,
+    "title": "GMO Internet: GMO GPU Cloud adopts NVIDIA Blackwell Ultra GPU",
+    "url": "https://internet.gmo/en/news/article/71/"
+   },
+   {
+    "n": 7,
+    "title": "GMO Internet: GMO GPU Cloud adopted as next-generation AI development infrastructure by Sakana AI",
+    "url": "https://internet.gmo/en/news/article/107/"
+   },
+   {
+    "n": 8,
+    "title": "GMO GPU Cloud: NVIDIA HGX B300 GPU cloud now available (Japanese)",
+    "url": "https://gpucloud.gmo/news/757/"
+   },
+   {
+    "n": 9,
+    "title": "GMO Internet: Performance verification of NVIDIA B300 environment (Japanese)",
+    "url": "https://internet.gmo/news/article/139/"
+   },
+   {
+    "n": 10,
+    "title": "GMO GPU Cloud: GPU cloud resources and technical support for AIST (Japanese)",
+    "url": "https://gpucloud.gmo/news/811/"
+   },
+   {
+    "n": 11,
+    "title": "GMO Internet: GMO Internet invests ¥3.2 billion in Turing and signs strategic partnership (Japanese)",
+    "url": "https://internet.gmo/news/article/147/"
+   },
+   {
+    "n": 12,
+    "title": "GMO Internet: GMO GPU Cloud launches NVIDIA HGX B300 under the Slurm Service Dedicated Plan",
+    "url": "https://internet.gmo/en/news/article/169/"
+   },
+   {
+    "n": 13,
+    "title": "GMO GPU Cloud: GMO GPU Cloud resources used to train Sakana AI's Namazu (Japanese)",
+    "url": "https://gpucloud.gmo/news/954/"
+   },
+   {
+    "n": 14,
+    "title": "GMO Internet: GMO Internet Opens New GMO GPU Cloud Site at 100% Renewable Energy Data Center in Ishikari, Hokkaido",
+    "url": "https://internet.gmo/en/news/article/240/"
+   },
+   {
+    "n": 15,
+    "title": "GMO Internet Group: GMO Internet Launches GPU Cloud byGMO",
+    "url": "https://group.gmo/en/news/article/797/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "In April 2024 Japan's Ministry of Economy, Trade and Industry certified the group's plan to supply H200 cloud capacity under its economic security cloud program, with a subsidy of up to ¥1.925B toward a build of about ¥10B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "GMO Internet, Inc., the Tokyo-listed group company that took over the infrastructure business in January 2025, runs the service."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In February 2026 GMO invested ¥3.2B in the autonomous driving startup Turing and signed a four-year contract to supply it about 0.37 EFLOPS of H200 and B300 capacity."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Sakana AI trained the alpha version of its Japanese Namazu models on the service, and AIST bought about ¥68.5M of GPU cloud capacity and support for February and March 2026."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "METI subsidy = Up to ¥1.925B toward a ¥10B plan"
+   }
+  ]
+ },
+ {
+  "slug": "galaxy-digital",
+  "name": "Galaxy",
+  "website": "https://www.galaxy.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Data Center Dynamics: Galaxy secures approval for more than 800MW at Helios campus in Texas",
+    "url": "https://www.datacenterdynamics.com/en/news/galaxy-secures-approval-for-more-than-800mw-at-helios-campus-in-texas/"
+   },
+   {
+    "n": 2,
+    "title": "CoinDesk: Galaxy Digital first-quarter loss narrows, AI push grows",
+    "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss"
+   },
+   {
+    "n": 3,
+    "title": "Galaxy: Galaxy Completes Phase I of Its Helios Data Center Campus, Delivering 133 Megawatts of Critical IT Load to CoreWeave",
+    "url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus"
+   },
+   {
+    "n": 4,
+    "title": "The Block: Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+    "url": "https://www.theblock.co/news/business/2026-07-07-galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub-407396"
+   },
+   {
+    "n": 5,
+    "title": "Bloomberg: Galaxy Digital Seeks $3.5 Billion Debt for Texas Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale"
+   },
+   {
+    "n": 6,
+    "title": "PR Newswire: Galaxy Announces Second Quarter 2026 Financial Results",
+    "url": "https://www.prnewswire.com/news-releases/galaxy-announces-second-quarter-2026-financial-results-302843529.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Galaxy bought the Helios Bitcoin mining site in West Texas from Argo Blockchain for $65M in 2022, when it ran about 180 MW of mining."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Phase I earned about $18.9M of leasing revenue in Q2 2026, and Galaxy guides to about $80M a quarter once Phase I runs at full capacity."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Helios covers more than 2,200 acres in West Texas and had more than 2.2 GW of approved gross power by August 2026, with another 2 GW under study."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Approved power at Helios = More than 2.2 GW (August 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "core42",
+  "name": "Core42",
+  "website": "https://www.core42.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "G42: Core42 advances U.S. AI infrastructure strategy with expanded New York deployment",
+    "url": "https://www.g42.ai/resources/news/core42-advances-us-ai-infrastructure-strategy-expanded-new-york-deployment"
+   },
+   {
+    "n": 2,
+    "title": "The National: Abu Dhabi's Core42 more than triples US data centre capacity to 60MW",
+    "url": "https://www.thenationalnews.com/future/technology/2026/06/02/abu-dhabis-core42-more-than-triples-us-data-centre-capacity-to-60mw/"
+   },
+   {
+    "n": 3,
+    "title": "The Next Web: G42's Core42 leases 20MW in converted Minneapolis office building as UAE expands US AI data centre footprint",
+    "url": "https://thenextweb.com/news/core42-g42-minneapolis-data-center-office-conversion-uae"
+   },
+   {
+    "n": 4,
+    "title": "Seeking Alpha: TeraWulf targets 200-250 MW HPC capacity by 2026 while securing $1B Core42 contract",
+    "url": "https://seekingalpha.com/news/4415858-terawulf-targets-200minus-250-mw-hpc-capacity-by-2026-while-securing-1b-core42-contract"
+   },
+   {
+    "n": 5,
+    "title": "Intelligent CIO: Core42 secures US$550 million HSBC financing to expand AI infrastructure across US and Europe",
+    "url": "https://www.intelligentcio.com/eu/2026/05/26/core42-secures-us550-million-hsbc-financing-to-expand-ai-infrastructure-across-us-and-europe/"
+   },
+   {
+    "n": 6,
+    "title": "TahawulTech: Core42 launches a partner program to expand sovereign enabled cloud and AI choice in the UAE",
+    "url": "https://www.tahawultech.com/enterprise/core42-launches-a-partner-program-to-expand-sovereign-enabled-cloud-and-ai-choice-in-the-uae/"
+   },
+   {
+    "n": 7,
+    "title": "G42: Core42 Unveils Self-Service, On-Demand AI Cloud Platform with NVIDIA Accelerated Computing at GITEX Global 2025",
+    "url": "https://www.g42.ai/resources/news/core42-unveils-self-service-demand-ai-cloud-platform-nvidia-accelerated-computing-gitex-global-2025"
+   },
+   {
+    "n": 8,
+    "title": "G42: Global Tech Alliance Launches Stargate UAE",
+    "url": "https://www.g42.ai/resources/news/global-tech-alliance-launches-stargate-uae"
+   },
+   {
+    "n": 9,
+    "title": "The National: US decision to raise UAE export status will strengthen AI security, Core42 says",
+    "url": "https://www.thenationalnews.com/future/technology/2026/07/19/us-decision-to-raise-uae-export-status-will-strengthen-ai-security-core42-says/"
+   },
+   {
+    "n": 10,
+    "title": "Reuters: US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+    "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/"
+   },
+   {
+    "n": 11,
+    "title": "CXO Digitalpulse: UAE Revises 5-Gigawatt AI Data Centre Plan After Iranian Attacks",
+    "url": "https://www.cxodigitalpulse.com/uae-revises-5-gigawatt-ai-data-centre-plan-after-iranian-attacks/"
+   },
+   {
+    "n": 12,
+    "title": "Reuters: UAE revises AI data center plan after Iranian attacks, sources say",
+    "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/"
+   },
+   {
+    "n": 13,
+    "title": "Microsoft On the Issues: Microsoft's $15.2 Billion USD Investment in the UAE",
+    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/"
+   },
+   {
+    "n": 14,
+    "title": "G42: UAE to Deploy 8 Exaflop Supercomputer in India to Strengthen Local Sovereign AI Infrastructure",
+    "url": "https://www.g42.ai/resources/news/uae-deploy-8-exaflop-supercomputer-india-strengthen-local-sovereign-ai-infrastructure"
+   },
+   {
+    "n": 15,
+    "title": "The National: Abu Dhabi's G42 in $1bn deal to develop sovereign AI and data centres in Vietnam",
+    "url": "https://www.thenationalnews.com/future/technology/2026/02/09/g42-ai-vietnam/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Core42 expanded its deployment at TeraWulf's Lake Mariner campus near Buffalo, New York by 42 MW in June 2026, taking the site from 18 MW to 60 MW."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Core42 launched the Core42 AI Cloud in October 2025, a self-service console that rents NVIDIA H100 capacity by the hour or on term commitments for training, fine-tuning and inference."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "G42 builds Stargate UAE, a 1 GW cluster that OpenAI and Oracle will operate with NVIDIA GB300 systems, and the first NVIDIA chips for the project reached the UAE in May 2026."
+   }
+  ]
+ },
+ {
+  "slug": "applied-digital",
+  "name": "Applied Digital",
+  "website": "https://www.applieddigital.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Capacity Media: Applied Digital finalises CoreWeave lease in North Dakota",
+    "url": "https://capacityglobal.com/news/applied-digital-coreweave-data-centre-lease/"
+   },
+   {
+    "n": 2,
+    "title": "Applied Digital: Applied Digital Achieves Ready for Service for Phase 1 at Polaris Forge 1 Building 1 for CoreWeave",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/133/applied-digital-achieves-ready-for-service-for-phase-1-at"
+   },
+   {
+    "n": 3,
+    "title": "Applied Digital: Applied Digital Completes Separation of Cloud Business, Establishing ChronoScale as Independent Public Company",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/151/applied-digital-completes-separation-of-cloud-business"
+   },
+   {
+    "n": 4,
+    "title": "Applied Digital: Applied Digital Reaches Significant Milestone, Surpassing 1 GW of Contracted Capacity with U.S. Based High Investment-Grade Hyperscaler Lease at Fourth Campus, Polaris Forge 3",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/152/applied-digital-reaches-significant-milestone-surpassing-1"
+   },
+   {
+    "n": 5,
+    "title": "Applied Digital: Applied Digital Signs 210 MW Lease at Delta Forge 2, Expanding Its AI Factory Franchise Model to a Fifth Campus",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2"
+   },
+   {
+    "n": 6,
+    "title": "SEC: Applied Digital fiscal fourth quarter and full year 2026 earnings release",
+    "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/apldq426earningsreleaseasf.htm"
+   },
+   {
+    "n": 7,
+    "title": "Applied Digital: Applied Digital Reports Fiscal First Quarter 2027 Results",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/163/applied-digital-reports-fiscal-first-quarter-2027-results"
+   },
+   {
+    "n": 8,
+    "title": "Stock Titan: Applied Digital Earnings, Hyperscaler Leases Not Live Yet",
+    "url": "https://www.stocktitan.net/articles/applied-digital-q1-fiscal-2027-live-capacity-gaap-loss"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It still hosts Bitcoin miners on 286 MW at Jamestown and Ellendale."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Quarterly capex above $2B keeps it reliant on debt markets, where it sold $1.59B of 7.0% senior secured notes due 2031."
+   }
+  ]
+ },
+ {
+  "slug": "darya-ai",
+  "name": "darya.ai",
+  "website": "https://darya.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "W.Media: Yotta partners with darya.ai to build green data center in Tajikistan",
+    "url": "https://w.media/yotta-partners-with-darya-ai-to-build-green-data-center-in-tajikistan/"
+   },
+   {
+    "n": 2,
+    "title": "Developing Telecoms: Green AI data centre planned for Tajikistan",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/19254-green-ai-data-centre-planned-for-tajikistan.html"
+   },
+   {
+    "n": 3,
+    "title": "Asia-Plus: $117 million in AI investment deals signed in Dushanbe",
+    "url": "https://asiaplus.news/en/2025/10/30/117-million-in-ai-investment-deals-signed-in-dushanbe/"
+   },
+   {
+    "n": 4,
+    "title": "Data Center Dynamics: India's Yotta Data Services to develop data center in Tajikistan",
+    "url": "https://www.datacenterdynamics.com/en/news/indias-yotta-data-services-to-develop-data-center-in-tajikistan/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "darya.ai is a Tajik company that builds AI compute on Tajikistan's hydropower."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It is one of five Tajik startups among the founding members of Tajikistan's AI special economic zone."
+   }
+  ]
+ },
+ {
+  "slug": "sakura-internet",
+  "name": "Sakura Internet",
+  "website": "https://www.sakura.ad.jp",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SAKURA internet: Selected as a Provider of Government Cloud Services for Fiscal Years 2023 and 2026",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/03/27/1968224094/"
+   },
+   {
+    "n": 2,
+    "title": "SAKURA internet: SAKURAONE Ranks 22nd Worldwide in HPCG Benchmark",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/2026/06/25/1968225150/"
+   },
+   {
+    "n": 3,
+    "title": "SAKURA internet: News releases (Gen AI Platform launch, KDDI and Highreso agreement)",
+    "url": "https://www.sakura.ad.jp/corporate/en/information/"
+   },
+   {
+    "n": 4,
+    "title": "TrendForce: Japan's Sakura AI GPU Procurement Reportedly Increases Fivefold, Including Purchase of NVIDIA B200",
+    "url": "https://www.trendforce.com/news/2024/04/22/news-japans-sakura-ai-gpu-procurement-reportedly-increases-fivefold-including-purchase-of-nvidia-b200/"
+   },
+   {
+    "n": 5,
+    "title": "Nikkei Asia: Japan to fund KDDI, four others to build AI supercomputer",
+    "url": "https://asia.nikkei.com/business/technology/japan-to-fund-kddi-four-others-to-build-ai-supercomputer"
+   },
+   {
+    "n": 6,
+    "title": "Startup Fortune: Sakura Internet plans more AI data center spending in Japan",
+    "url": "https://startupfortune.com/sakura-internet-plans-more-ai-data-center-spending-in-japan/"
+   },
+   {
+    "n": 7,
+    "title": "Bloomberg: Sakura Internet Eyes More Spending to Meet AI Data Center Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand"
+   },
+   {
+    "n": 8,
+    "title": "Microsoft Source: Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure",
+    "url": "https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/"
+   },
+   {
+    "n": 9,
+    "title": "BleepingComputer: Sakura Internet hack exposes data of up to 1.36 million accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Sakura also runs the SAKURA Gen AI Platform, a managed service for generative AI applications launched in August 2025."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Government Cloud = Selected for FY2023 and FY2026"
+   }
+  ]
+ },
+ {
+  "slug": "spacex-xai",
+  "name": "SpaceX (xAI)",
+  "website": "https://x.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "The New York Times: Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
+    "url": "https://www.nytimes.com/2026/02/02/business/spacex-xai-deal.html"
+   },
+   {
+    "n": 2,
+    "title": "Wikipedia: xAI (company)",
+    "url": "https://en.wikipedia.org/wiki/XAI_(company)"
+   },
+   {
+    "n": 3,
+    "title": "Yahoo Finance: Anthropic to rent all AI capacity at SpaceX's Colossus data center",
+    "url": "https://finance.yahoo.com/news/anthropic-to-rent-all-ai-capacity-at-spacexs-colossus-data-center-180327774.html"
+   },
+   {
+    "n": 4,
+    "title": "CNBC: Google to pay SpaceX $920 million a month for compute capacity",
+    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
+   },
+   {
+    "n": 5,
+    "title": "Axios: Nvidia-backed Reflection lands SpaceX compute deal",
+    "url": "https://www.axios.com/2026/06/22/open-source-ai-gets-more-compute-from-spacex"
+   },
+   {
+    "n": 6,
+    "title": "Yahoo Finance: Elon Musk aims to double Colossus",
+    "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-aims-double-colossus-060447907.html"
+   },
+   {
+    "n": 7,
+    "title": "Epoch AI: Colossus 2",
+    "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
+   },
+   {
+    "n": 8,
+    "title": "Reuters: Musk's xAI buys third building to expand AI compute power",
+    "url": "https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/"
+   },
+   {
+    "n": 9,
+    "title": "SEC: Space Exploration Technologies Corp. Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
+   },
+   {
+    "n": 10,
+    "title": "Wikipedia: Colossus (supercomputer)",
+    "url": "https://en.wikipedia.org/wiki/Colossus_(supercomputer)"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "SpaceX filed an S-1 registration statement with the SEC in May 2026."
+   }
+  ]
+ },
+ {
+  "slug": "farmgpu",
+  "name": "FarmGPU",
+  "website": "https://farmgpu.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "FarmGPU: Home",
+    "url": "https://farmgpu.com/"
+   },
+   {
+    "n": 2,
+    "title": "FarmGPU: Infrastructure",
+    "url": "https://farmgpu.com/infrastructure"
+   },
+   {
+    "n": 3,
+    "title": "FarmGPU Blog: RunPod's Rapid Growth Fuels Rise of Neoclouds, Empowering FarmGPU to Challenge Hyperscaler Dominance in AI Compute",
+    "url": "https://blog.farmgpu.com/runpod-securecloud-launch/"
+   },
+   {
+    "n": 4,
+    "title": "FarmGPU Blog: Bare metal performance with FarmGPU and RunPod Blackwell Instant Clusters",
+    "url": "https://blog.farmgpu.com/b200-cluster/"
+   },
+   {
+    "n": 5,
+    "title": "FarmGPU Blog: Solidigm and FarmGPU Partner to Redefine Data Storage for the AI Era",
+    "url": "https://blog.farmgpu.com/ai-central-lab/"
+   },
+   {
+    "n": 6,
+    "title": "Hedgehog: FarmGPU Case Study",
+    "url": "https://hedgehog.cloud/case-studies/farmgpu"
+   },
+   {
+    "n": 7,
+    "title": "FarmGPU Blog: Scaling AI Clusters at Neoclouds, How FarmGPU Is Helping Build the Open Playbook",
+    "url": "https://blog.farmgpu.com/ocp-scaling-ai-clusters-at-neoclouds/"
+   },
+   {
+    "n": 8,
+    "title": "FarmGPU Blog: The Fastest 8 Node WEKA Cluster, Solidigm D7-PS1010 and WEKA Power FarmGPU's MLPerf Storage v3.0 Results",
+    "url": "https://blog.farmgpu.com/the-fastest-8-node-weka-cluster-solidigm-d7-ps1010-and-weka-power-farmgpus-mlperf-storage-v3-0-results/"
+   },
+   {
+    "n": 9,
+    "title": "GitHub: FarmGPU/gpu-roi",
+    "url": "https://github.com/FarmGPU/gpu-roi"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unsupported",
+    "text": "FarmGPU is a small neocloud in Rancho Cordova, California that rents H200, B200 and RTX PRO 6000 GPUs."
+   }
+  ]
+ },
+ {
+  "slug": "latitude-sh",
+  "name": "Latitude.sh",
+  "website": "https://www.latitude.sh",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Megaport: Megaport to acquire Latitude.sh, creating an industry-leading Compute and Network-as-a-Service platform",
+    "url": "https://www.megaport.com/media-releases/2025-11-11.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Latitude.sh: We've secured $594M to build the global AI Inference Cloud",
+    "url": "https://www.latitude.sh/blog/weve-secured-594m-to-build-the-global-ai-inference-cloud"
+   },
+   {
+    "n": 3,
+    "title": "Latitude.sh: The global AI enabler cloud",
+    "url": "https://www.latitude.sh/"
+   },
+   {
+    "n": 4,
+    "title": "Latitude.sh: Locations",
+    "url": "https://www.latitude.sh/locations"
+   },
+   {
+    "n": 5,
+    "title": "Latitude.sh: Metal GPU clusters",
+    "url": "https://www.latitude.sh/accelerate"
+   }
+  ],
+  "claims": [
+   {
+    "field": "outlook",
+    "status": "unsupported",
+    "text": "Delivering the four US AI contracts is the main near-term use of the new capital."
+   }
+  ]
+ }
+]

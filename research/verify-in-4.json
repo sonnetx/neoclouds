@@ -1,0 +1,965 @@
+[
+ {
+  "slug": "iren",
+  "name": "IREN",
+  "website": "https://iren.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Reuters: Microsoft signs $9.7 billion cloud deal with IREN as AI demand swells",
+    "url": "https://www.reuters.com/technology/microsoft-signs-97-billion-contract-with-iren-nvidia-chips-2025-11-03/"
+   },
+   {
+    "n": 2,
+    "title": "GlobeNewswire: IREN Secures $9.7bn AI Cloud Contract with Microsoft",
+    "url": "https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/iren-secures-9-7bn-ai-cloud-contract-with-microsoft.html"
+   },
+   {
+    "n": 3,
+    "title": "NVIDIA Newsroom: NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure"
+   },
+   {
+    "n": 4,
+    "title": "Stock Titan: IREN secures $3.4bn AI cloud contract with NVIDIA",
+    "url": "https://www.stocktitan.net/news/IREN/iren-secures-3-4bn-ai-cloud-contract-with-hh8a26euuqhs.html"
+   },
+   {
+    "n": 5,
+    "title": "The Register: Neocloud IREN buys OpenStack champion Mirantis",
+    "url": "https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644"
+   },
+   {
+    "n": 6,
+    "title": "SDxCentral: Iren buys Mirantis for $625M to strengthen bare metal GPU and Kubernetes stack",
+    "url": "https://www.sdxcentral.com/news/iren-to-buy-mirantis-for-625m-to-strengthen-bare-metal-gpu-and-kubernetes-stack/"
+   },
+   {
+    "n": 7,
+    "title": "Blockspace Media: IREN completes Nostrum acquisition, adds 490MW in Spain for Europe AI cloud push",
+    "url": "https://blockspace.media/insight/iren-acquires-nostrum-spain-ai-infrastructure/"
+   },
+   {
+    "n": 8,
+    "title": "Stock Titan: IREN Signs $2.8bn in New Customer Contracts with Leading AI Developers, Raises 2026 ARR Target to over $4bn",
+    "url": "https://www.stocktitan.net/news/IREN/iren-signs-2-8bn-in-new-customer-contracts-with-leading-ai-p1daxr97ttye.html"
+   },
+   {
+    "n": 9,
+    "title": "Stock Titan: IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72",
+    "url": "https://www.stocktitan.net/news/IREN/iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exemplar-12sdoc82j9x8.html"
+   },
+   {
+    "n": 10,
+    "title": "Stock Titan: IREN Reports FY26 Results",
+    "url": "https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html"
+   },
+   {
+    "n": 11,
+    "title": "Investing.com: IREN Q4 FY26 slides, $4bn ARR contracted amid mining exit",
+    "url": "https://www.investing.com/news/company-news/iren-q4-fy26-slides-4bn-arr-contracted-amid-mining-exit-93CH-4880319"
+   },
+   {
+    "n": 12,
+    "title": "Stock Titan: IREN's 2GW Sweetwater Hub Included as Base Load in ERCOT Batch Zero",
+    "url": "https://www.stocktitan.net/news/IREN/iren-s-2gw-sweetwater-hub-included-as-base-load-in-ercot-batch-cy6xg3ubvfes.html"
+   },
+   {
+    "n": 13,
+    "title": "TIKR: IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
+    "url": "https://www.tikr.com/blog/iren-stock-anthropic-ai-cloud-deal"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Bitcoin miner turned AI cloud that runs its own Texas data centers."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It started buying NVIDIA GPUs for an AI cloud business in 2023 and later renamed itself IREN after its Nasdaq ticker."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "IREN reported revenue of $707.0M for the year to June 2026, with $128.8M from AI cloud services and $578.2M from Bitcoin mining."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It posted a net loss of $702.6M, driven by $638.8M of impairments on mining hardware it is retiring."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Microsoft signed a five-year, $9.7B contract in November 2025 for GB300 capacity at Childress, and IREN delivered the first 50 MW phase, Horizon 1, in August 2026."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "NVIDIA followed in May 2026 with a five-year, $3.4B managed cloud contract for about 60 MW at Childress and a warrant to invest up to $2.1B in IREN shares."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "IREN signed another $2.8B of multi-year contracts with AI developers in July 2026 and a contract with an unnamed frontier AI lab in August."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Childress hosts liquid-cooled GB300 NVL72 halls for Microsoft and air-cooled Blackwell systems for NVIDIA."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "NVIDIA rated Horizon 1 an Exemplar Cloud for GB300 NVL72 after its own validation testing."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "IREN targets 480 MW of gross AI cloud capacity (300 MW of IT load) by the end of 2026 and 1.2 GW gross in 2027."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Its pipeline of more than 5 GW includes the 2 GW Sweetwater hub in Texas, where 300 MW is under construction for Q4 2027, plus sites in Oklahoma, Canada, Spain and Australia."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "NVIDIA contract = $3.4B over 5 years (May 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "FY26 revenue = $707.0M, of which $128.8M from AI cloud"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Capacity target = 480 MW gross in 2026, 1.2 GW in 2027"
+   }
+  ]
+ },
+ {
+  "slug": "nscale",
+  "name": "Nscale",
+  "website": "https://www.nscale.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SEC: Nscale Ltd Form S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526395475/ck0002110365-20260918.htm"
+   },
+   {
+    "n": 2,
+    "title": "Nscale: Nscale Files Registration Statement for Proposed Initial Public Offering",
+    "url": "https://nscale.com/press-releases/nscale-files-initial-public-offering"
+   },
+   {
+    "n": 3,
+    "title": "Nscale: Nscale Raises $3.36 Billion in Pre-IPO Convertible Financing",
+    "url": "https://nscale.com/press-releases/pre-ipo-convertible-financing"
+   },
+   {
+    "n": 4,
+    "title": "Nscale: Nscale Raises $2 Billion in Series C, the Largest in European History",
+    "url": "https://nscale.com/press-releases/nscale-series-c"
+   },
+   {
+    "n": 5,
+    "title": "Nscale: Nscale Raises the Largest Series B in European History, at $1.1 Billion",
+    "url": "https://nscale.com/press-releases/nscale-series-b"
+   },
+   {
+    "n": 6,
+    "title": "Nscale: Nscale Contracts Approximately 200,000 NVIDIA GB300 GPUs with Microsoft",
+    "url": "https://nscale.com/press-releases/nscale-microsoft-2025"
+   },
+   {
+    "n": 7,
+    "title": "Nscale: Nscale and Microsoft Announce Collaboration with NVIDIA and Caterpillar to Deliver 1.35GW of NVIDIA Vera Rubin NVL72 GPUs in West Virginia",
+    "url": "https://nscale.com/press-releases/nscale-west-virginia-ai-factory"
+   },
+   {
+    "n": 8,
+    "title": "Nscale: Nscale to Deliver 66,000+ NVIDIA Rubin GPUs to Microsoft at Start Campus' Site in Portugal",
+    "url": "https://nscale.com/press-releases/nscale-start-campus"
+   },
+   {
+    "n": 9,
+    "title": "Nscale: Nscale to Deploy NVIDIA Vera Rubin Platform in 2027, Bringing 100,000+ GPUs to Europe",
+    "url": "https://nscale.com/press-releases/nscale-nvidia-vera-rubin"
+   },
+   {
+    "n": 10,
+    "title": "Nscale: Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform",
+    "url": "https://nscale.com/press-releases/nscale-acquires-anyscale"
+   },
+   {
+    "n": 11,
+    "title": "Nscale: Nscale Acquires American Intelligence & Power Corporation",
+    "url": "https://nscale.com/press-releases/nscale-acquires-american-intelligence-power-corporation"
+   },
+   {
+    "n": 12,
+    "title": "Nscale: Nscale Acquires Future-tech to Accelerate Global Data Center Delivery",
+    "url": "https://nscale.com/press-releases/nscale-acquires-future-tech"
+   },
+   {
+    "n": 13,
+    "title": "Nscale: Execution At Scale, Doubling Our Deployments",
+    "url": "https://nscale.com/press-releases/execution-at-scale"
+   },
+   {
+    "n": 14,
+    "title": "Nscale: Nscale, Aker and OpenAI to Establish Stargate Norway",
+    "url": "https://nscale.com/press-releases/stargate-norway-nscale-aker-openai"
+   },
+   {
+    "n": 15,
+    "title": "Nscale: Nscale Announces UK AI Infrastructure Commitment in Partnership with Microsoft, NVIDIA and OpenAI",
+    "url": "https://nscale.com/press-releases/nscale-uk-ai-infrastructure-announcement"
+   },
+   {
+    "n": 16,
+    "title": "Nscale: Nscale and InfraPartners Announce Partnership to Build 60MW AI Data Centre in Glomfjord, Norway",
+    "url": "https://nscale.com/press-releases/nscale-and-infrapartners-announce-partnership-to-build-60mw-ai-data-centre-in-glomfjord-norway"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "London-based AI cloud spun out of Arkon Energy in 2024."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Its S-1 reports revenue of $33.0M in 2025 and $140.6M in the first half of 2026, with a first-half net loss of $1.02B."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "As of August 31, 2026 it had about 25,000 active GPUs, 461,000 active and contracted GPUs, about 1.37 GW of active and contracted capacity and $103.4B of active and contracted TCV."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Anthropic signed GPU services agreements worth up to about $44.6B in August 2026 for the Monarch campus in Mason County, West Virginia."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Nscale says it controls more than 10 GW of power pipeline and plans to bring more than 100,000 Vera Rubin GPUs to Europe in 2027."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Its first-half 2026 net loss of $1.02B is about seven times its revenue for the period, and its S-1 warns that a small number of customers drive much of its revenue."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Active and contracted TCV = $103.4B (August 31, 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "H1 2026 revenue = $140.6M"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Active and contracted capacity = About 1.37 GW"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "GPUs = About 25,000 active, 461,000 active and contracted"
+   }
+  ]
+ },
+ {
+  "slug": "stn",
+  "name": "STN",
+  "website": "https://www.stninc.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "DCD: CoreSite secures STN's GPU cloud venture as a customer in Chicago",
+    "url": "https://www.datacenterdynamics.com/en/news/coresite-secures-stns-gpu-cloud-venture-as-a-customer-in-chicago/"
+   },
+   {
+    "n": 2,
+    "title": "Business Wire: CoreSite's Chicago AI-Optimized Infrastructure Powers STN's GPU One Platform and Helps Deliver Significant Savings",
+    "url": "https://www.businesswire.com/news/home/20251029829242/en/CoreSites-Chicago-AI-Optimized-Infrastructure-Powers-STNs-GPU-One-Platform-and-Helps-Deliver-Significant-Savings"
+   },
+   {
+    "n": 3,
+    "title": "IoT Now: Skild AI accelerates development of human-like robot brain with AI solutions from Hewlett Packard Enterprise",
+    "url": "https://iot-now.com/2025/03/14/150378-skild-ai-accelerates-development-of-human-like-robot-brain-with-ai-solutions-from-hewlett-packard-enterprise/"
+   },
+   {
+    "n": 4,
+    "title": "PR.com: STN's Sabur Mian Recognized as a CRN 2025 Next-Gen Solution Provider Leader",
+    "url": "https://www.pr.com/press-release/952180"
+   },
+   {
+    "n": 5,
+    "title": "STN: Private GPU Cloud for AI with Compliance and Support",
+    "url": "https://www.stninc.com/"
+   },
+   {
+    "n": 6,
+    "title": "STN: About",
+    "url": "https://www.stninc.com/about"
+   },
+   {
+    "n": 7,
+    "title": "STN: GPU One",
+    "url": "https://www.stninc.com/gpu-one"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "STN is a California managed services provider that runs GPU One, a private GPU cloud."
+   },
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Its Chicago cluster holds more than 1,500 liquid-cooled NVIDIA B200 GPUs, and Skild AI is a customer."
+   },
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "Under his leadership the company moved into GPU-as-a-service, managed services and secure AI platforms."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "The GPU One cluster in CoreSite's CH2 data center in Chicago launched in April 2025."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "It holds more than 1,500 liquid-cooled NVIDIA B200 GPUs in Supermicro servers across 24 racks."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "CoreSite supports more than 100 kW per rack with liquid cooling for STN at CH2."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Racks = 24, at more than 100 kW each"
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Location = CoreSite CH2, Chicago"
+   }
+  ]
+ },
+ {
+  "slug": "vessl-ai",
+  "name": "VESSL AI",
+  "website": "https://vessl.ai/",
+  "sources": [
+   {
+    "n": 1,
+    "title": "KED Global: MLOps startup Vessl AI eyes 50% sales from US in 2025",
+    "url": "https://www.kedglobal.com/korean-startups/newsView/ked202408010009"
+   },
+   {
+    "n": 2,
+    "title": "TechCrunch via Yahoo Finance: VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%",
+    "url": "https://ca.finance.yahoo.com/news/vessl-ai-secures-12m-mlops-230000639.html"
+   },
+   {
+    "n": 3,
+    "title": "VESSL AI: Everyone Said Sold Out - GB200 and B300, Available Now on VESSL Cloud",
+    "url": "https://vessl.ai/en/blog/gpu-gb200-b300-en"
+   },
+   {
+    "n": 4,
+    "title": "VESSL AI: What Is a Neocloud? The Fastest Way to Get GPU Access",
+    "url": "https://vessl.ai/en/blog/what-is-a-neocloud"
+   },
+   {
+    "n": 5,
+    "title": "VESSL AI: VESSL AI supplies a 128-GPU B200 cloud to SK Biopharm (Korean)",
+    "url": "https://vessl.ai/ko/blog/vessl-sk-biopharm-b200"
+   },
+   {
+    "n": 6,
+    "title": "VESSL AI: CEO An Jaeman says an AI factory needs stability, efficiency and scale (Korean)",
+    "url": "https://vessl.ai/ko/blog/vessl-samsung-sds-real-summit-2026"
+   },
+   {
+    "n": 7,
+    "title": "VESSL AI: Neo AI Cloud hands VESSL AI the GPU platform for its Pohang AI data center (Korean)",
+    "url": "https://vessl.ai/ko/blog/vessl-neoaicloud-pohang-ai-datacenter"
+   },
+   {
+    "n": 8,
+    "title": "VESSL AI: KT AI for All consortium launches with VESSL AI in AI infrastructure (Korean)",
+    "url": "https://vessl.ai/ko/blog/kt-modu-ai-consortium-launch"
+   },
+   {
+    "n": 9,
+    "title": "KED Global: Korea's National Growth Fund weighs joining Vessl AI's $150 mn Series C round",
+    "url": "https://www.kedglobal.com/venture-capital/newsView/ked202609230007"
+   },
+   {
+    "n": 10,
+    "title": "VESSL AI: VESSL AI runs global inference for Upstage Solar Pro 4 (Korean)",
+    "url": "https://vessl.ai/ko/blog/vessl-upstage-solar-pro4-inference"
+   },
+   {
+    "n": 11,
+    "title": "VESSL Cloud: Changelog",
+    "url": "https://docs.cloud.vessl.ai/changelog/overview/updates"
+   },
+   {
+    "n": 12,
+    "title": "VESSL AI: VESSL Cloud, The AI Cloud for All Models",
+    "url": "https://vessl.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unsupported",
+    "text": "Korean MLOps company turned GPU cloud that says it runs more than 8,000 GPUs across 20+ clouds."
+   },
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "At a Samsung SDS event in September 2026, An said the company runs more than 8,000 GPUs and grew revenue more than 50 times over the prior year."
+   },
+   {
+    "field": "today",
+    "status": "unsupported",
+    "text": "VESSL will also run the GPU platform for Neo AI Cloud's ₩600B Pohang AI data center, whose first 40 MW phase is due in November 2027."
+   },
+   {
+    "field": "fact",
+    "status": "unsupported",
+    "text": "GPUs operated = 8,000+ (September 2026)"
+   },
+   {
+    "field": "fact",
+    "status": "unsupported",
+    "text": "Pohang project = ₩600B, 40 MW first phase"
+   }
+  ]
+ },
+ {
+  "slug": "vultr",
+  "name": "Vultr",
+  "website": "https://www.vultr.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Wall Street Journal: Cloud AI Startup Vultr Raises $333 Million at $3.5 Billion Valuation",
+    "url": "https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9"
+   },
+   {
+    "n": 2,
+    "title": "CNBC: Vultr raises $300 million in debt from Bank of America, Citi, Goldman",
+    "url": "https://www.cnbc.com/2025/06/23/vultr-raises-300-million-in-debt-from-bank-of-america-citi-goldman.html"
+   },
+   {
+    "n": 3,
+    "title": "Bloomberg: AMD-backed Vultr to build $1 billion chip cluster in Ohio for AI",
+    "url": "https://www.bloomberg.com/news/articles/2025-12-02/amd-backed-vultr-to-build-1-billion-chip-cluster-in-ohio-for-ai"
+   },
+   {
+    "n": 4,
+    "title": "Vultr: Public API bare metal plans list",
+    "url": "https://api.vultr.com/v2/plans-metal"
+   },
+   {
+    "n": 5,
+    "title": "Vultr: Cloud GPU documentation",
+    "url": "https://docs.vultr.com/products/compute/cloud-gpu"
+   },
+   {
+    "n": 6,
+    "title": "Wikipedia: Vultr",
+    "url": "https://en.wikipedia.org/wiki/Vultr"
+   }
+  ],
+  "claims": [
+   {
+    "field": "snippet",
+    "status": "unknown",
+    "text": "Backed by AMD, it is building a $1B, 50 MW AMD GPU cluster in Ohio."
+   },
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "Bloomberg reported in December 2025 that it would spend more than $1B on a 50 MW cluster of AMD chips in Ohio, due to launch in the first quarter of 2026."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Vultr sells cloud GPU virtual machines, bare metal GPU servers, Kubernetes and a serverless inference service on the same platform as its CPU instances and object storage."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Ohio AMD cluster = $1B+, 50 MW"
+   }
+  ]
+ },
+ {
+  "slug": "hut-8",
+  "name": "Hut 8",
+  "website": "https://hut8.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "The Block: Bitcoin miner Hut 8 expands AI push with new GPU-as-a-Service cluster",
+    "url": "https://www.theblock.co/news/business/2024-09-26-bitcoin-miner-hut-8-expands-ai-push-with-new-gpu-as-a-service-cluster-318347"
+   },
+   {
+    "n": 2,
+    "title": "PR Newswire: Hut 8 Announces AI Infrastructure Partnership with Anthropic and Fluidstack",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-announces-ai-infrastructure-partnership-with-anthropic-and-fluidstack-302644377.html"
+   },
+   {
+    "n": 3,
+    "title": "PR Newswire: Hut 8 Signs 15-Year, 245 MW AI Data Center Lease at River Bend Campus with Total Contract Value of $7.0 Billion",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-7-0-billion-302644600.html"
+   },
+   {
+    "n": 4,
+    "title": "Reuters: Hut 8 signs about $10 billion AI data center lease in Texas, shares jump",
+    "url": "https://www.reuters.com/technology/hut-8-signs-about-10-billion-ai-data-center-lease-texas-2026-05-06/"
+   },
+   {
+    "n": 5,
+    "title": "PR Newswire: Hut 8 Fully Commercializes 1 GW Beacon Point AI Data Center Campus with Second 352 MW IT Lease",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-fully-commercializes-1-gw-beacon-point-ai-data-center-campus-with-second-352-mw-it-lease-bringing-campus-level-base-term-contract-value-to-19-6-billion-302829514.html"
+   },
+   {
+    "n": 6,
+    "title": "KIII TV: Hut 8 sells out Beacon Point capacity as Corpus Christi considers new data center regulations",
+    "url": "https://www.kiiitv.com/article/news/local/hut-8-sells-out-beacon-point-capacity-as-corpus-christi-considers-new-data-center-regulations/503-7429d71f-1662-494a-9216-a6a0f65d569d"
+   },
+   {
+    "n": 7,
+    "title": "PR Newswire: Hut 8 Reports Second Quarter 2026 Results",
+    "url": "https://www.prnewswire.com/news-releases/hut-8-reports-second-quarter-2026-results-302841830.html"
+   },
+   {
+    "n": 8,
+    "title": "Investing.com: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, WSJ reports",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381"
+   },
+   {
+    "n": 9,
+    "title": "Yahoo Finance: Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
+    "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unknown",
+    "text": "It merged with US Bitcoin Corp in 2023 and moved its headquarters to Miami, where it began building power and data center assets alongside mining."
+   },
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "Hut 8 also runs Highrise AI, a smaller GPU cloud that rents NVIDIA capacity directly."
+   },
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "Corpus Christi is weighing new data center rules, and on-time construction at both campuses is the main execution risk."
+   }
+  ]
+ },
+ {
+  "slug": "baseten",
+  "name": "Baseten",
+  "website": "https://www.baseten.co",
+  "sources": [
+   {
+    "n": 1,
+    "title": "SiliconANGLE: AI inference startup Baseten hits $5B valuation in $300M round backed by Nvidia",
+    "url": "https://siliconangle.com/2026/01/20/ai-inference-startup-baseten-hits-5b-valuation-300m-round-backed-nvidia/"
+   },
+   {
+    "n": 2,
+    "title": "TechCrunch: AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
+   },
+   {
+    "n": 3,
+    "title": "The Next Web: Baseten is raising $1.5bn at up to $13bn, betting AI's profits lie in cheap inference",
+    "url": "https://thenextweb.com/news/baseten-1-5bn-round-13bn-valuation-ai-inference"
+   },
+   {
+    "n": 4,
+    "title": "Yahoo Finance (Reuters): AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-startup-baseten-hits-13-020625710.html"
+   },
+   {
+    "n": 5,
+    "title": "Startup Fortune: Baseten raises $1.5 billion at a $13 billion valuation",
+    "url": "https://startupfortune.com/baseten-raises-15-billion-at-a-13-billion-valuation-as-inference-becomes-ais-most-contested-infrastructure-layer/"
+   },
+   {
+    "n": 6,
+    "title": "Axios: Baseten in talks to raise at $26B valuation",
+    "url": "https://www.axios.com/pro/all-deals/2026/09/22/baseten-talks-26-billion-valuation"
+   },
+   {
+    "n": 7,
+    "title": "Baseten: Homepage",
+    "url": "https://www.baseten.co/"
+   },
+   {
+    "n": 8,
+    "title": "Baseten: Pricing",
+    "url": "https://www.baseten.co/pricing/"
+   },
+   {
+    "n": 9,
+    "title": "Baseten: Careers and company page",
+    "url": "https://www.baseten.co/about/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "today",
+    "status": "unknown",
+    "text": "In September 2026 Axios reported that Baseten was in talks to raise at a $26B valuation."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Reported next round = Talks at $26B (September 2026)"
+   }
+  ]
+ },
+ {
+  "slug": "fpt-ai-factory",
+  "name": "FPT AI Factory",
+  "website": "https://factory.fpt.ai/",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Wikipedia: FPT Group",
+    "url": "https://en.wikipedia.org/wiki/FPT_Group"
+   },
+   {
+    "n": 2,
+    "title": "Nhan Dan: Vietnam's FPT launches AI factory in Japan",
+    "url": "https://en.nhandan.vn/vietnams-fpt-launches-ai-factory-in-japan-post141230.html"
+   },
+   {
+    "n": 3,
+    "title": "Knowledgenile: FPT announced a partner ecosystem with global tech giants promoting AI factory development and operations in Vietnam and Japan",
+    "url": "https://www.knowledgenile.com/news-post/fpt-announced-a-partner-ecosystem-with-global-tech-giants-promoting-ai-factory-development-and-operations-in-vietnam-and-japan/"
+   },
+   {
+    "n": 4,
+    "title": "TOP500: June 2025 list",
+    "url": "https://www.top500.org/lists/top500/list/2025/06/"
+   },
+   {
+    "n": 5,
+    "title": "CRN Asia: FPT AI Factory to be powered by NVIDIA HGX B300 in Southeast Asia and Japan",
+    "url": "https://www.crnasia.com/news/2026/artificial-intelligence/fpt-ai-factory-to-be-powered-by-nvidia-hgx-b300-in-southeast"
+   },
+   {
+    "n": 6,
+    "title": "FPT AI Factory: How NVIDIA HGX B300 Outperforms in the Long-Context Inference",
+    "url": "https://factory.fpt.ai/news/nvidia-hgx-b300-gpus-win-the-long-context-inference"
+   },
+   {
+    "n": 7,
+    "title": "Digital in Asia: Vietnam AI Market 2026: Nvidia's $4.5B Bet",
+    "url": "https://digitalinasia.com/vietnam-ai-market/"
+   },
+   {
+    "n": 8,
+    "title": "FPT AI Factory: NVIDIA RTX PRO 6000 Blackwell: Powering AI, Rendering, and Simulation",
+    "url": "https://factory.fpt.ai/news/nvidia-rtx-pro-6000-blackwell-powering-ai-rendering-and-simulation"
+   },
+   {
+    "n": 9,
+    "title": "FPT AI Factory: Pricing",
+    "url": "https://factory.fpt.ai/pricing"
+   },
+   {
+    "n": 10,
+    "title": "FPT AI Factory: AI Cloud for Developers and Enterprises",
+    "url": "https://factory.fpt.ai/"
+   },
+   {
+    "n": 11,
+    "title": "Seoul Economic Daily: NAVER Cloud Teams With Vietnam's FPT on Asia AI Factory Push",
+    "url": "https://en.sedaily.com/technology/2026/10/12/naver-cloud-teams-with-vietnams-fpt-on-asia-ai-factory-push"
+   }
+  ],
+  "claims": [
+   {
+    "field": "origin",
+    "status": "unsupported",
+    "text": "FPT Corporation began in Hanoi in 1988 and grew into a technology group with IT services, telecom and education arms and about 80,000 staff."
+   },
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "Customers can rent GPU containers, GPU virtual machines, dedicated bare metal servers under the Metal Cloud name, and Kubernetes-managed GPU clusters with InfiniBand."
+   }
+  ]
+ },
+ {
+  "slug": "groq",
+  "name": "Groq",
+  "website": "https://groq.com",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Groq: Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale",
+    "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
+   },
+   {
+    "n": 2,
+    "title": "Groq: Groq Raises $650M to Scale Its AI Inference Cloud Business",
+    "url": "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business"
+   },
+   {
+    "n": 3,
+    "title": "Groq: Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud",
+    "url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud"
+   },
+   {
+    "n": 4,
+    "title": "Groq: Groq Becomes an NVIDIA Cloud Partner",
+    "url": "https://groq.com/newsroom/groq-becomes-an-nvidia-cloud-partner"
+   },
+   {
+    "n": 5,
+    "title": "Groq: Groq Among the First to Bring NVIDIA Groq 3 LPX and Vera Rubin NVL72 to Market",
+    "url": "https://groq.com/blog/groq-among-the-first-to-bring-nvidia-groq-3-lpx-and-vera-rubin-nvl72-to-market"
+   },
+   {
+    "n": 6,
+    "title": "Groq: GroqCloud: Expanding to Meet Demand",
+    "url": "https://groq.com/blog/groqcloud-expanding-to-meet-demand"
+   },
+   {
+    "n": 7,
+    "title": "Groq: Saudi Arabia Announces $1.5 Billion Expansion to Fuel AI-powered Economy with AI Tech Leader Groq",
+    "url": "https://groq.com/newsroom/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-ai-tech-leader-groq"
+   },
+   {
+    "n": 8,
+    "title": "Groq: Groq Powers HUMAIN One, a Real-Time AI Operating System for Enterprise",
+    "url": "https://groq.com/newsroom/groq-powers-humain-one--real-time-ai-operating-system-for-enterprise"
+   },
+   {
+    "n": 9,
+    "title": "Groq: Groq Launches European Data Center Footprint in Helsinki, Finland",
+    "url": "https://groq.com/newsroom/groq-launches-european-data-center-footprint-in-helsinki-finland"
+   },
+   {
+    "n": 10,
+    "title": "Groq: Groq Expands to Asia-Pacific with Sydney Data Center",
+    "url": "https://groq.com/newsroom/groq-expands-to-asia-pacific-with-sydney-data-center-to-power-the-next-generation-of-ai-inference"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unknown",
+    "text": "GroqCloud sells token-based API access to open models running on Groq LPUs, and Groq says about 6 million developers use it."
+   },
+   {
+    "field": "fact",
+    "status": "unknown",
+    "text": "Developers = About 6 million"
+   }
+  ]
+ },
+ {
+  "slug": "fireworks-ai",
+  "name": "Fireworks AI",
+  "website": "https://fireworks.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "Pulse 2.0: Fireworks AI: $250 Million Series C At $4 Billion Valuation",
+    "url": "https://pulse2.com/fireworks-ai-250-million-series-c-at-4-billion-valuation-raised-for-expanding-enterprise-inference-cloud-platform/"
+   },
+   {
+    "n": 2,
+    "title": "SiliconANGLE: AI infrastructure startup Fireworks closes $1.5B round at $17.5B valuation",
+    "url": "https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/"
+   },
+   {
+    "n": 3,
+    "title": "Tech Funding News: The woman who built PyTorch at Meta just raised $1.5B",
+    "url": "https://techfundingnews.com/the-woman-who-built-pytorch-at-meta-just-raised-1-5b-on-a-bet-that-big-tech-shouldnt-own-ai/"
+   },
+   {
+    "n": 4,
+    "title": "Startup Fortune: Fireworks AI closes $1.5 billion Series D at a $17.5 billion valuation",
+    "url": "https://startupfortune.com/fireworks-ai-closes-15-billion-series-d-at-a-175-billion-valuation-as-enterprises-flee-frontier-api-pricing/"
+   },
+   {
+    "n": 5,
+    "title": "MarkTechPost: Fireworks AI Releases Fireworks Nexus",
+    "url": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/"
+   },
+   {
+    "n": 6,
+    "title": "The Information: Fireworks, Fal Consider New Rounds as Inference Demand Soars",
+    "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars"
+   },
+   {
+    "n": 7,
+    "title": "Wikipedia: Fireworks AI",
+    "url": "https://en.wikipedia.org/wiki/Fireworks_AI"
+   },
+   {
+    "n": 8,
+    "title": "Fireworks AI: Pricing",
+    "url": "https://fireworks.ai/pricing"
+   },
+   {
+    "n": 9,
+    "title": "Fireworks AI: Homepage",
+    "url": "https://fireworks.ai/"
+   }
+  ],
+  "claims": [
+   {
+    "field": "outlook",
+    "status": "unknown",
+    "text": "In September 2026 The Information reported that it was considering another round."
+   }
+  ]
+ },
+ {
+  "slug": "firebird",
+  "name": "Firebird",
+  "website": "https://www.firebird.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: Firebird announces strategic collaboration with the Government of Armenia and NVIDIA to build a next-generation AI cloud",
+    "url": "https://www.prnewswire.com/news-releases/firebird-announces-strategic-collaboration-with-the-government-of-armenia-and-nvidia-to-build-a-next-generation-ai-cloud-to-ignite-regional-innovation-302479313.html"
+   },
+   {
+    "n": 2,
+    "title": "Bloomberg: AI startup Firebird gets US approval to use Nvidia chips in Armenian data center",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-19/ai-startup-firebird-gets-us-approval-to-use-nvidia-chips-in-armenian-data-center"
+   },
+   {
+    "n": 3,
+    "title": "Firebird: Firebird and U.S. Government announce Phase 2 of Armenia AI megaproject",
+    "url": "https://www.firebird.ai/news-phase2.html"
+   },
+   {
+    "n": 4,
+    "title": "Firebird: Firebird and OpenAI partnership for Armenian education",
+    "url": "https://www.firebird.ai/news-openai.html"
+   },
+   {
+    "n": 5,
+    "title": "Firebird: Firebird and Kazakhstan strategic agreements",
+    "url": "https://www.firebird.ai/news-kazakhstan.html"
+   },
+   {
+    "n": 6,
+    "title": "Firebird: Firebird grand opening of NVIDIA DSX AI factory in Hrazdan",
+    "url": "https://www.firebird.ai/news-firebird-grand-opening.html"
+   },
+   {
+    "n": 7,
+    "title": "Firebird: From a snowfield to NVIDIA Exemplar Cloud status in less than 10 months",
+    "url": "https://www.firebird.ai/news-from-a-snowfield-to-nvidia-exemplar-cloud-status-in-less-than-10-months.html"
+   },
+   {
+    "n": 8,
+    "title": "Firebird: Data centers",
+    "url": "https://www.firebird.ai/data-centers.html"
+   },
+   {
+    "n": 9,
+    "title": "Firebird: About",
+    "url": "https://www.firebird.ai/about.html"
+   },
+   {
+    "n": 10,
+    "title": "Firebird: Firebird Cloud",
+    "url": "https://www.firebird.ai/firebird-cloud.html"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "The company says DC-1 reached NVIDIA Exemplar Cloud status for training on B200, performing at 99% or more of NVIDIA's reference results."
+   }
+  ]
+ },
+ {
+  "slug": "atlas-cloud",
+  "name": "Atlas Cloud",
+  "website": "https://www.atlascloud.ai",
+  "sources": [
+   {
+    "n": 1,
+    "title": "PR Newswire: Atlas Cloud Makes Seedance 2.0 Available to Global Developers, Transparent Per-Second Pricing, No Waitlist",
+    "url": "https://www.prnewswire.com/news-releases/atlas-cloud-makes-seedance-2-0-available-to-global-developers--transparent-per-second-pricing-no-waitlist-302746999.html"
+   },
+   {
+    "n": 2,
+    "title": "PR Newswire: EdgeUno and AtlasCloud Form Strategic Partnership to Deliver AI-Ready GPU Infrastructure Across Latin America",
+    "url": "https://www.prnewswire.com/news-releases/edgeuno-and-atlascloud-form-strategic-partnership-to-deliver-ai-ready-gpu-infrastructure-across-latin-america-302618300.html"
+   },
+   {
+    "n": 3,
+    "title": "PR Newswire: Atlas Cloud Names Eyal Rozen Head of Sales Amid Growing Demand for Alternative GPU Solutions",
+    "url": "https://www.prnewswire.com/news-releases/atlas-cloud-names-eyal-rozen-head-of-sales-amid-growing-demand-for-alternative-gpu-solutions-302423070.html"
+   },
+   {
+    "n": 4,
+    "title": "PR Newswire: Atlas Cloud Appoints Suzanne Rabicoff as Chief of Field to Accelerate Neocloud Adoption for AI Infrastructure",
+    "url": "https://www.prnewswire.com/news-releases/atlas-cloud-appoints-suzanne-rabicoff-as-chief-of-field-to-accelerate-neocloud-adoption-for-ai-infrastructure-302413780.html"
+   },
+   {
+    "n": 5,
+    "title": "PR Newswire: Atlas Cloud Works with Vimmerse to Scale AI-Driven Video Creation",
+    "url": "https://www.prnewswire.com/news-releases/atlas-cloud-works-with-vimmerse-to-scale-ai-driven-video-creation-302369240.html"
+   },
+   {
+    "n": 6,
+    "title": "Atlas Cloud: About",
+    "url": "https://www.atlascloud.ai/about"
+   }
+  ],
+  "claims": [
+   {
+    "field": "platform",
+    "status": "unsupported",
+    "text": "The platform combines model APIs for video, image, audio and language with GPU cloud capacity for custom workloads."
+   }
+  ]
+ }
+]

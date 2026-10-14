@@ -1,0 +1,479 @@
+[
+ {
+  "slug": "cipher-mining",
+  "field": "today",
+  "text": "Cipher Digital reports 907 MW of operating and contracted capacity across three hyperscale campuses in Texas.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo Finance: Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?", "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-smart-buy-125515327.html", "date": "2026-07-22"},
+  "quote": "The company has already secured its foundation with 907 megawatts of operating and contracted capacity, anchored by three data center leases"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "today",
+  "text": "The extension lifts contracted revenue at Barber Lake from $3.8B to more than $9B.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years", "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html", "date": "2026-09-25"},
+  "quote": "extend the contracted lease duration of its Barber Lake data center ... from 10 years to 20 years; Revenue increased from $3.8 billion to over $9 billion"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "today",
+  "text": "Cipher sold $810M of 6.0% notes to fund Stingray through completion.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss", "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719", "date": "2026-08"},
+  "quote": "The company also completed an $810 million high-yield bond financing for its Stingray facility at a 6.0% coupon"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "today",
+  "text": "Bitcoin mining brought in $24.8M of revenue in Q2 2026, and the company posted a net loss of $267.5M as interest expense rose to $66.7M.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update", "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html", "date": "2026-08-04"},
+  "quote": "net loss of $267.5 million or $0.65 per share; Interest expense increased to $66.7 million versus $1.1 million in Q2 2025"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "platform",
+  "text": "Its portfolio covers 5.3 GW across 11 sites in Texas and Ohio, and 83% of that capacity has no tenant yet.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss", "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719", "date": "2026-08"},
+  "quote": "The total portfolio spans approximately 5.3 gigawatts across 11 sites in Texas and Ohio; 83% representing pipeline HPC capacity"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "platform",
+  "text": "In June 2026 it announced plans for a 500 MW campus next to a Texas power plant, and in August it took an option on a site near San Antonio, called Apollo, for up to 900 MW.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Data Center Dynamics: Cipher looks to build 500MW campus near coal plant outside Waco, Texas", "url": "https://www.datacenterdynamics.com/en/news/cipher-looks-to-build-500mw-campus-near-coal-plant-outside-waco-texas/", "date": "2026-06-08"},
+  "quote": "Cipher looks to build 500MW campus near coal plant outside Waco, Texas"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "platform",
+  "text": "Under the Barber Lake extension Cipher pays the first $359.3M of cost overruns and the tenant repays half of any further overruns as extra rent.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years", "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html", "date": "2026-09-25"},
+  "quote": "the first $359.3 million of costs in excess of the initial budgeted amount... reimburse the Company... for 50% of any such costs above that amount, payable as additional rent"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "outlook",
+  "text": "Cipher carried $5.45B of long-term borrowings and $831.8M of cash at the end of June 2026, so new campuses depend on project bond markets.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Cipher Digital Provides Second Quarter 2026 Business Update", "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-provides-second-quarter-2026-business-eopjzg24q6qq.html", "date": "2026-08-04"},
+  "quote": "long-term borrowings were $5.45 billion; Cash and cash equivalents increased to $831.8 million"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "outlook",
+  "text": "Signing tenants for the pipeline sites, including Apollo, is the next test.",
+  "decision": "remove",
+  "replacement": "",
+  "source": null,
+  "quote": ""
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "fact",
+  "text": "Barber Lake lease = 20 years, more than $9B (September 2026)",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: Cipher Digital Expands Barber Lake Lease Term to 20 Years", "url": "https://www.stocktitan.net/news/CIFR/cipher-digital-expands-barber-lake-lease-term-to-20-years-increasing-kwddjbvyem35.html", "date": "2026-09-25"},
+  "quote": "from 10 years to 20 years; Revenue increased from $3.8 billion to over $9 billion"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "fact",
+  "text": "Operating and contracted capacity = 907 MW",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo Finance: Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?", "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-smart-buy-125515327.html", "date": "2026-07-22"},
+  "quote": "907 megawatts of operating and contracted capacity"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "fact",
+  "text": "Portfolio = 5.3 GW across 11 sites",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss", "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719", "date": "2026-08"},
+  "quote": "The total portfolio spans approximately 5.3 gigawatts across 11 sites in Texas and Ohio"
+ },
+ {
+  "slug": "cipher-mining",
+  "field": "fact",
+  "text": "Q2 2026 = Revenue $24.8M, net loss $267.5M",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: Cipher Digital Q2 2026 slides show $11.4B pipeline amid earnings miss", "url": "https://www.investing.com/news/company-news/cipher-digital-q2-2026-slides-show-114b-pipeline-amid-earnings-miss-93CH-4834719", "date": "2026-08"},
+  "quote": "Revenue fell to $24.84 million... a GAAP net loss of $267.5 million"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "origin",
+  "text": "QumulusAI traces back to two 2019 companies, WAHA Technologies and WAHA, Inc., which merged in December 2022 as Global Digital Holdings.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 424B4 prospectus", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm", "date": "2026-07-14"},
+  "quote": "WAHA Technologies, Inc. and WAHA, Inc. ... both incorporated in 2019 ... In December 2022, the two entities completed a corporate roll-up to form Global Digital Holdings, Inc."
+ },
+ {
+  "slug": "qumulusai",
+  "field": "origin",
+  "text": "In April 2025 the company acquired The Cloud Minders, a GPU-as-a-Service business it had first invested in in October 2023, and rebranded as QumulusAI.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 424B4 prospectus", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm", "date": "2026-07-14"},
+  "quote": "In April 2025 (after a substantial minority investment in October 2023), Global Digital Holdings, Inc. acquired The Cloud Minders, Inc."
+ },
+ {
+  "slug": "qumulusai",
+  "field": "origin",
+  "text": "It adopted the name legally in August 2025 and still lists blockchain hosting facilities in Watonga, Oklahoma and Denton, Texas.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 424B4 prospectus", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm", "date": "2026-07-14"},
+  "quote": "On August 18, 2025, Global Digital Holdings, Inc. changed its name to QumulusAI, Inc.; approximately 10 MW of blockchain load in Watonga, Oklahoma"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "today",
+  "text": "Q2 2026 revenue was $6.7M, up 118% from a year earlier, with AI compute at 84% of the total.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "Revenue of $6.7 million, an increase of ... 118%, from $3.1 million; Compute power revenue grew to $5.6 million, or approximately 84% of total revenue"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "today",
+  "text": "The deployed fleet reached 3,088 GPUs, and cumulative signed contract value stood at $282.5M in August 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "Grew the deployed GPU fleet from 952 to 3,088 ... cumulative signed customer contract value reaches $282.5 million"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "platform",
+  "text": "It deploys capacity in colocation sites in metro Atlanta, Kansas City, Denver and Philadelphia and sizes each build to signed demand.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 424B4 prospectus", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/quma20260714_424b4.htm", "date": "2026-07-14"},
+  "quote": "We operate in multiple colocation data centers in Marietta, Georgia, Kansas City, Missouri, Denver, Colorado, and Philadelphia, Pennsylvania"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "outlook",
+  "text": "The company guides to $300M of forward annual recurring revenue and 18 MW of capacity by the end of fiscal 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, fiscal 2026 guidance", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926023568/ex_988109.htm", "date": "2026"},
+  "quote": "forward ARR of $300 million ... 18 megawatts (MW) of year-end fiscal 2026 data center capacity"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "outlook",
+  "text": "It also cites a line of sight to 2.5 GW by the end of fiscal 2027, against 8 MW under executed agreements in August 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "line of sight to 2.5 gigawatts (GW) by year-end fiscal 2027; Ended the quarter with 8 MW of HPC capacity under executed lease and colocation agreements"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "fact",
+  "text": "Q2 2026 revenue = $6.7M, up 118%",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "Revenue of $6.7 million, an increase of $3.6 million, or 118%"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "fact",
+  "text": "Deployed GPUs = 3,088, Q2 2026",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "Grew the deployed GPU fleet from 952 to 3,088"
+ },
+ {
+  "slug": "qumulusai",
+  "field": "fact",
+  "text": "Signed contract value = $282.5M, August 2026",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: QumulusAI, Inc. Form 8-K Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/2084026/000143774926028918/ex_1008743.htm", "date": "2026-08"},
+  "quote": "cumulative signed customer contract value reaches $282.5 million"
+ },
+ {
+  "slug": "coreweave",
+  "field": "snippet",
+  "text": "Nasdaq-listed GPU cloud that rents NVIDIA capacity to AI labs, hyperscalers and trading firms.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "CoreWeave: Jane Street Signs $6 Billion AI Cloud Agreement with CoreWeave", "url": "https://www.coreweave.com/news/jane-street-signs-6-billion-ai-cloud-agreement-with-coreweave", "date": "2026"},
+  "quote": "Jane Street Signs $6 Billion AI Cloud Agreement with CoreWeave"
+ },
+ {
+  "slug": "coreweave",
+  "field": "today",
+  "text": "CoreWeave reported Q2 2026 revenue of $2.58B, up 112% from a year earlier, and a net loss of $626M.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "The Register: CoreWeave revenue doubles as debt pile reaches $35.6B", "url": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832", "date": "2026-08-12"},
+  "quote": "Revenue rose 112 percent year-on-year to $2.575 billion ... net loss widened ... to $626 million"
+ },
+ {
+  "slug": "coreweave",
+  "field": "today",
+  "text": "Microsoft supplied 67% of 2025 revenue, and the three largest customers made up 72% of Q2 2026 revenue.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stock Titan: CoreWeave revenue surges to $5.1B on AI cloud boom (10-K summary)", "url": "https://www.stocktitan.net/sec-filings/CRWV/10-k-core-weave-inc-files-annual-report-765643168fc2.html", "date": "2026"},
+  "quote": "67% of 2025 revenue from Microsoft"
+ },
+ {
+  "slug": "coreweave",
+  "field": "platform",
+  "text": "In Q2 2026 it launched CoreWeave Interconnect to Google Cloud, SUNK Anywhere and cross-cloud LOTA data caching.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "dbta.com: CoreWeave Partners with Google Cloud, Introduces New Capabilities to Simplify Cross-Cloud AI", "url": "https://www.dbta.com/Editorial/News-Flashes/CoreWeave-Partners-with-Google-Cloud-Introduces-New-Capabilities-to-Simplify-Cross-Cloud-AI-174534.aspx", "date": "2026-04-26"},
+  "quote": "CoreWeave Interconnect, a private high-performance fiber-based network interconnect that directly connects CoreWeave Cloud to Google Cloud; LOTA Cross-Cloud, now in limited availability for workloads on Google Cloud and other providers"
+ },
+ {
+  "slug": "coreweave",
+  "field": "outlook",
+  "text": "CoreWeave expects more than 1.85 GW of active power by the end of 2026 and targets more than 8 GW by 2030.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "The Globe and Mail: CoreWeave's Earnings Call: Hyper-Growth Meets Heavy Leverage", "url": "https://www.theglobeandmail.com/investing/markets/stocks/CRWV/pressreleases/3961191/coreweaves-earnings-call-hypergrowth-meets-heavy-leverage/", "date": "2026-08-20"},
+  "quote": "more than 1.85 GW of active power by year-end; management targeting at least 8 GW by 2030"
+ },
+ {
+  "slug": "coreweave",
+  "field": "fact",
+  "text": "Q2 2026 revenue = $2.58B, up 112% year over year",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "The Register: CoreWeave revenue doubles as debt pile reaches $35.6B", "url": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832", "date": "2026-08-12"},
+  "quote": "Revenue rose 112 percent year-on-year to $2.575 billion"
+ },
+ {
+  "slug": "shadeform",
+  "field": "origin",
+  "text": "The company went through Y Combinator's Summer 2023 batch.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Y Combinator: Shadeform", "url": "https://www.ycombinator.com/companies/shadeform", "date": "2026"},
+  "quote": "Summer 2023"
+ },
+ {
+  "slug": "shadeform",
+  "field": "today",
+  "text": "Supplier QumulusAI announced two NVIDIA H200 cluster deployments with Shadeform in May 2026.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo Finance: QumulusAI and Shadeform Deploy Two NVIDIA H200 Clusters Totaling 680 GPUs for Leading AI Inference Platforms", "url": "https://finance.yahoo.com/sectors/technology/articles/qumulusai-shadeform-deploy-two-nvidia-120000452.html", "date": "2026-05-28"},
+  "quote": "QumulusAI and Shadeform Deploy Two NVIDIA H200 Clusters Totaling 680 GPUs for Leading AI Inference Platforms"
+ },
+ {
+  "slug": "shadeform",
+  "field": "platform",
+  "text": "Users can reserve capacity automatically when it appears.",
+  "decision": "remove",
+  "replacement": "",
+  "source": null,
+  "quote": ""
+ },
+ {
+  "slug": "shadeform",
+  "field": "platform",
+  "text": "The company holds a SOC 2 report and also accepts stablecoin payments through Stripe.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Stripe: Shadeform Boosts Revenue 10% by Accepting Stablecoin Payments", "url": "https://stripe.com/customers/shadeform", "date": "2026"},
+  "quote": "Sedan Shadeform mojliggjorde USDC-betalningar ... en okning av intakterna med 10% efter implementeringen"
+ },
+ {
+  "slug": "shadeform",
+  "field": "fact",
+  "text": "Accelerator program = Y Combinator S23",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Y Combinator: Shadeform", "url": "https://www.ycombinator.com/companies/shadeform", "date": "2026"},
+  "quote": "Summer 2023"
+ },
+ {
+  "slug": "argentum-ai",
+  "field": "snippet",
+  "text": "Argentum AI is a San Francisco compute marketplace and AI cloud that signs capacity deals before it finances hardware.",
+  "decision": "reword",
+  "replacement": "Argentum AI is a compute marketplace and AI cloud that signs capacity deals before it finances hardware.",
+  "source": {"title": "SiliconANGLE: Beyond the $7.8B in deals, why Wall Street is suddenly watching Argentum AI", "url": "https://siliconangle.com/2026/06/24/beyond-7-8b-deals-wall-street-suddenly-watching-argentum-ai/", "date": "2026-06-24"},
+  "quote": "Argentum's approach is straightforward in theory to secure long-term commitments from customers first, then finance and deploy the infrastructure required to fulfill that demand"
+ },
+ {
+  "slug": "argentum-ai",
+  "field": "snippet",
+  "text": "In 2026 it announced a $1.5B GB300 contract and a $2.5B, 300 MW data center deal.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "PR Newswire: Argentum AI Signs $2.5 Billion, 300MW AI Data Center Agreement with Boosteroid and DL Invest Group", "url": "https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html", "date": "2026-05-15"},
+  "quote": "Argentum AI today announced the signing of a landmark 300MW AI data center infrastructure agreement valued at approximately $2.5 billion"
+ },
+ {
+  "slug": "argentum-ai",
+  "field": "today",
+  "text": "In April 2026 Argentum AI announced a $1.5B agreement to provide about 10,500 NVIDIA GB300 GPUs to an unnamed AI company, plus two inference deals worth $140M and $100M.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: $1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity", "url": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152", "date": "2026-04-29"},
+  "quote": "Argentum AI will deliver capacity equivalent to approximately 10,500 NVIDIA GB300 GPUs ... two additional agreements this week alone - A $140 million deal and a $100 million deal for AI inference"
+ },
+ {
+  "slug": "argentum-ai",
+  "field": "outlook",
+  "text": "The company claims more than 200,000 available GPUs and a 3.3 GW power pipeline across nine or more live and contracted sites, without a public breakdown.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Argentum AI: Home", "url": "https://argentum-ai.com/", "date": "2026"},
+  "quote": "200K+ GPUs Available Now; 3.3GW Power Pipeline; 9+ Live & Contracted Sites"
+ },
+ {
+  "slug": "argentum-ai",
+  "field": "fact",
+  "text": "GB300 capacity deal = $1.5B for about 10,500 GPUs, April 2026",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Investing.com: $1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity", "url": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152", "date": "2026-04-29"},
+  "quote": "Argentum AI will deliver capacity equivalent to approximately 10,500 NVIDIA GB300 GPUs"
+ },
+ {
+  "slug": "google-cloud",
+  "field": "today",
+  "text": "Google Cloud revenue grew 82% to $24.8B in the second quarter of 2026, and its backlog rose by more than $50B in the quarter to $514B.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Futurum: Alphabet Q2 FY 2026: Google Cloud Leads Growth Amid Rising AI Investment", "url": "https://futurumgroup.com/insights/alphabet-q2-fy-2026-google-cloud-leads-growth-amid-rising-ai-investment/", "date": "2026"},
+  "quote": "Backlog reached $514 billion, up by more than $50 billion sequentially; Cloud revenue grew 82% YoY to $24.77 billion"
+ },
+ {
+  "slug": "google-cloud",
+  "field": "today",
+  "text": "Google backstops Fluidstack lease obligations at TeraWulf sites, which places TPU capacity in third-party data centers.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "techtimes: Google Built Credit Guarantee Infrastructure Giving Its TPU Chips 2-Point Rate Edge Over Nvidia", "url": "https://www.techtimes.com/articles/322900/20260804/google-built-credit-guarantee-infrastructure-giving-its-tpu-chips-2-point-rate-edge-over-nvidia.htm", "date": "2026-08-04"},
+  "quote": "Google's backstop covered the lease obligations on the Anthropic-bound facility ... allows Google to place its Ironwood TPU chips in facilities operated by former cryptocurrency miners"
+ },
+ {
+  "slug": "google-cloud",
+  "field": "fact",
+  "text": "Google Cloud revenue, Q2 2026 = $24.8B, up 82%",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC: Alphabet Inc. Form 8-K, Exhibit 99.1, second quarter 2026 results", "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm", "date": "2026"},
+  "quote": "Google Cloud saw a meaningful acceleration in growth as revenues increased 82% to $24.8 billion"
+ },
+ {
+  "slug": "fluidstack",
+  "field": "origin",
+  "text": "Fluidstack started in 2017 with roots in Oxford and grew as a UK-based GPU cloud for AI companies.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "VN Express: Oxford dropout and two Fluidstack co-founders become billionaires after AI startup reaches $18B valuation", "url": "https://e.vnexpress.net/news/tech/personalities/oxford-dropout-and-two-fluidstack-co-founders-become-billionaires-after-ai-startup-reaches-18b-valuation-5116862.html", "date": "2026-09-05"},
+  "quote": "Fluidstack's origins date back to Oxford University ... The pair founded the company in 2017"
+ },
+ {
+  "slug": "fluidstack",
+  "field": "today",
+  "text": "In Texas it is building a $4B first phase in Cameron County, and in July 2026 it led the purchase of TeraWulf's 50.1% stake in their 168 MW Abernathy joint venture.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Yahoo: Company launches data center's $4B first phase near Harlingen", "url": "https://www.yahoo.com/news/us/articles/company-launches-data-center-4b-035900189.html", "date": "2026-09-10"},
+  "quote": "A developer is launching the $4 billion first phase of a project ... east of Valley International Airport between Harlingen and Rio Hondo"
+ },
+ {
+  "slug": "yotta",
+  "field": "today",
+  "text": "In 2025 Yotta supplied more than half of the IndiaAI Mission's GPU capacity, including 4,096 GPUs allocated to Sarvam AI and 1,536 to Soket AI Labs.",
+  "decision": "reword",
+  "replacement": "In 2025 Yotta was provisioned 4,096 GPUs under the IndiaAI Mission, most of which went to Sarvam AI.",
+  "source": {"title": "Inc42: Over 17K GPUs Installed Under IndiaAI Mission: Report", "url": "https://inc42.com/buzz/over-17k-gpus-installed-under-indiaai-mission-report/", "date": "2025-06-23"},
+  "quote": "The company was provisioned 4,096 GPUs by the Centre and it has concluded the process of installing and commissioning 1,504 Nvidia H100 GPUs to Sarvam"
+ },
+ {
+  "slug": "yotta",
+  "field": "today",
+  "text": "The company says 85 to 90 percent of its new capacity goes to overseas offtakers on long-term contracts.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Analytics India Magazine: Yotta's 85,000-GPU Bet Is Bigger Than the IndiaAI Mission", "url": "https://analyticsindiamag.com/ai-startups/yottas-85000-gpu-bet-is-bigger-than-the-indiaai-mission", "date": "2026"},
+  "quote": "I would say almost like 85-90% of this capacity is going to global offtakers who are giving long-term contracts"
+ },
+ {
+  "slug": "whitefiber",
+  "field": "platform",
+  "text": "NC-1 can grow to about 300 MW of gross power over time, and the company also runs sites in Montreal.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results", "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html", "date": "2026-08"},
+  "quote": "with the potential to scale toward approximately 300 gross megawatts over time"
+ },
+ {
+  "slug": "whitefiber",
+  "field": "fact",
+  "text": "NC-1 potential = About 300 MW gross",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "PR Newswire: WhiteFiber, Inc. Reports Second Quarter 2026 Results", "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-second-quarter-2026-results-302848971.html", "date": "2026-08"},
+  "quote": "with the potential to scale toward approximately 300 gross megawatts over time"
+ },
+ {
+  "slug": "hydra-host",
+  "field": "origin",
+  "text": "TheNextWeb reports that the company started in crypto mining infrastructure and then moved into renting bare-metal GPUs for AI.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "TheNextWeb: Hydra Host raises $100M as Nvidia backs a GPU broker", "url": "https://thenextweb.com/news/hydra-host-100m-series-a-nvidia-gpu-ai-factory", "date": "2026-06"},
+  "quote": "Hydra was founded in 2021 to serve crypto miners before pivoting to AI, the same arc that produced CoreWeave and Europe's Nscale"
+ },
+ {
+  "slug": "hydra-host",
+  "field": "outlook",
+  "text": "Supply deals such as Bitzero's 64-GPU B300 deployment in Norway, announced in January 2026, show how hardware owners use Brokkr to reach Hydra's buyers.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "SEC (Bitzero Holdings): Exhibit 99.74, Bitzero partnership with Hydra Host", "url": "https://www.sec.gov/Archives/edgar/data/2100457/000175392626000899/g085467_ex99-74.htm", "date": "2026-01-19"},
+  "quote": "eight NVIDIA Blackwell B300 servers, totaling 64 GPUs, to be deployed at its Namsskogan, Norway facility; Hydra Host's Brokkr platform will provide Bitzero with GPU lifecycle management capabilities ... access to Hydra Host's global network of enterprise and AI-native customers"
+ },
+ {
+  "slug": "genesis-cloud",
+  "field": "origin",
+  "text": "Its later lineup included H100 SXM5 nodes with 3.2 Tbps InfiniBand, H200 and B200.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "Wayback Machine: Genesis Cloud homepage, archived March 8, 2026", "url": "http://web.archive.org/web/20260308135449/https://www.genesiscloud.com/", "date": "2026-03-08"},
+  "quote": "superior AI training or inference workloads with NVIDIA SXM5 H100 and 3.2 Tbps InfiniBand ... H100, H200, B200, and a list of further GPUs"
+ },
+ {
+  "slug": "byteplus",
+  "field": "today",
+  "text": "Its website lists a Southeast Asia region, and BytePlus does not publish GPU counts or capacity figures.",
+  "decision": "keep",
+  "replacement": "",
+  "source": {"title": "BytePlus: AI-Native Cloud for Enterprise Growth", "url": "https://www.byteplus.com/en", "date": "2026"},
+  "quote": "region:ark+ap-southeast-1"
+ }
+]

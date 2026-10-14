@@ -1,0 +1,839 @@
+[
+ {
+  "slug": "core42",
+  "name": "Core42",
+  "aka": "G42 Cloud",
+  "category": "sovereign",
+  "region": "Middle East and Africa",
+  "hq": "Abu Dhabi, UAE",
+  "founded": "2023",
+  "ownership": "Subsidiary of G42",
+  "website": "https://www.core42.ai",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA GB300",
+   "AMD MI300 series",
+   "Cerebras CS-3"
+  ],
+  "products": [
+   "Virtual machines",
+   "Bare metal",
+   "Inference API",
+   "Training and fine-tuning",
+   "Storage"
+  ],
+  "snippet": "G42's cloud and compute arm runs the UAE's sovereign cloud with Microsoft and AI clusters in the US and Europe. It tripled its New York site to 60 MW in June 2026.",
+  "facts": [
+   {
+    "label": "Lake Mariner, New York capacity",
+    "value": "60 MW, up from 18 MW (June 2026)"
+   },
+   {
+    "label": "Minneapolis lease",
+    "value": "20 MW (May 2026)"
+   },
+   {
+    "label": "HSBC trade finance",
+    "value": "$550M in two facilities (February and May 2026)"
+   },
+   {
+    "label": "Operational sites",
+    "value": "10 worldwide (June 2026)"
+   },
+   {
+    "label": "Abu Dhabi government entities on its sovereign cloud",
+    "value": "47+ (October 2026)"
+   },
+   {
+    "label": "Stargate UAE first phase (G42)",
+    "value": "200 MW of NVIDIA GB300 planned for 2026"
+   }
+  ],
+  "customers": [
+   "Microsoft",
+   "Abu Dhabi government",
+   "UAE Cyber Security Council",
+   "Mubadala Investment Company",
+   "Alef Education",
+   "Toku",
+   "Cerebras",
+   "AMD"
+  ],
+  "origin": "Core42 formed in 2023 when G42 combined its cloud unit G42 Cloud, its Inception research unit and its ICT services company Injazat. G42 is the Abu Dhabi AI group backed by national security adviser Sheikh Tahnoon bin Zayed Al Nahyan. In 2024 G42 cut its Chinese technology ties to gain access to US AI chips, and Microsoft invested $1.5B in G42. Core42 became the group's infrastructure business, running Abu Dhabi's sovereign cloud and building GPU and Cerebras clusters at home and in the US.",
+  "today": "Core42 expanded its deployment at TeraWulf's Lake Mariner campus near Buffalo, New York by 42 MW in June 2026, taking the site from 18 MW to 60 MW. The Lake Mariner lease dates from February 2025 and runs for 10 years, with an option on about 135 MW more. In May 2026 Core42 leased 20 MW in a converted office building in downtown Minneapolis, and its other US sites sit in Dallas, Sunnyvale and Stockton. The company opened a European headquarters in Dublin in 2025, runs deployments in France and Italy, and says it has 10 operational sites. HSBC provided $550M of trade finance in February and May 2026 to fund deployments in the US and Europe. At home, more than 47 Abu Dhabi government entities use its sovereign enabled public cloud built on Microsoft Azure, and in October 2026 it launched a partner program with more than 50 partners. Talal Al Kaissi leads the company as chief executive.",
+  "platform": "Core42 launched the Core42 AI Cloud in October 2025, a self-service console that rents NVIDIA H100 capacity by the hour or on term commitments for training, fine-tuning and inference. Its Maximus cluster runs AMD Instinct MI300 hardware and ranks in the top 20 of the TOP500 list, and it builds the Condor Galaxy supercomputers with Cerebras. For government and regulated clients it wraps Microsoft Azure with UAE data residency and monitoring controls through its Insight platform, and it sells model access through Compass on a token basis.",
+  "outlook": "G42 builds Stargate UAE, a 1 GW cluster that OpenAI and Oracle will operate with NVIDIA GB300 systems, and the first NVIDIA chips for the project reached the UAE in May 2026. In September 2026 Reuters reported that the UAE is redesigning the wider 5 GW campus as a network of dispersed sites after Iranian attacks on Gulf infrastructure, and G42 says the specifications remain under review. The US moved the UAE to a more trusted export tier in July 2026, which removes per-shipment licenses for approved firms including G42 and Core42. G42 also plans an 8 exaflop Cerebras supercomputer in India and a $1B sovereign AI project in Vietnam.",
+  "sources": [
+   {
+    "title": "G42: Core42 advances U.S. AI infrastructure strategy with expanded New York deployment",
+    "url": "https://www.g42.ai/resources/news/core42-advances-us-ai-infrastructure-strategy-expanded-new-york-deployment",
+    "date": "2026-06-03"
+   },
+   {
+    "title": "The National: Abu Dhabi's Core42 more than triples US data centre capacity to 60MW",
+    "url": "https://www.thenationalnews.com/future/technology/2026/06/02/abu-dhabis-core42-more-than-triples-us-data-centre-capacity-to-60mw/",
+    "date": "2026-06-02"
+   },
+   {
+    "title": "The Next Web: G42's Core42 leases 20MW in converted Minneapolis office building as UAE expands US AI data centre footprint",
+    "url": "https://thenextweb.com/news/core42-g42-minneapolis-data-center-office-conversion-uae",
+    "date": "2026-05-06"
+   },
+   {
+    "title": "Seeking Alpha: TeraWulf targets 200-250 MW HPC capacity by 2026 while securing $1B Core42 contract",
+    "url": "https://seekingalpha.com/news/4415858-terawulf-targets-200minus-250-mw-hpc-capacity-by-2026-while-securing-1b-core42-contract",
+    "date": "2025-02-28"
+   },
+   {
+    "title": "Intelligent CIO: Core42 secures US$550 million HSBC financing to expand AI infrastructure across US and Europe",
+    "url": "https://www.intelligentcio.com/eu/2026/05/26/core42-secures-us550-million-hsbc-financing-to-expand-ai-infrastructure-across-us-and-europe/",
+    "date": "2026-05-26"
+   },
+   {
+    "title": "TahawulTech: Core42 launches a partner program to expand sovereign enabled cloud and AI choice in the UAE",
+    "url": "https://www.tahawultech.com/enterprise/core42-launches-a-partner-program-to-expand-sovereign-enabled-cloud-and-ai-choice-in-the-uae/",
+    "date": "2026-10-05"
+   },
+   {
+    "title": "G42: Core42 Unveils Self-Service, On-Demand AI Cloud Platform with NVIDIA Accelerated Computing at GITEX Global 2025",
+    "url": "https://www.g42.ai/resources/news/core42-unveils-self-service-demand-ai-cloud-platform-nvidia-accelerated-computing-gitex-global-2025",
+    "date": "2025-10-13"
+   },
+   {
+    "title": "G42: Global Tech Alliance Launches Stargate UAE",
+    "url": "https://www.g42.ai/resources/news/global-tech-alliance-launches-stargate-uae",
+    "date": "2025-05-22"
+   },
+   {
+    "title": "The National: US decision to raise UAE export status will strengthen AI security, Core42 says",
+    "url": "https://www.thenationalnews.com/future/technology/2026/07/19/us-decision-to-raise-uae-export-status-will-strengthen-ai-security-core42-says/",
+    "date": "2026-07-19"
+   },
+   {
+    "title": "Reuters: US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+    "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
+    "date": "2026-07-10"
+   },
+   {
+    "title": "CXO Digitalpulse: UAE Revises 5-Gigawatt AI Data Centre Plan After Iranian Attacks",
+    "url": "https://www.cxodigitalpulse.com/uae-revises-5-gigawatt-ai-data-centre-plan-after-iranian-attacks/",
+    "date": "2026-09-11"
+   },
+   {
+    "title": "Reuters: UAE revises AI data center plan after Iranian attacks, sources say",
+    "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+    "date": "2026-09-11"
+   },
+   {
+    "title": "Microsoft On the Issues: Microsoft's $15.2 Billion USD Investment in the UAE",
+    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+    "date": "2025-11-03"
+   },
+   {
+    "title": "G42: UAE to Deploy 8 Exaflop Supercomputer in India to Strengthen Local Sovereign AI Infrastructure",
+    "url": "https://www.g42.ai/resources/news/uae-deploy-8-exaflop-supercomputer-india-strengthen-local-sovereign-ai-infrastructure",
+    "date": "2026-02-20"
+   },
+   {
+    "title": "The National: Abu Dhabi's G42 in $1bn deal to develop sovereign AI and data centres in Vietnam",
+    "url": "https://www.thenationalnews.com/future/technology/2026/02/09/g42-ai-vietnam/",
+    "date": "2026-02-09"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed facts confirmed. The TeraWulf lease size is given as 70+ MW with a 135 MW option (The Next Web) and Core42 itself reports 60 MW live at Lake Mariner after the June 2026 expansion, so the two figures describe lease scope versus deployed capacity. Stargate UAE is a G42 project built by G42 and operated by OpenAI and Oracle, so the profile does not credit it to Core42 directly. The France site details (Grenoble with DataOne, announced February 2025) and the August 2025 Northern Data deal for 10,000 GPUs appear only in headlines I could not open, so I left them out. Whether the first 200 MW of Stargate UAE is live as of October 2026 is not confirmed by any source I could read. The Reuters articles could not be fetched and are cited from their headlines and secondary coverage. The aka G42 Cloud refers to the predecessor unit merged into Core42."
+ },
+ {
+  "slug": "humain",
+  "name": "Humain",
+  "aka": "HUMAIN",
+  "category": "sovereign",
+  "region": "Middle East and Africa",
+  "hq": "Riyadh, Saudi Arabia",
+  "founded": "2025",
+  "ownership": "Owned by the Public Investment Fund",
+  "website": "https://www.humain.com",
+  "accelerators": [
+   "NVIDIA GB300",
+   "AMD MI355X",
+   "Groq LPU"
+  ],
+  "products": [
+   "Data center development",
+   "Inference API",
+   "Training and fine-tuning"
+  ],
+  "snippet": "Saudi Arabia's state AI company builds data centers for NVIDIA, AMD and partner clouds. It targets 250 MW by the end of 2026 and a 1.7 GW build in 2027.",
+  "facts": [
+   {
+    "label": "Launched",
+    "value": "May 2025 by the Public Investment Fund"
+   },
+   {
+    "label": "NVIDIA GPU plan",
+    "value": "Up to 600,000 GPUs over three years (November 2025)"
+   },
+   {
+    "label": "Capacity target",
+    "value": "250 MW by end of 2026, 1.7 GW build in 2027"
+   },
+   {
+    "label": "AMD, Cisco joint venture",
+    "value": "MI355X live August 2026, 1 GW target by 2030"
+   },
+   {
+    "label": "xAI investment",
+    "value": "$3B in the Series E round (February 2026)"
+   },
+   {
+    "label": "Data center fund",
+    "value": "$2.5B initial target (September 2026)"
+   }
+  ],
+  "customers": [
+   "xAI",
+   "Amazon Web Services",
+   "Together AI",
+   "Groq",
+   "Microsoft",
+   "Mistral AI"
+  ],
+  "origin": "The Public Investment Fund launched Humain on May 12, 2025, with a mandate to build Saudi Arabia's full AI stack from data centers to Arabic language models. Tareq Amin leads it as chief executive. The next day NVIDIA agreed to supply 18,000 GB300 chips for a first phase and several hundred thousand GPUs over five years toward 500 MW of capacity. Humain signed AWS, Qualcomm and Groq in the same launch week.",
+  "today": "Humain says it will reach 250 MW of data center capacity by the end of 2026 and plans a 1.7 GW build in 2027, with targets of about 3 GW by 2030 and 6 GW by 2034. In November 2025 it expanded its NVIDIA deal to up to 600,000 GPUs over three years, and the US authorized GB300-class chip exports to the company. Its first NVIDIA shipment arrived at the end of December 2025. The AMD and Cisco joint venture switched on AMD Instinct MI355X systems in August 2026 and plans 250 MW of MI400 series capacity in the second half of 2027. Humain and xAI plan a 500 MW data center, and Humain invested $3B in xAI's Series E round in February 2026. AWS plans up to 50 MW for a Riyadh AI Zone by 2028, and Humain added Together AI as a cloud partner in August 2026. It is raising a $2.5B data center fund and plans listings in Riyadh and New York by 2029.",
+  "platform": "Humain builds and owns data centers and leases the compute to anchor tenants such as xAI and AWS, while it also sells its own AI services. Humain One, launched in October 2025, is an enterprise AI platform built with Groq, EY and Replit. Groq runs OpenAI's gpt-oss models for Humain inside its Saudi data centers. Humain also offers the ALLaM Arabic model through Amazon Bedrock and released the humain-m3 model, developed with MiniMax, in September 2026.",
+  "outlook": "Humain's chief executive says about 80% of its capital goes to data centers, and he puts build costs at $10M to $12M per MW. Its growth depends on US export licenses, which Saudi Arabia receives case by case rather than through the standing tier the UAE won in July 2026. Several large partner sites are years away, including the 100 MW NEOM project with DataVolt due in 2028, and the stc joint venture of up to 1 GW is not yet final. Humain also seeks outside capital as the Public Investment Fund tightens spending.",
+  "sources": [
+   {
+    "title": "NVIDIA Newsroom: HUMAIN and NVIDIA Announce Strategic Partnership to Build AI Factories of the Future in Saudi Arabia",
+    "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+    "date": "2025-05-13"
+   },
+   {
+    "title": "PR Newswire: HUMAIN Expands Strategic Partnership with NVIDIA, Advancing Global AI Infrastructure with xAI, Global AI, and AWS at the U.S.-Saudi Investment Forum",
+    "url": "https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html",
+    "date": "2025-11-19"
+   },
+   {
+    "title": "Reuters: US authorizes export of advanced American semiconductors to companies in Saudi, UAE",
+    "url": "https://www.reuters.com/business/us-authorizes-export-advanced-american-semiconductors-companies-saudi-uae-2025-11-19/",
+    "date": "2025-11-19"
+   },
+   {
+    "title": "Saudi Gazette: HUMAIN receives first shipment of latest NVIDIA AI chips",
+    "url": "https://saudigazette.com.sa/article/657795",
+    "date": "2025-12-30"
+   },
+   {
+    "title": "Cisco Newsroom: AMD, Cisco and HUMAIN Expand Saudi Arabia's AI Infrastructure as AMD Instinct Systems Go Live",
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/amd-cisco-and-humain-expand-saudi-arabia-ai-infrastructure.html",
+    "date": "2026-08-31"
+   },
+   {
+    "title": "EnterpriseAM: Humain plans a 1.7 GW Saudi datacenter build next year",
+    "url": "https://enterpriseam.com/ai/2026/09/30/humain-plans-a-1-7-gw-saudi-datacenter-build-next-year/",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Reuters: Saudi's Humain invested $3 billion in xAI's Series E funding round",
+    "url": "https://www.reuters.com/world/middle-east/saudis-humain-invested-3-billion-xais-series-e-funding-round-2026-02-18/",
+    "date": "2026-02-18"
+   },
+   {
+    "title": "Data Center Dynamics: Elon Musk's xAI and Humain to build 500MW Saudi Arabia data center",
+    "url": "https://www.datacenterdynamics.com/en/news/xai-humain-data-center-elon-musk/",
+    "date": "2025-11-20"
+   },
+   {
+    "title": "About Amazon: AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
+    "url": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia",
+    "date": "2026-08-31"
+   },
+   {
+    "title": "Business Wire: Together AI and HUMAIN Form Strategic Partnership to Accelerate AI Infrastructure and Cloud Services in Saudi Arabia",
+    "url": "https://www.businesswire.com/news/home/20260831746233/en/Together-AI-and-HUMAIN-Form-Strategic-Partnership-to-Accelerate-AI-Infrastructure-and-Cloud-Services-in-Saudi-Arabia",
+    "date": "2026-08-31"
+   },
+   {
+    "title": "NEOM: HUMAIN partners with DataVolt to jointly develop 100MW of a 360MW AI data center project in NEOM",
+    "url": "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM",
+    "date": "2026-08-31"
+   },
+   {
+    "title": "Fortune: Saudi's Humain is planning an IPO and a $2.5 billion fund to fuel its expansion plans",
+    "url": "https://fortune.com/2026/09/09/saudi-humain-planning-ipo-2-5-billion-fund-expansion-plans-moove-adgm/",
+    "date": "2026-09-09"
+   },
+   {
+    "title": "Fast Company Middle East: stc and Humain extend deal to build up to 1GW AI data centers in Saudi Arabia",
+    "url": "https://fastcompanyme.com/news/stc-and-humain-extend-deal-to-build-up-to-1gw-ai-data-centers-in-saudi-arabia/",
+    "date": "2026-06-19"
+   },
+   {
+    "title": "W.Media: HUMAIN's sovereign data centers and Groq to deliver OpenAI's new models in Saudi Arabia",
+    "url": "https://w.media/humains-sovereign-data-centers-and-groq-to-deliver-openais-new-models-in-saudi-arabia/",
+    "date": "2025-08-08"
+   },
+   {
+    "title": "Consultancy-me.com: Enterprise AI platform HUMAIN ONE launches with strategic partners EY, Groq and Replit",
+    "url": "https://www.consultancy-me.com/news/11970/enterprise-ai-platform-humain-one-launches-with-strategic-partners-ey-groq-and-replit",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Morningstar (PR Newswire): HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node",
+    "url": "https://www.morningstar.com/news/pr-newswire/20260903ln40185/humain-unveils-humain-m3-a-frontier-arabic-language-model-developed-by-minimax-in-research-preview-on-humain-node",
+    "date": "2026-09-03"
+   },
+   {
+    "title": "Semafor: Saudi's new AI firm picks US chipmaker Groq for inference",
+    "url": "https://www.semafor.com/article/05/13/2025/saudis-new-ai-firm-picks-us-chipmaker-groq-for-inference",
+    "date": "2025-05-13"
+   },
+   {
+    "title": "Fortune: Saudi's Humain seeks external investment to fuel its AI ambitions",
+    "url": "https://fortune.com/2026/09/09/saudis-humain-turns-to-outside-investment-as-the-kingdom-reins-in-fiscal-spending/",
+    "date": "2026-09-09"
+   },
+   {
+    "title": "vision2030.ai: US Chip Rules, Why the UAE Won and Saudi Waited",
+    "url": "https://vision2030.ai/geopolitics/us-chip-export-controls-saudi-uae-divergence/",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Arab News Japan: From launch to IPO, how Saudi AI firm Humain grew in 16 months",
+    "url": "https://www.arabnews.jp/en/business/from-launch-to-ipo-how-saudi-ai-firm-humain-grew-in-16-months-177399",
+    "date": "2026-09-08"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "The xAI partnership is confirmed (a 500 MW data center announced November 2025 and a $3B Humain investment in xAI in February 2026). The AMD deal is a joint venture with AMD and Cisco targeting 1 GW by 2030, not a 500 MW JV as in the seed. Humain has not disclosed operating megawatts or how many NVIDIA chips have arrived, so the 250 MW figure is a year-end target. The US export authorization is reported at up to 35,000 GB300-class chips by vision2030.ai, a secondary source, so I left that number out of the prose. The Saudi Gazette and Together AI pages blocked fetching, and those items rest on headlines and secondary coverage."
+ },
+ {
+  "slug": "sk-telecom",
+  "name": "SK Telecom",
+  "aka": "SKT",
+  "category": "sovereign",
+  "region": "Asia-Pacific",
+  "hq": "Seoul, South Korea",
+  "founded": "1984",
+  "ownership": "Public (KRX: 017670, NYSE: SKM), part of SK Group",
+  "website": "https://www.sktelecom.com",
+  "accelerators": [
+   "NVIDIA B200",
+   "NVIDIA RTX PRO 6000 Blackwell",
+   "Rebellions NPU"
+  ],
+  "products": [
+   "Virtual machines",
+   "Colocation",
+   "Data center development",
+   "Storage"
+  ],
+  "snippet": "The Korean mobile operator rents Blackwell GPUs through its Haein cloud and builds AI data centers with AWS and NVIDIA. AI data center revenue rose 92.5% in Q2 2026.",
+  "facts": [
+   {
+    "label": "AI data center revenue, Q2 2026",
+    "value": "KRW 136.2B, up 92.5%"
+   },
+   {
+    "label": "SK Horizon investment from KKR and IMM",
+    "value": "KRW 3.08T ($2.24B) for 49% (August 2026)"
+   },
+   {
+    "label": "SK Horizon capacity",
+    "value": "318 MW across 10 data centers"
+   },
+   {
+    "label": "Haein GPU cluster",
+    "value": "1,000+ NVIDIA Blackwell GPUs"
+   },
+   {
+    "label": "AI data center plan",
+    "value": "5 GW from 2029, 15 GW by 2035"
+   },
+   {
+    "label": "Ulsan AI data center with AWS",
+    "value": "Operations from second half of 2027"
+   }
+  ],
+  "customers": [
+   "Amazon Web Services",
+   "NVIDIA",
+   "Lambda",
+   "Ministry of Science and ICT",
+   "Rebellions"
+  ],
+  "origin": "SK Telecom entered GPU cloud in 2024, when it invested in Lambda and agreed to host a Lambda GPU cluster at SK Broadband's Gasan data center in Seoul. It launched its own GPU as a service in January 2025 and opened the Haein cluster of NVIDIA B200 GPUs in August 2025. In June 2025 SK Group and AWS agreed to build South Korea's largest AI data center in Ulsan, a project the Korean government valued at $5B.",
+  "today": "SK Telecom's AI data center revenue reached KRW 136.2B in the second quarter of 2026, up 92.5% from a year earlier, and the company credits higher utilization at sites such as Gasan. In July 2026 it set a target of 15 GW of AI data center capacity in Korea by 2035, with 5 GW coming online in phases from 2029 and more than 2 GW in the southeast around Ulsan. A new subsidiary, SK Hyper, leads that gigawatt-scale build. In August 2026 SK Telecom moved its existing data centers into a new company, SK Horizon, and sold 49% to KKR and an IMM-led consortium for KRW 3.08T ($2.24B). SK Horizon holds eight operating data centers plus Ulsan and Guro under construction, for 318 MW in total. In June 2026 SK Telecom became an NVIDIA Cloud Partner and plans a gigawatt-scale AI cloud whose first AI factory opens in 2027. Under NVIDIA's October 2025 plan for more than 260,000 GPUs in Korea, SK Group receives more than 50,000 GPUs and SK Telecom provides a manufacturing cloud on RTX PRO 6000 Blackwell servers.",
+  "platform": "SK Telecom sells GPU capacity on demand from the Haein cluster, which joins more than 1,000 Blackwell GPUs and uses VAST Data storage. In July 2026 Haein became the first Blackwell-based AI cloud in Korea to earn the government's CSAP security certification, which opens public sector work. SK Telecom also builds its own A.X models for the government's sovereign foundation model project and runs the 519B parameter A.X K1 on Rebellions neural processors. It leads one of three consortia picked in August 2026 for the government's free AI for All service.",
+  "outlook": "The Ulsan data center with AWS is due to start operations in the second half of 2027. SK Telecom expects the SK Horizon deal to close in the first quarter of 2027, pending regulatory approval. SK Telecom puts the cost of a single 1 GW-class facility at about KRW 70T, so the 15 GW plan depends on outside capital such as the KKR and IMM deal. In July 2026 NVIDIA and SK Group also announced an initiative worth more than $500B that includes 2 GW of data center capacity.",
+  "sources": [
+   {
+    "title": "SK Telecom Newsroom: SK Telecom Announces Q2 2026 Results",
+    "url": "https://news.sktelecom.com/en/3218",
+    "date": "2026-08-05"
+   },
+   {
+    "title": "SK Telecom Newsroom: SK Telecom Announces Q1 2026 Results",
+    "url": "https://news.sktelecom.com/en/3039",
+    "date": "2026-05-07"
+   },
+   {
+    "title": "SK Telecom Newsroom: SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub",
+    "url": "https://news.sktelecom.com/en/3155",
+    "date": "2026-07-05"
+   },
+   {
+    "title": "The Korea Herald: SK Telecom targets 15 GW AI data center capacity by 2035",
+    "url": "https://www.koreaherald.com/article/10798417",
+    "date": "2026-07-05"
+   },
+   {
+    "title": "KKR: SK Telecom Launches AI Data Center Infrastructure Company SK Horizon and Secures Investments from KKR and IMM",
+    "url": "https://media.kkr.com/news-details?news_id=d43fd044-c7f3-427b-a41e-e2a4e43e9f33",
+    "date": "2026-08-27"
+   },
+   {
+    "title": "Light Reading: SK Telecom creates SK Horizon in $2.2B data center spin-off deal",
+    "url": "https://www.lightreading.com/data-centers/sk-telecom-creates-sk-horizon-in-2-2b-data-center-spin-off-deal",
+    "date": "2026-08-28"
+   },
+   {
+    "title": "NVIDIA Investor Relations: SK Telecom and NVIDIA Build AI Infrastructure to Power Korea's AI Innovation",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/SK-Telecom-and-NVIDIA-Build-AI-Infrastructure-to-Power-Koreas-AI-Innovation/default.aspx",
+    "date": "2026-06-07"
+   },
+   {
+    "title": "NVIDIA Newsroom: NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs",
+    "url": "https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "Businesskorea: SK Telecom's AI Data Center Wins CSAP Certification",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272498",
+    "date": "2026-07-06"
+   },
+   {
+    "title": "Data Center Dynamics: SK Telecom launches GPUaaS based on Nvidia B200 cluster in South Korea",
+    "url": "https://www.datacenterdynamics.com/en/news/sk-telecom-launches-gpuaas-based-on-nvidia-b200-cluster-in-south-korea/",
+    "date": "2025-08-05"
+   },
+   {
+    "title": "Data Center Dynamics: Vast Data teams up with SK Telecom on Haein AI cluster in South Korea",
+    "url": "https://www.datacenterdynamics.com/en/news/vast-data-teams-up-with-sk-telecom-on-haein-ai-cluster-in-south-korea/",
+    "date": "2025-08-15"
+   },
+   {
+    "title": "SK Telecom Newsroom: SKT Signs Partnership Agreement with Lambda",
+    "url": "https://news.sktelecom.com/en/1544",
+    "date": "2024-08-21"
+   },
+   {
+    "title": "The Korea Herald: SK Telecom launches new Nvidia-powered cloud service GPUaaS",
+    "url": "https://www.koreaherald.com/article/10389109",
+    "date": "2025-01-13"
+   },
+   {
+    "title": "Reuters: South Korea says SK and Amazon to invest $5 billion in country's biggest data centre",
+    "url": "https://www.reuters.com/business/retail-consumer/south-korea-says-sk-amazon-invest-5-bln-countrys-biggest-data-centre-2025-06-20/",
+    "date": "2025-06-20"
+   },
+   {
+    "title": "UPI: SK Telecom, Rebellions expand Korean AI chip infrastructure",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "TNGlobal: South Korea picks SK Telecom, Kakao and KT for free national AI service",
+    "url": "https://technode.global/2026/08/28/south-korea-picks-skt-kakao-kt-national-ai-service/",
+    "date": "2026-08-28"
+   },
+   {
+    "title": "Data Center Dynamics: Nvidia and SK Group announce $500bn AI agreement, includes 2GW of data center capacity",
+    "url": "https://www.datacenterdynamics.com/en/news/nvidia-and-sk-group-announce-500bn-ai-agreement-includes-2gw-of-data-center-capacity/",
+    "date": "2026-07-26"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "Seed facts confirmed. The 260,000 GPU figure is NVIDIA's October 2025 plan for all of Korea, and SK Group's share is more than 50,000 GPUs, which SK Group uses partly for SK hynix and other affiliates rather than only SK Telecom. The founding year 1984 comes from general knowledge and is not in the listed sources. The Lambda details (investment in February 2024 and the Gasan cluster) rest on the August 2024 SK Telecom release and headlines. The $500B NVIDIA and SK Group initiative is cited from headlines only. SK Hyper's $510M capitalization appears only in Light Reading, so I left the figure out."
+ },
+ {
+  "slug": "naver-cloud",
+  "name": "Naver Cloud",
+  "aka": "NAVER Cloud, Naver Business Platform (NBP)",
+  "category": "sovereign",
+  "region": "Asia-Pacific",
+  "hq": "Seongnam, South Korea",
+  "founded": "2009",
+  "ownership": "Subsidiary of Naver Corp (KRX: 035420)",
+  "website": "https://www.navercloudcorp.com",
+  "accelerators": [
+   "NVIDIA B300",
+   "NVIDIA Vera Rubin",
+   "AMD MI455X"
+  ],
+  "products": [
+   "Virtual machines",
+   "Managed Kubernetes",
+   "Storage",
+   "Inference API",
+   "Training and fine-tuning"
+  ],
+  "snippet": "Naver's cloud arm holds Korea's largest NVIDIA allocation, more than 60,000 GPUs, and builds a gigawatt AI factory in Sejong backed by $1B from NVIDIA and up to $9B from Brookfield.",
+  "facts": [
+   {
+    "label": "NVIDIA GPU allocation",
+    "value": "60,000+ under Korea's 260,000 GPU plan (October 2025)"
+   },
+   {
+    "label": "GAK Sejong AI factory",
+    "value": "55 MW in H1 2027, 200 MW by 2028, 1 GW goal"
+   },
+   {
+    "label": "NVIDIA investment in Naver",
+    "value": "$1B for 4.5% (July 2026)"
+   },
+   {
+    "label": "Brookfield financing",
+    "value": "Up to $9B (July 2026)"
+   },
+   {
+    "label": "Government GPU contract",
+    "value": "4,120 GPUs, 3,112 B300 and 1,008 Vera Rubin (June 2026)"
+   }
+  ],
+  "customers": [
+   "Ministry of Science and ICT",
+   "NVIDIA",
+   "Brookfield",
+   "FPT",
+   "Siam AI",
+   "Saudi National Housing Company",
+   "Nexus Core Systems"
+  ],
+  "origin": "Naver Cloud runs the cloud and data center business of Naver, the Korean internet company, and builds its HyperCLOVA X language models. It operates Naver's GAK data centers in Chuncheon and Sejong. NVIDIA's October 2025 plan to supply more than 260,000 GPUs to Korea gave Naver Cloud more than 60,000, the largest share of any company. Naver Cloud also serves as one of three cloud providers for the government's National AI Computing Center, alongside NHN Cloud and Kakao.",
+  "today": "In June 2026 Naver and NVIDIA agreed to turn the GAK Sejong data center into a gigawatt-scale AI factory on NVIDIA's DSX platform, starting at 55 MW in the first half of 2027 and reaching 200 MW by 2028. NVIDIA then agreed in July 2026 to invest $1B for a 4.5% stake in Naver, and Brookfield offered up to $9B of financing for the build. The Sejong expansion is planned to hold about 100,000 Vera Rubin and Blackwell GPUs. Also in June 2026, the Ministry of Science and ICT picked Naver Cloud with Samsung SDS and Elice Group for a KRW 2.08T GPU program, and Naver Cloud's share is 3,112 B300 and 1,008 Vera Rubin GPUs. B300 service starts in 2026 and Vera Rubin service in the first half of 2027. In September 2026 Naver Cloud won a government cybersecurity AI project and began work on AI for military networks.",
+  "platform": "Naver Cloud Platform sells GPU servers, Kubernetes, storage and access to HyperCLOVA X, which Naver fine-tunes with NVIDIA Nemotron models. AMD agreed in March 2026 to give Naver Cloud early access to Instinct MI455X GPUs and to optimize its AI services on the ROCm software stack. LG CNS supplies liquid cooling for the Sejong AI factory.",
+  "outlook": "Naver Cloud lost its place in the government's sovereign foundation model project in January 2026, when it failed to advance past the first round, and it declined to bid in the retender. Overseas, it signed a GPU cloud and AI factory partnership with Vietnam's FPT in October 2026 and works with HanmiGlobal on data center projects in Saudi Arabia. Its Morocco plan shrank after the June 2025 announcement of a 500 MW campus. The Nexus Core Systems project now targets 36 MW with construction from 2027, and recent coverage does not spell out Naver's role.",
+  "sources": [
+   {
+    "title": "NVIDIA Newsroom: NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs",
+    "url": "https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "The Globe and Mail (press release): NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
+    "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/2348997/naver-expands-ai-infrastructure-with-nvidia-to-serve-surging-global-ai-demand/",
+    "date": "2026-06-07"
+   },
+   {
+    "title": "The Korea Herald: Nvidia, Naver team up for gigawatt-scale AI cloud push in Korea",
+    "url": "https://www.koreaherald.com/article/10765602",
+    "date": "2026-06-08"
+   },
+   {
+    "title": "The Korea Times: Nvidia invests $1 bil. in Naver for 4.5% stake",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260727/nvidia-takes-45-stake-in-naver-with-1-bil-strategic-investment",
+    "date": "2026-07-27"
+   },
+   {
+    "title": "Seoul Economic Daily: Samsung SDS, Naver Cloud, Elice Group Win 2 Trillion Won Government GPU Project",
+    "url": "https://en.sedaily.com/technology/2026/06/08/samsung-sds-naver-cloud-elice-group-win-2-trillion-won",
+    "date": "2026-06-08"
+   },
+   {
+    "title": "AMD: AMD and NAVER Cloud Announce Strategic Collaboration to Advance AI Infrastructure in Korea",
+    "url": "https://newsroom.amd.com/news/amd-and-naver-cloud-announce-strategic-collab/",
+    "date": "2026-03-18"
+   },
+   {
+    "title": "The Korea Herald: Naver Cloud, NC AI opt out of retender in sovereign AI project",
+    "url": "https://www.koreaherald.com/article/10657159",
+    "date": "2026-01-16"
+   },
+   {
+    "title": "UPI: South Korea's Naver Cloud, Vietnam's FPT expand AI partnership",
+    "url": "https://www.upi.com/Top_News/World-News/2026/10/12/naver-cloud-vietnam-fpt-ai-factories/4801791853282/",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "The Korea Times: Naver Cloud, HanmiGlobal set sights on Saudi Arabia's data center market",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260424/naver-cloud-hanmiglobal-set-sights-on-saudi-arabias-data-center-market",
+    "date": "2026-04-24"
+   },
+   {
+    "title": "Naver Corp: TEAM NAVER to Join Morocco's Mega AI Data Center Project, Expanding AI and Cloud Presence into Europe",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=32606",
+    "date": "2025-06-13"
+   },
+   {
+    "title": "Developing Telecoms: Nexus to build US$1.2 billion AI factory in Morocco",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/20099-nexus-to-build-us-1-2-billion-ai-factory-in-morocco.html",
+    "date": "2026-04-13"
+   },
+   {
+    "title": "The Korea Herald: Naver Cloud teams up with Siam AI to develop Thai-language LLM, AI agent",
+    "url": "https://www.koreaherald.com/article/10494320",
+    "date": "2025-05-23"
+   },
+   {
+    "title": "THE ELEC: Naver Cloud Beats SK Telecom for Government Cybersecurity AI Project",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=13641",
+    "date": "2026-09-04"
+   },
+   {
+    "title": "UPI: Naver Cloud pushes private-sector AI into South Korean military",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/18/naver-cloud-military-networks-ai-models/8891789773893/",
+    "date": "2026-09-18"
+   },
+   {
+    "title": "The Korea Herald: LG CNS enters liquid cooling market with Naver Cloud",
+    "url": "https://www.koreaherald.com/article/10852869",
+    "date": "2026-08-26"
+   }
+  ],
+  "confidence": "high",
+  "editor_notes": "The 60,000 GPU figure is confirmed as more than 60,000 in NVIDIA's October 2025 release. The Saudi Arabia link is real (a Naver Innovation joint venture with the National Housing Company and an April 2026 data center partnership with HanmiGlobal), but I found no signed Saudi GPU cloud contract. Thailand is a May 2025 Thai language model partnership with Siam AI, not a data center. Morocco began as a 500 MW plan with NVIDIA, Nexus Core Systems and Lloyds Capital in June 2025, and an April 2026 revision lists 36 MW without detailing Naver's role. The founding year 2009, the former NBP name, the GAK Chuncheon site and the product list (GPU servers, Kubernetes, storage, CLOVA Studio model access) come from general knowledge of the company and are not in the listed sources. AMD MI455X is early access and Vera Rubin service starts in 2027, so neither is in general use in 2026. The Brookfield and NVIDIA investment press releases could not be fetched and rest on Korea Times coverage."
+ },
+ {
+  "slug": "indosat",
+  "name": "Indosat Ooredoo Hutchison",
+  "aka": "IOH, Indosat, Lintasarta, Zankore",
+  "category": "sovereign",
+  "region": "Asia-Pacific",
+  "hq": "Jakarta, Indonesia",
+  "founded": "2022",
+  "ownership": "Public (IDX: ISAT), controlled by Ooredoo and CK Hutchison",
+  "website": "https://ioh.co.id",
+  "accelerators": [
+   "NVIDIA H100",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Inference API",
+   "Data center development"
+  ],
+  "snippet": "Indonesian telco whose Lintasarta unit rents H100s as GPU Merdeka. Its new Zankore platform with Ooredoo and NVIDIA targets 1 GW, starting with 200 MW in the first half of 2027.",
+  "facts": [
+   {
+    "label": "GPU Merdeka launch",
+    "value": "August 2024, NVIDIA H100"
+   },
+   {
+    "label": "Zankore capacity target",
+    "value": "1 GW within three years"
+   },
+   {
+    "label": "Zankore first phase",
+    "value": "200 MW in H1 2027"
+   },
+   {
+    "label": "Ooredoo commitment",
+    "value": "$800M over five years for 49%"
+   },
+   {
+    "label": "Zankore debt financing",
+    "value": "$3.1B (September 2026)"
+   }
+  ],
+  "customers": [
+   "GoTo",
+   "NVIDIA",
+   "Nokia",
+   "Ooredoo",
+   "BDx Indonesia",
+   "F5"
+  ],
+  "origin": "Indosat's ICT arm Lintasarta launched GPU Merdeka in August 2024, a GPU cloud of NVIDIA H100 servers that Indosat calls a sovereign AI factory. It runs at a BDx Indonesia data center, and NVIDIA says Lintasarta built it in less than three months. Indosat also backs Sahabat-AI, an Indonesian language model that GoTo uses in its Dira voice assistant.",
+  "today": "In August 2026 Indosat launched Zankore with Ooredoo, NVIDIA and Nokia, an AI factory platform that targets 1 GW of NVIDIA capacity within three years and starts with about 200 MW of GB300 NVL72 systems in the first half of 2027. Ooredoo commits $800M over five years for a 49% stake, and Zankore raised a $3.1B term loan in September 2026. In October 2026 Indosat and F5 launched an AI services suite that sells model inference by the token.",
+  "platform": "GPU Merdeka sells servers with eight NVIDIA H100 SXM GPUs, 3.2 Tbps of InfiniBand per server and racks of up to 20 kW. Zankore uses NVIDIA's DSX AI factory design with Nokia networking.",
+  "outlook": "Zankore forecasts $13B of revenue over five years, and its first 200 MW must arrive in 2027 to start that plan. CoreWeave announced its own three data centers in Indonesia in August 2026, with 360 MW due online in 2028, and it named no Indonesian partner.",
+  "sources": [
+   {
+    "title": "Developing Telecoms: Indosat's Lintasarta launches Nvidia-powered AI cloud",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/17197-indosat-s-lintasarta-launches-nvidia-powered-ai-cloud.html",
+    "date": "2024-08-22"
+   },
+   {
+    "title": "NVIDIA Blog: Indonesia Tech Leaders Team With NVIDIA and Partners to Launch Nation's AI",
+    "url": "https://blogs.nvidia.com/blog/indonesia-tech-leaders-sovereign-ai/",
+    "date": "2024-11-13"
+   },
+   {
+    "title": "TNGlobal: Indonesia's Indosat jointly launches 1GW AI factory platform Zankore with Qatar's Ooredoo, Finland's Nokia, US' NVIDIA",
+    "url": "https://technode.global/2026/08/07/indonesias-indosat-jointly-launches-1gw-ai-factory-platform-zankore-with-qatars-ooredoo-finlands-nokia-us-nvidia/",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "The Next Web: Cherry-picking our tenants, Ooredoo bets $800m on Indonesia's first AI cloud",
+    "url": "https://thenextweb.com/news/zankore-ooredoo-800m-indonesia-ai-cloud-neocloud-nvidia",
+    "date": "2026-08-07"
+   },
+   {
+    "title": "Reuters: Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform",
+    "url": "https://www.reuters.com/business/media-telecom/ooredoo-backed-zankore-secures-31-billion-financing-nvidia-ai-cloud-platform-2026-09-09/",
+    "date": "2026-09-09"
+   },
+   {
+    "title": "Developing Telecoms: Indosat and F5 launch AI services suite for Southeast Asian enterprises",
+    "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20948-indosat-and-f5-launch-ai-services-suite-for-southeast-asian-enterprises.html",
+    "date": "2026-10-11"
+   },
+   {
+    "title": "CoreWeave: CoreWeave Expands AI Cloud Platform Into Indonesia",
+    "url": "https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region",
+    "date": "2026-08-04"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "I found no relationship between CoreWeave and Indosat. CoreWeave's August 2026 Indonesia release says it will own and operate three sites with 360 MW of contracted power and names no local partner, so the owner's draft should not link the two. Zankore is the main 2026 development and may deserve its own entry. The founding year 2022 refers to the merger of Indosat Ooredoo and Hutchison 3 Indonesia, and the ownership line (Ooredoo and CK Hutchison control) comes from general knowledge, not from the listed sources. The $3.1B Zankore loan rests on Reuters and Data Center Dynamics headlines that I could not open. The F5 suite is described from its headline and a MarketScreener title that calls it a token factory."
+ },
+ {
+  "slug": "darya-ai",
+  "name": "darya.ai",
+  "aka": "Darya AI",
+  "category": "neocloud",
+  "region": "Asia-Pacific",
+  "hq": "Darvoz, Tajikistan",
+  "founded": "",
+  "ownership": "Private",
+  "website": "https://darya.ai",
+  "accelerators": [
+   "NVIDIA H200"
+  ],
+  "products": [
+   "Bare metal",
+   "Data center development"
+  ],
+  "snippet": "Tajik startup that runs the country's first NVIDIA H200 cluster on hydropower in the Darvoz district and plans a green AI data center with India's Yotta, starting at 2 MW.",
+  "facts": [
+   {
+    "label": "First NVIDIA H200 cluster in Tajikistan",
+    "value": "June 2025"
+   },
+   {
+    "label": "GPUs in Darvoz cluster",
+    "value": "104"
+   },
+   {
+    "label": "Yotta data center plan",
+    "value": "2 MW initially, up to 100 MW"
+   },
+   {
+    "label": "Yotta agreement",
+    "value": "October 2025"
+   }
+  ],
+  "customers": [
+   "Yotta Data Services"
+  ],
+  "origin": "darya.ai is a Tajik company that builds AI compute on Tajikistan's hydropower. It launched the country's first NVIDIA H200 cluster in June 2025 in the Darvoz district of Gorno-Badakhshan, and local press puts the cluster at 104 GPUs. It is one of five Tajik startups among the founding members of Tajikistan's AI special economic zone.",
+  "today": "In October 2025 darya.ai signed an agreement with India's Yotta Data Services to build a green AI data center in Tajikistan, starting at 2 MW with room to grow to 100 MW. Tajik officials said the Darvoz data center would launch in 2026, and I found no 2026 update on its status.",
+  "platform": "darya.ai offers clusters of NVIDIA GPUs to enterprises, government agencies, research groups and startups, powered entirely by hydropower.",
+  "outlook": "The Yotta project is a multi-stage plan, and Darvoz is its first phase. Tajikistan has no established commercial data center market, so the project depends on new demand from the region.",
+  "sources": [
+   {
+    "title": "W.Media: Yotta partners with darya.ai to build green data center in Tajikistan",
+    "url": "https://w.media/yotta-partners-with-darya-ai-to-build-green-data-center-in-tajikistan/",
+    "date": "2025-10-29"
+   },
+   {
+    "title": "Developing Telecoms: Green AI data centre planned for Tajikistan",
+    "url": "https://developingtelecoms.com/telecom-technology/data-centres-networks/19254-green-ai-data-centre-planned-for-tajikistan.html",
+    "date": "2025-10-28"
+   },
+   {
+    "title": "Asia-Plus: $117 million in AI investment deals signed in Dushanbe",
+    "url": "https://asiaplus.news/en/2025/10/30/117-million-in-ai-investment-deals-signed-in-dushanbe/",
+    "date": "2025-10-30"
+   },
+   {
+    "title": "Data Center Dynamics: India's Yotta Data Services to develop data center in Tajikistan",
+    "url": "https://www.datacenterdynamics.com/en/news/indias-yotta-data-services-to-develop-data-center-in-tajikistan/",
+    "date": "2025-10-27"
+   }
+  ],
+  "confidence": "low",
+  "editor_notes": "I identified Darya AI as darya.ai, a Tajik AI infrastructure startup, based on its October 2025 deal with Yotta. Little else is public. I could not load darya.ai, and I found no founding year, founders, funding or 2026 news. The HQ is given as Darvoz because that is where its cluster sits, and the company may be registered in Dushanbe. The region is set to Asia-Pacific because the guide has no Central Asia option. The 104 GPU count comes from Asia-Plus and may refer to the Yotta project rather than the existing cluster. COO Kristina Zaalishvili is named in W.Media. If the owner meant a different company named Darya, this entry should be dropped."
+ },
+ {
+  "slug": "global-ai",
+  "name": "Global AI",
+  "aka": "",
+  "category": "neocloud",
+  "region": "North America",
+  "hq": "Endicott, New York, US",
+  "founded": "2024",
+  "ownership": "Private, backed by NVIDIA",
+  "website": "https://www.globalai.com",
+  "accelerators": [
+   "NVIDIA GB200 NVL72",
+   "NVIDIA GB300 NVL72"
+  ],
+  "products": [
+   "Bare metal",
+   "Training and fine-tuning"
+  ],
+  "snippet": "US provider of single-tenant, air-gapped GPU clusters for governments and enterprises. It says it runs New York State's largest GB300 NVL72 cluster and reports $6.2B of contracted revenue.",
+  "facts": [
+   {
+    "label": "Contracted revenue",
+    "value": "$6.2B, $1B delivered (August 2026)"
+   },
+   {
+    "label": "Debt financing",
+    "value": "$441M, led by J.P. Morgan (August 2026)"
+   },
+   {
+    "label": "GB300 deployment",
+    "value": "7,000 GB300s (March 2026)"
+   },
+   {
+    "label": "Capacity roadmap",
+    "value": "16 MW initial, 100 MW in 2026, 1 GW by 2029"
+   }
+  ],
+  "customers": [
+   "Humain",
+   "NVIDIA"
+  ],
+  "origin": "Sami Issa and John E. Kelly III founded Global AI in 2024 to build dedicated, air-gapped AI infrastructure for nations and enterprises. Its first data center in Endicott, New York runs liquid-cooled NVIDIA GB200 NVL72 clusters, and NVIDIA joined a funding round.",
+  "today": "In March 2026 Global AI said it is deploying 7,000 GB300s at Endicott, starting from 16 MW of IT load and growing to 100 MW during 2026. In August 2026 it closed a $441M senior secured credit facility led by J.P. Morgan, its first debt raise, and reported $6.2B of contracted revenue. Humain agreed in November 2025 to develop large US AI data centers with Global AI.",
+  "platform": "Global AI rents whole single-tenant environments, so customers never share bare metal or the software layer. The halls use direct-to-chip liquid cooling with rear-door heat exchangers. In July 2026 it passed NVIDIA's Exemplar Cloud validation for training on GB300 NVL72 at 512-GPU scale.",
+  "outlook": "Global AI plans 250 MW for 2027 and 1 GW by 2029, and it plans Vera Rubin NVL72 systems next. It has not named its anchor customers or the sites beyond Endicott.",
+  "sources": [
+   {
+    "title": "PR Newswire: Global AI Secures $441 Million Financing to Accelerate Sovereign AI Infrastructure Expansion",
+    "url": "https://www.prnewswire.com/news-releases/global-ai-secures-441-million-financing-to-accelerate-sovereign-ai-infrastructure-expansion-302847168.html",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "Unite.AI: Global AI Secures $441M Senior Secured Credit Facility to Expand Sovereign AI Data Centers",
+    "url": "https://www.unite.ai/global-ai-closes-first-debt-raise-to-expand-sovereign-ai-data-centers/",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "Global AI: Latest News",
+    "url": "https://www.globalai.com/news",
+    "date": "2026-08"
+   },
+   {
+    "title": "Global AI: About",
+    "url": "https://www.globalai.com/about",
+    "date": "2026-10"
+   },
+   {
+    "title": "Engineering.com: Global AI, HUMAIN to build U.S. sovereign AI data centers",
+    "url": "https://www.engineering.com/global-ai-humain-to-build-u-s-sovereign-ai-data-centers/",
+    "date": "2025-12-04"
+   },
+   {
+    "title": "PR Newswire: HUMAIN Expands Strategic Partnership with NVIDIA, Advancing Global AI Infrastructure with xAI, Global AI, and AWS at the U.S.-Saudi Investment Forum",
+    "url": "https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html",
+    "date": "2025-11-19"
+   }
+  ],
+  "confidence": "medium",
+  "editor_notes": "Identified as Global AI (globalai.com), the US sovereign AI infrastructure company that partnered with Humain in November 2025. Unrelated firms use similar names (globalai.co is an ESG data company). The HQ is set to Endicott, where its data center sits, and the corporate office may be elsewhere in New York. Global AI calls itself a sovereign AI hyperscaler and says it is not a multi-tenant neocloud, but its business is renting dedicated GPU clusters, so I used the neocloud category. The source says it is deploying 7000 GB300s without saying whether that counts GPUs or superchips. Customers beyond the Humain partnership are not public. The scale of contracted revenue relative to a 16 MW starting site is as reported by the company."
+ }
+]

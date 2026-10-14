@@ -1,0 +1,1094 @@
+[
+  {
+    "slug": "oracle",
+    "name": "Oracle Cloud Infrastructure",
+    "aka": "OCI, Oracle",
+    "category": "hyperscaler",
+    "region": "North America",
+    "hq": "Austin, Texas, US",
+    "founded": "1977",
+    "ownership": "Public (NYSE: ORCL)",
+    "website": "https://www.oracle.com/cloud/",
+    "accelerators": [
+      "NVIDIA H200",
+      "NVIDIA B200",
+      "NVIDIA GB200 NVL72",
+      "NVIDIA GB300 NVL72",
+      "AMD MI300X",
+      "AMD MI355X",
+      "AMD MI450"
+    ],
+    "products": [
+      "Bare metal",
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Storage",
+      "Inference API"
+    ],
+    "snippet": "Oracle's cloud rents large GPU clusters to frontier labs, led by OpenAI. It delivered 850 MW of new capacity in the June to August 2026 quarter and reports $664B of remaining performance obligations.",
+    "facts": [
+      {
+        "label": "Remaining performance obligations",
+        "value": "$664B (Aug 31, 2026)"
+      },
+      {
+        "label": "OCI revenue, Q1 FY2027",
+        "value": "$7.4B, up 121%"
+      },
+      {
+        "label": "Capacity delivered, Q1 FY2027",
+        "value": "850 MW"
+      },
+      {
+        "label": "GPUs delivered, Q1 FY2027",
+        "value": "300,000+"
+      },
+      {
+        "label": "FY2027 capex guide",
+        "value": "$90B to $95B"
+      },
+      {
+        "label": "GPU fleet utilization",
+        "value": "97.9%"
+      }
+    ],
+    "customers": [
+      "OpenAI",
+      "Meta",
+      "NVIDIA",
+      "TikTok"
+    ],
+    "origin": "Oracle entered the public cloud market after Amazon, Microsoft and Google, and its OCI platform found a foothold in AI by renting large GPU clusters to model developers. The Stargate partnership with OpenAI turned that business into Oracle's main source of growth. In September 2025 The Wall Street Journal reported that OpenAI agreed to buy about $300B of Oracle computing power over five years starting in 2027, which press reports put at about 4.5 GW.",
+    "today": "Oracle's remaining performance obligations reached $664B at the end of August 2026, up from $638B at the end of May. In the June to August quarter Oracle delivered 850 MW of data center capacity and more than 300,000 GPUs, and OCI revenue rose 121% to $7.4B. Oracle reported 97.9% utilization across its multi-tenant GPU fleet. It said it has handed over 618 MW across six of the eight buildings at the Abilene, Texas campus it runs for OpenAI. Oracle booked more than $30B of new AI contracts in the quarter, and most of them carry customer prepayments or customer-supplied hardware. Earlier commitments came from OpenAI, Meta and NVIDIA, and Oracle said in June 2026 that prepaid and customer-supplied hardware in its large AI contracts totals $75B.",
+    "platform": "OCI sells NVIDIA and AMD GPUs as bare-metal and virtual machine instances, grouped into Superclusters that Oracle says scale to 131,072 GPUs. Its Zettascale10 design, announced in October 2025, uses Oracle's Acceleron RoCE network with multiple isolated planes to link GPUs across data centers within about two kilometers, with initial deployments of up to 800,000 NVIDIA GPUs. OpenAI's Abilene site with OCI runs MRC, a multipath RDMA transport that OpenAI developed with Microsoft, AMD, Broadcom and NVIDIA for two-tier multiplane networks of up to 131,072 GPUs. Oracle also offers AMD Instinct MI300X and MI355X instances and plans a 50,000-GPU MI450 cluster starting in the third quarter of 2026.",
+    "outlook": "Oracle funds its build-out with debt, equity and customer prepayments, and said in February 2026 it planned to raise $45B to $50B that year through a bond offering and an equity program. In the June to August 2026 quarter it spent $28.5B on capex and received $11.4B of customer prepayments. Oracle guides fiscal 2027 capex to $90B to $95B, with no more than $70B of net cash capex. It says its New Mexico and Wisconsin sites are on track, while the New Mexico site still needs air permits for on-site fuel cell power.",
+    "sources": [
+      {
+        "title": "Oracle: Oracle Announces Q1 Results Driven by Triple Digit Growth in Cloud Infrastructure Revenues",
+        "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "The Motley Fool: Oracle (ORCL) Q1 2027 Earnings Call Transcript",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Oracle: Oracle Announces Record Q4 and FY 2026 Results Driven by Cloud Infrastructure & Cloud Applications",
+        "url": "https://www.oracle.com/news/announcement/q4fy26-earnings-release-2026-06-10/",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Oracle: Oracle Announces Fiscal Year 2026 Second Quarter Financial Results",
+        "url": "https://www.oracle.com/news/announcement/q2fy26-earnings-release-2025-12-10/",
+        "date": "2025-12-10"
+      },
+      {
+        "title": "The Register: OpenAI reportedly on the hook for $300B Oracle Cloud bill",
+        "url": "https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/",
+        "date": "2025-09-11"
+      },
+      {
+        "title": "Yahoo Finance: OpenAI signs contract to buy $300 billion worth of Oracle computing power over the next five years",
+        "url": "https://finance.yahoo.com/news/openai-signs-contract-buy-300-121305642.html",
+        "date": "2025-09"
+      },
+      {
+        "title": "DCD: Oracle to raise up to $50bn in debt and equity in 2026 to fund OpenAI & cloud buildout",
+        "url": "https://www.datacenterdynamics.com/en/news/oracle-to-raise-up-to-50bn-in-debt-and-equity-in-2026/",
+        "date": "2026-02"
+      },
+      {
+        "title": "Bloomberg: Oracle $25 Billion Bond Sale Helps Ease Fears of AI Debt Wave",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-02/oracle-kicks-off-8-part-dollar-bond-sale-amid-ai-borrowing-push",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "PR Newswire: Oracle Unveils Next-Generation Oracle Cloud Infrastructure Zettascale10 Cluster for AI",
+        "url": "https://www.prnewswire.com/news-releases/oracle-unveils-next-generation-oracle-cloud-infrastructure-zettascale10-cluster-for-ai-302583054.html",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "DCD: Oracle to deploy cluster of 50000 AMD Instinct MI450 GPUs",
+        "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-cluster-of-50000-amd-instinct-mi450-gpus/",
+        "date": "2025-10"
+      },
+      {
+        "title": "HPCwire: Oracle Unveils Cloud Computing Cluster with Up to 131,072 NVIDIA Blackwell GPUs",
+        "url": "https://www.hpcwire.com/off-the-wire/oracle-unveils-cloud-computing-cluster-with-up-to-131072-nvidia-blackwell-gpus/",
+        "date": "2024-09"
+      },
+      {
+        "title": "OpenAI: Supercomputer networking to accelerate large scale AI training",
+        "url": "https://openai.com/index/mrc-supercomputer-networking/",
+        "date": "2026-05"
+      },
+      {
+        "title": "OpenAI: Resilient AI Supercomputer Networking using MRC and SRv6 (paper)",
+        "url": "https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf",
+        "date": "2026-05"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "Seed framed MRC as Oracle's network design. MRC is a transport protocol led by OpenAI with Microsoft, AMD, Broadcom and NVIDIA (Oracle's blog also lists Intel). OpenAI says it runs at its Abilene site with OCI. The 131,072-GPU figure describes the two-tier, eight-plane topology and also matches Oracle's Supercluster ceiling. The $300B OpenAI deal is press-reported (WSJ), not disclosed by Oracle. xAI as an OCI customer was not verified in 2025-2026 sources and is omitted. Gas pipeline permitting was not found. The Q1 FY2027 call mentions air permits for fuel cell generation in New Mexico and an evolving energy design in Wisconsin. Meta's commitment is confirmed by Oracle without a value (the $20B figure was reported as talks in September 2025). Founded year refers to Oracle Corporation."
+  },
+  {
+    "slug": "google-cloud",
+    "name": "Google Cloud",
+    "aka": "Google Cloud Platform, GCP",
+    "category": "hyperscaler",
+    "region": "North America",
+    "hq": "Mountain View, California, US",
+    "founded": "2008",
+    "ownership": "Subsidiary of Alphabet (Nasdaq: GOOGL)",
+    "website": "https://cloud.google.com",
+    "accelerators": [
+      "Google TPU v7 Ironwood",
+      "Google TPU 8t",
+      "Google TPU 8i",
+      "NVIDIA H200",
+      "NVIDIA B200",
+      "NVIDIA GB200 NVL72",
+      "NVIDIA GB300 NVL72",
+      "NVIDIA Vera Rubin NVL72"
+    ],
+    "products": [
+      "Bare metal",
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Managed Slurm",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage",
+      "Own silicon"
+    ],
+    "snippet": "Google's public cloud rents its own TPUs alongside NVIDIA GPUs. Its backlog reached $514B in June 2026, and Google now also sells TPUs to labs and neoclouds for their own data centers.",
+    "facts": [
+      {
+        "label": "Google Cloud revenue, Q2 2026",
+        "value": "$24.8B, up 82%"
+      },
+      {
+        "label": "Cloud backlog",
+        "value": "$514B (June 30, 2026)"
+      },
+      {
+        "label": "Alphabet 2026 capex guide",
+        "value": "$195B to $205B"
+      },
+      {
+        "label": "Anthropic TPU expansion",
+        "value": "About 3.5 GW from 2027"
+      },
+      {
+        "label": "Blackstone TPU venture",
+        "value": "$5B equity, 500 MW by 2027"
+      }
+    ],
+    "customers": [
+      "Anthropic",
+      "Meta",
+      "Thinking Machines Lab",
+      "Palo Alto Networks"
+    ],
+    "origin": "Google opened its infrastructure to outside developers with App Engine in 2008 and grew that business into Google Cloud. Google designed the Tensor Processing Unit for its own services and later rented TPUs to cloud customers. That in-house chip line gives Google Cloud a second source of AI accelerators next to NVIDIA GPUs.",
+    "today": "Google Cloud revenue grew 82% to $24.8B in the second quarter of 2026, and its backlog rose by more than $50B in the quarter to $514B. Anthropic, which secured access to up to 1 million TPUs in October 2025, signed in April 2026 for about 3.5 GW of next-generation TPU capacity from Google and Broadcom starting in 2027. Meta signed a multibillion-dollar deal to rent TPUs in February 2026. Thinking Machines Lab signed a multibillion-dollar contract for NVIDIA GB300 capacity on Google Cloud in April 2026. Google said in April 2026 that it would deliver TPUs to a select group of customers for their own data centers, and Blackstone committed $5B of equity in May 2026 to a separate TPU cloud that targets 500 MW by 2027. Google backstops Fluidstack lease obligations at TeraWulf sites, which places TPU capacity in third-party data centers. In March 2026 Google closed its $32B purchase of Wiz and its $4.75B purchase of the energy developer Intersect.",
+    "platform": "Google sells TPUs and NVIDIA GPUs through its AI Hypercomputer stack, with Ironwood (TPU7x) pods of up to 9,216 chips and A4, A4X and A4X Max virtual machines for B200, GB200 and GB300. At Cloud Next in April 2026 it announced the TPU 8t for training, the TPU 8i for inference, A5X bare-metal instances on NVIDIA Vera Rubin NVL72, and the Virgo network fabric for very large clusters. Cluster Director, generally available since December 2025, runs managed Slurm clusters alongside GKE. Since July 2026 NVIDIA's NGC containers include Google's gIB NCCL plugins, which configure themselves on Google Cloud GPU machines.",
+    "outlook": "Google plans to sell TPUs outside its own cloud through direct hardware sales, the Blackstone venture and neocloud partners, which puts it in competition with the neoclouds it supplies. Sundar Pichai said revenue from TPU sales into customer data centers begins in 2026, with a larger effect in 2027. Meta has reportedly discussed buying TPUs for its own data centers from 2027. Google expects to recognize just over 50% of its $514B backlog as revenue within 24 months.",
+    "sources": [
+      {
+        "title": "SEC: Alphabet Inc. Form 8-K, Exhibit 99.1, second quarter 2026 results",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm",
+        "date": "2026-07"
+      },
+      {
+        "title": "Futurum: Alphabet Q2 FY 2026: Google Cloud Leads Growth Amid Rising AI Investment",
+        "url": "https://futurumgroup.com/insights/alphabet-q2-fy-2026-google-cloud-leads-growth-amid-rising-ai-investment/",
+        "date": "2026-07"
+      },
+      {
+        "title": "The Register: Google to sell its TPUs to some customers",
+        "url": "https://www.theregister.com/2026/04/30/alphabet_google_q1_fy26/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Anthropic: Anthropic expands Google and Broadcom compute deal",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "date": "2026-04"
+      },
+      {
+        "title": "TechCrunch: Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+        "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "SiliconANGLE: Google and Meta reportedly strike new, multibillion-dollar AI chip deal",
+        "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "TechCrunch: Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+        "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+        "date": "2026-04-22"
+      },
+      {
+        "title": "Business Wire: Blackstone Announces Joint Venture with Google to Create New TPU Cloud",
+        "url": "https://www.businesswire.com/news/home/20260518367552/en/Blackstone-Announces-Joint-Venture-with-Google-to-Create-New-TPU-Cloud",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Google: Blackstone will create a new TPU cloud in a joint venture with Google",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+        "date": "2026-05"
+      },
+      {
+        "title": "SEC: TeraWulf Exhibit 99.1, Fluidstack hosting agreements backed by Google",
+        "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925078084/tm2523008d2_ex99-1.htm",
+        "date": "2025-08"
+      },
+      {
+        "title": "TechCrunch: Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+        "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "CNBC: Alphabet to acquire data center and energy infrastructure company Intersect",
+        "url": "https://www.cnbc.com/2025/12/22/alphabet-to-acquire-intersect.html",
+        "date": "2025-12-22"
+      },
+      {
+        "title": "Renewables Now: Google closes USD-4.75bn Intersect deal as investors spin out IPX Power",
+        "url": "https://renewablesnow.com/news/google-closes-usd-4-75bn-intersect-deal-as-investors-spin-out-ipx-power-1291177/",
+        "date": "2026-03"
+      },
+      {
+        "title": "HPCwire: Google Bolsters AI Hypercomputer with New TPU Chips, Virgo Interconnect, Speedier Lustre",
+        "url": "https://www.hpcwire.com/2026/04/22/google-bolsters-ai-hypercomputer-with-new-tpu-chips-virgo-interconnect-speedier-lustre/",
+        "date": "2026-04-22"
+      },
+      {
+        "title": "Google Cloud: Cluster Director is now generally available",
+        "url": "https://cloud.google.com/blog/products/compute/cluster-director-is-now-generally-available/",
+        "date": "2025-12-18"
+      },
+      {
+        "title": "Google Cloud Docs: Use gIB NCCL plugins in NVIDIA NGC containers",
+        "url": "https://docs.cloud.google.com/ai-hypercomputer/docs/nccl/ngc-containers",
+        "date": "2026-07"
+      },
+      {
+        "title": "Google Cloud Docs: TPU7x (Ironwood)",
+        "url": "https://docs.cloud.google.com/tpu/docs/tpu7x",
+        "date": "2026-10"
+      },
+      {
+        "title": "Network World: Google Cloud signs $10 billion deal with Palo Alto Networks",
+        "url": "https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html",
+        "date": "2025-12"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "Seed listed Thinking Machines Lab with TPUs. The April 2026 deal is for NVIDIA GB300 capacity (A4X Max), not TPUs. The Palo Alto Networks deal (nearly $10B, December 2025) is a broad cloud and security agreement rather than AI compute. Google's roughly 14% equity stake is in TeraWulf, not Fluidstack, and its role is a lease backstop. Seed said Managed Slurm is GA. Cluster Director (managed Slurm) went GA in December 2025, while Slurm on GKE was in preview. App Engine launch year (2008) is from general knowledge."
+  },
+  {
+    "slug": "microsoft-azure",
+    "name": "Microsoft Azure",
+    "aka": "Azure",
+    "category": "hyperscaler",
+    "region": "North America",
+    "hq": "Redmond, Washington, US",
+    "founded": "2010",
+    "ownership": "Division of Microsoft (Nasdaq: MSFT)",
+    "website": "https://azure.microsoft.com",
+    "accelerators": [
+      "NVIDIA GB200 NVL72",
+      "NVIDIA GB300 NVL72",
+      "Microsoft Maia 200"
+    ],
+    "products": [
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage",
+      "Own silicon"
+    ],
+    "snippet": "Microsoft's cloud runs much of OpenAI's compute and sells AI capacity to Anthropic and enterprises. Azure grew 43% in the June 2026 quarter, and commercial backlog reached $678B.",
+    "facts": [
+      {
+        "label": "Azure growth, Q4 FY2026",
+        "value": "43%"
+      },
+      {
+        "label": "Commercial RPO",
+        "value": "$678B (June 30, 2026)"
+      },
+      {
+        "label": "Capex, Q4 FY2026",
+        "value": "$41B"
+      },
+      {
+        "label": "OpenAI Azure commitment",
+        "value": "$250B incremental (Oct 2025)"
+      },
+      {
+        "label": "Anthropic Azure commitment",
+        "value": "$30B (Nov 2025)"
+      }
+    ],
+    "customers": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "origin": "Microsoft launched Azure in 2010 as its general-purpose public cloud. Its AI accelerator business grew out of its partnership with OpenAI, for which Azure built and ran large training supercomputers. Microsoft held rights to OpenAI's compute until an October 2025 restructuring removed its right of first refusal.",
+    "today": "Azure revenue grew 43% in the quarter that ended June 2026, and Microsoft said customer demand still exceeds available capacity. Commercial remaining performance obligations rose 84% to $678B. In October 2025 OpenAI contracted to buy an incremental $250B of Azure services. Anthropic committed in November 2025 to buy $30B of Azure compute and to contract up to 1 GW more on NVIDIA Grace Blackwell and Vera Rubin systems. Microsoft also buys capacity from neoclouds, including a multibillion-dollar Nebius contract at Vineland, New Jersey and a deployment that IREN said it delivered in August 2026. Capex reached $41B in the June 2026 quarter, and roughly two thirds of it went to short-lived assets, mainly CPUs and GPUs.",
+    "platform": "Microsoft's Fairwater AI data centers in Wisconsin and Atlanta link hundreds of thousands of NVIDIA GB200 and GB300 GPUs over a two-tier Ethernet back-end network and a dedicated AI WAN, with racks at about 140 kW. Microsoft engineers co-developed MRC, a multipath RDMA transport that runs in OpenAI's and Microsoft's largest training clusters. Maia 200, a TSMC 3 nm inference chip with 216 GB of HBM3e, entered production in January 2026 and serves Copilot and OpenAI models. Customers reach models through Microsoft Foundry and GPUs through Azure virtual machines and Kubernetes.",
+    "outlook": "Microsoft plans to scale Maia to multi-gigawatt deployments starting in 2027, with Maia 300 on TSMC N2P as the main inference system for its own products. Microsoft said all sequential growth in commercial RPO in the June 2026 quarter came from customers outside frontier model companies. Capacity remains the limit on Azure AI revenue, since Microsoft says demand exceeds supply.",
+    "sources": [
+      {
+        "title": "SEC: Microsoft Form 8-K, Exhibit 99.1, fiscal 2026 fourth quarter results",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526323632/msft-ex99_1.htm",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Microsoft: Fiscal Year 2026 Fourth Quarter Earnings Conference Call",
+        "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Microsoft: The next chapter of the Microsoft-OpenAI partnership",
+        "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+        "date": "2025-10-28"
+      },
+      {
+        "title": "Anthropic: Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+        "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+        "date": "2025-11-18"
+      },
+      {
+        "title": "Microsoft: Infinite scale: The architecture behind the Azure AI superfactory",
+        "url": "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/",
+        "date": "2025-11-12"
+      },
+      {
+        "title": "Microsoft: Maia 200: The AI accelerator built for inference",
+        "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+        "date": "2026-01-26"
+      },
+      {
+        "title": "Microsoft: Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+        "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Nebius: Nebius announces multi-billion dollar agreement with Microsoft for AI infrastructure",
+        "url": "https://nebius.com/newsroom/nebius-announces-multi-billion-dollar-agreement-with-microsoft-for-ai-infrastructure",
+        "date": "2025-09-08"
+      },
+      {
+        "title": "IREN: Investor news, IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72",
+        "url": "https://iren.com/investors/news",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "OpenAI: Resilient AI Supercomputer Networking using MRC and SRv6 (paper)",
+        "url": "https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf",
+        "date": "2026-05"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "Microsoft's contracts with Nscale and Lambda and its position as CoreWeave's largest customer are seed facts that I could not re-verify (web search budget ran out), so the text names only Nebius and IREN. The Nebius contract value ($17.4B, up to $19.4B) sits in Nebius's 6-K, not the fetched press release, so the text says multibillion. The IREN $9.7B contract value was not re-verified. The seed's claim that bare-metal customers are mainly OpenAI and Microsoft AI was not verified. FY2027 capex guidance on the call involves a lease reclassification and is not given as a single number here."
+  },
+  {
+    "slug": "aws",
+    "name": "Amazon Web Services",
+    "aka": "AWS",
+    "category": "hyperscaler",
+    "region": "North America",
+    "hq": "Seattle, Washington, US",
+    "founded": "2006",
+    "ownership": "Subsidiary of Amazon (Nasdaq: AMZN)",
+    "website": "https://aws.amazon.com",
+    "accelerators": [
+      "AWS Trainium2",
+      "AWS Trainium3",
+      "NVIDIA GB200 NVL72",
+      "NVIDIA GB300 NVL72"
+    ],
+    "products": [
+      "Bare metal",
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Managed Slurm",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage",
+      "Own silicon"
+    ],
+    "snippet": "Amazon's cloud pairs NVIDIA GPUs with its own Trainium chips. AWS grew 37% to $42.2B in the June 2026 quarter, and Anthropic and OpenAI have made multi-gigawatt Trainium commitments.",
+    "facts": [
+      {
+        "label": "AWS revenue, Q2 2026",
+        "value": "$42.2B, up 37%"
+      },
+      {
+        "label": "AI business run rate",
+        "value": "Over $25B"
+      },
+      {
+        "label": "Amazon 2026 capex plan",
+        "value": "About $200B"
+      },
+      {
+        "label": "Anthropic Trainium commitment",
+        "value": "Up to 5 GW"
+      },
+      {
+        "label": "OpenAI commitments",
+        "value": "$38B (Nov 2025), about 2 GW of Trainium"
+      },
+      {
+        "label": "Project Rainier",
+        "value": "500,000+ Trainium2 chips"
+      }
+    ],
+    "customers": [
+      "Anthropic",
+      "OpenAI",
+      "Decart"
+    ],
+    "origin": "Amazon launched AWS in 2006 and built it into the largest public cloud. Its Annapurna Labs unit designs custom chips, including the Trainium line for model training and inference. Amazon's investment in Anthropic made the lab the anchor customer for Trainium.",
+    "today": "AWS revenue rose 37% to $42.2B in the second quarter of 2026, its fastest growth in 18 quarters. Both Amazon's AI business and its chips business passed $25B annual run rates. Amazon said in April 2026 that Anthropic will secure up to 5 GW of current and future Trainium chips and that OpenAI committed to about 2 GW of Trainium capacity. Those deals add to the $38B, seven-year contract OpenAI signed in November 2025 for NVIDIA GB200 and GB300 capacity, which AWS targets to deploy before the end of 2026. Project Rainier, the Anthropic cluster that includes sites in Indiana, runs more than 500,000 Trainium2 chips. Amazon landed more than 2.1 million AI chips in the 12 months before its April 2026 report, more than half of them Trainium, and plans about $200B of capex in 2026.",
+    "platform": "AWS rents GPUs and Trainium through EC2 instances and UltraServers, with its Elastic Fabric Adapter network carrying cluster traffic. Trn3 UltraServers hold up to 144 Trainium3 chips on a 3 nm process, which AWS says deliver up to 4.4 times the compute of Trainium2. Trainium4, planned for 2027, will support NVIDIA NVLink Fusion so Trainium and GPU servers can share MGX racks. Customers train and serve models through SageMaker HyperPod and Amazon Bedrock, which offers models from Anthropic, OpenAI and others.",
+    "outlook": "AWS said in February 2026 that it expected nearly all Trainium3 supply to be committed by mid-2026, so the Trainium4 ramp in 2027 sets how much new custom-silicon capacity it can sell. AWS competes with neoclouds mainly on Trainium price-performance and on dedicated capacity for frontier labs. Amazon also announced more than 1 million NVIDIA GPUs to be deployed starting in 2026. Its trailing twelve-month free cash flow was negative $7.6B at the end of June 2026 as capex rose.",
+    "sources": [
+      {
+        "title": "Amazon: Amazon.com Announces Second Quarter Results",
+        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Amazon: Amazon.com Announces First Quarter Results",
+        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx",
+        "date": "2026-04"
+      },
+      {
+        "title": "Amazon: Amazon.com Announces Fourth Quarter Results",
+        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "About Amazon: AWS and OpenAI announce multi-year strategic partnership",
+        "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+        "date": "2025-11-03"
+      },
+      {
+        "title": "About Amazon: AWS activates Project Rainier, one of the world's largest AI compute clusters",
+        "url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+        "date": "2025-10-29"
+      },
+      {
+        "title": "About Amazon: Trainium3 UltraServers now generally available",
+        "url": "https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost",
+        "date": "2025-12"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "P6 Blackwell instance details and the MCP servers for AI-assisted operations were not re-verified in this pass, so they are left out. HyperPod Slurm support and the Annapurna Labs background come from general knowledge. Source headlines for the About Amazon posts are paraphrased where the fetched page did not show the exact title."
+  },
+  {
+    "slug": "ibm-cloud",
+    "name": "IBM Cloud",
+    "aka": "",
+    "category": "hyperscaler",
+    "region": "North America",
+    "hq": "Armonk, New York, US",
+    "founded": "",
+    "ownership": "Division of IBM (NYSE: IBM)",
+    "website": "https://www.ibm.com/cloud",
+    "accelerators": [
+      "NVIDIA B300",
+      "NVIDIA H200",
+      "NVIDIA H100",
+      "NVIDIA L40S",
+      "NVIDIA L4",
+      "NVIDIA A100",
+      "AMD MI300X",
+      "Intel Gaudi 3"
+    ],
+    "products": [
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Inference API",
+      "Storage"
+    ],
+    "snippet": "IBM's public cloud targets enterprise and regulated workloads. It rents NVIDIA GPUs up to Blackwell Ultra, AMD Instinct MI300X and Intel Gaudi 3, with up to eight accelerators per virtual server.",
+    "facts": [
+      {
+        "label": "Newest NVIDIA GPU offered",
+        "value": "Blackwell Ultra (B300)"
+      },
+      {
+        "label": "Largest NVIDIA instance",
+        "value": "8x H200 (141 GB each)"
+      },
+      {
+        "label": "Intel instance",
+        "value": "8x Gaudi 3 (128 GB each)"
+      },
+      {
+        "label": "AMD option",
+        "value": "Instinct MI300X"
+      }
+    ],
+    "customers": [],
+    "origin": "IBM Cloud is the public cloud arm of IBM's hybrid cloud strategy, which pairs it with Red Hat OpenShift and the watsonx AI platform. Its GPU business serves enterprises that want to run AI next to IBM software and inside IBM's security and compliance controls.",
+    "today": "IBM Cloud lists NVIDIA Blackwell Ultra GPUs as available, alongside AMD Instinct MI300X and Intel Gaudi 3 accelerators. Its VPC virtual server profiles run up to eight NVIDIA H100, H200 or Gaudi 3 accelerators per instance, with smaller L4, L40S and A100 options. IBM does not publish GPU counts or AI capacity in megawatts.",
+    "platform": "Customers deploy GPU instances in IBM Cloud VPC or through Red Hat OpenShift, and use IBM watsonx for model development and serving. IBM also offers spot pricing on selected GPUs.",
+    "outlook": "",
+    "sources": [
+      {
+        "title": "IBM: GPUs and AI accelerators on IBM Cloud",
+        "url": "https://www.ibm.com/cloud/gpu",
+        "date": "2026-10"
+      },
+      {
+        "title": "IBM Cloud Docs: Accelerated profile family for virtual servers",
+        "url": "https://cloud.ibm.com/docs/vpc?topic=vpc-accelerated-profile-family",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "No 2025-2026 press coverage could be fetched (web search budget ran out), so the profile relies on IBM's own GPU page and VPC docs as of October 2026. MI300X does not appear in the VPC profile list and may be sold through a separate offering. The reported IBM, AMD and Zyphra MI300X cluster deal (October 2025) was not verified and is omitted."
+  },
+  {
+    "slug": "alibaba-cloud",
+    "name": "Alibaba Cloud",
+    "aka": "Aliyun",
+    "category": "hyperscaler",
+    "region": "Asia-Pacific",
+    "hq": "Hangzhou, China",
+    "founded": "2009",
+    "ownership": "Subsidiary of Alibaba Group (NYSE: BABA, HKEX: 9988)",
+    "website": "https://www.alibabacloud.com",
+    "accelerators": [
+      "T-Head Zhenwu",
+      "NVIDIA GPUs"
+    ],
+    "products": [
+      "Bare metal",
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage",
+      "Own silicon"
+    ],
+    "snippet": "China's largest cloud provider builds its own AI chips through T-Head and serves its Qwen models. Cloud revenue grew 45% in the June 2026 quarter, and Alibaba raised HK$80B in August 2026 for AI infrastructure.",
+    "facts": [
+      {
+        "label": "Cloud revenue, June 2026 quarter",
+        "value": "RMB 48.4B ($7.1B), up 45%"
+      },
+      {
+        "label": "AI-related product revenue, June 2026 quarter",
+        "value": "RMB 12.4B ($1.8B)"
+      },
+      {
+        "label": "Capex, June 2026 quarter",
+        "value": "RMB 67.7B ($10.0B), up 75%"
+      },
+      {
+        "label": "Share placement, August 2026",
+        "value": "HK$80B (about $10.3B)"
+      },
+      {
+        "label": "Zhenwu chip external customers",
+        "value": "650+"
+      }
+    ],
+    "customers": [],
+    "origin": "Alibaba founded Alibaba Cloud in 2009 to run its own e-commerce systems and to sell computing to outside customers. It grew into the largest cloud provider in China and opened regions abroad. Alibaba also designs AI chips through its T-Head unit and trains the Qwen family of open-weight models, which it serves on its cloud.",
+    "today": "Alibaba's cloud revenue rose 45% to RMB 48.4B ($7.1B) in the quarter that ended June 2026, and AI-related product revenue reached RMB 12.4B ($1.8B). Quarterly capex rose 75% to RMB 67.7B ($10.0B), which Alibaba attributes to procurement timing, added compute capacity and higher chip component prices. In August 2026 Alibaba placed 710 million new shares for HK$80B (about $10.3B) and said it will spend the proceeds on AI infrastructure, including global computing capacity and hyperscale AI data centers. T-Head's Zhenwu AI chips now serve more than 650 external customers through Alibaba Cloud. Alibaba announced in February 2025 a plan to spend more than RMB 380B on cloud and AI infrastructure over three years.",
+    "platform": "Alibaba Cloud sells GPU and in-house accelerator instances, a machine learning platform for training and serving, and API access to Qwen and other models. It operates 29 regions and 87 availability zones worldwide.",
+    "outlook": "US export controls limit Alibaba's access to NVIDIA's most advanced GPUs, which makes the T-Head chip line central to its capacity growth. Alibaba plans to use the August 2026 placement proceeds to expand computing infrastructure in China and abroad. Higher chip component prices already push up its capex.",
+    "sources": [
+      {
+        "title": "SEC: Alibaba Group Form 6-K, Exhibit 99.1, June quarter 2026 results",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "SEC: Alibaba Group Form 6-K, pricing of HK$80 billion placing of new shares",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361715/baba-ex99_4.htm",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "SEC: Alibaba Group Form 6-K, completion of placing of new shares",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/baba-ex99_1.htm",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Wikipedia: Alibaba Cloud",
+        "url": "https://en.wikipedia.org/wiki/Alibaba_Cloud",
+        "date": "2026-09"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "The RMB 380B three-year plan (February 2025) and the export control constraint are seed facts kept as plausible but not re-sourced in this pass (web search budget ran out). Region counts and the 2009 founding come from Wikipedia. The results release does not name GPU models, so the accelerator list stays generic. Overseas region names were not verified."
+  },
+  {
+    "slug": "byteplus",
+    "name": "BytePlus",
+    "aka": "International sister of Volcano Engine (ByteDance)",
+    "category": "platform",
+    "region": "Asia-Pacific",
+    "hq": "Singapore, Singapore",
+    "founded": "2021",
+    "ownership": "Subsidiary of ByteDance",
+    "website": "https://www.byteplus.com",
+    "accelerators": [],
+    "products": [
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Inference API",
+      "Training and fine-tuning",
+      "Storage"
+    ],
+    "snippet": "ByteDance's international enterprise cloud sells GPU compute, Kubernetes and API access to ByteDance's Seed models through its ModelArk platform.",
+    "facts": [
+      {
+        "label": "Parent",
+        "value": "ByteDance"
+      },
+      {
+        "label": "Founded",
+        "value": "2021"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Singapore"
+      },
+      {
+        "label": "Model platform",
+        "value": "ModelArk (Seed, Seedance, Seedream)"
+      }
+    ],
+    "customers": [
+      "OpenRice",
+      "Yamada Denki",
+      "PressLogic",
+      "FlexTV"
+    ],
+    "origin": "ByteDance set up BytePlus in 2021 as the international counterpart to Volcano Engine, its enterprise technology brand in China. Its early products included the recommendation technology that ByteDance uses in its own apps. BytePlus now packages ByteDance's AI models and cloud infrastructure for enterprise customers outside China.",
+    "today": "BytePlus sells a GPU Compute Service, elastic compute, Kubernetes, storage and database services. Its ModelArk platform gives API access to ByteDance's Seed models, including Seedance for video and Seedream for images. Its website lists a Southeast Asia region, and BytePlus does not publish GPU counts or capacity figures.",
+    "platform": "ModelArk serves several model families through one API, while AgentKit, ServingKit and TrainingKit cover agent building, inference optimization and model development. BytePlus keeps enterprise data separate from ByteDance's consumer apps such as TikTok and holds ISO 27001, SOC 2 and PCI DSS certifications.",
+    "outlook": "",
+    "sources": [
+      {
+        "title": "BytePlus: AI-Native Cloud for Enterprise Growth",
+        "url": "https://www.byteplus.com/en",
+        "date": "2026-10"
+      },
+      {
+        "title": "Wikipedia: BytePlus",
+        "url": "https://en.wikipedia.org/wiki/BytePlus",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "low",
+    "editor_notes": "Few public facts. Fetched pages do not disclose GPU types, region list or capacity, so the accelerator list is empty. Categorized as platform because its AI offering centers on model APIs, not as a hyperscaler. Wikipedia mentions infrastructure nodes in Singapore and London and a planned Thailand data center, none verified in a primary source."
+  },
+  {
+    "slug": "akamai",
+    "name": "Akamai Cloud",
+    "aka": "Akamai Technologies, Linode",
+    "category": "devcloud",
+    "region": "North America",
+    "hq": "Cambridge, Massachusetts, US",
+    "founded": "1998",
+    "ownership": "Public (Nasdaq: AKAM)",
+    "website": "https://www.akamai.com",
+    "accelerators": [
+      "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+    ],
+    "products": [
+      "Virtual machines",
+      "Managed Kubernetes",
+      "Inference API",
+      "Storage"
+    ],
+    "snippet": "Akamai turned its CDN and the Linode cloud it bought in 2022 into a distributed AI inference cloud. It signed over $2.8B of multi-year cloud contracts in 2026, including $1.8B from a frontier model provider.",
+    "facts": [
+      {
+        "label": "Cloud Infrastructure Services revenue, Q2 2026",
+        "value": "$99M, up 39%"
+      },
+      {
+        "label": "Multi-year cloud contracts signed in 2026",
+        "value": "Over $2.8B"
+      },
+      {
+        "label": "Frontier model provider commitment",
+        "value": "$1.8B over seven years"
+      },
+      {
+        "label": "Robotics customer contract",
+        "value": "$600M+ over four years"
+      },
+      {
+        "label": "Edge points of presence",
+        "value": "4,350+"
+      },
+      {
+        "label": "Linode purchase price",
+        "value": "About $900M (2022)"
+      }
+    ],
+    "customers": [],
+    "origin": "Akamai built one of the first large content delivery networks. It bought the developer cloud Linode for about $900M in March 2022 to add general compute to its edge network. In October 2025 it launched Akamai Inference Cloud with NVIDIA, starting in 20 locations with NVIDIA RTX PRO 6000 Blackwell servers and BlueField-3 DPUs.",
+    "today": "Akamai's Cloud Infrastructure Services revenue grew 39% to $99M in the second quarter of 2026, out of $1.1B in total revenue. In May 2026 Akamai said a leading US frontier model provider committed $1.8B over seven years to its cloud infrastructure. By August it had signed multi-year cloud contracts worth more than $2.8B in 2026, including more than $600M over four years from a new US technology customer for robotics development.",
+    "platform": "Akamai Inference Cloud runs NVIDIA RTX PRO 6000 Blackwell GPUs with NVIDIA AI Enterprise software and NIM microservices, aimed at low-latency inference close to users. A Kubernetes-based developer platform ships with vLLM, KServe and NVIDIA Dynamo, and Akamai charges no egress fees. The service sits on an edge network that Akamai says spans more than 4,350 points of presence.",
+    "outlook": "Akamai said at launch that an expanded rollout beyond the first 20 Inference Cloud locations was underway. Cloud infrastructure revenue grows much faster than Akamai's total revenue, which it guides to $4.445B to $4.530B for 2026, but still makes up less than 10% of it.",
+    "sources": [
+      {
+        "title": "Akamai: Akamai Reports Second Quarter 2026 Financial Results",
+        "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-second-quarter-2026-financial-results",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Akamai: Akamai Reports First Quarter 2026 Financial Results",
+        "url": "https://www.akamai.com/newsroom/press-release/akamai-reports-first-quarter-2026-financial-results",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Akamai: Akamai Inference Cloud Transforms AI from Core to Edge with NVIDIA",
+        "url": "https://www.akamai.com/newsroom/press-release/akamai-inference-cloud-transforms-ai-from-core-to-edge-with-nvidia",
+        "date": "2025-10-28"
+      },
+      {
+        "title": "Akamai: Akamai Inference Cloud platform",
+        "url": "https://www.akamai.com/products/akamai-inference-cloud-platform",
+        "date": "2026-10"
+      },
+      {
+        "title": "Akamai: Akamai Completes Acquisition of Linode",
+        "url": "https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-linode",
+        "date": "2022-03-21"
+      }
+    ],
+    "confidence": "high",
+    "editor_notes": "Akamai's releases do not name the frontier model provider or the robotics customer, so no customers are listed. The $2.8B year-to-date figure appears to include the $1.8B Q1 commitment. Founded year (1998) is from general knowledge."
+  },
+  {
+    "slug": "spacex-xai",
+    "name": "SpaceX (xAI)",
+    "aka": "xAI, SpaceXAI",
+    "category": "lab",
+    "region": "North America",
+    "hq": "Starbase, Texas, US",
+    "founded": "2023",
+    "ownership": "Private (SpaceX filed an S-1 in May 2026)",
+    "website": "https://x.ai",
+    "accelerators": [
+      "NVIDIA H100",
+      "NVIDIA H200",
+      "NVIDIA GB200 NVL72",
+      "NVIDIA GB300 NVL72"
+    ],
+    "products": [
+      "Bare metal",
+      "Inference API"
+    ],
+    "snippet": "xAI, now part of SpaceX, runs the Colossus GPU clusters in Memphis. It rents all of Colossus 1 to Anthropic and sells capacity to Google, so it competes as a compute seller as well as a lab.",
+    "facts": [
+      {
+        "label": "SpaceX acquisition of xAI",
+        "value": "February 2026, all-stock"
+      },
+      {
+        "label": "Colossus 2 GPUs (Sept 2026)",
+        "value": "110,000 GB200 and 440,000 GB300"
+      },
+      {
+        "label": "Colossus 2 power (Epoch AI estimate, June 2026)",
+        "value": "About 946 MW"
+      },
+      {
+        "label": "Colossus 1 lease to Anthropic",
+        "value": "220,000+ GPUs, 300+ MW"
+      },
+      {
+        "label": "Google compute deal",
+        "value": "About $920M per month"
+      }
+    ],
+    "customers": [
+      "Anthropic",
+      "Google",
+      "Reflection AI",
+      "Cursor"
+    ],
+    "origin": "Elon Musk founded xAI in 2023 to build the Grok models. It built its first Colossus cluster in a former Electrolux factory in South Memphis, Tennessee, with about 100,000 NVIDIA H100 GPUs finished in 122 days in 2024. SpaceX acquired xAI in an all-stock deal announced in February 2026 that valued xAI at $250B and SpaceX at $1T. xAI later rebranded as SpaceXAI.",
+    "today": "Colossus 2 in Memphis had 110,000 NVIDIA GB200 and 440,000 GB300 GPUs running in late September 2026, and Musk said the chip count may more than double by year end. Epoch AI estimates the site at about 946 MW as of June 2026, with gas turbines across the state line in Southaven, Mississippi. In May 2026 Anthropic agreed to rent all of Colossus 1, which holds more than 220,000 NVIDIA GPUs and over 300 MW of compute. In June 2026 Google agreed to pay SpaceX about $920M a month for compute at xAI data centers, and Reflection AI signed its own compute deal the same month. SpaceX filed an S-1 registration statement with the SEC in May 2026.",
+    "platform": "xAI runs its clusters for Grok training and inference and leases whole sites or large GPU blocks to other labs. It sells Grok models through an API. Its Memphis sites draw on on-site gas turbines and Tesla Megapack batteries alongside grid power.",
+    "outlook": "Musk has said he wants about 1 million GPUs in Memphis, and xAI bought a third building in late 2025 to expand toward nearly 2 GW. Its use of gas turbines without federal air permits drew a lawsuit and regulatory scrutiny, and an agreement with state regulators schedules removal of the temporary turbines by mid-2027. The Anthropic and Google leases make SpaceX a seller of AI capacity, which is why it appears in this guide.",
+    "sources": [
+      {
+        "title": "The New York Times: Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
+        "url": "https://www.nytimes.com/2026/02/02/business/spacex-xai-deal.html",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Wikipedia: xAI (company)",
+        "url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "date": "2026-10"
+      },
+      {
+        "title": "Yahoo Finance: Anthropic to rent all AI capacity at SpaceX's Colossus data center",
+        "url": "https://finance.yahoo.com/news/anthropic-to-rent-all-ai-capacity-at-spacexs-colossus-data-center-180327774.html",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "CNBC: Google to pay SpaceX $920 million a month for compute capacity",
+        "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Axios: Nvidia-backed Reflection lands SpaceX compute deal",
+        "url": "https://www.axios.com/2026/06/22/open-source-ai-gets-more-compute-from-spacex",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Yahoo Finance: Elon Musk aims to double Colossus",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-aims-double-colossus-060447907.html",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Epoch AI: Colossus 2",
+        "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2",
+        "date": "2026-08"
+      },
+      {
+        "title": "Reuters: Musk's xAI buys third building to expand AI compute power",
+        "url": "https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/",
+        "date": "2025-12-30"
+      },
+      {
+        "title": "SEC: Space Exploration Technologies Corp. Form S-1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Wikipedia: Colossus (supercomputer)",
+        "url": "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
+        "date": "2026-10"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "Merger confirmed as an all-stock SpaceX acquisition of xAI announced February 2, 2026, with valuations from Wikipedia's citation of The New York Times (NYT not fetched directly). The Google $920M per month figure, the Reflection AI deal, the turbine permit dispute and the S-1 date also rest on Wikipedia citations, since CNBC, Axios and Reuters blocked fetching. I could not confirm whether the SpaceX IPO has priced. Colossus 2 power is an Epoch AI estimate, and Epoch lists Cursor as a Colossus 2 user. HQ is SpaceX's Starbase, Texas (not re-verified)."
+  },
+  {
+    "slug": "mistral-ai",
+    "name": "Mistral AI",
+    "aka": "Mistral Compute",
+    "category": "lab",
+    "region": "Europe",
+    "hq": "Paris, France",
+    "founded": "2023",
+    "ownership": "Private",
+    "website": "https://mistral.ai",
+    "accelerators": [
+      "NVIDIA Grace Blackwell"
+    ],
+    "products": [
+      "Bare metal",
+      "Inference API",
+      "Training and fine-tuning"
+    ],
+    "snippet": "The French AI lab builds Mistral Compute, a European AI cloud, and targets 1 GW of European capacity by 2030. It raised €3B at a valuation above €21B in September 2026.",
+    "facts": [
+      {
+        "label": "Series D (Sept 2026)",
+        "value": "€3B, post-money above €21B"
+      },
+      {
+        "label": "Series C (Sept 2025)",
+        "value": "€1.7B led by ASML, €11.7B valuation"
+      },
+      {
+        "label": "European compute target",
+        "value": "Up to 1 GW by 2030"
+      },
+      {
+        "label": "Enterprise customers",
+        "value": "125+"
+      },
+      {
+        "label": "Countries of operation",
+        "value": "20"
+      }
+    ],
+    "customers": [
+      "Amadeus",
+      "ASML",
+      "Capgemini",
+      "Caisse des Dépôts",
+      "CMA CGM",
+      "BNP Paribas",
+      "Orange",
+      "Thales"
+    ],
+    "origin": "Mistral AI started in Paris in 2023 to build open-weight language models. In June 2025 it announced Mistral Compute with NVIDIA, a European AI cloud that offers tens of thousands of GPUs as anything from bare-metal servers to fully managed services. ASML led a €1.7B round in September 2025 that valued Mistral at €11.7B.",
+    "today": "Mistral raised €3B in September 2026 at a post-money valuation above €21B, led by Samsung Electronics with EQT's Scaleup Europe Fund and PSG Equity. It said part of the money will scale its compute capacity. In August 2026 it set a goal of up to 1 GW of European compute by 2030 and said Amadeus, ASML, Capgemini, Caisse des Dépôts and CMA CGM are making multi-year capacity commitments through European Compute Units. Mistral also signed a collaboration worth hundreds of millions of euros with Saudi Arabia's HUMAIN in August 2026, which includes possible use of HUMAIN data centers. It opened a Munich hub in September 2026 to work with German industry.",
+    "platform": "Mistral Compute bundles GPUs, orchestration, APIs and Mistral's own products, sold from bare-metal servers up to fully managed platform services. Regional endpoints, generally available since August 2026, keep data and processing in Europe or the US, and a Priority Tier adds committed service levels. Mistral now also serves third-party open models, starting with Z.ai's GLM-5.2, under the same regional controls.",
+    "outlook": "Mistral's 2026 announcements set the 1 GW target for 2030 but do not name the sites or power contracts behind it. Mistral still uses outside capacity, and it trains models with NVIDIA on DGX Cloud under a March 2026 partnership. Its sovereign European positioning competes with US hyperscaler regions in Europe and with European neoclouds.",
+    "sources": [
+      {
+        "title": "Mistral AI: Mistral Compute",
+        "url": "https://mistral.ai/news/mistral-compute",
+        "date": "2025-06-11"
+      },
+      {
+        "title": "Mistral AI: Mistral raises 1.7B€ to accelerate technological progress with AI",
+        "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+        "date": "2025-09-09"
+      },
+      {
+        "title": "Mistral AI: Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Mistral AI: In-region inference, open models, and new European infrastructure for sovereign AI",
+        "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Mistral AI: Mistral x HUMAIN",
+        "url": "https://mistral.ai/news/mistral-x-humain/",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Mistral AI: Hallo, Deutschland",
+        "url": "https://mistral.ai/news/hallo-deutschland/",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Mistral AI: Mistral partners with NVIDIA to accelerate open frontier models",
+        "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+        "date": "2026-03-16"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "Seed mentions sites in France. Mistral's own posts do not name sites or megawatts, and the Essonne campus and the 18,000 Grace Blackwell chip count from June 2025 launch coverage were not verified, so the accelerator entry stays generic. ASML's investment amount (reported as €1.3B) is not in Mistral's post. The 2026 status is a 1 GW target by 2030 with customer capacity commitments, not a disclosed operating capacity."
+  },
+  {
+    "slug": "groq",
+    "name": "Groq",
+    "aka": "GroqCloud",
+    "category": "platform",
+    "region": "North America",
+    "hq": "Mountain View, California, US",
+    "founded": "2016",
+    "ownership": "Private",
+    "website": "https://groq.com",
+    "accelerators": [
+      "Groq LPU",
+      "NVIDIA Groq 3 LPX",
+      "NVIDIA Vera Rubin NVL72"
+    ],
+    "products": [
+      "Inference API",
+      "Own silicon"
+    ],
+    "snippet": "Groq runs GroqCloud, an inference API on its own LPU chips. After licensing its technology to NVIDIA in December 2025, it raised $1B in 2026 and plans to grow from 54 MW to over 200 MW in 2027.",
+    "facts": [
+      {
+        "label": "NVIDIA licensing deal",
+        "value": "December 24, 2025, non-exclusive"
+      },
+      {
+        "label": "2026 funding",
+        "value": "$650M (June) and $350M (August)"
+      },
+      {
+        "label": "Valuation (Aug 2026)",
+        "value": "$3.5B"
+      },
+      {
+        "label": "Capacity",
+        "value": "54 MW, targeting 200+ MW in 2027"
+      },
+      {
+        "label": "Data centers",
+        "value": "13"
+      },
+      {
+        "label": "Developers",
+        "value": "About 6 million"
+      }
+    ],
+    "customers": [
+      "HUMAIN"
+    ],
+    "origin": "Jonathan Ross founded Groq in 2016 to build the Language Processing Unit, a chip designed for fast inference. Groq sold access to LPUs through the GroqCloud API and built clusters in the US, Saudi Arabia, Finland and Australia. In February 2025 Saudi Arabia announced a $1.5B commitment to expand Groq inference capacity, building on a Dammam cluster brought online in December 2024.",
+    "today": "In December 2025 Groq signed a non-exclusive licensing agreement with NVIDIA for its inference technology, and founder Jonathan Ross, president Sunny Madra and other staff joined NVIDIA. GroqCloud kept operating as an independent company. Groq raised $650M in June 2026 and a $350M Series A in August 2026 at a $3.5B valuation, led by Disruptive with planned NVIDIA participation. It runs 13 data centers across North America, Europe, the Middle East and Asia-Pacific with 54 MW of capacity and plans more than 200 MW in 2027. Groq became an NVIDIA Cloud Partner in August 2026.",
+    "platform": "GroqCloud sells token-based API access to open models running on Groq LPUs, and Groq says about 6 million developers use it. In August 2026 Groq said it is among the first to deploy NVIDIA Groq 3 LPX, an inference accelerator that extends Vera Rubin NVL72 systems, working with Dell. Groq also powers HUMAIN One, an enterprise AI operating system from Saudi Arabia's HUMAIN.",
+    "outlook": "Groq now deploys NVIDIA systems alongside its own LPUs, and its 2027 target of more than 200 MW needs new sites and power. Groq has changed chief executives since the NVIDIA deal, from Simon Edwards in December 2025 to Adam Winter by June 2026.",
+    "sources": [
+      {
+        "title": "Groq: Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale",
+        "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+        "date": "2025-12-24"
+      },
+      {
+        "title": "Groq: Groq Raises $650M to Scale Its AI Inference Cloud Business",
+        "url": "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Groq: Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud",
+        "url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Groq: Groq Becomes an NVIDIA Cloud Partner",
+        "url": "https://groq.com/newsroom/groq-becomes-an-nvidia-cloud-partner",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Groq: Groq Among the First to Bring NVIDIA Groq 3 LPX and Vera Rubin NVL72 to Market",
+        "url": "https://groq.com/blog/groq-among-the-first-to-bring-nvidia-groq-3-lpx-and-vera-rubin-nvl72-to-market",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Groq: GroqCloud: Expanding to Meet Demand",
+        "url": "https://groq.com/blog/groqcloud-expanding-to-meet-demand",
+        "date": "2026-02-16"
+      },
+      {
+        "title": "Groq: Saudi Arabia Announces $1.5 Billion Expansion to Fuel AI-powered Economy with AI Tech Leader Groq",
+        "url": "https://groq.com/newsroom/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-ai-tech-leader-groq",
+        "date": "2025-02-10"
+      },
+      {
+        "title": "Groq: Groq Powers HUMAIN One, a Real-Time AI Operating System for Enterprise",
+        "url": "https://groq.com/newsroom/groq-powers-humain-one--real-time-ai-operating-system-for-enterprise",
+        "date": "2025-10-28"
+      },
+      {
+        "title": "Groq: Groq Launches European Data Center Footprint in Helsinki, Finland",
+        "url": "https://groq.com/newsroom/groq-launches-european-data-center-footprint-in-helsinki-finland",
+        "date": "2025-07-06"
+      },
+      {
+        "title": "Groq: Groq Expands to Asia-Pacific with Sydney Data Center",
+        "url": "https://groq.com/newsroom/groq-expands-to-asia-pacific-with-sydney-data-center-to-power-the-next-generation-of-ai-inference",
+        "date": "2025-11-17"
+      }
+    ],
+    "confidence": "medium",
+    "editor_notes": "Seed called the NVIDIA deal a licensing and acqui-hire worth about $20B. Groq's release confirms licensing plus Ross and Madra joining NVIDIA but states no value, and the $20B press figure was not verified, so it is omitted. Groq's August 2026 release calls the $350M round a Series A even though it follows the $650M June raise. The Saudi data center is the Dammam cluster announced with Aramco leaders. HUMAIN is a platform customer (HUMAIN One), not the site owner as far as verified. HQ and founding year come from general knowledge."
+  }
+]

@@ -1,0 +1,276 @@
+{
+ "drop": [
+  "voltacloud",
+  "voltage-park",
+  "ori",
+  "moonlite",
+  "tatra-supercompute",
+  "darya-ai",
+  "massed-compute",
+  "atlas-cloud",
+  "genesis-cloud"
+ ],
+ "patch": {
+  "lambda": {
+   "snippet": "GPU cloud that grew out of a deep learning workstation business. Reuters reported a $35B Anthropic contract in September 2026, and Lambda is reportedly raising up to $4B before a planned 2027 IPO.",
+   "origin": "Stephen and Michael Balaban founded Lambda in 2012 as a facial recognition software company. It began selling GPU workstations and servers to machine learning researchers in 2017, then launched Lambda Cloud to rent NVIDIA GPUs by the hour, and cloud rental now provides most of its revenue. It has worked with Microsoft for more than eight years and now markets itself as the Superintelligence Cloud."
+  },
+  "sharon-ai": {
+   "website": "https://www.sharonai.com"
+  },
+  "iren": {
+   "category": "neocloud"
+  },
+  "core-scientific": {
+   "category": "developer"
+  },
+  "cipher-mining": {
+   "category": "developer"
+  },
+  "terawulf": {
+   "category": "developer"
+  },
+  "bitdeer": {
+   "category": "developer"
+  },
+  "northern-data": {
+   "name": "Quake AI",
+   "aka": "Northern Data Group (until June 2026), Taiga Cloud, Ardent Data Centers",
+   "snippet": "German GPU cloud with about 22,000 NVIDIA H100 and H200 GPUs, formerly Northern Data Group. Rumble bought it in June 2026 and renamed it Quake AI inside RUM Group."
+  }
+ },
+ "strip": {
+  "firmus": {
+   "outlook": [
+    "insider trading"
+   ]
+  },
+  "megaspeed": {
+   "today": [
+    "Implicator.ai"
+   ]
+  },
+  "atlas-cloud": {
+   "snippet": [
+    "20,000 GPUs in 2025"
+   ]
+  },
+  "vast-ai": {
+   "today": [
+    "123,000 customers"
+   ],
+   "origin": [
+    "Its stated aim is to spread access to compute"
+   ]
+  },
+  "hyperstack": {
+   "today": [
+    "£72M in revenue for 2023 to 2024"
+   ]
+  },
+  "scaleway": {
+   "origin": [
+    "Under the Scaleway name it moved into public cloud."
+   ]
+  },
+  "lightning-ai": {
+   "today": [
+    "The fund holds a large stake in the merged company."
+   ]
+  },
+  "genesis-cloud": {
+   "outlook": [
+    "Genesis Cloud no longer operates as an independent provider"
+   ]
+  },
+  "ibm-cloud": {
+   "platform": [
+    "IBM also offers spot pricing on selected GPUs."
+   ],
+   "today": [
+    "IBM does not publish GPU counts"
+   ]
+  },
+  "fireworks-ai": {
+   "outlook": [
+    "It does not disclose how many GPUs it runs"
+   ]
+  },
+  "shadeform": {
+   "outlook": [
+    "The company has not announced a priced funding round"
+   ]
+  },
+  "cudo-compute": {
+   "outlook": [
+    "Cudo is moving from a marketplace for spare capacity"
+   ]
+  },
+  "massed-compute": {
+   "outlook": [
+    "Massed Compute competes on posted hourly prices"
+   ]
+  },
+  "moonlite": {
+   "origin": [
+    "It does not publish its founders or funding."
+   ],
+   "outlook": [
+    "Moonlite has not announced funding"
+   ]
+  },
+  "nebul": {
+   "outlook": [
+    "Nebul has not published GPU counts"
+   ]
+  },
+  "sesterce": {
+   "outlook": [
+    "The company has not disclosed total financing"
+   ]
+  },
+  "tatra-supercompute": {
+   "today": [
+    "It names no site, power capacity"
+   ],
+   "outlook": [
+    "The website gives no timeline"
+   ]
+  },
+  "gmo-gpu-cloud": {
+   "outlook": [
+    "GMO has not disclosed how many GPUs"
+   ]
+  }
+ },
+ "drop_facts": {
+  "lambda": [
+   "Series E"
+  ],
+  "together-ai": [
+   "Series B (February 2025)"
+  ],
+  "mistral-ai": [
+   "Series C (Sept 2025)"
+  ],
+  "cipher-mining": [
+   "Google stake"
+  ],
+  "vultr": [
+   "Equity round (December 2024)",
+   "Credit financing (2025)"
+  ],
+  "runpod": [
+   "Seed round"
+  ],
+  "modal": [
+   "Prior valuation"
+  ],
+  "softbank-corp": [
+   "Fleet (July 2025)"
+  ],
+  "hyperstack": [
+   "Series A (April 2025)"
+  ],
+  "gcore": [
+   "Series A (July 2024)"
+  ],
+  "vast-ai": [
+   "GPUs listed",
+   "Providers",
+   "Customers",
+   "Compliance"
+  ],
+  "sf-compute": [
+   "Valuation",
+   "Employees",
+   "Earlier round"
+  ],
+  "mithril": [
+   "Funding",
+   "Valuation",
+   "Usage growth"
+  ],
+  "hyperbolic": [
+   "Series A",
+   "Total funding",
+   "Seed round"
+  ],
+  "fpt-ai-factory": [
+   "TOP500 (June 2025)"
+  ],
+  "nebul": [
+   "Recognition"
+  ],
+  "neysa": [
+   "Earlier funding"
+  ],
+  "stn": [
+   "GPU One cluster"
+  ],
+  "evroc": [
+   "Series A"
+  ],
+  "gmo-gpu-cloud": [
+   "TOP500 debut"
+  ],
+  "hetzner": [
+   "Revenue (2021)"
+  ],
+  "latitude-sh": [
+   "Servers (November 2025)",
+   "Customers (November 2025)"
+  ],
+  "atlas-cloud": [
+   "GPU fleet"
+  ],
+  "vessl-ai": [
+   "Series A"
+  ],
+  "byteplus": [
+   "Parent"
+  ],
+  "cudo-compute": [
+   "Countries with clusters"
+  ]
+ },
+ "replace": {
+  "runpod": [
+   [
+    "platform",
+    "Runpod sells capacity in two tiers. Secure Cloud is the premium tier, and Community Cloud is a lower-cost shared tier.",
+    "Runpod sells two tiers, a premium Secure Cloud and a lower-cost shared Community Cloud."
+   ]
+  ],
+  "latitude-sh": [
+   [
+    "origin",
+    "Latitude.sh grew out of Maxihost, a bare metal hosting provider whose domain now points to Latitude.sh. It built",
+    "Latitude.sh built"
+   ]
+  ],
+  "akamai": [
+   [
+    "origin",
+    "Akamai built one of the first large content delivery networks. It bought",
+    "Akamai, a content delivery network company, bought"
+   ]
+  ],
+  "vultr": [
+   [
+    "today",
+    " J.J. Kardwell is CEO.",
+    ""
+   ]
+  ]
+ },
+ "add_sources": {
+  "sharon-ai": [
+   {
+    "title": "SEC: Sharon AI announces Nasdaq listing and pricing of $125 million US IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626001479/sharonai_ex99-1.htm",
+    "date": "2026-02-18"
+   }
+  ]
+ }
+}
