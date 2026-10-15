@@ -63,28 +63,11 @@ window.NEOCLOUD_TIMELINE = [
   { type: 'market', date: '2017', slug: 'lambda', event: 'Lambda starts selling GPU workstations and servers for deep learning, five years after it began as a facial recognition software company.', url: 'https://lambda.ai/blog/lambda-raises-320m-to-build-a-gpu-cloud-for-ai' }
 ];
 
-// Market scale. Each row reads on its own terms, since the power
-// figures mix contracted, operating and targeted capacity.
-window.NEOCLOUD_SCALE = [
-  { src: 'cwq2 cwCall cwDebt', slug: 'coreweave', name: 'CoreWeave', power: '1.5 GW active, 4.2 GW contracted (August 2026)', contracts: '$104B backlog at June 30, 2026, plus more than $25B signed early in the third quarter', capital: 'Public (CRWV), $35.6B of debt' },
-  { src: 'crusoeF', slug: 'crusoe', name: 'Crusoe', power: 'About 1 GW operating, more than 6 GW gross contracted', contracts: 'More than $140B of total contracted value', capital: '$30.9B valuation (September 2026)' },
-  { src: 'nscaleIpo', slug: 'nscale', name: 'Nscale', power: 'About 1.37 GW active and contracted', contracts: '$103.4B of contracted value (August 2026), led by Microsoft', capital: 'US IPO filed September 2026' },
-  { src: 'nebius5gw nebiusMeta nebiusMsft nebiusStake', slug: 'nebius', name: 'Nebius', power: '5 GW contracted power target for the end of 2026', contracts: 'Meta up to $27B, Microsoft up to $19.4B, Reflection AI $1B', capital: 'Public (NBIS), NVIDIA holds 9.3%' },
-  { src: 'irenFy26 irenMsft irenNvidia', slug: 'iren', name: 'IREN', power: '480 MW gross targeted for 2026, 1.2 GW for 2027', contracts: 'Microsoft $9.7B, NVIDIA $3.4B, about $4B of contracted ARR', capital: 'Public (IREN)' },
-  { src: 'appliedQ1', slug: 'applied-digital', name: 'Applied Digital', power: '1.41 GW leased across five campuses', contracts: 'About $36B of base-term lease revenue, including about $11B from CoreWeave', capital: 'Public (APLD), $6.4B of debt' },
-  { src: 'hutBeacon hutRiver hutNotes', slug: 'hut-8', name: 'Hut 8', power: '949 MW of IT capacity leased (July 2026)', contracts: 'About $26.6B of base-term value at Beacon Point, Texas and River Bend, Louisiana', capital: 'Public (HUT), $4.25B of investment-grade notes' },
-  { src: 'firmus900 firmusRaise firmusIpo', slug: 'firmus', name: 'Firmus', power: 'More than 900 MW contracted', contracts: 'OpenAI and Meta as anchor customers', capital: 'Above $10.5B valuation, ASX listing withdrawn' },
-  { src: 'lambdaAnthropic lambdaDebt', slug: 'lambda', name: 'Lambda', power: 'About 350 MW for Anthropic (reported)', contracts: '$35B Anthropic agreement and about $50B backlog (both reported)', capital: '$2.93B of debt raised in 2026, 2027 IPO planned' },
-  { src: 'terawulf anthropic50 fluidstackA fluidstackTalks', slug: 'fluidstack', name: 'Fluidstack', power: 'About 360 MW leased at Lake Mariner, New York', contracts: 'Build partner for Anthropic’s $50B US program', capital: '$7.5B valuation (January 2026), talks at $18B reported' }
-];
-
-// Every source the guide's own text cites, keyed by a short name. The text
+// Every source the page's own text cites, keyed by a short name. The text
 // marks each claim with <sup class="cite" data-s="key ...">, and the page
-// numbers the citations and lists the sources at the end of each section.
+// numbers the citations and lists the sources at the end of the section.
 window.NEOCLOUD_SRC = {
-  playbook: { title: 'SemiAnalysis: AI Neocloud Playbook and Anatomy', url: 'https://newsletter.semianalysis.com/p/ai-neocloud-playbook-and-anatomy', date: '2024-10-03' },
   shortage: { title: 'SemiAnalysis: The Great GPU Shortage, rental capacity and the H100 one-year rental price index', url: 'https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity', date: '2026-04-02' },
-  siliconIndex: { title: 'Silicon Data: H100 Rental Price Index (SDH100RT)', url: 'https://www.silicondata.com/products/silicon-index/h100', date: '2026-10-14' },
   // Rate cards behind the Prices section. research/rate-cards-2026-10.json records the quoted text for each price.
   rcAws: { title: 'AWS: Amazon EC2 On-Demand pricing, p5 and p6 instances in US East (N. Virginia), read October 14, 2026', url: 'https://aws.amazon.com/ec2/pricing/on-demand/', date: '2026-10-14' },
   rcAwsSavings: { title: 'AWS: Savings Plans pricing for EC2, read October 14, 2026', url: 'https://aws.amazon.com/savingsplans/compute-pricing/', date: '2026-10-14' },
@@ -95,87 +78,12 @@ window.NEOCLOUD_SRC = {
   rcCoreweave: { title: 'CoreWeave: GPU pricing, read October 14, 2026', url: 'https://www.coreweave.com/pricing', date: '2026-10-14' },
   rcLambda: { title: 'Lambda: GPU pricing, read October 14, 2026', url: 'https://lambda.ai/pricing', date: '2026-10-14' },
   rcNebius: { title: 'Nebius: GPU pricing, read October 14, 2026', url: 'https://nebius.com/prices', date: '2026-10-14' },
-  rcCrusoe: { title: 'Crusoe: Cloud pricing, read October 14, 2026', url: 'https://www.crusoe.ai/cloud/pricing', date: '2026-10-14' },
   rcTogether: { title: 'Together AI: GPU cluster pricing, read October 14, 2026', url: 'https://www.together.ai/pricing', date: '2026-10-14' },
   rcHyperstack: { title: 'Hyperstack: GPU pricing, read October 14, 2026', url: 'https://www.hyperstack.cloud/gpu-pricing', date: '2026-10-14' },
   rcVerda: { title: 'Verda: GPU pricing, read October 14, 2026', url: 'https://verda.com/pricing', date: '2026-10-14' },
   rcRunpod: { title: 'Runpod: GPU pricing, read October 14, 2026', url: 'https://www.runpod.io/pricing', date: '2026-10-14' },
   rcDigitalocean: { title: 'DigitalOcean: GPU Droplet pricing, read October 14, 2026', url: 'https://www.digitalocean.com/pricing/gpu-droplets', date: '2026-10-14' },
-  fluidstackHome: { title: 'Fluidstack: Homepage, which sells through contracts and lists no prices', url: 'https://www.fluidstack.io/', date: '2026-10-13' },
-  nscaleHome: { title: 'Nscale: Homepage, which sells through contracts and lists no prices', url: 'https://nscale.com/', date: '2026-10-13' },
-  merge: { title: 'Ethereum.org: The Merge', url: 'https://ethereum.org/en/roadmap/merge/', date: '2022-09-15' },
-  s1: { title: 'SEC: CoreWeave Form S-1 registration statement', url: 'https://www.sec.gov/Archives/edgar/data/1769628/000119312525044231/d899798ds1.htm', date: '2025-03-03' },
-  chatgpt: { title: 'OpenAI: Introducing ChatGPT', url: 'https://openai.com/index/chatgpt/', date: '2022-11-30' },
-  tpu: { title: 'Google Cloud: TPU7x (Ironwood) documentation', url: 'https://docs.cloud.google.com/tpu/docs/tpu7x', date: '2026-10' },
-  trainium: { title: 'About Amazon: Trainium3 UltraServers now generally available', url: 'https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost', date: '2025-12' },
-  maia: { title: 'Microsoft: Maia 200, the AI accelerator built for inference', url: 'https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/', date: '2026-01-26' },
-  cw2023: { title: 'TechCrunch: CoreWeave lands $221M investment', url: 'https://techcrunch.com/2023/04/20/coreweave-a-gpu-focused-cloud-compute-provider-lands-221m-investment/', date: '2023-04-20' },
-  cwNvidia: { title: 'CNBC: Nvidia invests $2 billion in CoreWeave', url: 'https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html', date: '2026-01-26' },
-  nebiusNvidia: { title: 'SEC: Nebius 6-K, NVIDIA and Nebius partnership', url: 'https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_ex99-1.htm', date: '2026-03-11' },
-  nebiusStake: { title: 'The Motley Fool: Nvidia reveals it owns 9.3% of Nebius', url: 'https://www.fool.com/investing/2026/07/22/nvidia-just-revealed-it-owns-93-of-nebius-the-stoc/', date: '2026-07-22' },
-  cwMeta: { title: 'CoreWeave: CoreWeave and Meta announce $21 billion expanded AI infrastructure agreement', url: 'https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement', date: '2026-04-09' },
-  nebiusMeta: { title: 'SEC: Nebius 6-K, Meta agreement worth up to $27 billion', url: 'https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm', date: '2026-03-16' },
-  nebiusMsft: { title: 'SEC: Nebius 6-K, commercial agreement with Microsoft', url: 'https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm', date: '2025-09-08' },
-  nebius5gw: { title: 'The Motley Fool: Nebius raised its year-end power target to 5 gigawatts', url: 'https://www.fool.com/investing/2026/09/01/nebius-raised-its-year-end-power-target-from-more-than-3-gigawatts-to-5-in-6-months/', date: '2026-09-01' },
-  irenMsft: { title: 'GlobeNewswire: IREN secures $9.7bn AI cloud contract with Microsoft', url: 'https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/iren-secures-9-7bn-ai-cloud-contract-with-microsoft.html', date: '2025-11-03' },
-  irenNvidia: { title: 'Stock Titan: IREN secures $3.4bn AI cloud contract with NVIDIA', url: 'https://www.stocktitan.net/news/IREN/iren-secures-3-4bn-ai-cloud-contract-with-hh8a26euuqhs.html', date: '2026-05-07' },
-  irenFy26: { title: 'Stock Titan: IREN reports FY26 results', url: 'https://www.stocktitan.net/news/IREN/iren-reports-fy26-a3vxrdqeut11.html', date: '2026-08-27' },
-  cwq2: { title: 'CoreWeave: Second quarter 2026 results', url: 'https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx', date: '2026-08-11' },
-  cwCall: { title: 'Yahoo Finance: CoreWeave Q2 2026 earnings call highlights', url: 'https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-q2-2026-050033531.html', date: '2026-08' },
-  cwDebt: { title: 'The Register: CoreWeave revenue doubles as debt pile reaches $35.6B', url: 'https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832', date: '2026-08-12' },
-  cwDebt2023: { title: 'CoreWeave: CoreWeave secures $2.3 billion debt financing facility led by Magnetar Capital and Blackstone', url: 'https://www.coreweave.com/news/coreweave-secures-2-3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone-to-meet-surging-demand-and-ongoing-expansion-of-specialized-cloud-infrastructure-to-power-ai', date: '2023-08-03' },
-  tenk: { title: 'SEC: CoreWeave Form 10-K for fiscal year 2025', url: 'https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm', date: '2026-03-02' },
-  cwConvert: { title: 'SEC: CoreWeave convertible notes investor presentation', url: 'https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/crwv2026convertpresentat.htm', date: '2026-09-17' },
-  cwRubin: { title: 'CoreWeave: First bring-up and validation of NVIDIA Vera Rubin NVL72', url: 'https://www.coreweave.com/news/coreweave-completes-industry-first-bring-up-of-nvidia-vera-rubin-nvl72', date: '2026-06-01' },
-  cwIndonesia: { title: 'CoreWeave: CoreWeave expands to Indonesia, its first move into Asia-Pacific', url: 'https://www.coreweave.com/news/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region', date: '2026-08-04' },
-  depreciation: { title: 'SiliconANGLE: Resetting GPU depreciation, how AI factories bend useful life assumptions', url: 'https://siliconangle.com/2025/11/22/resetting-gpu-depreciation-ai-factories-bend-dont-break-useful-life-assumptions/', date: '2025-11-22' },
-  a100: { title: 'Tom’s Hardware: CoreWeave signs A100 contracts into 2029', url: 'https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029', date: '2026-08-12' },
-  nebiusLetter: { title: 'SEC: Nebius letter to shareholders, second quarter 2026', url: 'https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-2.htm', date: '2026-08-12' },
-  nebiusEigen: { title: 'Nebius: Nebius agrees to acquire Eigen AI', url: 'https://nebius.com/newsroom/nebius-agrees-to-acquire-eigen-ai-strengthening-nebius-token-factory-as-a-frontier-inference-platform', date: '2026-05-01' },
-  nebiusInferize: { title: 'Nebius: Nebius acquires Inferize', url: 'https://nebius.com/newsroom/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack', date: '2026-10-01' },
-  nebiusBethune: { title: 'DCD: Nebius plans 240MW data center in Bethune, France', url: 'https://www.datacenterdynamics.com/en/news/nebius-plans-240mw-data-center-in-b%C3%A9thune-france/', date: '2026-10' },
-  terawulf: { title: 'TeraWulf: Fluidstack expansion with Google backstop at Lake Mariner', url: 'https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner', date: '2025-08-18' },
-  hutRiver: { title: 'SEC: Hut 8 8-K, River Bend lease with Fluidstack', url: 'https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm', date: '2025-12-17' },
-  hutBeacon: { title: 'SEC: Hut 8 8-K, Beacon Point fully commercialized', url: 'https://www.sec.gov/Archives/edgar/data/1964789/000110465926084862/tm2620835d1_ex99-1.htm', date: '2026-07-20' },
-  hutNotes: { title: 'SEC: Hut 8 8-K, pricing of $4.25 billion of notes for Beacon Point', url: 'https://www.sec.gov/Archives/edgar/data/1964789/000110465926070744/tm2616926d1_ex99-1.htm', date: '2026-06' },
-  broadcom10q: { title: 'SEC: Broadcom 10-Q for the quarter ended August 2, 2026', url: 'https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/avgo-20260802.htm', date: '2026-09-10' },
-  broadcomTpu: { title: 'SEC: Broadcom 8-K, agreement with Google and expanded collaboration with Anthropic', url: 'https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/0001193125-26-144028-index.htm', date: '2026-04-06' },
-  tpuSell: { title: 'The Register: Google to sell its TPUs to some customers', url: 'https://www.theregister.com/2026/04/30/alphabet_google_q1_fy26/', date: '2026-04-30' },
-  blackstoneTpu: { title: 'Google: Blackstone and Google to develop a TPU cloud', url: 'https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/', date: '2026-05' },
-  crusoeF: { title: 'Crusoe: Crusoe raises $3.9 billion Series F', url: 'https://crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding', date: '2026-09-17' },
-  crusoeFt: { title: 'Crusoe: Serverless fine-tuning and self-serve inference deployments', url: 'https://www.crusoe.ai/resources/newsroom/crusoe-launches-serverless-fine-tuning-and-self-serve-inference-deployments', date: '2026-07-07' },
-  firmusRaise: { title: 'Firmus: Fully subscribed $2 billion strategic equity investment', url: 'https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific', date: '2026-08-07' },
-  firmus900: { title: 'Firmus: Firmus surpasses 900 MW contracted and adds OpenAI as an anchor customer', url: 'https://firmus.co/newsroom/firmus-surpasses-900-mw-contracted-capacity-adds-openai-as-anchor-customer-and-expands-into-malaysia', date: '2026-09-08' },
-  firmusIpo: { title: 'ABC News: Firmus pulls ASX float after lacklustre investor demand', url: 'https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230', date: '2026-10-09' },
-  nscaleIpo: { title: 'Nscale: Nscale files registration statement for proposed IPO', url: 'https://nscale.com/press-releases/nscale-files-initial-public-offering', date: '2026-09-18' },
-  redburn: { title: 'Yahoo Finance: Rothschild & Co Redburn starts neocloud coverage', url: 'https://finance.yahoo.com/markets/stocks/articles/rothschild-redburn-downgrades-nebius-coreweave-185619271.html', date: '2026-09-21' },
-  appliedQ1: { title: 'Applied Digital: Fiscal first quarter 2027 results', url: 'https://ir.applieddigital.com/news-events/press-releases/detail/163/applied-digital-reports-fiscal-first-quarter-2027-results', date: '2026-10-07' },
-  lambdaAnthropic: { title: 'DCD: Anthropic signs $35bn cloud agreement with Lambda, report', url: 'https://www.datacenterdynamics.com/en/news/anthropic-signs-35bn-cloud-agreement-with-lambda-report/', date: '2026-09' },
-  lambdaDebt: { title: 'Lambda: Lambda closes $1 billion senior secured fixed rate financing', url: 'https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing', date: '2026-10-01' },
-  fluidstackA: { title: 'Fluidstack: Fluidstack raised an $830M Series A', url: 'https://www.fluidstack.io/news/series-a-announcement', date: '2026-01' },
-  fluidstackTalks: { title: 'TechCrunch: Fluidstack in talks for $1B round at $18B valuation', url: 'https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/', date: '2026-04-14' },
-  anthropic50: { title: 'Anthropic: Anthropic invests $50 billion in American AI infrastructure', url: 'https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure', date: '2025-11-12' },
-  rubin: { title: 'NVIDIA: Inside the Vera Rubin platform', url: 'https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/', date: '2026-01-05' },
-  rubinSa: { title: 'SemiAnalysis: Vera Rubin, extreme co-design', url: 'https://newsletter.semianalysis.com/p/vera-rubin-extreme-co-design-an-evolution', date: '2026-02-25' },
-  mrc: { title: 'NVIDIA: Spectrum-X Ethernet, now with MRC', url: 'https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/', date: '2026-05-06' },
-  tensorwave: { title: 'TensorWave: AMD Helios rack-scale solution', url: 'https://tensorwave.com/blog/tensorwave-powers-frontier-ai-growth-for-cloud-customers-with-amd-helios-rackscale-solution', date: '2026-07-23' },
-  oracleMi450: { title: 'DCD: Oracle to deploy cluster of 50,000 AMD Instinct MI450 GPUs', url: 'https://www.datacenterdynamics.com/en/news/oracle-to-deploy-cluster-of-50000-amd-instinct-mi450-gpus/', date: '2025-10' },
-  oracleQ1: { title: 'The Motley Fool: Oracle Q1 fiscal 2027 earnings call transcript', url: 'https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/', date: '2026-09-11' },
-  nvsentinel: { title: 'GitHub: NVIDIA NVSentinel', url: 'https://github.com/NVIDIA/NVSentinel', date: '2025-10-17' },
-  wiz: { title: 'Wiz: NVIDIAScape, a critical container escape in the NVIDIA Container Toolkit (CVE-2025-23266)', url: 'https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape', date: '2025-07-17' },
-  spacex10gw: { title: 'SemiAnalysis: SpaceX 10GW in 2027 (inference revenue per GW)', url: 'https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real', date: '2026-08-07' },
-  nvKorea: { title: 'NVIDIA: NVIDIA, South Korea government and industrial giants build AI infrastructure', url: 'https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure', date: '2025-10-30' },
-  yottaAim: { title: 'Analytics India Magazine: Yotta’s 85,000-GPU bet is bigger than the IndiaAI Mission', url: 'https://analyticsindiamag.com/ai-startups/yottas-85000-gpu-bet-is-bigger-than-the-indiaai-mission', date: '2026-07-06' },
-  humainNv: { title: 'PR Newswire: HUMAIN expands strategic partnership with NVIDIA', url: 'https://www.prnewswire.com/news-releases/humain-expands-strategic-partnership-with-nvidia-advancing-global-ai-infrastructure-with-xai-global-ai-and-aws-at-the-us-saudi-investment-forum-302620854.html', date: '2025-11-19' },
-  nvFactory: { title: 'NVIDIA: What is an AI factory?', url: 'https://www.nvidia.com/en-us/glossary/ai-factory/', date: '2026-10-14' },
-  firmusMeta: { title: 'Firmus: Firmus and Meta announce strategic AI infrastructure agreements across Asia-Pacific', url: 'https://firmus.co/newsroom/firmus-and-meta-announce-strategic-ai-infrastructure-agreements-across-asia-pacific', date: '2026-09-29' },
-  apldFactory: { title: 'Applied Digital: Applied Digital signs 210 MW lease at Delta Forge 2, expanding its AI factory franchise model', url: 'https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2', date: '2026-06-08' },
-  telekomFactory: { title: 'NVIDIA Blog: Deutsche Telekom and NVIDIA launch Industrial AI Cloud', url: 'https://blogs.nvidia.com/blog/germany-industrial-ai-cloud-launch/', date: '2025-11-04' },
-  cnbcSmall: { title: 'CNBC: Anthropic and OpenAI hunt for smaller data center deals', url: 'https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html', date: '2026-09-18' }
 };
-
-// Kept for compatibility. The page now builds each section's list from its citations.
-window.NEOCLOUD_SECTION_SOURCES = {};
 
 // The supply network. Each provider's named customers become links from the
 // provider to the customer. Names that match a provider in the guide link to

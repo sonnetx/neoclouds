@@ -280,15 +280,6 @@ select.ctl-input {
     margin-top: 12px;
 }
 
-.more-row {
-    margin-top: 26px;
-    text-align: center;
-}
-
-.more-row.left {
-    text-align: left;
-}
-
 .legend {
     display: flex;
     flex-wrap: wrap;
@@ -856,7 +847,6 @@ details.tv summary {
     margin-bottom: 8px;
 }
 
-
 /* Providers: search, Filters and layout on one row, then the type pills and the count. */
 .dir-bar {
     display: flex;
@@ -976,14 +966,6 @@ a.card:hover {
     gap: 16px;
 }
 
-.card-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 10px;
-    margin-bottom: 2px;
-}
-
 .card-name {
     font-size: 20px;
     line-height: 1.3;
@@ -992,13 +974,6 @@ a.card:hover {
 
 a.card:hover .card-name {
     color: var(--link-color);
-}
-
-.card-type {
-    font-family: var(--sans);
-    font-size: 12px;
-    color: var(--faint);
-    white-space: nowrap;
 }
 
 .card-meta {
@@ -1089,60 +1064,6 @@ td:first-child {
     white-space: nowrap;
 }
 
-/* ---------- Guide sections ---------- */
-.guide-layout {
-    display: grid;
-    grid-template-columns: 170px minmax(0, 1fr);
-    gap: 48px;
-}
-
-.toc-wrap {
-    position: sticky;
-    top: 74px;
-    align-self: start;
-}
-
-.toc-label {
-    font-family: var(--sans);
-    font-size: 12px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    color: var(--faint);
-    margin-bottom: 12px;
-}
-
-.toc {
-    list-style: none;
-    font-family: var(--sans);
-    font-size: 14px;
-    line-height: 1.35;
-}
-
-.toc li {
-    margin-bottom: 2px;
-}
-
-.toc a {
-    display: block;
-    padding: 5px 0 5px 12px;
-    color: var(--muted);
-    border: none;
-    border-left: 2px solid transparent;
-}
-
-.toc a:hover {
-    color: var(--link-color);
-}
-
-.toc a.active {
-    color: var(--text-color);
-    border-left-color: var(--link-color);
-}
-
-.guide-section {
-    margin-bottom: 88px;
-}
-
 .sec-head {
     display: flex;
     align-items: baseline;
@@ -1183,29 +1104,6 @@ h3.sub {
     min-width: 0;
 }
 
-/* Fixed layout so the two compared columns get equal width. */
-table.compare {
-    table-layout: fixed;
-}
-
-table.compare thead td {
-    width: 20%;
-    border-bottom-color: #ccc;
-}
-
-table.compare thead th {
-    width: 40%;
-    color: var(--text-color);
-    font-size: 14px;
-    font-weight: 600;
-}
-
-table.compare th[scope="row"] {
-    color: var(--text-color);
-    font-size: 14px;
-    white-space: normal;
-}
-
 .prose p {
     font-size: 17px;
     line-height: 1.75;
@@ -1215,81 +1113,6 @@ table.compare th[scope="row"] {
 
 .prose p:last-child {
     margin-bottom: 0;
-}
-
-.terms {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-    gap: 30px 40px;
-}
-
-.term {
-    padding-top: 14px;
-    border-top: 2px solid var(--text-color);
-}
-
-.term h4 {
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 1.35;
-    margin-bottom: 6px;
-}
-
-.term p {
-    font-size: 15px;
-    line-height: 1.65;
-    color: #555;
-}
-
-.terms.compact .term {
-    border-top-width: 1px;
-    border-top-color: var(--border-color);
-}
-
-.terms.compact .term h4 {
-    font-size: 16px;
-}
-
-.product-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-    margin-top: 30px;
-}
-
-.product-grid .card h4 {
-    font-size: 20px;
-    font-weight: normal;
-    margin-bottom: 8px;
-}
-
-.product-grid .card p {
-    font-family: var(--sans);
-    font-size: 14px;
-    line-height: 1.55;
-    color: #555;
-}
-
-.product-grid .card .who {
-    margin-top: 12px;
-    padding-top: 10px;
-    border-top: 1px solid #eee;
-    color: var(--muted);
-    font-size: 13px;
-}
-
-ul.questions {
-    columns: 2;
-    column-gap: 56px;
-    padding-left: 20px;
-    font-size: 16px;
-    line-height: 1.65;
-    color: #555;
-}
-
-ul.questions li {
-    break-inside: avoid;
-    margin-bottom: 12px;
 }
 
 /* ---------- Price chart ---------- */
@@ -1553,8 +1376,32 @@ details.tv .table-wrap {
     font-size: 12px;
 }
 
-footer {
+/* About the data: how the profiles, links and prices are sourced. It shows under every view. */
+.about {
     margin-top: 64px;
+    padding-top: 22px;
+    border-top: 1px solid var(--border-color);
+    font-family: var(--sans);
+}
+
+.about h2 {
+    margin-bottom: 8px;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--faint);
+}
+
+.about p {
+    max-width: 80ch;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--muted);
+}
+
+footer {
+    margin-top: 32px;
     padding-top: 24px;
     border-top: 1px solid var(--border-color);
     text-align: center;
@@ -1631,11 +1478,9 @@ footer p + p {
     border-bottom-color: currentColor;
 }
 
-
 .net-wrap > *,
 .tl-wrap > *,
 .profile-grid > *,
-.guide-layout > *,
 .split > * {
     min-width: 0;
 }
@@ -1725,45 +1570,8 @@ footer p + p {
         letter-spacing: 0.3px;
     }
 
-    .guide-layout {
-        grid-template-columns: 1fr;
-        gap: 24px;
-    }
-
-    .toc-wrap {
-        position: static;
-    }
-
-    .toc-label {
-        display: none;
-    }
-
-    .toc {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-    }
-
-    .toc li {
-        margin: 0;
-    }
-
-    .toc a {
-        padding: 4px 10px;
-        border: 1px solid var(--border-color);
-        border-radius: 4px;
-    }
-
     .sec-head h2 {
         font-size: 27px;
-    }
-
-    .guide-section {
-        margin-bottom: 64px;
-    }
-
-    .product-grid {
-        grid-template-columns: 1fr;
     }
 
     .profile-grid {
@@ -1782,7 +1590,6 @@ footer p + p {
         font-size: 18px;
     }
 
-    ul.questions,
     ol.sources {
         columns: 1;
     }
@@ -1824,20 +1631,6 @@ footer p + p {
         gap: 4px 16px;
     }
 
-    table.compare thead td {
-        width: 28%;
-    }
-
-    table.compare thead th {
-        width: 36%;
-    }
-
-    table.compare th,
-    table.compare td {
-        padding-right: 10px;
-        font-size: 13px;
-    }
-
     .updated {
         font-size: 12px;
     }
@@ -1858,10 +1651,6 @@ footer p + p {
     .net-node:hover text,
     .net-node:focus-visible text {
         opacity: 1;
-    }
-
-    .terms {
-        grid-template-columns: 1fr;
     }
 
     ol.timeline li {

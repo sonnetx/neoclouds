@@ -1,13 +1,11 @@
 // The Neocloud Guide: views, supply network, timeline, directory, profiles
-// and price chart. Provider data lives in providers.js. The timeline, scale
-// table, section sources and network settings live in background.js.
+// and price chart. Provider data lives in providers.js. The timeline, price
+// sources and network settings live in background.js.
 (function () {
   'use strict';
 
   var PROVIDERS = window.NEOCLOUD_PROVIDERS || [];
   var TIMELINE = window.NEOCLOUD_TIMELINE || [];
-  var SCALE = window.NEOCLOUD_SCALE || [];
-  var SECTION_SOURCES = window.NEOCLOUD_SECTION_SOURCES || {};
   var NETCFG = window.NEOCLOUD_NETWORK || { aliases: {}, skip: [], labels: {}, minBuyerLinks: 2 };
 
   var CATEGORIES = [
@@ -1119,28 +1117,17 @@
   }
 
   // =====================================================================
-  // Scale table and section sources
+  // Section sources
   // =====================================================================
   function renderStatic() {
-    var st = document.querySelector('#scale-table tbody');
-    if (st) {
-      st.innerHTML = SCALE.map(function (r) {
-        var name = BY_SLUG[r.slug] ? '<a href="#/' + esc(r.slug) + '">' + esc(r.name) + '</a>' : esc(r.name);
-        return '<tr><td>' + name + '</td><td>' + esc(r.power) + '</td><td>' + esc(r.contracts) +
-          (r.src ? '<sup class="cite" data-s="' + esc(r.src) + '"></sup>' : '') + '</td><td>' + esc(r.capital) + '</td></tr>';
-      }).join('');
-    }
-    ['definition', 'origins', 'financing', 'comparing', 'market', 'watch', 'risks'].forEach(function (id) {
-      var host = document.getElementById(id);
-      if (host) wireCitations(host, id);
-    });
     wireCitations($('view-prices'), 'prices', $('pricing-sources'));
   }
 
   // =====================================================================
   // Views and routing
   // =====================================================================
-  var GUIDE_IDS = ['guide', 'definition', 'origins', 'financing', 'comparing', 'market', 'watch', 'risks', 'glossary', 'method'];
+  // The long-form Guide tab was retired in October 2026. Its old anchors fall through to the
+  // network, and #method scrolls to the About the data note at the foot of the page.
   var VIEW_FOR = { '': 'network', network: 'network', providers: 'directory', timeline: 'timeline', prices: 'prices', pricing: 'prices' };
   var current = null, dirScroll = 0, defaultTitle = document.title, pendingNet = null;
   var tabs = Array.prototype.slice.call(document.querySelectorAll('#tabs a'));
@@ -1150,7 +1137,7 @@
     if (m && BY_SLUG[m[1]]) return { view: 'provider', slug: m[1] };
     var id = hash.replace(/^#/, '');
     if (VIEW_FOR.hasOwnProperty(id)) return { view: VIEW_FOR[id] };
-    if (GUIDE_IDS.indexOf(id) > -1) return { view: 'guide', anchor: id === 'guide' ? null : id };
+    if (id === 'method') return { view: current || 'network', anchor: 'method' };
     return { view: 'network' };
   }
 
@@ -1206,21 +1193,6 @@
     var a = e.target.closest('[data-net]');
     if (a) pendingNet = a.getAttribute('data-net');
   });
-
-  // Contents highlight inside the Guide view.
-  var tocLinks = Array.prototype.slice.call(document.querySelectorAll('.toc a'));
-  if ('IntersectionObserver' in window) {
-    var vis = {};
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) { vis[e.target.id] = e.isIntersecting; });
-      var first = tocLinks.filter(function (a) { return vis[a.getAttribute('href').slice(1)]; })[0];
-      tocLinks.forEach(function (a) { a.classList.toggle('active', a === first); });
-    }, { rootMargin: '-90px 0px -55% 0px' });
-    tocLinks.forEach(function (a) {
-      var s = document.getElementById(a.getAttribute('href').slice(1));
-      if (s) io.observe(s);
-    });
-  }
 
   renderDirectory();
   renderPriceChart();

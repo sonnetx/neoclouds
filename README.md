@@ -26,10 +26,10 @@ python3 scripts/match_sources.py             # match each sentence to its source
 
 | Path | Holds |
 |---|---|
-| `index.html`, `guide.js`, `guide.css` | The page: network, directory, timeline, prices, guide text and profiles |
+| `index.html`, `guide.js`, `guide.css` | The page: network, directory, timeline, prices, profiles and the About the data note |
 | `providers.js` | Generated provider profiles. Never edit by hand |
 | `citations.js` | Generated sentence-to-source matches for each profile |
-| `background.js` | Timeline events, scale table, section sources and network settings, including buyer websites |
+| `background.js` | Timeline events, the rate cards the Prices section cites, and network settings, including buyer websites |
 | `logos/`, `logos.js` | One 128px icon per company and the list of available icons |
 | `research/` | Researched profiles as JSON, one file per batch, and `SPEC.md`, the brief and style rules researchers follow |
 | `overrides/` | Corrections layered on the research: patches, removals, added sources and pinned citations |

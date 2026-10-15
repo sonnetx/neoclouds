@@ -121,6 +121,20 @@ async def main():
 
         await page.goto(base + '#network')
         check(not await page.evaluate("document.getElementById('hero').hidden"), 'the introduction shows on the Network view')
+
+        # The Guide tab is gone. Its old links open the network instead of a blank page,
+        # and the method link lands on the About the data note.
+        tabs = await page.evaluate("[...document.querySelectorAll('#tabs a')].map(a => a.textContent.trim())")
+        check(tabs == ['Network', 'Providers', 'Timeline', 'Prices'], 'the tabs are Network, Providers, Timeline and Prices (got %s)' % tabs)
+        for old in ('#guide', '#comparing', '#glossary'):
+            await page.goto(base + old)
+            await page.wait_for_timeout(300)
+            shown = await page.evaluate("[...document.querySelectorAll('.view')].filter(v => !v.hidden).map(v => v.id)")
+            check(shown == ['view-network'], 'old link %s opens the network (got %s)' % (old, shown))
+        await page.goto(base + '#method')
+        await page.wait_for_timeout(400)
+        about = await page.evaluate("(() => { const r = document.getElementById('method').getBoundingClientRect(); return r.top < innerHeight && r.bottom > 0; })()")
+        check(about, 'the method link scrolls to About the data')
         check(not errors, 'interactions run without script errors %s' % (errors or ''))
         await browser.close()
     httpd.shutdown()
